@@ -9,10 +9,17 @@ org_raw <- load_org(2021:2022) |>
   filter(my_wage > 0) |>
   mutate(month_date = ym(paste(year, month)))
 
-max_date <- org |>
+max_date <- org_raw |>
   summarize(max(month_date)) |>
   pull()
 min_date <- max_date - months(11)
+
+tipped_occs <- c(
+  4040,4055,4110,4130,4400,4500,4510,4521,4522,4525
+)
+tipped_inds <- c(
+  8580,8590,8660,8670,8680,8690,8970,8980,8990,9090
+)
 
 state_follows_fed_min <- c("AL", "GA", "ID", "IN", "IA", "KS", "KY", "LA", "MS", "NH", "NC", "ND", "OK", "PA", "SC", "TN", "TX", "UT", "WI", "WY")
 
@@ -52,13 +59,30 @@ org_clean <- org_raw %>%
   mutate(above_fedmw = labelled(above_fedmw, c(
     "State minimum exceeds federal minimum" = 1,
     "State minimum follows federal minimum" = 0
+  ))) %>% 
+  mutate(tipped = case_when(
+    occ18 %in% tipped_occs ~ 1,
+    occ18 == 4120 & ind17 %in% tipped_inds ~ 1,
+    TRUE ~ 0
+  )) %>% 
+  mutate(tipped = labelled(tipped, c(
+    "Works in a tipped occupation" = 1,
+    "Works in a non-tipped occupation" = 0
+  ))) %>% 
+  mutate(public = case_when(
+    cow1 >= 1 & cow1 <= 3 ~ 1,
+    cow1 >= 4 & cow1 <= 5 ~ 0
+  )) %>% 
+  mutate(public = labelled(public, c(
+    "Government employee" = 1,
+    "Private-sector employee" = 0
   )))
 
 create_slice <- function(threshold) {
   org_clean |>
     mutate(low_wage = my_wage < threshold) |>
     summarize_groups(
-      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region, 
+      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public, 
       low_wage_share = weighted.mean(low_wage, w = orgwgt),
       low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000)*1000
     ) |>
@@ -93,7 +117,9 @@ results <- map_dfr(15:25, create_slice) |>
     category_group == "new_educ" ~ "Education",
     category_group == "new_age" ~ "Age group",
     category_group == "above_fedmw" ~ "State minimum wage",
-    category_group == "region" ~ "Region"
+    category_group == "region" ~ "Region",
+    category_group == "tipped" ~ "Tipped occupation",
+    category_group == "public" ~ "Private/public sector"
   )) |>
   arrange(low_wage_threshold, desc(priority), category_group, category) 
 

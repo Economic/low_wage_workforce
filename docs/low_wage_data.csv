@@ -18,12 +18,16 @@ Less than high school diploma,Education,42,15,4484000,December 2021 through Nove
 Some college,Education,17,15,6189000,December 2021 through November 2022,0
 Works full-time,Part-time status,11,15,12712000,December 2021 through November 2022,0
 Works part-time,Part-time status,39,15,8401000,December 2021 through November 2022,0
+Government employee,Private/public sector,10,15,2122000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,16,15,18991000,December 2021 through November 2022,0
 Midwest,Region,15,15,4661000,December 2021 through November 2022,0
 Northeast,Region,12,15,3017000,December 2021 through November 2022,0
 South,Region,19,15,10022000,December 2021 through November 2022,0
 West,Region,10,15,3413000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,13,15,11345000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,19,15,9768000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,14,15,19371000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,42,15,1743000,December 2021 through November 2022,0
 In a union,Union status,6,15,1029000,December 2021 through November 2022,0
 Not in a union,Union status,16,15,20084000,December 2021 through November 2022,0
 All workers,All workers,21,16,29934000,December 2021 through November 2022,100
@@ -45,12 +49,16 @@ Less than high school diploma,Education,54,16,5820000,December 2021 through Nove
 Some college,Education,25,16,8951000,December 2021 through November 2022,0
 Works full-time,Part-time status,16,16,18705000,December 2021 through November 2022,0
 Works part-time,Part-time status,52,16,11229000,December 2021 through November 2022,0
+Government employee,Private/public sector,14,16,2996000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,22,16,26938000,December 2021 through November 2022,0
 Midwest,Region,21,16,6492000,December 2021 through November 2022,0
 Northeast,Region,18,16,4546000,December 2021 through November 2022,0
 South,Region,25,16,13327000,December 2021 through November 2022,0
 West,Region,17,16,5570000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,19,16,16914000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,25,16,13019000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,20,16,27726000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,53,16,2208000,December 2021 through November 2022,0
 In a union,Union status,10,16,1620000,December 2021 through November 2022,0
 Not in a union,Union status,23,16,28314000,December 2021 through November 2022,0
 All workers,All workers,26,17,35963000,December 2021 through November 2022,100
@@ -72,12 +80,16 @@ Less than high school diploma,Education,61,17,6573000,December 2021 through Nove
 Some college,Education,30,17,10870000,December 2021 through November 2022,0
 Works full-time,Part-time status,20,17,23386000,December 2021 through November 2022,0
 Works part-time,Part-time status,59,17,12577000,December 2021 through November 2022,0
+Government employee,Private/public sector,17,17,3607000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,27,17,32355000,December 2021 through November 2022,0
 Midwest,Region,26,17,7771000,December 2021 through November 2022,0
 Northeast,Region,22,17,5482000,December 2021 through November 2022,0
 South,Region,29,17,15588000,December 2021 through November 2022,0
 West,Region,22,17,7122000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,23,17,20703000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,29,17,15259000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,24,17,33466000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,60,17,2497000,December 2021 through November 2022,0
 In a union,Union status,13,17,2104000,December 2021 through November 2022,0
 Not in a union,Union status,27,17,33858000,December 2021 through November 2022,0
 All workers,All workers,29,18,41530000,December 2021 through November 2022,100
@@ -99,12 +111,16 @@ Less than high school diploma,Education,67,18,7150000,December 2021 through Nove
 Some college,Education,35,18,12729000,December 2021 through November 2022,0
 Works full-time,Part-time status,23,18,27993000,December 2021 through November 2022,0
 Works part-time,Part-time status,63,18,13538000,December 2021 through November 2022,0
+Government employee,Private/public sector,20,18,4274000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,31,18,37257000,December 2021 through November 2022,0
 Midwest,Region,30,18,8944000,December 2021 through November 2022,0
 Northeast,Region,26,18,6392000,December 2021 through November 2022,0
 South,Region,33,18,17688000,December 2021 through November 2022,0
 West,Region,26,18,8507000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,27,18,24177000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,33,18,17353000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,28,18,38847000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,64,18,2684000,December 2021 through November 2022,0
 In a union,Union status,16,18,2579000,December 2021 through November 2022,0
 Not in a union,Union status,31,18,38951000,December 2021 through November 2022,0
 All workers,All workers,34,19,47389000,December 2021 through November 2022,100
@@ -126,12 +142,16 @@ Less than high school diploma,Education,72,19,7676000,December 2021 through Nove
 Some college,Education,40,19,14596000,December 2021 through November 2022,0
 Works full-time,Part-time status,28,19,33008000,December 2021 through November 2022,0
 Works part-time,Part-time status,67,19,14381000,December 2021 through November 2022,0
+Government employee,Private/public sector,24,19,4986000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,35,19,42402000,December 2021 through November 2022,0
 Midwest,Region,34,19,10258000,December 2021 through November 2022,0
 Northeast,Region,30,19,7355000,December 2021 through November 2022,0
 South,Region,38,19,19857000,December 2021 through November 2022,0
 West,Region,30,19,9919000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,31,19,27805000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,37,19,19584000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,33,19,44536000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,68,19,2852000,December 2021 through November 2022,0
 In a union,Union status,19,19,3112000,December 2021 through November 2022,0
 Not in a union,Union status,35,19,44277000,December 2021 through November 2022,0
 All workers,All workers,37,20,51852000,December 2021 through November 2022,100
@@ -153,12 +173,16 @@ Less than high school diploma,Education,75,20,8019000,December 2021 through Nove
 Some college,Education,44,20,15933000,December 2021 through November 2022,0
 Works full-time,Part-time status,31,20,36987000,December 2021 through November 2022,0
 Works part-time,Part-time status,69,20,14865000,December 2021 through November 2022,0
+Government employee,Private/public sector,27,20,5658000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,39,20,46194000,December 2021 through November 2022,0
 Midwest,Region,37,20,11268000,December 2021 through November 2022,0
 Northeast,Region,33,20,8132000,December 2021 through November 2022,0
 South,Region,41,20,21548000,December 2021 through November 2022,0
 West,Region,33,20,10904000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,34,20,30513000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,41,20,21339000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,36,20,48867000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,71,20,2985000,December 2021 through November 2022,0
 In a union,Union status,22,20,3578000,December 2021 through November 2022,0
 Not in a union,Union status,39,20,48274000,December 2021 through November 2022,0
 All workers,All workers,41,21,58216000,December 2021 through November 2022,100
@@ -180,12 +204,16 @@ Less than high school diploma,Education,80,21,8606000,December 2021 through Nove
 Some college,Education,49,21,17838000,December 2021 through November 2022,0
 Works full-time,Part-time status,35,21,42360000,December 2021 through November 2022,0
 Works part-time,Part-time status,74,21,15856000,December 2021 through November 2022,0
+Government employee,Private/public sector,30,21,6447000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,43,21,51770000,December 2021 through November 2022,0
 Midwest,Region,42,21,12708000,December 2021 through November 2022,0
 Northeast,Region,37,21,9177000,December 2021 through November 2022,0
 South,Region,45,21,23864000,December 2021 through November 2022,0
 West,Region,38,21,12467000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,39,21,34479000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,45,21,23737000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,40,21,55055000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,76,21,3162000,December 2021 through November 2022,0
 In a union,Union status,26,21,4177000,December 2021 through November 2022,0
 Not in a union,Union status,43,21,54040000,December 2021 through November 2022,0
 All workers,All workers,44,22,62231000,December 2021 through November 2022,100
@@ -207,12 +235,16 @@ Less than high school diploma,Education,82,22,8799000,December 2021 through Nove
 Some college,Education,52,22,19089000,December 2021 through November 2022,0
 Works full-time,Part-time status,39,22,46062000,December 2021 through November 2022,0
 Works part-time,Part-time status,75,22,16169000,December 2021 through November 2022,0
+Government employee,Private/public sector,33,22,7053000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,46,22,55178000,December 2021 through November 2022,0
 Midwest,Region,45,22,13653000,December 2021 through November 2022,0
 Northeast,Region,40,22,9776000,December 2021 through November 2022,0
 South,Region,48,22,25381000,December 2021 through November 2022,0
 West,Region,41,22,13421000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,42,22,36983000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,48,22,25248000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,43,22,58988000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,77,22,3244000,December 2021 through November 2022,0
 In a union,Union status,29,22,4655000,December 2021 through November 2022,0
 Not in a union,Union status,46,22,57576000,December 2021 through November 2022,0
 All workers,All workers,47,23,65960000,December 2021 through November 2022,100
@@ -234,12 +266,16 @@ Less than high school diploma,Education,84,23,9049000,December 2021 through Nove
 Some college,Education,56,23,20281000,December 2021 through November 2022,0
 Works full-time,Part-time status,41,23,49418000,December 2021 through November 2022,0
 Works part-time,Part-time status,77,23,16543000,December 2021 through November 2022,0
+Government employee,Private/public sector,36,23,7620000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,49,23,58340000,December 2021 through November 2022,0
 Midwest,Region,48,23,14521000,December 2021 through November 2022,0
 Northeast,Region,42,23,10355000,December 2021 through November 2022,0
 South,Region,51,23,26773000,December 2021 through November 2022,0
 West,Region,43,23,14311000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,44,23,39279000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,51,23,26681000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,46,23,62624000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,80,23,3336000,December 2021 through November 2022,0
 In a union,Union status,32,23,5136000,December 2021 through November 2022,0
 Not in a union,Union status,49,23,60825000,December 2021 through November 2022,0
 All workers,All workers,49,24,69188000,December 2021 through November 2022,100
@@ -261,12 +297,16 @@ Less than high school diploma,Education,86,24,9205000,December 2021 through Nove
 Some college,Education,58,24,21302000,December 2021 through November 2022,0
 Works full-time,Part-time status,44,24,52384000,December 2021 through November 2022,0
 Works part-time,Part-time status,78,24,16804000,December 2021 through November 2022,0
+Government employee,Private/public sector,39,24,8192000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,51,24,60995000,December 2021 through November 2022,0
 Midwest,Region,50,24,15263000,December 2021 through November 2022,0
 Northeast,Region,44,24,10829000,December 2021 through November 2022,0
 South,Region,53,24,27994000,December 2021 through November 2022,0
 West,Region,46,24,15102000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,47,24,41240000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,53,24,27947000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,48,24,65794000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,81,24,3394000,December 2021 through November 2022,0
 In a union,Union status,35,24,5589000,December 2021 through November 2022,0
 Not in a union,Union status,51,24,63599000,December 2021 through November 2022,0
 All workers,All workers,52,25,72783000,December 2021 through November 2022,100
@@ -288,11 +328,15 @@ Less than high school diploma,Education,87,25,9359000,December 2021 through Nove
 Some college,Education,61,25,22336000,December 2021 through November 2022,0
 Works full-time,Part-time status,47,25,55752000,December 2021 through November 2022,0
 Works part-time,Part-time status,79,25,17031000,December 2021 through November 2022,0
+Government employee,Private/public sector,42,25,8833000,December 2021 through November 2022,0
+Private-sector employee,Private/public sector,53,25,63950000,December 2021 through November 2022,0
 Midwest,Region,53,25,16080000,December 2021 through November 2022,0
 Northeast,Region,46,25,11441000,December 2021 through November 2022,0
 South,Region,56,25,29403000,December 2021 through November 2022,0
 West,Region,48,25,15859000,December 2021 through November 2022,0
 State minimum exceeds federal minimum,State minimum wage,49,25,43436000,December 2021 through November 2022,0
 State minimum follows federal minimum,State minimum wage,56,25,29347000,December 2021 through November 2022,0
+Works in a non-tipped occupation,Tipped occupation,51,25,69317000,December 2021 through November 2022,0
+Works in a tipped occupation,Tipped occupation,83,25,3466000,December 2021 through November 2022,0
 In a union,Union status,38,25,6065000,December 2021 through November 2022,0
 Not in a union,Union status,53,25,66718000,December 2021 through November 2022,0
