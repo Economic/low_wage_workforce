@@ -141,6 +141,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <meta property="og:site-name" content="How many low-wage workers are there?">
 <meta property="og:image:height" content="630">
 <meta property="og:image:width" content="1200">
+<meta name="twitter:title" content="How many low-wage workers are there? - How many low-wage workers are in the US?">
+<meta name="twitter:description" content="Source: Analysis by Ben Zipperer of the Economic Policy Institute Current Population Survey extracts, December 2021 through November 2022. Wages include overtime, tips, and commissions.">
+<meta name="twitter:image" content="https://economic.github.io/low_wage_workforce/open_card.png">
+<meta name="twitter:image-height" content="630">
+<meta name="twitter:image-width" content="1200">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="fullcontent">
@@ -175,30 +181,30 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </div>
 <div>
-<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="45" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 44;"><span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>viewof category <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">select</span>(categories<span class="op">,</span> {<span class="dt">value</span><span class="op">:</span> <span class="st">"All Workers"</span><span class="op">,</span> <span class="dt">label</span><span class="op">:</span> <span class="st">"Category"</span>})</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>viewof threshold <span class="op">=</span> {</span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> slider <span class="op">=</span> d3<span class="op">.</span><span class="fu">sliderBottom</span>()</span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">min</span>(d3<span class="op">.</span><span class="fu">min</span>(thresholds))</span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">max</span>(d3<span class="op">.</span><span class="fu">max</span>(thresholds))</span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">marks</span>(thresholds)</span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">width</span>(<span class="dv">280</span>)</span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">tickFormat</span>(d3<span class="op">.</span><span class="fu">format</span>(<span class="st">"$,d"</span>))</span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">tickValues</span>(thresholds)</span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">on</span>(<span class="st">"onchange"</span><span class="op">,</span> () <span class="kw">=&gt;</span> svg<span class="op">.</span><span class="fu">dispatch</span>(<span class="st">"input"</span>))<span class="op">;</span></span>
-<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> svg <span class="op">=</span> d3<span class="op">.</span><span class="fu">create</span>(<span class="st">"svg"</span>)</span>
-<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">attr</span>(<span class="st">"viewBox"</span><span class="op">,</span> [<span class="op">-</span><span class="dv">20</span><span class="op">,</span> <span class="op">-</span><span class="dv">20</span><span class="op">,</span> <span class="dv">320</span><span class="op">,</span> <span class="dv">60</span>])</span>
-<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">attr</span>(<span class="st">"width"</span><span class="op">,</span> <span class="dv">320</span>)</span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">attr</span>(<span class="st">"height"</span><span class="op">,</span> <span class="dv">60</span>)</span>
-<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">call</span>(slider)<span class="op">;</span></span>
-<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> <span class="bu">Object</span><span class="op">.</span><span class="fu">defineProperty</span>(</span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a>    svg<span class="op">.</span><span class="fu">node</span>()<span class="op">,</span> </span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a>    <span class="st">"value"</span><span class="op">,</span> </span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a>    {<span class="dt">get</span><span class="op">:</span> () <span class="kw">=&gt;</span> slider<span class="op">.</span><span class="fu">value</span>()}</span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>  )<span class="op">;</span></span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="47" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 46;"><span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>viewof category <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">select</span>(categories<span class="op">,</span> {<span class="dt">value</span><span class="op">:</span> <span class="st">"All Workers"</span><span class="op">,</span> <span class="dt">label</span><span class="op">:</span> <span class="st">"Category"</span>})</span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>viewof threshold <span class="op">=</span> {</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> slider <span class="op">=</span> d3<span class="op">.</span><span class="fu">sliderBottom</span>()</span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">min</span>(d3<span class="op">.</span><span class="fu">min</span>(thresholds))</span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">max</span>(d3<span class="op">.</span><span class="fu">max</span>(thresholds))</span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">marks</span>(thresholds)</span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">width</span>(<span class="dv">280</span>)</span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">tickFormat</span>(d3<span class="op">.</span><span class="fu">format</span>(<span class="st">"$,d"</span>))</span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">tickValues</span>(thresholds)</span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">on</span>(<span class="st">"onchange"</span><span class="op">,</span> () <span class="kw">=&gt;</span> svg<span class="op">.</span><span class="fu">dispatch</span>(<span class="st">"input"</span>))<span class="op">;</span></span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> svg <span class="op">=</span> d3<span class="op">.</span><span class="fu">create</span>(<span class="st">"svg"</span>)</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">attr</span>(<span class="st">"viewBox"</span><span class="op">,</span> [<span class="op">-</span><span class="dv">20</span><span class="op">,</span> <span class="op">-</span><span class="dv">20</span><span class="op">,</span> <span class="dv">320</span><span class="op">,</span> <span class="dv">60</span>])</span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">attr</span>(<span class="st">"width"</span><span class="op">,</span> <span class="dv">320</span>)</span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">attr</span>(<span class="st">"height"</span><span class="op">,</span> <span class="dv">60</span>)</span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>      <span class="op">.</span><span class="fu">call</span>(slider)<span class="op">;</span></span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> <span class="bu">Object</span><span class="op">.</span><span class="fu">defineProperty</span>(</span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a>    svg<span class="op">.</span><span class="fu">node</span>()<span class="op">,</span> </span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>    <span class="st">"value"</span><span class="op">,</span> </span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a>    {<span class="dt">get</span><span class="op">:</span> () <span class="kw">=&gt;</span> slider<span class="op">.</span><span class="fu">value</span>()}</span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a>  )<span class="op">;</span></span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell panel-input card bg-light p-2 quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="cell-output cell-output-display quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -219,26 +225,26 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 </div>
 <div class="cell" data-include="false">
-<div class="sourceCode cell-code hidden" id="cb2" data-startfrom="74" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 73;"><span id="cb2-74"><a href="#cb2-74" aria-hidden="true" tabindex="-1"></a>low_wage_data <span class="op">=</span> <span class="fu">transpose</span>(low_wage_data_r)</span>
-<span id="cb2-75"><a href="#cb2-75" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-76"><a href="#cb2-76" aria-hidden="true" tabindex="-1"></a>overall_count <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">find</span>(x <span class="kw">=&gt;</span> x<span class="op">.</span><span class="at">low_wage_threshold</span> <span class="op">==</span> threshold <span class="op">&amp;</span> x<span class="op">.</span><span class="at">category_group</span> <span class="op">==</span> <span class="st">"All workers"</span>)<span class="op">.</span><span class="at">count</span></span>
+<div class="sourceCode cell-code hidden" id="cb2" data-startfrom="76" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 75;"><span id="cb2-76"><a href="#cb2-76" aria-hidden="true" tabindex="-1"></a>low_wage_data <span class="op">=</span> <span class="fu">transpose</span>(low_wage_data_r)</span>
 <span id="cb2-77"><a href="#cb2-77" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-78"><a href="#cb2-78" aria-hidden="true" tabindex="-1"></a>overall_count_formatted <span class="op">=</span> d3<span class="op">.</span><span class="fu">format</span>(<span class="st">".0f"</span>)(overall_count <span class="op">/</span> <span class="dv">10</span><span class="op">**</span><span class="dv">6</span>)</span>
+<span id="cb2-78"><a href="#cb2-78" aria-hidden="true" tabindex="-1"></a>overall_count <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">find</span>(x <span class="kw">=&gt;</span> x<span class="op">.</span><span class="at">low_wage_threshold</span> <span class="op">==</span> threshold <span class="op">&amp;</span> x<span class="op">.</span><span class="at">category_group</span> <span class="op">==</span> <span class="st">"All workers"</span>)<span class="op">.</span><span class="at">count</span></span>
 <span id="cb2-79"><a href="#cb2-79" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-80"><a href="#cb2-80" aria-hidden="true" tabindex="-1"></a>thresholds <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">low_wage_threshold</span>))]</span>
+<span id="cb2-80"><a href="#cb2-80" aria-hidden="true" tabindex="-1"></a>overall_count_formatted <span class="op">=</span> d3<span class="op">.</span><span class="fu">format</span>(<span class="st">".0f"</span>)(overall_count <span class="op">/</span> <span class="dv">10</span><span class="op">**</span><span class="dv">6</span>)</span>
 <span id="cb2-81"><a href="#cb2-81" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-82"><a href="#cb2-82" aria-hidden="true" tabindex="-1"></a>categories <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">category_group</span>))]</span>
+<span id="cb2-82"><a href="#cb2-82" aria-hidden="true" tabindex="-1"></a>thresholds <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">low_wage_threshold</span>))]</span>
 <span id="cb2-83"><a href="#cb2-83" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-84"><a href="#cb2-84" aria-hidden="true" tabindex="-1"></a>d3 <span class="op">=</span> require<span class="op">.</span><span class="fu">alias</span>({</span>
-<span id="cb2-85"><a href="#cb2-85" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-drag"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
-<span id="cb2-86"><a href="#cb2-86" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-ease"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
-<span id="cb2-87"><a href="#cb2-87" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-selection"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
-<span id="cb2-88"><a href="#cb2-88" aria-hidden="true" tabindex="-1"></a>})(<span class="st">"d3@7"</span><span class="op">,</span> <span class="st">"d3-simple-slider"</span>)</span>
-<span id="cb2-89"><a href="#cb2-89" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-90"><a href="#cb2-90" aria-hidden="true" tabindex="-1"></a>low_wage_filtered <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">filter</span>(d <span class="kw">=&gt;</span> d<span class="op">.</span><span class="at">low_wage_threshold</span> <span class="op">==</span> threshold <span class="op">&amp;</span> d<span class="op">.</span><span class="at">category_group</span> <span class="op">==</span> category)</span>
+<span id="cb2-84"><a href="#cb2-84" aria-hidden="true" tabindex="-1"></a>categories <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">category_group</span>))]</span>
+<span id="cb2-85"><a href="#cb2-85" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-86"><a href="#cb2-86" aria-hidden="true" tabindex="-1"></a>d3 <span class="op">=</span> require<span class="op">.</span><span class="fu">alias</span>({</span>
+<span id="cb2-87"><a href="#cb2-87" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-drag"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
+<span id="cb2-88"><a href="#cb2-88" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-ease"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
+<span id="cb2-89"><a href="#cb2-89" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-selection"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
+<span id="cb2-90"><a href="#cb2-90" aria-hidden="true" tabindex="-1"></a>})(<span class="st">"d3@7"</span><span class="op">,</span> <span class="st">"d3-simple-slider"</span>)</span>
 <span id="cb2-91"><a href="#cb2-91" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-92"><a href="#cb2-92" aria-hidden="true" tabindex="-1"></a><span class="co">// Update table data when filtered data changes</span></span>
-<span id="cb2-93"><a href="#cb2-93" aria-hidden="true" tabindex="-1"></a>Reactable<span class="op">.</span><span class="fu">setData</span>(<span class="st">'tbl'</span><span class="op">,</span> low_wage_filtered)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb2-92"><a href="#cb2-92" aria-hidden="true" tabindex="-1"></a>low_wage_filtered <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">filter</span>(d <span class="kw">=&gt;</span> d<span class="op">.</span><span class="at">low_wage_threshold</span> <span class="op">==</span> threshold <span class="op">&amp;</span> d<span class="op">.</span><span class="at">category_group</span> <span class="op">==</span> category)</span>
+<span id="cb2-93"><a href="#cb2-93" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-94"><a href="#cb2-94" aria-hidden="true" tabindex="-1"></a><span class="co">// Update table data when filtered data changes</span></span>
+<span id="cb2-95"><a href="#cb2-95" aria-hidden="true" tabindex="-1"></a>Reactable<span class="op">.</span><span class="fu">setData</span>(<span class="st">'tbl'</span><span class="op">,</span> low_wage_filtered)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display hidden">
 <div>
 <div id="ojs-cell-2-1" data-nodetype="declaration">
