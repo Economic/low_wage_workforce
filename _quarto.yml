@@ -1,5 +1,5 @@
 project:
-  title: "low_wage_workforce"
+  title: "How many low-wage workers are there?"
   type: website
   output-dir: docs
 website:
