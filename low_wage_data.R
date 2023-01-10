@@ -76,13 +76,27 @@ org_clean <- org_raw %>%
   mutate(public = labelled(public, c(
     "Government employee" = 1,
     "Private-sector employee" = 0
+  ))) %>% 
+  mutate(new_faminc = case_when(
+    faminc >= 1 & faminc <= 7 ~ 1,
+    faminc >= 8 & faminc <= 11 ~ 2,
+    faminc == 12 ~ 3,
+    faminc == 13 ~ 4,
+    faminc >= 14 ~ 5
+  )) %>% 
+  mutate(new_faminc = labelled(new_faminc, c(
+    "Family income  $24,999 or less" = 1,
+    "Family income  $25,000 - $49,999" = 2,
+    "Family income  $50,000 - $74,999" = 3,
+    "Family income  $75,000 - $99,999" = 4,
+    "Family income $100,000 or more" = 5
   )))
 
 create_slice <- function(threshold) {
   org_clean |>
     mutate(low_wage = my_wage < threshold) |>
     summarize_groups(
-      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public, 
+      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc, 
       low_wage_share = weighted.mean(low_wage, w = orgwgt),
       low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000)*1000
     ) |>
@@ -119,7 +133,8 @@ results <- map_dfr(15:25, create_slice) |>
     category_group == "above_fedmw" ~ "State minimum wage",
     category_group == "region" ~ "Region",
     category_group == "tipped" ~ "Tipped occupation",
-    category_group == "public" ~ "Private/public sector"
+    category_group == "public" ~ "Private/public sector",
+    category_group == "new_faminc" ~ "Annual family income"
   )) |>
   arrange(low_wage_threshold, desc(priority), category_group, category) 
 
