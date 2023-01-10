@@ -1,0 +1,178 @@
+---
+output: html_document
+format:
+  html:
+    theme: cosmo
+    echo: false
+---
+```{r}
+#| warning: FALSE
+library(tidyverse)
+library(reactable)
+library(htmlwidgets)
+
+
+get_share_color <- function(share) {
+  my_pal <- function(x) rgb(colorRamp(c("#f58a61", "#d4214a"))(x), maxColorValue = 255)
+  normalized <- (share - min(share)) / (max(share) - min(share))
+  my_pal(normalized)
+}
+
+low_wage_data <- read_csv("low_wage_data.csv") %>% 
+  select(
+    category, 
+    category_group, 
+    share = low_wage_share, 
+    count = low_wage_count,
+    low_wage_threshold,
+    dates
+  ) %>% 
+  mutate(share_color = get_share_color(share))
+
+data_dates <- low_wage_data |> 
+  filter(row_number() == 1) |> 
+  pull(dates)
+
+ojs_define(low_wage_data_r = low_wage_data)
+```
+
+# How many low-wage workers are in the US?
+```{ojs}
+//| panel: input
+//| layout-ncol: 2
+viewof category = Inputs.select(categories, {value: "All Workers", label: "Category"})
+
+viewof threshold = {
+  const slider = d3.sliderBottom()
+      .min(d3.min(thresholds))
+      .max(d3.max(thresholds))
+      .marks(thresholds)
+      .width(280)
+      .tickFormat(d3.format("$,d"))
+      .tickValues(thresholds)
+      .on("onchange", () => svg.dispatch("input"));
+
+  const svg = d3.create("svg")
+      .attr("viewBox", [-20, -20, 320, 60])
+      .attr("width", 320)
+      .attr("height", 60)
+      .call(slider);
+
+  return Object.defineProperty(
+    svg.node(), 
+    "value", 
+    {get: () => slider.value()}
+  );
+}
+
+```
+
+```{ojs}
+//| include: false
+low_wage_data = transpose(low_wage_data_r)
+
+overall_count = low_wage_data.find(x => x.low_wage_threshold == threshold & x.category_group == "All workers").count
+
+overall_count_formatted = d3.format(".0f")(overall_count / 10**6)
+
+thresholds = [...new Set(low_wage_data.map((item) => item.low_wage_threshold))]
+
+categories = [...new Set(low_wage_data.map((item) => item.category_group))]
+
+d3 = require.alias({
+  "d3-drag": "d3@7",
+  "d3-ease": "d3@7",
+  "d3-selection": "d3@7",
+})("d3@7", "d3-simple-slider")
+
+low_wage_filtered = low_wage_data.filter(d => d.low_wage_threshold == threshold & d.category_group == category)
+
+// Update table data when filtered data changes
+Reactable.setData('tbl', low_wage_filtered)
+```
+
+```{js table_js, echo=FALSE}
+// Custom JavaScript cell renderer for the donut
+function renderShare(cellInfo) {
+  return donutChart(cellInfo.value, cellInfo.row['share_color'])
+}
+
+// Generates HTML for a donut chart given a percentage value (out of 100) and color
+function donutChart(value, color) {
+  // All units are in rem for relative scaling
+  const radius = 3.5
+  const diameter = 9.75
+  const center = diameter / 2
+  const width = 2.5
+  const sliceLength = 2 * Math.PI * radius
+  const sliceOffset = sliceLength * (1 - value / 100)
+  const donutChart = `
+    <svg width="${diameter}rem" height="${diameter}rem" style="transform: rotate(-90deg)" focusable="false">
+      <circle cx="${center}rem" cy="${center}rem" r="${radius}rem" fill="none" stroke-width="${width}rem" stroke="rgba(0,0,0,0.1)"></circle>
+      <circle cx="${center}rem" cy="${center}rem" r="${radius}rem" fill="none" stroke-width="${width}rem" stroke="${color}"
+       stroke-dasharray="${sliceLength}rem" stroke-dashoffset="${sliceOffset}rem"></circle>
+    </svg>
+  `
+  const label = `
+    <div style="position: absolute; top: 49%; left: 52%; transform: translate(-50%, -50%)">
+      ${value}%
+    </div>
+  `
+  return `
+    <div style="display: inline-flex; position: relative">
+      ${donutChart}
+      ${label}
+    </div>
+  `
+}
+```
+
+## \${overall_count_formatted} million workers are paid less than $\${threshold} per hour
+```{r}
+reactable(
+  low_wage_data,
+  defaultColDef = colDef(vAlign = "center", headerClass = "header"),
+  columns = list(
+    category = colDef(
+      name = "Group of workers",
+      align = "center",
+      minWidth = 150
+    ),
+    share = colDef(
+      name = "Share under<br/>wage threshold",
+      defaultSortOrder = "desc",
+      cell = JS("renderShare"),
+      html = TRUE,
+      align = "center",
+      class = "user-score",
+      minWidth = 200
+    ),
+    count = colDef(
+      name = "Number under<br/>wage threshold",
+      html = TRUE,
+      align = "center",
+      minWidth = 200,
+      format = colFormat(separators = TRUE)
+    ),
+    category_group = colDef(show = FALSE),
+    dates = colDef(show = FALSE),
+    share_color = colDef(show = FALSE),
+    low_wage_threshold = colDef(show = FALSE),
+    dates = colDef(show=FALSE)
+  ),
+  highlight = TRUE,
+  theme = reactableTheme(
+    highlightColor = "#f3fafb",
+    borderColor = "hsl(0, 0%, 93%)",
+    headerStyle = list(borderColor = "hsl(0, 0%, 90%)"),
+    cellStyle = list(display = "flex", flexDirection = "column", justifyContent = "center")
+  ),
+  elementId = "tbl",
+  class = "movies-tbl",
+  width = "auto",
+  pagination = FALSE
+)
+```
+
+---
+Source: Analysis by [Ben Zipperer](https://www.epi.org/people/ben-zipperer/) of the Economic Policy Institute Current Population Survey [extracts](https://microdata.epi.org/), `r data_dates`. Wages include overtime, tips, and commissions. Download the [data](low_wage_data.csv) shown in the figure above or the [code](https://github.com/Economic/under15) that produces it.
