@@ -2,8 +2,11 @@
 output: html_document
 format:
   html:
-    theme: cosmo
     echo: false
+title: "How many low-wage workers are in the US?"
+open-graph:
+  image: open_card.png
+
 ---
 ```{r}
 #| warning: FALSE
@@ -36,7 +39,6 @@ data_dates <- low_wage_data |>
 ojs_define(low_wage_data_r = low_wage_data)
 ```
 
-# How many low-wage workers are in the US?
 ```{ojs}
 //| panel: input
 //| layout-ncol: 2

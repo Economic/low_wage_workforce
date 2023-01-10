@@ -1,5 +1,13 @@
 project:
   title: "low_wage_workforce"
+  type: website
   output-dir: docs
-
-
+website:
+  site-url: "https://economic.github.io/low_wage_workforce"
+  image: open_card.png
+  open-graph: true
+resources: 
+  - "open_card.png"
+format:
+  html:
+    theme: cosmo
