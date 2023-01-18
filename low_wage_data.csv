@@ -21,6 +21,29 @@ College or advanced degree,Education,5,15,3042000,December 2021 through November
 High school diploma,Education,20,15,7399000,December 2021 through November 2022,0
 Less than high school diploma,Education,42,15,4484000,December 2021 through November 2022,0
 Some college,Education,17,15,6189000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,29,15,377000,December 2021 through November 2022,0
+Construction,Industry,10,15,885000,December 2021 through November 2022,0
+Educational and health services,Industry,13,15,4471000,December 2021 through November 2022,0
+Financial activities,Industry,7,15,635000,December 2021 through November 2022,0
+Information,Industry,9,15,219000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,37,15,4651000,December 2021 through November 2022,0
+Manufacturing,Industry,8,15,1121000,December 2021 through November 2022,0
+Mining,Industry,5,15,30000,December 2021 through November 2022,0
+Other services,Industry,22,15,1313000,December 2021 through November 2022,0
+Professional and business services,Industry,10,15,1701000,December 2021 through November 2022,0
+Public administration,Industry,7,15,541000,December 2021 through November 2022,0
+Transportation and utilities,Industry,11,15,1008000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,23,15,4163000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,11,15,738000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,37,15,326000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,9,15,375000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,4,15,1045000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,15,15,2345000,December 2021 through November 2022,0
+Production occupations,Occupation,13,15,1002000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,7,15,2340000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,26,15,3138000,December 2021 through November 2022,0
+Service occupations,Occupation,34,15,7762000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,19,15,2044000,December 2021 through November 2022,0
 Works full-time,Part-time status,11,15,12712000,December 2021 through November 2022,0
 Works part-time,Part-time status,39,15,8401000,December 2021 through November 2022,0
 Government employee,Private/public sector,10,15,2122000,December 2021 through November 2022,0
@@ -57,6 +80,29 @@ College or advanced degree,Education,8,16,4406000,December 2021 through November
 High school diploma,Education,29,16,10756000,December 2021 through November 2022,0
 Less than high school diploma,Education,54,16,5820000,December 2021 through November 2022,0
 Some college,Education,25,16,8951000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,43,16,544000,December 2021 through November 2022,0
+Construction,Industry,15,16,1390000,December 2021 through November 2022,0
+Educational and health services,Industry,19,16,6310000,December 2021 through November 2022,0
+Financial activities,Industry,10,16,962000,December 2021 through November 2022,0
+Information,Industry,13,16,313000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,48,16,6049000,December 2021 through November 2022,0
+Manufacturing,Industry,12,16,1807000,December 2021 through November 2022,0
+Mining,Industry,9,16,48000,December 2021 through November 2022,0
+Other services,Industry,29,16,1737000,December 2021 through November 2022,0
+Professional and business services,Industry,15,16,2482000,December 2021 through November 2022,0
+Public administration,Industry,11,16,805000,December 2021 through November 2022,0
+Transportation and utilities,Industry,17,16,1549000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,33,16,5938000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,17,16,1175000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,52,16,467000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,12,16,539000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,6,16,1453000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,23,16,3628000,December 2021 through November 2022,0
+Production occupations,Occupation,20,16,1605000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,9,16,3311000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,35,16,4213000,December 2021 through November 2022,0
+Service occupations,Occupation,45,16,10379000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,29,16,3164000,December 2021 through November 2022,0
 Works full-time,Part-time status,16,16,18705000,December 2021 through November 2022,0
 Works part-time,Part-time status,52,16,11229000,December 2021 through November 2022,0
 Government employee,Private/public sector,14,16,2996000,December 2021 through November 2022,0
@@ -93,6 +139,29 @@ College or advanced degree,Education,9,17,5412000,December 2021 through November
 High school diploma,Education,36,17,13108000,December 2021 through November 2022,0
 Less than high school diploma,Education,61,17,6573000,December 2021 through November 2022,0
 Some college,Education,30,17,10870000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,51,17,653000,December 2021 through November 2022,0
+Construction,Industry,19,17,1670000,December 2021 through November 2022,0
+Educational and health services,Industry,22,17,7536000,December 2021 through November 2022,0
+Financial activities,Industry,13,17,1209000,December 2021 through November 2022,0
+Information,Industry,16,17,389000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,55,17,6915000,December 2021 through November 2022,0
+Manufacturing,Industry,16,17,2403000,December 2021 through November 2022,0
+Mining,Industry,10,17,56000,December 2021 through November 2022,0
+Other services,Industry,35,17,2045000,December 2021 through November 2022,0
+Professional and business services,Industry,18,17,3021000,December 2021 through November 2022,0
+Public administration,Industry,14,17,1035000,December 2021 through November 2022,0
+Transportation and utilities,Industry,22,17,1984000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,39,17,7047000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,21,17,1396000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,63,17,565000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,16,17,691000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,7,17,1783000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,29,17,4535000,December 2021 through November 2022,0
+Production occupations,Occupation,27,17,2092000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,11,17,4075000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,40,17,4853000,December 2021 through November 2022,0
+Service occupations,Occupation,52,17,12034000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,36,17,3939000,December 2021 through November 2022,0
 Works full-time,Part-time status,20,17,23386000,December 2021 through November 2022,0
 Works part-time,Part-time status,59,17,12577000,December 2021 through November 2022,0
 Government employee,Private/public sector,17,17,3607000,December 2021 through November 2022,0
@@ -129,6 +198,29 @@ College or advanced degree,Education,11,18,6512000,December 2021 through Novembe
 High school diploma,Education,41,18,15139000,December 2021 through November 2022,0
 Less than high school diploma,Education,67,18,7150000,December 2021 through November 2022,0
 Some college,Education,35,18,12729000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,55,18,708000,December 2021 through November 2022,0
+Construction,Industry,22,18,1980000,December 2021 through November 2022,0
+Educational and health services,Industry,26,18,8859000,December 2021 through November 2022,0
+Financial activities,Industry,15,18,1449000,December 2021 through November 2022,0
+Information,Industry,18,18,448000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,60,18,7531000,December 2021 through November 2022,0
+Manufacturing,Industry,20,18,2993000,December 2021 through November 2022,0
+Mining,Industry,13,18,70000,December 2021 through November 2022,0
+Other services,Industry,39,18,2299000,December 2021 through November 2022,0
+Professional and business services,Industry,21,18,3512000,December 2021 through November 2022,0
+Public administration,Industry,16,18,1233000,December 2021 through November 2022,0
+Transportation and utilities,Industry,27,18,2393000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,45,18,8055000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,24,18,1663000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,68,18,603000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,19,18,835000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,9,18,2176000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,35,18,5437000,December 2021 through November 2022,0
+Production occupations,Occupation,33,18,2615000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,14,18,4807000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,44,18,5370000,December 2021 through November 2022,0
+Service occupations,Occupation,58,18,13379000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,43,18,4645000,December 2021 through November 2022,0
 Works full-time,Part-time status,23,18,27993000,December 2021 through November 2022,0
 Works part-time,Part-time status,63,18,13538000,December 2021 through November 2022,0
 Government employee,Private/public sector,20,18,4274000,December 2021 through November 2022,0
@@ -165,6 +257,29 @@ College or advanced degree,Education,13,19,7682000,December 2021 through Novembe
 High school diploma,Education,48,19,17435000,December 2021 through November 2022,0
 Less than high school diploma,Education,72,19,7676000,December 2021 through November 2022,0
 Some college,Education,40,19,14596000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,61,19,783000,December 2021 through November 2022,0
+Construction,Industry,27,19,2439000,December 2021 through November 2022,0
+Educational and health services,Industry,30,19,10144000,December 2021 through November 2022,0
+Financial activities,Industry,18,19,1734000,December 2021 through November 2022,0
+Information,Industry,21,19,513000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,65,19,8106000,December 2021 through November 2022,0
+Manufacturing,Industry,25,19,3689000,December 2021 through November 2022,0
+Mining,Industry,15,19,83000,December 2021 through November 2022,0
+Other services,Industry,43,19,2558000,December 2021 through November 2022,0
+Professional and business services,Industry,24,19,4054000,December 2021 through November 2022,0
+Public administration,Industry,19,19,1456000,December 2021 through November 2022,0
+Transportation and utilities,Industry,32,19,2869000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,50,19,8960000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,30,19,2050000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,74,19,657000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,24,19,1041000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,11,19,2624000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,41,19,6461000,December 2021 through November 2022,0
+Production occupations,Occupation,40,19,3114000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,16,19,5584000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,48,19,5839000,December 2021 through November 2022,0
+Service occupations,Occupation,64,19,14642000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,50,19,5377000,December 2021 through November 2022,0
 Works full-time,Part-time status,28,19,33008000,December 2021 through November 2022,0
 Works part-time,Part-time status,67,19,14381000,December 2021 through November 2022,0
 Government employee,Private/public sector,24,19,4986000,December 2021 through November 2022,0
@@ -201,6 +316,29 @@ College or advanced degree,Education,16,20,9012000,December 2021 through Novembe
 High school diploma,Education,52,20,18888000,December 2021 through November 2022,0
 Less than high school diploma,Education,75,20,8019000,December 2021 through November 2022,0
 Some college,Education,44,20,15933000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,64,20,824000,December 2021 through November 2022,0
+Construction,Industry,30,20,2707000,December 2021 through November 2022,0
+Educational and health services,Industry,33,20,11240000,December 2021 through November 2022,0
+Financial activities,Industry,22,20,2055000,December 2021 through November 2022,0
+Information,Industry,23,20,562000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,68,20,8498000,December 2021 through November 2022,0
+Manufacturing,Industry,28,20,4196000,December 2021 through November 2022,0
+Mining,Industry,17,20,96000,December 2021 through November 2022,0
+Other services,Industry,46,20,2744000,December 2021 through November 2022,0
+Professional and business services,Industry,26,20,4468000,December 2021 through November 2022,0
+Public administration,Industry,22,20,1694000,December 2021 through November 2022,0
+Transportation and utilities,Industry,36,20,3193000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,54,20,9574000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,33,20,2276000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,76,20,680000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,27,20,1164000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,13,20,3171000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,46,20,7225000,December 2021 through November 2022,0
+Production occupations,Occupation,44,20,3426000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,18,20,6434000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,51,20,6209000,December 2021 through November 2022,0
+Service occupations,Occupation,67,20,15427000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,54,20,5840000,December 2021 through November 2022,0
 Works full-time,Part-time status,31,20,36987000,December 2021 through November 2022,0
 Works part-time,Part-time status,69,20,14865000,December 2021 through November 2022,0
 Government employee,Private/public sector,27,20,5658000,December 2021 through November 2022,0
@@ -237,6 +375,29 @@ College or advanced degree,Education,19,21,10684000,December 2021 through Novemb
 High school diploma,Education,58,21,21089000,December 2021 through November 2022,0
 Less than high school diploma,Education,80,21,8606000,December 2021 through November 2022,0
 Some college,Education,49,21,17838000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,70,21,895000,December 2021 through November 2022,0
+Construction,Industry,37,21,3328000,December 2021 through November 2022,0
+Educational and health services,Industry,37,21,12608000,December 2021 through November 2022,0
+Financial activities,Industry,26,21,2402000,December 2021 through November 2022,0
+Information,Industry,27,21,663000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,72,21,9037000,December 2021 through November 2022,0
+Manufacturing,Industry,34,21,4944000,December 2021 through November 2022,0
+Mining,Industry,23,21,125000,December 2021 through November 2022,0
+Other services,Industry,51,21,3044000,December 2021 through November 2022,0
+Professional and business services,Industry,30,21,5092000,December 2021 through November 2022,0
+Public administration,Industry,26,21,1962000,December 2021 through November 2022,0
+Transportation and utilities,Industry,42,21,3708000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,58,21,10410000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,41,21,2800000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,82,21,736000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,32,21,1406000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,16,21,3764000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,53,21,8263000,December 2021 through November 2022,0
+Production occupations,Occupation,51,21,3978000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,21,21,7537000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,55,21,6661000,December 2021 through November 2022,0
+Service occupations,Occupation,72,21,16527000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,60,21,6545000,December 2021 through November 2022,0
 Works full-time,Part-time status,35,21,42360000,December 2021 through November 2022,0
 Works part-time,Part-time status,74,21,15856000,December 2021 through November 2022,0
 Government employee,Private/public sector,30,21,6447000,December 2021 through November 2022,0
@@ -273,6 +434,29 @@ College or advanced degree,Education,21,22,11944000,December 2021 through Novemb
 High school diploma,Education,61,22,22400000,December 2021 through November 2022,0
 Less than high school diploma,Education,82,22,8799000,December 2021 through November 2022,0
 Some college,Education,52,22,19089000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,72,22,926000,December 2021 through November 2022,0
+Construction,Industry,40,22,3620000,December 2021 through November 2022,0
+Educational and health services,Industry,40,22,13654000,December 2021 through November 2022,0
+Financial activities,Industry,28,22,2648000,December 2021 through November 2022,0
+Information,Industry,29,22,719000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,74,22,9312000,December 2021 through November 2022,0
+Manufacturing,Industry,37,22,5395000,December 2021 through November 2022,0
+Mining,Industry,26,22,141000,December 2021 through November 2022,0
+Other services,Industry,55,22,3241000,December 2021 through November 2022,0
+Professional and business services,Industry,32,22,5472000,December 2021 through November 2022,0
+Public administration,Industry,28,22,2142000,December 2021 through November 2022,0
+Transportation and utilities,Industry,45,22,4000000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,61,22,10961000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,45,22,3040000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,84,22,752000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,36,22,1558000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,18,22,4289000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,57,22,8929000,December 2021 through November 2022,0
+Production occupations,Occupation,54,22,4261000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,23,22,8347000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,57,22,7008000,December 2021 through November 2022,0
+Service occupations,Occupation,75,22,17143000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,64,22,6905000,December 2021 through November 2022,0
 Works full-time,Part-time status,39,22,46062000,December 2021 through November 2022,0
 Works part-time,Part-time status,75,22,16169000,December 2021 through November 2022,0
 Government employee,Private/public sector,33,22,7053000,December 2021 through November 2022,0
@@ -309,6 +493,29 @@ College or advanced degree,Education,23,23,13024000,December 2021 through Novemb
 High school diploma,Education,65,23,23606000,December 2021 through November 2022,0
 Less than high school diploma,Education,84,23,9049000,December 2021 through November 2022,0
 Some college,Education,56,23,20281000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,75,23,953000,December 2021 through November 2022,0
+Construction,Industry,44,23,3932000,December 2021 through November 2022,0
+Educational and health services,Industry,43,23,14522000,December 2021 through November 2022,0
+Financial activities,Industry,31,23,2875000,December 2021 through November 2022,0
+Information,Industry,31,23,765000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,77,23,9587000,December 2021 through November 2022,0
+Manufacturing,Industry,40,23,5885000,December 2021 through November 2022,0
+Mining,Industry,28,23,154000,December 2021 through November 2022,0
+Other services,Industry,58,23,3411000,December 2021 through November 2022,0
+Professional and business services,Industry,34,23,5808000,December 2021 through November 2022,0
+Public administration,Industry,31,23,2335000,December 2021 through November 2022,0
+Transportation and utilities,Industry,49,23,4341000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,64,23,11391000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,49,23,3321000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,86,23,768000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,39,23,1712000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,20,23,4685000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,61,23,9503000,December 2021 through November 2022,0
+Production occupations,Occupation,58,23,4572000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,26,23,9077000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,60,23,7259000,December 2021 through November 2022,0
+Service occupations,Occupation,77,23,17722000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,68,23,7341000,December 2021 through November 2022,0
 Works full-time,Part-time status,41,23,49418000,December 2021 through November 2022,0
 Works part-time,Part-time status,77,23,16543000,December 2021 through November 2022,0
 Government employee,Private/public sector,36,23,7620000,December 2021 through November 2022,0
@@ -345,6 +552,29 @@ College or advanced degree,Education,25,24,14079000,December 2021 through Novemb
 High school diploma,Education,67,24,24601000,December 2021 through November 2022,0
 Less than high school diploma,Education,86,24,9205000,December 2021 through November 2022,0
 Some college,Education,58,24,21302000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,76,24,975000,December 2021 through November 2022,0
+Construction,Industry,46,24,4164000,December 2021 through November 2022,0
+Educational and health services,Industry,45,24,15347000,December 2021 through November 2022,0
+Financial activities,Industry,33,24,3099000,December 2021 through November 2022,0
+Information,Industry,32,24,799000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,78,24,9787000,December 2021 through November 2022,0
+Manufacturing,Industry,43,24,6304000,December 2021 through November 2022,0
+Mining,Industry,31,24,168000,December 2021 through November 2022,0
+Other services,Industry,60,24,3550000,December 2021 through November 2022,0
+Professional and business services,Industry,36,24,6109000,December 2021 through November 2022,0
+Public administration,Industry,33,24,2537000,December 2021 through November 2022,0
+Transportation and utilities,Industry,52,24,4581000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,66,24,11768000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,51,24,3495000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,87,24,777000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,42,24,1820000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,22,24,5168000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,64,24,10034000,December 2021 through November 2022,0
+Production occupations,Occupation,62,24,4867000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,28,24,9810000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,62,24,7499000,December 2021 through November 2022,0
+Service occupations,Occupation,79,24,18121000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,70,24,7595000,December 2021 through November 2022,0
 Works full-time,Part-time status,44,24,52384000,December 2021 through November 2022,0
 Works part-time,Part-time status,78,24,16804000,December 2021 through November 2022,0
 Government employee,Private/public sector,39,24,8192000,December 2021 through November 2022,0
@@ -381,6 +611,29 @@ College or advanced degree,Education,27,25,15541000,December 2021 through Novemb
 High school diploma,Education,70,25,25547000,December 2021 through November 2022,0
 Less than high school diploma,Education,87,25,9359000,December 2021 through November 2022,0
 Some college,Education,61,25,22336000,December 2021 through November 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,78,25,996000,December 2021 through November 2022,0
+Construction,Industry,49,25,4434000,December 2021 through November 2022,0
+Educational and health services,Industry,48,25,16268000,December 2021 through November 2022,0
+Financial activities,Industry,36,25,3383000,December 2021 through November 2022,0
+Information,Industry,34,25,850000,December 2021 through November 2022,0
+Leisure and hospitality,Industry,80,25,10000000,December 2021 through November 2022,0
+Manufacturing,Industry,45,25,6686000,December 2021 through November 2022,0
+Mining,Industry,33,25,179000,December 2021 through November 2022,0
+Other services,Industry,62,25,3694000,December 2021 through November 2022,0
+Professional and business services,Industry,38,25,6466000,December 2021 through November 2022,0
+Public administration,Industry,36,25,2764000,December 2021 through November 2022,0
+Transportation and utilities,Industry,55,25,4851000,December 2021 through November 2022,0
+Wholesale and retail trade,Industry,68,25,12212000,December 2021 through November 2022,0
+Construction and extraction occupations,Occupation,54,25,3663000,December 2021 through November 2022,0
+"Farming, fishing, and forestry occupations",Occupation,88,25,786000,December 2021 through November 2022,0
+"Installation, maintenance, and repair occupations",Occupation,46,25,2007000,December 2021 through November 2022,0
+"Management, business, and financial occupations",Occupation,24,25,5770000,December 2021 through November 2022,0
+Office and administrative support occupations,Occupation,68,25,10561000,December 2021 through November 2022,0
+Production occupations,Occupation,65,25,5101000,December 2021 through November 2022,0
+Professional and related occupations,Occupation,30,25,10674000,December 2021 through November 2022,0
+Sales and related occupations,Occupation,64,25,7815000,December 2021 through November 2022,0
+Service occupations,Occupation,81,25,18526000,December 2021 through November 2022,0
+Transportation and material moving occupations,Occupation,73,25,7880000,December 2021 through November 2022,0
 Works full-time,Part-time status,47,25,55752000,December 2021 through November 2022,0
 Works part-time,Part-time status,79,25,17031000,December 2021 through November 2022,0
 Government employee,Private/public sector,42,25,8833000,December 2021 through November 2022,0

@@ -96,7 +96,7 @@ create_slice <- function(threshold) {
   org_clean |>
     mutate(low_wage = my_wage < threshold) |>
     summarize_groups(
-      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc, 
+      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03, 
       low_wage_share = weighted.mean(low_wage, w = orgwgt),
       low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000)*1000
     ) |>
@@ -105,7 +105,10 @@ create_slice <- function(threshold) {
 }
 
 results <- map_dfr(15:25, create_slice) |>
-  filter(group_value_label != "Other") |>
+  filter(
+    group_value_label != "Other",
+    group_value_label != "Armed Forces"
+  ) |>
   transmute(
     category = group_value_label, 
     category_group = group_name, 
@@ -134,7 +137,9 @@ results <- map_dfr(15:25, create_slice) |>
     category_group == "region" ~ "Region",
     category_group == "tipped" ~ "Tipped occupation",
     category_group == "public" ~ "Private/public sector",
-    category_group == "new_faminc" ~ "Annual family income"
+    category_group == "new_faminc" ~ "Annual family income",
+    category_group == "mind03" ~ "Industry",
+    category_group == "mocc03" ~ "Occupation"
   )) |>
   arrange(low_wage_threshold, desc(priority), category_group, category) 
 
