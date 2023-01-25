@@ -4,7 +4,7 @@ library(epidatatools)
 library(lubridate)
 library(haven)
 
-org_raw <- load_org(2021:2022) |>
+org_raw <- load_org(2022:2022) |>
   mutate(my_wage = wageotc) |>
   filter(my_wage > 0) |>
   mutate(month_date = ym(paste(year, month)))

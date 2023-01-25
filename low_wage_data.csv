@@ -1,650 +1,650 @@
 category,category_group,low_wage_share,low_wage_threshold,low_wage_count,dates,priority
-All workers,All workers,15,15,21113000,December 2021 through November 2022,100
-Asian,Race and ethnicity,11,15,1119000,December 2021 through November 2022,99
-Black,Race and ethnicity,20,15,3637000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,20,15,5151000,December 2021 through November 2022,99
-White,Race and ethnicity,13,15,10917000,December 2021 through November 2022,99
-Female,Gender,18,15,12358000,December 2021 through November 2022,98
-Male,Gender,12,15,8755000,December 2021 through November 2022,98
-Ages 16-24,Age group,38,15,7042000,December 2021 through November 2022,2
-Ages 25-34,Age group,12,15,4038000,December 2021 through November 2022,2
-Ages 35-44,Age group,10,15,3091000,December 2021 through November 2022,2
-Ages 45-54,Age group,10,15,2704000,December 2021 through November 2022,2
-Ages 55-64,Age group,12,15,2691000,December 2021 through November 2022,2
-Ages 65 and above,Age group,20,15,1547000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,36,15,3786000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,23,15,5751000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,16,15,4030000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,12,15,2584000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,8,15,4962000,December 2021 through November 2022,0
-College or advanced degree,Education,5,15,3042000,December 2021 through November 2022,0
-High school diploma,Education,20,15,7399000,December 2021 through November 2022,0
-Less than high school diploma,Education,42,15,4484000,December 2021 through November 2022,0
-Some college,Education,17,15,6189000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,29,15,377000,December 2021 through November 2022,0
-Construction,Industry,10,15,885000,December 2021 through November 2022,0
-Educational and health services,Industry,13,15,4471000,December 2021 through November 2022,0
-Financial activities,Industry,7,15,635000,December 2021 through November 2022,0
-Information,Industry,9,15,219000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,37,15,4651000,December 2021 through November 2022,0
-Manufacturing,Industry,8,15,1121000,December 2021 through November 2022,0
-Mining,Industry,5,15,30000,December 2021 through November 2022,0
-Other services,Industry,22,15,1313000,December 2021 through November 2022,0
-Professional and business services,Industry,10,15,1701000,December 2021 through November 2022,0
-Public administration,Industry,7,15,541000,December 2021 through November 2022,0
-Transportation and utilities,Industry,11,15,1008000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,23,15,4163000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,11,15,738000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,37,15,326000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,9,15,375000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,4,15,1045000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,15,15,2345000,December 2021 through November 2022,0
-Production occupations,Occupation,13,15,1002000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,7,15,2340000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,26,15,3138000,December 2021 through November 2022,0
-Service occupations,Occupation,34,15,7762000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,19,15,2044000,December 2021 through November 2022,0
-Works full-time,Part-time status,11,15,12712000,December 2021 through November 2022,0
-Works part-time,Part-time status,39,15,8401000,December 2021 through November 2022,0
-Government employee,Private/public sector,10,15,2122000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,16,15,18991000,December 2021 through November 2022,0
-Midwest,Region,15,15,4661000,December 2021 through November 2022,0
-Northeast,Region,12,15,3017000,December 2021 through November 2022,0
-South,Region,19,15,10022000,December 2021 through November 2022,0
-West,Region,10,15,3413000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,13,15,11345000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,19,15,9768000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,14,15,19371000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,42,15,1743000,December 2021 through November 2022,0
-In a union,Union status,6,15,1029000,December 2021 through November 2022,0
-Not in a union,Union status,16,15,20084000,December 2021 through November 2022,0
-All workers,All workers,21,16,29934000,December 2021 through November 2022,100
-Asian,Race and ethnicity,16,16,1638000,December 2021 through November 2022,99
-Black,Race and ethnicity,28,16,5147000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,29,16,7559000,December 2021 through November 2022,99
-White,Race and ethnicity,18,16,15184000,December 2021 through November 2022,99
-Female,Gender,25,16,17228000,December 2021 through November 2022,98
-Male,Gender,17,16,12706000,December 2021 through November 2022,98
-Ages 16-24,Age group,51,16,9607000,December 2021 through November 2022,2
-Ages 25-34,Age group,18,16,6026000,December 2021 through November 2022,2
-Ages 35-44,Age group,15,16,4478000,December 2021 through November 2022,2
-Ages 45-54,Age group,14,16,3871000,December 2021 through November 2022,2
-Ages 55-64,Age group,17,16,3871000,December 2021 through November 2022,2
-Ages 65 and above,Age group,26,16,2081000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,48,16,5117000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,33,16,8131000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,23,16,5815000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,18,16,3744000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,12,16,7127000,December 2021 through November 2022,0
-College or advanced degree,Education,8,16,4406000,December 2021 through November 2022,0
-High school diploma,Education,29,16,10756000,December 2021 through November 2022,0
-Less than high school diploma,Education,54,16,5820000,December 2021 through November 2022,0
-Some college,Education,25,16,8951000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,43,16,544000,December 2021 through November 2022,0
-Construction,Industry,15,16,1390000,December 2021 through November 2022,0
-Educational and health services,Industry,19,16,6310000,December 2021 through November 2022,0
-Financial activities,Industry,10,16,962000,December 2021 through November 2022,0
-Information,Industry,13,16,313000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,48,16,6049000,December 2021 through November 2022,0
-Manufacturing,Industry,12,16,1807000,December 2021 through November 2022,0
-Mining,Industry,9,16,48000,December 2021 through November 2022,0
-Other services,Industry,29,16,1737000,December 2021 through November 2022,0
-Professional and business services,Industry,15,16,2482000,December 2021 through November 2022,0
-Public administration,Industry,11,16,805000,December 2021 through November 2022,0
-Transportation and utilities,Industry,17,16,1549000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,33,16,5938000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,17,16,1175000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,52,16,467000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,12,16,539000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,6,16,1453000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,23,16,3628000,December 2021 through November 2022,0
-Production occupations,Occupation,20,16,1605000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,9,16,3311000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,35,16,4213000,December 2021 through November 2022,0
-Service occupations,Occupation,45,16,10379000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,29,16,3164000,December 2021 through November 2022,0
-Works full-time,Part-time status,16,16,18705000,December 2021 through November 2022,0
-Works part-time,Part-time status,52,16,11229000,December 2021 through November 2022,0
-Government employee,Private/public sector,14,16,2996000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,22,16,26938000,December 2021 through November 2022,0
-Midwest,Region,21,16,6492000,December 2021 through November 2022,0
-Northeast,Region,18,16,4546000,December 2021 through November 2022,0
-South,Region,25,16,13327000,December 2021 through November 2022,0
-West,Region,17,16,5570000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,19,16,16914000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,25,16,13019000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,20,16,27726000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,53,16,2208000,December 2021 through November 2022,0
-In a union,Union status,10,16,1620000,December 2021 through November 2022,0
-Not in a union,Union status,23,16,28314000,December 2021 through November 2022,0
-All workers,All workers,26,17,35963000,December 2021 through November 2022,100
-Asian,Race and ethnicity,19,17,1986000,December 2021 through November 2022,99
-Black,Race and ethnicity,33,17,6031000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,35,17,9131000,December 2021 through November 2022,99
-White,Race and ethnicity,22,17,18322000,December 2021 through November 2022,99
-Female,Gender,30,17,20544000,December 2021 through November 2022,98
-Male,Gender,21,17,15419000,December 2021 through November 2022,98
-Ages 16-24,Age group,59,17,11054000,December 2021 through November 2022,2
-Ages 25-34,Age group,22,17,7383000,December 2021 through November 2022,2
-Ages 35-44,Age group,18,17,5562000,December 2021 through November 2022,2
-Ages 45-54,Age group,18,17,4864000,December 2021 through November 2022,2
-Ages 55-64,Age group,20,17,4680000,December 2021 through November 2022,2
-Ages 65 and above,Age group,31,17,2420000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,55,17,5830000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,40,17,9893000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,28,17,7110000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,22,17,4558000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,15,17,8572000,December 2021 through November 2022,0
-College or advanced degree,Education,9,17,5412000,December 2021 through November 2022,0
-High school diploma,Education,36,17,13108000,December 2021 through November 2022,0
-Less than high school diploma,Education,61,17,6573000,December 2021 through November 2022,0
-Some college,Education,30,17,10870000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,51,17,653000,December 2021 through November 2022,0
-Construction,Industry,19,17,1670000,December 2021 through November 2022,0
-Educational and health services,Industry,22,17,7536000,December 2021 through November 2022,0
-Financial activities,Industry,13,17,1209000,December 2021 through November 2022,0
-Information,Industry,16,17,389000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,55,17,6915000,December 2021 through November 2022,0
-Manufacturing,Industry,16,17,2403000,December 2021 through November 2022,0
-Mining,Industry,10,17,56000,December 2021 through November 2022,0
-Other services,Industry,35,17,2045000,December 2021 through November 2022,0
-Professional and business services,Industry,18,17,3021000,December 2021 through November 2022,0
-Public administration,Industry,14,17,1035000,December 2021 through November 2022,0
-Transportation and utilities,Industry,22,17,1984000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,39,17,7047000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,21,17,1396000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,63,17,565000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,16,17,691000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,7,17,1783000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,29,17,4535000,December 2021 through November 2022,0
-Production occupations,Occupation,27,17,2092000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,11,17,4075000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,40,17,4853000,December 2021 through November 2022,0
-Service occupations,Occupation,52,17,12034000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,36,17,3939000,December 2021 through November 2022,0
-Works full-time,Part-time status,20,17,23386000,December 2021 through November 2022,0
-Works part-time,Part-time status,59,17,12577000,December 2021 through November 2022,0
-Government employee,Private/public sector,17,17,3607000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,27,17,32355000,December 2021 through November 2022,0
-Midwest,Region,26,17,7771000,December 2021 through November 2022,0
-Northeast,Region,22,17,5482000,December 2021 through November 2022,0
-South,Region,29,17,15588000,December 2021 through November 2022,0
-West,Region,22,17,7122000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,23,17,20703000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,29,17,15259000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,24,17,33466000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,60,17,2497000,December 2021 through November 2022,0
-In a union,Union status,13,17,2104000,December 2021 through November 2022,0
-Not in a union,Union status,27,17,33858000,December 2021 through November 2022,0
-All workers,All workers,29,18,41530000,December 2021 through November 2022,100
-Asian,Race and ethnicity,22,18,2320000,December 2021 through November 2022,99
-Black,Race and ethnicity,38,18,6859000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,40,18,10583000,December 2021 through November 2022,99
-White,Race and ethnicity,25,18,21203000,December 2021 through November 2022,99
-Female,Gender,35,18,23550000,December 2021 through November 2022,98
-Male,Gender,25,18,17980000,December 2021 through November 2022,98
-Ages 16-24,Age group,65,18,12219000,December 2021 through November 2022,2
-Ages 25-34,Age group,27,18,8821000,December 2021 through November 2022,2
-Ages 35-44,Age group,21,18,6510000,December 2021 through November 2022,2
-Ages 45-54,Age group,21,18,5766000,December 2021 through November 2022,2
-Ages 55-64,Age group,24,18,5519000,December 2021 through November 2022,2
-Ages 65 and above,Age group,34,18,2695000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,60,18,6404000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,47,18,11439000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,33,18,8327000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,25,18,5362000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,17,18,9999000,December 2021 through November 2022,0
-College or advanced degree,Education,11,18,6512000,December 2021 through November 2022,0
-High school diploma,Education,41,18,15139000,December 2021 through November 2022,0
-Less than high school diploma,Education,67,18,7150000,December 2021 through November 2022,0
-Some college,Education,35,18,12729000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,55,18,708000,December 2021 through November 2022,0
-Construction,Industry,22,18,1980000,December 2021 through November 2022,0
-Educational and health services,Industry,26,18,8859000,December 2021 through November 2022,0
-Financial activities,Industry,15,18,1449000,December 2021 through November 2022,0
-Information,Industry,18,18,448000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,60,18,7531000,December 2021 through November 2022,0
-Manufacturing,Industry,20,18,2993000,December 2021 through November 2022,0
-Mining,Industry,13,18,70000,December 2021 through November 2022,0
-Other services,Industry,39,18,2299000,December 2021 through November 2022,0
-Professional and business services,Industry,21,18,3512000,December 2021 through November 2022,0
-Public administration,Industry,16,18,1233000,December 2021 through November 2022,0
-Transportation and utilities,Industry,27,18,2393000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,45,18,8055000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,24,18,1663000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,68,18,603000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,19,18,835000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,9,18,2176000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,35,18,5437000,December 2021 through November 2022,0
-Production occupations,Occupation,33,18,2615000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,14,18,4807000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,44,18,5370000,December 2021 through November 2022,0
-Service occupations,Occupation,58,18,13379000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,43,18,4645000,December 2021 through November 2022,0
-Works full-time,Part-time status,23,18,27993000,December 2021 through November 2022,0
-Works part-time,Part-time status,63,18,13538000,December 2021 through November 2022,0
-Government employee,Private/public sector,20,18,4274000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,31,18,37257000,December 2021 through November 2022,0
-Midwest,Region,30,18,8944000,December 2021 through November 2022,0
-Northeast,Region,26,18,6392000,December 2021 through November 2022,0
-South,Region,33,18,17688000,December 2021 through November 2022,0
-West,Region,26,18,8507000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,27,18,24177000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,33,18,17353000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,28,18,38847000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,64,18,2684000,December 2021 through November 2022,0
-In a union,Union status,16,18,2579000,December 2021 through November 2022,0
-Not in a union,Union status,31,18,38951000,December 2021 through November 2022,0
-All workers,All workers,34,19,47389000,December 2021 through November 2022,100
-Asian,Race and ethnicity,25,19,2642000,December 2021 through November 2022,99
-Black,Race and ethnicity,43,19,7792000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,46,19,12056000,December 2021 through November 2022,99
-White,Race and ethnicity,29,19,24253000,December 2021 through November 2022,99
-Female,Gender,39,19,26510000,December 2021 through November 2022,98
-Male,Gender,29,19,20879000,December 2021 through November 2022,98
-Ages 16-24,Age group,71,19,13269000,December 2021 through November 2022,2
-Ages 25-34,Age group,32,19,10453000,December 2021 through November 2022,2
-Ages 35-44,Age group,25,19,7625000,December 2021 through November 2022,2
-Ages 45-54,Age group,24,19,6750000,December 2021 through November 2022,2
-Ages 55-64,Age group,27,19,6312000,December 2021 through November 2022,2
-Ages 65 and above,Age group,38,19,2980000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,65,19,6927000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,53,19,13067000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,38,19,9610000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,30,19,6294000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,19,19,11491000,December 2021 through November 2022,0
-College or advanced degree,Education,13,19,7682000,December 2021 through November 2022,0
-High school diploma,Education,48,19,17435000,December 2021 through November 2022,0
-Less than high school diploma,Education,72,19,7676000,December 2021 through November 2022,0
-Some college,Education,40,19,14596000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,61,19,783000,December 2021 through November 2022,0
-Construction,Industry,27,19,2439000,December 2021 through November 2022,0
-Educational and health services,Industry,30,19,10144000,December 2021 through November 2022,0
-Financial activities,Industry,18,19,1734000,December 2021 through November 2022,0
-Information,Industry,21,19,513000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,65,19,8106000,December 2021 through November 2022,0
-Manufacturing,Industry,25,19,3689000,December 2021 through November 2022,0
-Mining,Industry,15,19,83000,December 2021 through November 2022,0
-Other services,Industry,43,19,2558000,December 2021 through November 2022,0
-Professional and business services,Industry,24,19,4054000,December 2021 through November 2022,0
-Public administration,Industry,19,19,1456000,December 2021 through November 2022,0
-Transportation and utilities,Industry,32,19,2869000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,50,19,8960000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,30,19,2050000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,74,19,657000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,24,19,1041000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,11,19,2624000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,41,19,6461000,December 2021 through November 2022,0
-Production occupations,Occupation,40,19,3114000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,16,19,5584000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,48,19,5839000,December 2021 through November 2022,0
-Service occupations,Occupation,64,19,14642000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,50,19,5377000,December 2021 through November 2022,0
-Works full-time,Part-time status,28,19,33008000,December 2021 through November 2022,0
-Works part-time,Part-time status,67,19,14381000,December 2021 through November 2022,0
-Government employee,Private/public sector,24,19,4986000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,35,19,42402000,December 2021 through November 2022,0
-Midwest,Region,34,19,10258000,December 2021 through November 2022,0
-Northeast,Region,30,19,7355000,December 2021 through November 2022,0
-South,Region,38,19,19857000,December 2021 through November 2022,0
-West,Region,30,19,9919000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,31,19,27805000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,37,19,19584000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,33,19,44536000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,68,19,2852000,December 2021 through November 2022,0
-In a union,Union status,19,19,3112000,December 2021 through November 2022,0
-Not in a union,Union status,35,19,44277000,December 2021 through November 2022,0
-All workers,All workers,37,20,51852000,December 2021 through November 2022,100
-Asian,Race and ethnicity,28,20,2923000,December 2021 through November 2022,99
-Black,Race and ethnicity,47,20,8488000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,50,20,12989000,December 2021 through November 2022,99
-White,Race and ethnicity,32,20,26753000,December 2021 through November 2022,99
-Female,Gender,43,20,28913000,December 2021 through November 2022,98
-Male,Gender,31,20,22939000,December 2021 through November 2022,98
-Ages 16-24,Age group,74,20,13845000,December 2021 through November 2022,2
-Ages 25-34,Age group,35,20,11698000,December 2021 through November 2022,2
-Ages 35-44,Age group,27,20,8439000,December 2021 through November 2022,2
-Ages 45-54,Age group,28,20,7608000,December 2021 through November 2022,2
-Ages 55-64,Age group,31,20,7055000,December 2021 through November 2022,2
-Ages 65 and above,Age group,41,20,3208000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,68,20,7234000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,58,20,14215000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,41,20,10523000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,34,20,7064000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,22,20,12816000,December 2021 through November 2022,0
-College or advanced degree,Education,16,20,9012000,December 2021 through November 2022,0
-High school diploma,Education,52,20,18888000,December 2021 through November 2022,0
-Less than high school diploma,Education,75,20,8019000,December 2021 through November 2022,0
-Some college,Education,44,20,15933000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,64,20,824000,December 2021 through November 2022,0
-Construction,Industry,30,20,2707000,December 2021 through November 2022,0
-Educational and health services,Industry,33,20,11240000,December 2021 through November 2022,0
-Financial activities,Industry,22,20,2055000,December 2021 through November 2022,0
-Information,Industry,23,20,562000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,68,20,8498000,December 2021 through November 2022,0
-Manufacturing,Industry,28,20,4196000,December 2021 through November 2022,0
-Mining,Industry,17,20,96000,December 2021 through November 2022,0
-Other services,Industry,46,20,2744000,December 2021 through November 2022,0
-Professional and business services,Industry,26,20,4468000,December 2021 through November 2022,0
-Public administration,Industry,22,20,1694000,December 2021 through November 2022,0
-Transportation and utilities,Industry,36,20,3193000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,54,20,9574000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,33,20,2276000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,76,20,680000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,27,20,1164000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,13,20,3171000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,46,20,7225000,December 2021 through November 2022,0
-Production occupations,Occupation,44,20,3426000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,18,20,6434000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,51,20,6209000,December 2021 through November 2022,0
-Service occupations,Occupation,67,20,15427000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,54,20,5840000,December 2021 through November 2022,0
-Works full-time,Part-time status,31,20,36987000,December 2021 through November 2022,0
-Works part-time,Part-time status,69,20,14865000,December 2021 through November 2022,0
-Government employee,Private/public sector,27,20,5658000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,39,20,46194000,December 2021 through November 2022,0
-Midwest,Region,37,20,11268000,December 2021 through November 2022,0
-Northeast,Region,33,20,8132000,December 2021 through November 2022,0
-South,Region,41,20,21548000,December 2021 through November 2022,0
-West,Region,33,20,10904000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,34,20,30513000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,41,20,21339000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,36,20,48867000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,71,20,2985000,December 2021 through November 2022,0
-In a union,Union status,22,20,3578000,December 2021 through November 2022,0
-Not in a union,Union status,39,20,48274000,December 2021 through November 2022,0
-All workers,All workers,41,21,58216000,December 2021 through November 2022,100
-Asian,Race and ethnicity,31,21,3303000,December 2021 through November 2022,99
-Black,Race and ethnicity,51,21,9315000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,55,21,14471000,December 2021 through November 2022,99
-White,Race and ethnicity,36,21,30340000,December 2021 through November 2022,99
-Female,Gender,47,21,31921000,December 2021 through November 2022,98
-Male,Gender,36,21,26295000,December 2021 through November 2022,98
-Ages 16-24,Age group,79,21,14758000,December 2021 through November 2022,2
-Ages 25-34,Age group,41,21,13444000,December 2021 through November 2022,2
-Ages 35-44,Age group,31,21,9678000,December 2021 through November 2022,2
-Ages 45-54,Age group,32,21,8743000,December 2021 through November 2022,2
-Ages 55-64,Age group,35,21,8018000,December 2021 through November 2022,2
-Ages 65 and above,Age group,45,21,3575000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,73,21,7794000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,64,21,15790000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,47,21,11977000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,38,21,8071000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,25,21,14585000,December 2021 through November 2022,0
-College or advanced degree,Education,19,21,10684000,December 2021 through November 2022,0
-High school diploma,Education,58,21,21089000,December 2021 through November 2022,0
-Less than high school diploma,Education,80,21,8606000,December 2021 through November 2022,0
-Some college,Education,49,21,17838000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,70,21,895000,December 2021 through November 2022,0
-Construction,Industry,37,21,3328000,December 2021 through November 2022,0
-Educational and health services,Industry,37,21,12608000,December 2021 through November 2022,0
-Financial activities,Industry,26,21,2402000,December 2021 through November 2022,0
-Information,Industry,27,21,663000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,72,21,9037000,December 2021 through November 2022,0
-Manufacturing,Industry,34,21,4944000,December 2021 through November 2022,0
-Mining,Industry,23,21,125000,December 2021 through November 2022,0
-Other services,Industry,51,21,3044000,December 2021 through November 2022,0
-Professional and business services,Industry,30,21,5092000,December 2021 through November 2022,0
-Public administration,Industry,26,21,1962000,December 2021 through November 2022,0
-Transportation and utilities,Industry,42,21,3708000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,58,21,10410000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,41,21,2800000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,82,21,736000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,32,21,1406000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,16,21,3764000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,53,21,8263000,December 2021 through November 2022,0
-Production occupations,Occupation,51,21,3978000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,21,21,7537000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,55,21,6661000,December 2021 through November 2022,0
-Service occupations,Occupation,72,21,16527000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,60,21,6545000,December 2021 through November 2022,0
-Works full-time,Part-time status,35,21,42360000,December 2021 through November 2022,0
-Works part-time,Part-time status,74,21,15856000,December 2021 through November 2022,0
-Government employee,Private/public sector,30,21,6447000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,43,21,51770000,December 2021 through November 2022,0
-Midwest,Region,42,21,12708000,December 2021 through November 2022,0
-Northeast,Region,37,21,9177000,December 2021 through November 2022,0
-South,Region,45,21,23864000,December 2021 through November 2022,0
-West,Region,38,21,12467000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,39,21,34479000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,45,21,23737000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,40,21,55055000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,76,21,3162000,December 2021 through November 2022,0
-In a union,Union status,26,21,4177000,December 2021 through November 2022,0
-Not in a union,Union status,43,21,54040000,December 2021 through November 2022,0
-All workers,All workers,44,22,62231000,December 2021 through November 2022,100
-Asian,Race and ethnicity,34,22,3542000,December 2021 through November 2022,99
-Black,Race and ethnicity,55,22,9891000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,58,22,15258000,December 2021 through November 2022,99
-White,Race and ethnicity,39,22,32706000,December 2021 through November 2022,99
-Female,Gender,50,22,33966000,December 2021 through November 2022,98
-Male,Gender,39,22,28265000,December 2021 through November 2022,98
-Ages 16-24,Age group,81,22,15146000,December 2021 through November 2022,2
-Ages 25-34,Age group,44,22,14658000,December 2021 through November 2022,2
-Ages 35-44,Age group,34,22,10560000,December 2021 through November 2022,2
-Ages 45-54,Age group,34,22,9490000,December 2021 through November 2022,2
-Ages 55-64,Age group,37,22,8611000,December 2021 through November 2022,2
-Ages 65 and above,Age group,48,22,3767000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,75,22,8045000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,68,22,16716000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,50,22,12882000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,42,22,8772000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,27,22,15816000,December 2021 through November 2022,0
-College or advanced degree,Education,21,22,11944000,December 2021 through November 2022,0
-High school diploma,Education,61,22,22400000,December 2021 through November 2022,0
-Less than high school diploma,Education,82,22,8799000,December 2021 through November 2022,0
-Some college,Education,52,22,19089000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,72,22,926000,December 2021 through November 2022,0
-Construction,Industry,40,22,3620000,December 2021 through November 2022,0
-Educational and health services,Industry,40,22,13654000,December 2021 through November 2022,0
-Financial activities,Industry,28,22,2648000,December 2021 through November 2022,0
-Information,Industry,29,22,719000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,74,22,9312000,December 2021 through November 2022,0
-Manufacturing,Industry,37,22,5395000,December 2021 through November 2022,0
-Mining,Industry,26,22,141000,December 2021 through November 2022,0
-Other services,Industry,55,22,3241000,December 2021 through November 2022,0
-Professional and business services,Industry,32,22,5472000,December 2021 through November 2022,0
-Public administration,Industry,28,22,2142000,December 2021 through November 2022,0
-Transportation and utilities,Industry,45,22,4000000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,61,22,10961000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,45,22,3040000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,84,22,752000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,36,22,1558000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,18,22,4289000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,57,22,8929000,December 2021 through November 2022,0
-Production occupations,Occupation,54,22,4261000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,23,22,8347000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,57,22,7008000,December 2021 through November 2022,0
-Service occupations,Occupation,75,22,17143000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,64,22,6905000,December 2021 through November 2022,0
-Works full-time,Part-time status,39,22,46062000,December 2021 through November 2022,0
-Works part-time,Part-time status,75,22,16169000,December 2021 through November 2022,0
-Government employee,Private/public sector,33,22,7053000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,46,22,55178000,December 2021 through November 2022,0
-Midwest,Region,45,22,13653000,December 2021 through November 2022,0
-Northeast,Region,40,22,9776000,December 2021 through November 2022,0
-South,Region,48,22,25381000,December 2021 through November 2022,0
-West,Region,41,22,13421000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,42,22,36983000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,48,22,25248000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,43,22,58988000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,77,22,3244000,December 2021 through November 2022,0
-In a union,Union status,29,22,4655000,December 2021 through November 2022,0
-Not in a union,Union status,46,22,57576000,December 2021 through November 2022,0
-All workers,All workers,47,23,65960000,December 2021 through November 2022,100
-Asian,Race and ethnicity,36,23,3756000,December 2021 through November 2022,99
-Black,Race and ethnicity,58,23,10478000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,61,23,16017000,December 2021 through November 2022,99
-White,Race and ethnicity,41,23,34832000,December 2021 through November 2022,99
-Female,Gender,53,23,35686000,December 2021 through November 2022,98
-Male,Gender,41,23,30274000,December 2021 through November 2022,98
-Ages 16-24,Age group,83,23,15539000,December 2021 through November 2022,2
-Ages 25-34,Age group,48,23,15753000,December 2021 through November 2022,2
-Ages 35-44,Age group,37,23,11358000,December 2021 through November 2022,2
-Ages 45-54,Age group,37,23,10205000,December 2021 through November 2022,2
-Ages 55-64,Age group,40,23,9160000,December 2021 through November 2022,2
-Ages 65 and above,Age group,50,23,3946000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,78,23,8283000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,72,23,17641000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,54,23,13689000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,45,23,9405000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,29,23,16941000,December 2021 through November 2022,0
-College or advanced degree,Education,23,23,13024000,December 2021 through November 2022,0
-High school diploma,Education,65,23,23606000,December 2021 through November 2022,0
-Less than high school diploma,Education,84,23,9049000,December 2021 through November 2022,0
-Some college,Education,56,23,20281000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,75,23,953000,December 2021 through November 2022,0
-Construction,Industry,44,23,3932000,December 2021 through November 2022,0
-Educational and health services,Industry,43,23,14522000,December 2021 through November 2022,0
-Financial activities,Industry,31,23,2875000,December 2021 through November 2022,0
-Information,Industry,31,23,765000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,77,23,9587000,December 2021 through November 2022,0
-Manufacturing,Industry,40,23,5885000,December 2021 through November 2022,0
-Mining,Industry,28,23,154000,December 2021 through November 2022,0
-Other services,Industry,58,23,3411000,December 2021 through November 2022,0
-Professional and business services,Industry,34,23,5808000,December 2021 through November 2022,0
-Public administration,Industry,31,23,2335000,December 2021 through November 2022,0
-Transportation and utilities,Industry,49,23,4341000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,64,23,11391000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,49,23,3321000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,86,23,768000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,39,23,1712000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,20,23,4685000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,61,23,9503000,December 2021 through November 2022,0
-Production occupations,Occupation,58,23,4572000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,26,23,9077000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,60,23,7259000,December 2021 through November 2022,0
-Service occupations,Occupation,77,23,17722000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,68,23,7341000,December 2021 through November 2022,0
-Works full-time,Part-time status,41,23,49418000,December 2021 through November 2022,0
-Works part-time,Part-time status,77,23,16543000,December 2021 through November 2022,0
-Government employee,Private/public sector,36,23,7620000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,49,23,58340000,December 2021 through November 2022,0
-Midwest,Region,48,23,14521000,December 2021 through November 2022,0
-Northeast,Region,42,23,10355000,December 2021 through November 2022,0
-South,Region,51,23,26773000,December 2021 through November 2022,0
-West,Region,43,23,14311000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,44,23,39279000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,51,23,26681000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,46,23,62624000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,80,23,3336000,December 2021 through November 2022,0
-In a union,Union status,32,23,5136000,December 2021 through November 2022,0
-Not in a union,Union status,49,23,60825000,December 2021 through November 2022,0
-All workers,All workers,49,24,69188000,December 2021 through November 2022,100
-Asian,Race and ethnicity,37,24,3926000,December 2021 through November 2022,99
-Black,Race and ethnicity,60,24,10870000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,64,24,16695000,December 2021 through November 2022,99
-White,Race and ethnicity,44,24,36792000,December 2021 through November 2022,99
-Female,Gender,55,24,37239000,December 2021 through November 2022,98
-Male,Gender,44,24,31949000,December 2021 through November 2022,98
-Ages 16-24,Age group,85,24,15840000,December 2021 through November 2022,2
-Ages 25-34,Age group,50,24,16647000,December 2021 through November 2022,2
-Ages 35-44,Age group,39,24,12068000,December 2021 through November 2022,2
-Ages 45-54,Age group,39,24,10846000,December 2021 through November 2022,2
-Ages 55-64,Age group,42,24,9691000,December 2021 through November 2022,2
-Ages 65 and above,Age group,52,24,4096000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,79,24,8453000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,74,24,18289000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,57,24,14452000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,48,24,10014000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,30,24,17980000,December 2021 through November 2022,0
-College or advanced degree,Education,25,24,14079000,December 2021 through November 2022,0
-High school diploma,Education,67,24,24601000,December 2021 through November 2022,0
-Less than high school diploma,Education,86,24,9205000,December 2021 through November 2022,0
-Some college,Education,58,24,21302000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,76,24,975000,December 2021 through November 2022,0
-Construction,Industry,46,24,4164000,December 2021 through November 2022,0
-Educational and health services,Industry,45,24,15347000,December 2021 through November 2022,0
-Financial activities,Industry,33,24,3099000,December 2021 through November 2022,0
-Information,Industry,32,24,799000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,78,24,9787000,December 2021 through November 2022,0
-Manufacturing,Industry,43,24,6304000,December 2021 through November 2022,0
-Mining,Industry,31,24,168000,December 2021 through November 2022,0
-Other services,Industry,60,24,3550000,December 2021 through November 2022,0
-Professional and business services,Industry,36,24,6109000,December 2021 through November 2022,0
-Public administration,Industry,33,24,2537000,December 2021 through November 2022,0
-Transportation and utilities,Industry,52,24,4581000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,66,24,11768000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,51,24,3495000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,87,24,777000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,42,24,1820000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,22,24,5168000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,64,24,10034000,December 2021 through November 2022,0
-Production occupations,Occupation,62,24,4867000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,28,24,9810000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,62,24,7499000,December 2021 through November 2022,0
-Service occupations,Occupation,79,24,18121000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,70,24,7595000,December 2021 through November 2022,0
-Works full-time,Part-time status,44,24,52384000,December 2021 through November 2022,0
-Works part-time,Part-time status,78,24,16804000,December 2021 through November 2022,0
-Government employee,Private/public sector,39,24,8192000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,51,24,60995000,December 2021 through November 2022,0
-Midwest,Region,50,24,15263000,December 2021 through November 2022,0
-Northeast,Region,44,24,10829000,December 2021 through November 2022,0
-South,Region,53,24,27994000,December 2021 through November 2022,0
-West,Region,46,24,15102000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,47,24,41240000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,53,24,27947000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,48,24,65794000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,81,24,3394000,December 2021 through November 2022,0
-In a union,Union status,35,24,5589000,December 2021 through November 2022,0
-Not in a union,Union status,51,24,63599000,December 2021 through November 2022,0
-All workers,All workers,52,25,72783000,December 2021 through November 2022,100
-Asian,Race and ethnicity,39,25,4142000,December 2021 through November 2022,99
-Black,Race and ethnicity,62,25,11338000,December 2021 through November 2022,99
-Hispanic,Race and ethnicity,66,25,17304000,December 2021 through November 2022,99
-White,Race and ethnicity,46,25,39058000,December 2021 through November 2022,99
-Female,Gender,58,25,39000000,December 2021 through November 2022,98
-Male,Gender,46,25,33783000,December 2021 through November 2022,98
-Ages 16-24,Age group,86,25,16160000,December 2021 through November 2022,2
-Ages 25-34,Age group,54,25,17710000,December 2021 through November 2022,2
-Ages 35-44,Age group,42,25,12873000,December 2021 through November 2022,2
-Ages 45-54,Age group,42,25,11513000,December 2021 through November 2022,2
-Ages 55-64,Age group,45,25,10280000,December 2021 through November 2022,2
-Ages 65 and above,Age group,54,25,4247000,December 2021 through November 2022,1
-"Family income  $24,999 or less",Annual family income,81,25,8614000,December 2021 through November 2022,0
-"Family income  $25,000 - $49,999",Annual family income,77,25,18904000,December 2021 through November 2022,0
-"Family income  $50,000 - $74,999",Annual family income,60,25,15251000,December 2021 through November 2022,0
-"Family income  $75,000 - $99,999",Annual family income,51,25,10688000,December 2021 through November 2022,0
-"Family income $100,000 or more",Annual family income,33,25,19325000,December 2021 through November 2022,0
-College or advanced degree,Education,27,25,15541000,December 2021 through November 2022,0
-High school diploma,Education,70,25,25547000,December 2021 through November 2022,0
-Less than high school diploma,Education,87,25,9359000,December 2021 through November 2022,0
-Some college,Education,61,25,22336000,December 2021 through November 2022,0
-"Agriculture, forestry, fishing, and hunting",Industry,78,25,996000,December 2021 through November 2022,0
-Construction,Industry,49,25,4434000,December 2021 through November 2022,0
-Educational and health services,Industry,48,25,16268000,December 2021 through November 2022,0
-Financial activities,Industry,36,25,3383000,December 2021 through November 2022,0
-Information,Industry,34,25,850000,December 2021 through November 2022,0
-Leisure and hospitality,Industry,80,25,10000000,December 2021 through November 2022,0
-Manufacturing,Industry,45,25,6686000,December 2021 through November 2022,0
-Mining,Industry,33,25,179000,December 2021 through November 2022,0
-Other services,Industry,62,25,3694000,December 2021 through November 2022,0
-Professional and business services,Industry,38,25,6466000,December 2021 through November 2022,0
-Public administration,Industry,36,25,2764000,December 2021 through November 2022,0
-Transportation and utilities,Industry,55,25,4851000,December 2021 through November 2022,0
-Wholesale and retail trade,Industry,68,25,12212000,December 2021 through November 2022,0
-Construction and extraction occupations,Occupation,54,25,3663000,December 2021 through November 2022,0
-"Farming, fishing, and forestry occupations",Occupation,88,25,786000,December 2021 through November 2022,0
-"Installation, maintenance, and repair occupations",Occupation,46,25,2007000,December 2021 through November 2022,0
-"Management, business, and financial occupations",Occupation,24,25,5770000,December 2021 through November 2022,0
-Office and administrative support occupations,Occupation,68,25,10561000,December 2021 through November 2022,0
-Production occupations,Occupation,65,25,5101000,December 2021 through November 2022,0
-Professional and related occupations,Occupation,30,25,10674000,December 2021 through November 2022,0
-Sales and related occupations,Occupation,64,25,7815000,December 2021 through November 2022,0
-Service occupations,Occupation,81,25,18526000,December 2021 through November 2022,0
-Transportation and material moving occupations,Occupation,73,25,7880000,December 2021 through November 2022,0
-Works full-time,Part-time status,47,25,55752000,December 2021 through November 2022,0
-Works part-time,Part-time status,79,25,17031000,December 2021 through November 2022,0
-Government employee,Private/public sector,42,25,8833000,December 2021 through November 2022,0
-Private-sector employee,Private/public sector,53,25,63950000,December 2021 through November 2022,0
-Midwest,Region,53,25,16080000,December 2021 through November 2022,0
-Northeast,Region,46,25,11441000,December 2021 through November 2022,0
-South,Region,56,25,29403000,December 2021 through November 2022,0
-West,Region,48,25,15859000,December 2021 through November 2022,0
-State minimum exceeds federal minimum,State minimum wage,49,25,43436000,December 2021 through November 2022,0
-State minimum follows federal minimum,State minimum wage,56,25,29347000,December 2021 through November 2022,0
-Works in a non-tipped occupation,Tipped occupation,51,25,69317000,December 2021 through November 2022,0
-Works in a tipped occupation,Tipped occupation,83,25,3466000,December 2021 through November 2022,0
-In a union,Union status,38,25,6065000,December 2021 through November 2022,0
-Not in a union,Union status,53,25,66718000,December 2021 through November 2022,0
+All workers,All workers,15,15,20637000,January 2022 through December 2022,100
+Asian,Race and ethnicity,11,15,1121000,January 2022 through December 2022,99
+Black,Race and ethnicity,20,15,3558000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,19,15,4953000,January 2022 through December 2022,99
+White,Race and ethnicity,13,15,10709000,January 2022 through December 2022,99
+Female,Gender,18,15,12090000,January 2022 through December 2022,98
+Male,Gender,12,15,8547000,January 2022 through December 2022,98
+Ages 16-24,Age group,37,15,6934000,January 2022 through December 2022,2
+Ages 25-34,Age group,12,15,3902000,January 2022 through December 2022,2
+Ages 35-44,Age group,10,15,3016000,January 2022 through December 2022,2
+Ages 45-54,Age group,10,15,2628000,January 2022 through December 2022,2
+Ages 55-64,Age group,11,15,2648000,January 2022 through December 2022,2
+Ages 65 and above,Age group,19,15,1508000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,35,15,3657000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,23,15,5580000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,15,15,3957000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,12,15,2514000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,8,15,4928000,January 2022 through December 2022,0
+College or advanced degree,Education,5,15,2994000,January 2022 through December 2022,0
+High school diploma,Education,20,15,7219000,January 2022 through December 2022,0
+Less than high school diploma,Education,41,15,4432000,January 2022 through December 2022,0
+Some college,Education,16,15,5992000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,29,15,372000,January 2022 through December 2022,0
+Construction,Industry,9,15,848000,January 2022 through December 2022,0
+Educational and health services,Industry,13,15,4427000,January 2022 through December 2022,0
+Financial activities,Industry,6,15,611000,January 2022 through December 2022,0
+Information,Industry,9,15,216000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,37,15,4553000,January 2022 through December 2022,0
+Manufacturing,Industry,8,15,1111000,January 2022 through December 2022,0
+Mining,Industry,6,15,31000,January 2022 through December 2022,0
+Other services,Industry,22,15,1292000,January 2022 through December 2022,0
+Professional and business services,Industry,10,15,1674000,January 2022 through December 2022,0
+Public administration,Industry,7,15,504000,January 2022 through December 2022,0
+Transportation and utilities,Industry,11,15,979000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,22,15,4016000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,10,15,699000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,36,15,324000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,8,15,359000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,4,15,1010000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,15,15,2278000,January 2022 through December 2022,0
+Production occupations,Occupation,12,15,980000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,7,15,2340000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,25,15,3021000,January 2022 through December 2022,0
+Service occupations,Occupation,33,15,7603000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,19,15,2024000,January 2022 through December 2022,0
+Works full-time,Part-time status,10,15,12367000,January 2022 through December 2022,0
+Works part-time,Part-time status,38,15,8269000,January 2022 through December 2022,0
+Government employee,Private/public sector,10,15,2056000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,15,15,18580000,January 2022 through December 2022,0
+Midwest,Region,15,15,4576000,January 2022 through December 2022,0
+Northeast,Region,12,15,2896000,January 2022 through December 2022,0
+South,Region,19,15,9845000,January 2022 through December 2022,0
+West,Region,10,15,3319000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,12,15,11078000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,18,15,9559000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,14,15,18939000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,41,15,1697000,January 2022 through December 2022,0
+In a union,Union status,6,15,993000,January 2022 through December 2022,0
+Not in a union,Union status,16,15,19644000,January 2022 through December 2022,0
+All workers,All workers,21,16,29446000,January 2022 through December 2022,100
+Asian,Race and ethnicity,15,16,1639000,January 2022 through December 2022,99
+Black,Race and ethnicity,28,16,5065000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,28,16,7381000,January 2022 through December 2022,99
+White,Race and ethnicity,18,16,14959000,January 2022 through December 2022,99
+Female,Gender,25,16,16938000,January 2022 through December 2022,98
+Male,Gender,17,16,12508000,January 2022 through December 2022,98
+Ages 16-24,Age group,51,16,9518000,January 2022 through December 2022,2
+Ages 25-34,Age group,18,16,5861000,January 2022 through December 2022,2
+Ages 35-44,Age group,14,16,4407000,January 2022 through December 2022,2
+Ages 45-54,Age group,14,16,3775000,January 2022 through December 2022,2
+Ages 55-64,Age group,17,16,3844000,January 2022 through December 2022,2
+Ages 65 and above,Age group,26,16,2041000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,47,16,4991000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,33,16,7954000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,22,16,5721000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,18,16,3692000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,12,16,7088000,January 2022 through December 2022,0
+College or advanced degree,Education,8,16,4330000,January 2022 through December 2022,0
+High school diploma,Education,29,16,10613000,January 2022 through December 2022,0
+Less than high school diploma,Education,54,16,5781000,January 2022 through December 2022,0
+Some college,Education,24,16,8722000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,41,16,537000,January 2022 through December 2022,0
+Construction,Industry,15,16,1361000,January 2022 through December 2022,0
+Educational and health services,Industry,19,16,6250000,January 2022 through December 2022,0
+Financial activities,Industry,10,16,937000,January 2022 through December 2022,0
+Information,Industry,13,16,321000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,48,16,5998000,January 2022 through December 2022,0
+Manufacturing,Industry,12,16,1785000,January 2022 through December 2022,0
+Mining,Industry,9,16,49000,January 2022 through December 2022,0
+Other services,Industry,29,16,1705000,January 2022 through December 2022,0
+Professional and business services,Industry,14,16,2457000,January 2022 through December 2022,0
+Public administration,Industry,10,16,766000,January 2022 through December 2022,0
+Transportation and utilities,Industry,17,16,1516000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,32,16,5765000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,17,16,1146000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,51,16,465000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,12,16,519000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,6,16,1418000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,23,16,3506000,January 2022 through December 2022,0
+Production occupations,Occupation,20,16,1565000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,9,16,3306000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,34,16,4100000,January 2022 through December 2022,0
+Service occupations,Occupation,45,16,10293000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,29,16,3129000,January 2022 through December 2022,0
+Works full-time,Part-time status,15,16,18334000,January 2022 through December 2022,0
+Works part-time,Part-time status,52,16,11112000,January 2022 through December 2022,0
+Government employee,Private/public sector,14,16,2912000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,22,16,26534000,January 2022 through December 2022,0
+Midwest,Region,21,16,6393000,January 2022 through December 2022,0
+Northeast,Region,18,16,4413000,January 2022 through December 2022,0
+South,Region,25,16,13192000,January 2022 through December 2022,0
+West,Region,16,16,5449000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,19,16,16622000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,24,16,12824000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,20,16,27264000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,52,16,2182000,January 2022 through December 2022,0
+In a union,Union status,10,16,1578000,January 2022 through December 2022,0
+Not in a union,Union status,22,16,27868000,January 2022 through December 2022,0
+All workers,All workers,25,17,35445000,January 2022 through December 2022,100
+Asian,Race and ethnicity,19,17,1990000,January 2022 through December 2022,99
+Black,Race and ethnicity,33,17,5942000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,34,17,8975000,January 2022 through December 2022,99
+White,Race and ethnicity,21,17,18048000,January 2022 through December 2022,99
+Female,Gender,30,17,20237000,January 2022 through December 2022,98
+Male,Gender,21,17,15209000,January 2022 through December 2022,98
+Ages 16-24,Age group,58,17,10920000,January 2022 through December 2022,2
+Ages 25-34,Age group,22,17,7241000,January 2022 through December 2022,2
+Ages 35-44,Age group,18,17,5488000,January 2022 through December 2022,2
+Ages 45-54,Age group,17,17,4749000,January 2022 through December 2022,2
+Ages 55-64,Age group,20,17,4660000,January 2022 through December 2022,2
+Ages 65 and above,Age group,30,17,2386000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,54,17,5690000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,40,17,9672000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,28,17,7052000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,21,17,4507000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,14,17,8524000,January 2022 through December 2022,0
+College or advanced degree,Education,9,17,5303000,January 2022 through December 2022,0
+High school diploma,Education,35,17,12967000,January 2022 through December 2022,0
+Less than high school diploma,Education,61,17,6552000,January 2022 through December 2022,0
+Some college,Education,29,17,10623000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,50,17,648000,January 2022 through December 2022,0
+Construction,Industry,18,17,1630000,January 2022 through December 2022,0
+Educational and health services,Industry,22,17,7461000,January 2022 through December 2022,0
+Financial activities,Industry,13,17,1190000,January 2022 through December 2022,0
+Information,Industry,16,17,395000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,55,17,6858000,January 2022 through December 2022,0
+Manufacturing,Industry,16,17,2362000,January 2022 through December 2022,0
+Mining,Industry,10,17,57000,January 2022 through December 2022,0
+Other services,Industry,34,17,2017000,January 2022 through December 2022,0
+Professional and business services,Industry,18,17,2985000,January 2022 through December 2022,0
+Public administration,Industry,13,17,986000,January 2022 through December 2022,0
+Transportation and utilities,Industry,22,17,1965000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,38,17,6891000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,20,17,1355000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,63,17,569000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,15,17,680000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,7,17,1761000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,28,17,4406000,January 2022 through December 2022,0
+Production occupations,Occupation,26,17,2034000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,11,17,4049000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,39,17,4734000,January 2022 through December 2022,0
+Service occupations,Occupation,52,17,11924000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,36,17,3934000,January 2022 through December 2022,0
+Works full-time,Part-time status,19,17,22982000,January 2022 through December 2022,0
+Works part-time,Part-time status,58,17,12464000,January 2022 through December 2022,0
+Government employee,Private/public sector,17,17,3523000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,27,17,31922000,January 2022 through December 2022,0
+Midwest,Region,25,17,7667000,January 2022 through December 2022,0
+Northeast,Region,22,17,5337000,January 2022 through December 2022,0
+South,Region,29,17,15449000,January 2022 through December 2022,0
+West,Region,21,17,6991000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,23,17,20388000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,29,17,15058000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,24,17,32976000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,59,17,2469000,January 2022 through December 2022,0
+In a union,Union status,13,17,2061000,January 2022 through December 2022,0
+Not in a union,Union status,27,17,33384000,January 2022 through December 2022,0
+All workers,All workers,29,18,41050000,January 2022 through December 2022,100
+Asian,Race and ethnicity,22,18,2323000,January 2022 through December 2022,99
+Black,Race and ethnicity,37,18,6789000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,40,18,10421000,January 2022 through December 2022,99
+White,Race and ethnicity,25,18,20960000,January 2022 through December 2022,99
+Female,Gender,34,18,23248000,January 2022 through December 2022,98
+Male,Gender,24,18,17802000,January 2022 through December 2022,98
+Ages 16-24,Age group,64,18,12095000,January 2022 through December 2022,2
+Ages 25-34,Age group,26,18,8674000,January 2022 through December 2022,2
+Ages 35-44,Age group,21,18,6441000,January 2022 through December 2022,2
+Ages 45-54,Age group,20,18,5655000,January 2022 through December 2022,2
+Ages 55-64,Age group,24,18,5507000,January 2022 through December 2022,2
+Ages 65 and above,Age group,34,18,2678000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,59,18,6255000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,46,18,11232000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,32,18,8284000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,25,18,5318000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,17,18,9961000,January 2022 through December 2022,0
+College or advanced degree,Education,11,18,6411000,January 2022 through December 2022,0
+High school diploma,Education,41,18,15054000,January 2022 through December 2022,0
+Less than high school diploma,Education,66,18,7114000,January 2022 through December 2022,0
+Some college,Education,34,18,12470000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,55,18,712000,January 2022 through December 2022,0
+Construction,Industry,22,18,1955000,January 2022 through December 2022,0
+Educational and health services,Industry,26,18,8799000,January 2022 through December 2022,0
+Financial activities,Industry,15,18,1439000,January 2022 through December 2022,0
+Information,Industry,18,18,454000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,60,18,7475000,January 2022 through December 2022,0
+Manufacturing,Industry,20,18,2954000,January 2022 through December 2022,0
+Mining,Industry,13,18,71000,January 2022 through December 2022,0
+Other services,Industry,38,18,2275000,January 2022 through December 2022,0
+Professional and business services,Industry,20,18,3459000,January 2022 through December 2022,0
+Public administration,Industry,16,18,1187000,January 2022 through December 2022,0
+Transportation and utilities,Industry,26,18,2349000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,44,18,7921000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,24,18,1635000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,67,18,612000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,19,18,830000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,9,18,2162000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,34,18,5308000,January 2022 through December 2022,0
+Production occupations,Occupation,32,18,2561000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,13,18,4792000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,43,18,5252000,January 2022 through December 2022,0
+Service occupations,Occupation,58,18,13270000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,43,18,4628000,January 2022 through December 2022,0
+Works full-time,Part-time status,23,18,27617000,January 2022 through December 2022,0
+Works part-time,Part-time status,62,18,13433000,January 2022 through December 2022,0
+Government employee,Private/public sector,20,18,4201000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,31,18,36849000,January 2022 through December 2022,0
+Midwest,Region,29,18,8886000,January 2022 through December 2022,0
+Northeast,Region,25,18,6247000,January 2022 through December 2022,0
+South,Region,33,18,17531000,January 2022 through December 2022,0
+West,Region,25,18,8386000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,27,18,23917000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,33,18,17133000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,28,18,38394000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,64,18,2656000,January 2022 through December 2022,0
+In a union,Union status,16,18,2532000,January 2022 through December 2022,0
+Not in a union,Union status,31,18,38518000,January 2022 through December 2022,0
+All workers,All workers,33,19,46845000,January 2022 through December 2022,100
+Asian,Race and ethnicity,25,19,2646000,January 2022 through December 2022,99
+Black,Race and ethnicity,42,19,7697000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,45,19,11918000,January 2022 through December 2022,99
+White,Race and ethnicity,28,19,23952000,January 2022 through December 2022,99
+Female,Gender,39,19,26199000,January 2022 through December 2022,98
+Male,Gender,28,19,20646000,January 2022 through December 2022,98
+Ages 16-24,Age group,70,19,13171000,January 2022 through December 2022,2
+Ages 25-34,Age group,31,19,10298000,January 2022 through December 2022,2
+Ages 35-44,Age group,24,19,7520000,January 2022 through December 2022,2
+Ages 45-54,Age group,24,19,6626000,January 2022 through December 2022,2
+Ages 55-64,Age group,27,19,6255000,January 2022 through December 2022,2
+Ages 65 and above,Age group,38,19,2974000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,64,19,6775000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,53,19,12861000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,37,19,9557000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,30,19,6228000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,19,19,11425000,January 2022 through December 2022,0
+College or advanced degree,Education,13,19,7537000,January 2022 through December 2022,0
+High school diploma,Education,47,19,17321000,January 2022 through December 2022,0
+Less than high school diploma,Education,71,19,7641000,January 2022 through December 2022,0
+Some college,Education,39,19,14346000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,61,19,789000,January 2022 through December 2022,0
+Construction,Industry,27,19,2409000,January 2022 through December 2022,0
+Educational and health services,Industry,30,19,10080000,January 2022 through December 2022,0
+Financial activities,Industry,18,19,1729000,January 2022 through December 2022,0
+Information,Industry,20,19,515000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,65,19,8038000,January 2022 through December 2022,0
+Manufacturing,Industry,25,19,3614000,January 2022 through December 2022,0
+Mining,Industry,15,19,83000,January 2022 through December 2022,0
+Other services,Industry,43,19,2533000,January 2022 through December 2022,0
+Professional and business services,Industry,24,19,3995000,January 2022 through December 2022,0
+Public administration,Industry,18,19,1409000,January 2022 through December 2022,0
+Transportation and utilities,Industry,32,19,2817000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,49,19,8832000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,30,19,2013000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,74,19,673000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,23,19,1023000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,11,19,2610000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,40,19,6291000,January 2022 through December 2022,0
+Production occupations,Occupation,39,19,3056000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,16,19,5580000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,47,19,5742000,January 2022 through December 2022,0
+Service occupations,Occupation,63,19,14508000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,49,19,5350000,January 2022 through December 2022,0
+Works full-time,Part-time status,27,19,32574000,January 2022 through December 2022,0
+Works part-time,Part-time status,66,19,14271000,January 2022 through December 2022,0
+Government employee,Private/public sector,23,19,4903000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,35,19,41942000,January 2022 through December 2022,0
+Midwest,Region,34,19,10161000,January 2022 through December 2022,0
+Northeast,Region,29,19,7200000,January 2022 through December 2022,0
+South,Region,37,19,19698000,January 2022 through December 2022,0
+West,Region,30,19,9787000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,31,19,27473000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,37,19,19372000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,32,19,44025000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,68,19,2820000,January 2022 through December 2022,0
+In a union,Union status,19,19,3031000,January 2022 through December 2022,0
+Not in a union,Union status,35,19,43814000,January 2022 through December 2022,0
+All workers,All workers,36,20,51381000,January 2022 through December 2022,100
+Asian,Race and ethnicity,28,20,2924000,January 2022 through December 2022,99
+Black,Race and ethnicity,46,20,8411000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,49,20,12894000,January 2022 through December 2022,99
+White,Race and ethnicity,31,20,26469000,January 2022 through December 2022,99
+Female,Gender,42,20,28653000,January 2022 through December 2022,98
+Male,Gender,31,20,22728000,January 2022 through December 2022,98
+Ages 16-24,Age group,73,20,13775000,January 2022 through December 2022,2
+Ages 25-34,Age group,35,20,11578000,January 2022 through December 2022,2
+Ages 35-44,Age group,27,20,8357000,January 2022 through December 2022,2
+Ages 45-54,Age group,27,20,7487000,January 2022 through December 2022,2
+Ages 55-64,Age group,30,20,6977000,January 2022 through December 2022,2
+Ages 65 and above,Age group,41,20,3206000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,67,20,7090000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,58,20,14026000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,41,20,10478000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,33,20,7006000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,21,20,12781000,January 2022 through December 2022,0
+College or advanced degree,Education,15,20,8866000,January 2022 through December 2022,0
+High school diploma,Education,51,20,18807000,January 2022 through December 2022,0
+Less than high school diploma,Education,75,20,7993000,January 2022 through December 2022,0
+Some college,Education,43,20,15715000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,64,20,829000,January 2022 through December 2022,0
+Construction,Industry,30,20,2692000,January 2022 through December 2022,0
+Educational and health services,Industry,33,20,11180000,January 2022 through December 2022,0
+Financial activities,Industry,22,20,2042000,January 2022 through December 2022,0
+Information,Industry,22,20,566000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,68,20,8435000,January 2022 through December 2022,0
+Manufacturing,Industry,28,20,4120000,January 2022 through December 2022,0
+Mining,Industry,17,20,95000,January 2022 through December 2022,0
+Other services,Industry,46,20,2731000,January 2022 through December 2022,0
+Professional and business services,Industry,26,20,4422000,January 2022 through December 2022,0
+Public administration,Industry,21,20,1640000,January 2022 through December 2022,0
+Transportation and utilities,Industry,35,20,3152000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,53,20,9476000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,33,20,2261000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,77,20,695000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,26,20,1155000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,13,20,3133000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,45,20,7069000,January 2022 through December 2022,0
+Production occupations,Occupation,43,20,3368000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,18,20,6426000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,50,20,6110000,January 2022 through December 2022,0
+Service occupations,Occupation,67,20,15315000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,54,20,5848000,January 2022 through December 2022,0
+Works full-time,Part-time status,31,20,36605000,January 2022 through December 2022,0
+Works part-time,Part-time status,69,20,14776000,January 2022 through December 2022,0
+Government employee,Private/public sector,26,20,5567000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,38,20,45814000,January 2022 through December 2022,0
+Midwest,Region,37,20,11197000,January 2022 through December 2022,0
+Northeast,Region,32,20,7966000,January 2022 through December 2022,0
+South,Region,40,20,21431000,January 2022 through December 2022,0
+West,Region,33,20,10787000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,34,20,30223000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,40,20,21158000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,35,20,48434000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,71,20,2947000,January 2022 through December 2022,0
+In a union,Union status,22,20,3519000,January 2022 through December 2022,0
+Not in a union,Union status,38,20,47862000,January 2022 through December 2022,0
+All workers,All workers,41,21,57717000,January 2022 through December 2022,100
+Asian,Race and ethnicity,31,21,3302000,January 2022 through December 2022,99
+Black,Race and ethnicity,51,21,9228000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,55,21,14406000,January 2022 through December 2022,99
+White,Race and ethnicity,36,21,30018000,January 2022 through December 2022,99
+Female,Gender,47,21,31645000,January 2022 through December 2022,98
+Male,Gender,36,21,26072000,January 2022 through December 2022,98
+Ages 16-24,Age group,78,21,14721000,January 2022 through December 2022,2
+Ages 25-34,Age group,40,21,13341000,January 2022 through December 2022,2
+Ages 35-44,Age group,31,21,9550000,January 2022 through December 2022,2
+Ages 45-54,Age group,31,21,8612000,January 2022 through December 2022,2
+Ages 55-64,Age group,34,21,7933000,January 2022 through December 2022,2
+Ages 65 and above,Age group,45,21,3561000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,73,21,7663000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,64,21,15578000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,46,21,11918000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,38,21,7987000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,24,21,14572000,January 2022 through December 2022,0
+College or advanced degree,Education,18,21,10502000,January 2022 through December 2022,0
+High school diploma,Education,57,21,21013000,January 2022 through December 2022,0
+Less than high school diploma,Education,80,21,8583000,January 2022 through December 2022,0
+Some college,Education,48,21,17619000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,70,21,910000,January 2022 through December 2022,0
+Construction,Industry,37,21,3299000,January 2022 through December 2022,0
+Educational and health services,Industry,37,21,12530000,January 2022 through December 2022,0
+Financial activities,Industry,25,21,2390000,January 2022 through December 2022,0
+Information,Industry,26,21,663000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,72,21,8993000,January 2022 through December 2022,0
+Manufacturing,Industry,33,21,4845000,January 2022 through December 2022,0
+Mining,Industry,22,21,122000,January 2022 through December 2022,0
+Other services,Industry,51,21,3039000,January 2022 through December 2022,0
+Professional and business services,Industry,30,21,5045000,January 2022 through December 2022,0
+Public administration,Industry,25,21,1905000,January 2022 through December 2022,0
+Transportation and utilities,Industry,41,21,3653000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,58,21,10324000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,41,21,2785000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,83,21,756000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,32,21,1396000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,16,21,3734000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,52,21,8102000,January 2022 through December 2022,0
+Production occupations,Occupation,50,21,3906000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,21,21,7507000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,54,21,6550000,January 2022 through December 2022,0
+Service occupations,Occupation,72,21,16449000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,60,21,6532000,January 2022 through December 2022,0
+Works full-time,Part-time status,35,21,41936000,January 2022 through December 2022,0
+Works part-time,Part-time status,73,21,15781000,January 2022 through December 2022,0
+Government employee,Private/public sector,30,21,6351000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,43,21,51366000,January 2022 through December 2022,0
+Midwest,Region,42,21,12631000,January 2022 through December 2022,0
+Northeast,Region,36,21,9010000,January 2022 through December 2022,0
+South,Region,45,21,23734000,January 2022 through December 2022,0
+West,Region,37,21,12342000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,38,21,34154000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,45,21,23563000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,40,21,54585000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,75,21,3132000,January 2022 through December 2022,0
+In a union,Union status,26,21,4102000,January 2022 through December 2022,0
+Not in a union,Union status,43,21,53615000,January 2022 through December 2022,0
+All workers,All workers,44,22,61709000,January 2022 through December 2022,100
+Asian,Race and ethnicity,33,22,3534000,January 2022 through December 2022,99
+Black,Race and ethnicity,54,22,9805000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,58,22,15178000,January 2022 through December 2022,99
+White,Race and ethnicity,38,22,32381000,January 2022 through December 2022,99
+Female,Gender,50,22,33705000,January 2022 through December 2022,98
+Male,Gender,38,22,28004000,January 2022 through December 2022,98
+Ages 16-24,Age group,80,22,15100000,January 2022 through December 2022,2
+Ages 25-34,Age group,44,22,14550000,January 2022 through December 2022,2
+Ages 35-44,Age group,34,22,10418000,January 2022 through December 2022,2
+Ages 45-54,Age group,34,22,9373000,January 2022 through December 2022,2
+Ages 55-64,Age group,37,22,8509000,January 2022 through December 2022,2
+Ages 65 and above,Age group,48,22,3760000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,75,22,7908000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,68,22,16495000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,50,22,12825000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,41,22,8676000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,27,22,15805000,January 2022 through December 2022,0
+College or advanced degree,Education,21,22,11759000,January 2022 through December 2022,0
+High school diploma,Education,61,22,22306000,January 2022 through December 2022,0
+Less than high school diploma,Education,82,22,8765000,January 2022 through December 2022,0
+Some college,Education,52,22,18879000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,72,22,940000,January 2022 through December 2022,0
+Construction,Industry,40,22,3593000,January 2022 through December 2022,0
+Educational and health services,Industry,40,22,13578000,January 2022 through December 2022,0
+Financial activities,Industry,28,22,2650000,January 2022 through December 2022,0
+Information,Industry,28,22,723000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,74,22,9266000,January 2022 through December 2022,0
+Manufacturing,Industry,36,22,5299000,January 2022 through December 2022,0
+Mining,Industry,25,22,137000,January 2022 through December 2022,0
+Other services,Industry,54,22,3237000,January 2022 through December 2022,0
+Professional and business services,Industry,32,22,5416000,January 2022 through December 2022,0
+Public administration,Industry,27,22,2083000,January 2022 through December 2022,0
+Transportation and utilities,Industry,44,22,3925000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,61,22,10861000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,44,22,3018000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,85,22,772000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,35,22,1535000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,18,22,4248000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,56,22,8779000,January 2022 through December 2022,0
+Production occupations,Occupation,53,22,4195000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,23,22,8324000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,57,22,6892000,January 2022 through December 2022,0
+Service occupations,Occupation,74,22,17074000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,63,22,6873000,January 2022 through December 2022,0
+Works full-time,Part-time status,38,22,45599000,January 2022 through December 2022,0
+Works part-time,Part-time status,75,22,16110000,January 2022 through December 2022,0
+Government employee,Private/public sector,33,22,6965000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,46,22,54744000,January 2022 through December 2022,0
+Midwest,Region,45,22,13551000,January 2022 through December 2022,0
+Northeast,Region,39,22,9633000,January 2022 through December 2022,0
+South,Region,48,22,25248000,January 2022 through December 2022,0
+West,Region,40,22,13278000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,41,22,36636000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,48,22,25073000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,43,22,58488000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,77,22,3221000,January 2022 through December 2022,0
+In a union,Union status,29,22,4574000,January 2022 through December 2022,0
+Not in a union,Union status,46,22,57135000,January 2022 through December 2022,0
+All workers,All workers,46,23,65453000,January 2022 through December 2022,100
+Asian,Race and ethnicity,35,23,3749000,January 2022 through December 2022,99
+Black,Race and ethnicity,57,23,10418000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,61,23,15941000,January 2022 through December 2022,99
+White,Race and ethnicity,41,23,34491000,January 2022 through December 2022,99
+Female,Gender,52,23,35441000,January 2022 through December 2022,98
+Male,Gender,41,23,30012000,January 2022 through December 2022,98
+Ages 16-24,Age group,83,23,15501000,January 2022 through December 2022,2
+Ages 25-34,Age group,47,23,15624000,January 2022 through December 2022,2
+Ages 35-44,Age group,36,23,11247000,January 2022 through December 2022,2
+Ages 45-54,Age group,37,23,10100000,January 2022 through December 2022,2
+Ages 55-64,Age group,39,23,9037000,January 2022 through December 2022,2
+Ages 65 and above,Age group,50,23,3945000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,77,23,8159000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,72,23,17394000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,53,23,13647000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,44,23,9319000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,28,23,16934000,January 2022 through December 2022,0
+College or advanced degree,Education,22,23,12829000,January 2022 through December 2022,0
+High school diploma,Education,64,23,23517000,January 2022 through December 2022,0
+Less than high school diploma,Education,84,23,9021000,January 2022 through December 2022,0
+Some college,Education,55,23,20088000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,75,23,969000,January 2022 through December 2022,0
+Construction,Industry,43,23,3922000,January 2022 through December 2022,0
+Educational and health services,Industry,43,23,14418000,January 2022 through December 2022,0
+Financial activities,Industry,30,23,2889000,January 2022 through December 2022,0
+Information,Industry,30,23,766000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,77,23,9545000,January 2022 through December 2022,0
+Manufacturing,Industry,39,23,5780000,January 2022 through December 2022,0
+Mining,Industry,27,23,151000,January 2022 through December 2022,0
+Other services,Industry,57,23,3413000,January 2022 through December 2022,0
+Professional and business services,Industry,34,23,5754000,January 2022 through December 2022,0
+Public administration,Industry,30,23,2269000,January 2022 through December 2022,0
+Transportation and utilities,Industry,48,23,4256000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,63,23,11321000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,48,23,3306000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,87,23,788000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,38,23,1700000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,19,23,4645000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,60,23,9358000,January 2022 through December 2022,0
+Production occupations,Occupation,57,23,4507000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,25,23,9030000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,59,23,7174000,January 2022 through December 2022,0
+Service occupations,Occupation,77,23,17649000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,67,23,7298000,January 2022 through December 2022,0
+Works full-time,Part-time status,41,23,48980000,January 2022 through December 2022,0
+Works part-time,Part-time status,77,23,16474000,January 2022 through December 2022,0
+Government employee,Private/public sector,35,23,7513000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,48,23,57941000,January 2022 through December 2022,0
+Midwest,Region,48,23,14439000,January 2022 through December 2022,0
+Northeast,Region,41,23,10215000,January 2022 through December 2022,0
+South,Region,50,23,26639000,January 2022 through December 2022,0
+West,Region,43,23,14160000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,44,23,38944000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,51,23,26510000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,45,23,62139000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,80,23,3315000,January 2022 through December 2022,0
+In a union,Union status,32,23,5049000,January 2022 through December 2022,0
+Not in a union,Union status,48,23,60404000,January 2022 through December 2022,0
+All workers,All workers,49,24,68743000,January 2022 through December 2022,100
+Asian,Race and ethnicity,37,24,3933000,January 2022 through December 2022,99
+Black,Race and ethnicity,59,24,10825000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,63,24,16645000,January 2022 through December 2022,99
+White,Race and ethnicity,43,24,36461000,January 2022 through December 2022,99
+Female,Gender,55,24,37047000,January 2022 through December 2022,98
+Male,Gender,43,24,31696000,January 2022 through December 2022,98
+Ages 16-24,Age group,84,24,15805000,January 2022 through December 2022,2
+Ages 25-34,Age group,50,24,16513000,January 2022 through December 2022,2
+Ages 35-44,Age group,39,24,11980000,January 2022 through December 2022,2
+Ages 45-54,Age group,39,24,10749000,January 2022 through December 2022,2
+Ages 55-64,Age group,42,24,9594000,January 2022 through December 2022,2
+Ages 65 and above,Age group,52,24,4101000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,79,24,8323000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,74,24,18057000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,56,24,14421000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,47,24,9952000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,30,24,17988000,January 2022 through December 2022,0
+College or advanced degree,Education,24,24,13907000,January 2022 through December 2022,0
+High school diploma,Education,67,24,24528000,January 2022 through December 2022,0
+Less than high school diploma,Education,86,24,9177000,January 2022 through December 2022,0
+Some college,Education,58,24,21131000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,76,24,991000,January 2022 through December 2022,0
+Construction,Industry,46,24,4165000,January 2022 through December 2022,0
+Educational and health services,Industry,45,24,15259000,January 2022 through December 2022,0
+Financial activities,Industry,33,24,3121000,January 2022 through December 2022,0
+Information,Industry,31,24,799000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,78,24,9752000,January 2022 through December 2022,0
+Manufacturing,Industry,42,24,6198000,January 2022 through December 2022,0
+Mining,Industry,29,24,163000,January 2022 through December 2022,0
+Other services,Industry,60,24,3546000,January 2022 through December 2022,0
+Professional and business services,Industry,36,24,6057000,January 2022 through December 2022,0
+Public administration,Industry,32,24,2485000,January 2022 through December 2022,0
+Transportation and utilities,Industry,51,24,4508000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,65,24,11699000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,51,24,3489000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,88,24,798000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,41,24,1814000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,21,24,5121000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,64,24,9909000,January 2022 through December 2022,0
+Production occupations,Occupation,61,24,4802000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,27,24,9794000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,61,24,7417000,January 2022 through December 2022,0
+Service occupations,Occupation,79,24,18047000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,70,24,7552000,January 2022 through December 2022,0
+Works full-time,Part-time status,43,24,52006000,January 2022 through December 2022,0
+Works part-time,Part-time status,78,24,16737000,January 2022 through December 2022,0
+Government employee,Private/public sector,38,24,8104000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,51,24,60639000,January 2022 through December 2022,0
+Midwest,Region,50,24,15207000,January 2022 through December 2022,0
+Northeast,Region,43,24,10696000,January 2022 through December 2022,0
+South,Region,53,24,27870000,January 2022 through December 2022,0
+West,Region,45,24,14970000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,46,24,40966000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,53,24,27777000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,48,24,65376000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,81,24,3366000,January 2022 through December 2022,0
+In a union,Union status,34,24,5497000,January 2022 through December 2022,0
+Not in a union,Union status,51,24,63246000,January 2022 through December 2022,0
+All workers,All workers,51,25,72337000,January 2022 through December 2022,100
+Asian,Race and ethnicity,39,25,4156000,January 2022 through December 2022,99
+Black,Race and ethnicity,62,25,11300000,January 2022 through December 2022,99
+Hispanic,Race and ethnicity,66,25,17251000,January 2022 through December 2022,99
+White,Race and ethnicity,46,25,38714000,January 2022 through December 2022,99
+Female,Gender,57,25,38804000,January 2022 through December 2022,98
+Male,Gender,46,25,33532000,January 2022 through December 2022,98
+Ages 16-24,Age group,86,25,16114000,January 2022 through December 2022,2
+Ages 25-34,Age group,53,25,17581000,January 2022 through December 2022,2
+Ages 35-44,Age group,41,25,12784000,January 2022 through December 2022,2
+Ages 45-54,Age group,41,25,11411000,January 2022 through December 2022,2
+Ages 55-64,Age group,44,25,10192000,January 2022 through December 2022,2
+Ages 65 and above,Age group,54,25,4256000,January 2022 through December 2022,1
+"Family income  $24,999 or less",Annual family income,80,25,8487000,January 2022 through December 2022,0
+"Family income  $25,000 - $49,999",Annual family income,77,25,18669000,January 2022 through December 2022,0
+"Family income  $50,000 - $74,999",Annual family income,59,25,15223000,January 2022 through December 2022,0
+"Family income  $75,000 - $99,999",Annual family income,50,25,10614000,January 2022 through December 2022,0
+"Family income $100,000 or more",Annual family income,32,25,19343000,January 2022 through December 2022,0
+College or advanced degree,Education,27,25,15375000,January 2022 through December 2022,0
+High school diploma,Education,70,25,25489000,January 2022 through December 2022,0
+Less than high school diploma,Education,87,25,9335000,January 2022 through December 2022,0
+Some college,Education,61,25,22137000,January 2022 through December 2022,0
+"Agriculture, forestry, fishing, and hunting",Industry,78,25,1010000,January 2022 through December 2022,0
+Construction,Industry,49,25,4422000,January 2022 through December 2022,0
+Educational and health services,Industry,48,25,16178000,January 2022 through December 2022,0
+Financial activities,Industry,36,25,3400000,January 2022 through December 2022,0
+Information,Industry,33,25,851000,January 2022 through December 2022,0
+Leisure and hospitality,Industry,80,25,9966000,January 2022 through December 2022,0
+Manufacturing,Industry,45,25,6581000,January 2022 through December 2022,0
+Mining,Industry,31,25,174000,January 2022 through December 2022,0
+Other services,Industry,62,25,3690000,January 2022 through December 2022,0
+Professional and business services,Industry,38,25,6420000,January 2022 through December 2022,0
+Public administration,Industry,35,25,2711000,January 2022 through December 2022,0
+Transportation and utilities,Industry,54,25,4782000,January 2022 through December 2022,0
+Wholesale and retail trade,Industry,68,25,12152000,January 2022 through December 2022,0
+Construction and extraction occupations,Occupation,54,25,3649000,January 2022 through December 2022,0
+"Farming, fishing, and forestry occupations",Occupation,89,25,807000,January 2022 through December 2022,0
+"Installation, maintenance, and repair occupations",Occupation,45,25,1990000,January 2022 through December 2022,0
+"Management, business, and financial occupations",Occupation,24,25,5711000,January 2022 through December 2022,0
+Office and administrative support occupations,Occupation,67,25,10437000,January 2022 through December 2022,0
+Production occupations,Occupation,64,25,5043000,January 2022 through December 2022,0
+Professional and related occupations,Occupation,30,25,10643000,January 2022 through December 2022,0
+Sales and related occupations,Occupation,64,25,7744000,January 2022 through December 2022,0
+Service occupations,Occupation,80,25,18464000,January 2022 through December 2022,0
+Transportation and material moving occupations,Occupation,73,25,7849000,January 2022 through December 2022,0
+Works full-time,Part-time status,46,25,55368000,January 2022 through December 2022,0
+Works part-time,Part-time status,79,25,16969000,January 2022 through December 2022,0
+Government employee,Private/public sector,41,25,8736000,January 2022 through December 2022,0
+Private-sector employee,Private/public sector,53,25,63601000,January 2022 through December 2022,0
+Midwest,Region,53,25,16013000,January 2022 through December 2022,0
+Northeast,Region,46,25,11333000,January 2022 through December 2022,0
+South,Region,55,25,29265000,January 2022 through December 2022,0
+West,Region,48,25,15727000,January 2022 through December 2022,0
+State minimum exceeds federal minimum,State minimum wage,49,25,43169000,January 2022 through December 2022,0
+State minimum follows federal minimum,State minimum wage,56,25,29168000,January 2022 through December 2022,0
+Works in a non-tipped occupation,Tipped occupation,50,25,68899000,January 2022 through December 2022,0
+Works in a tipped occupation,Tipped occupation,83,25,3438000,January 2022 through December 2022,0
+In a union,Union status,37,25,5975000,January 2022 through December 2022,0
+Not in a union,Union status,53,25,66361000,January 2022 through December 2022,0
