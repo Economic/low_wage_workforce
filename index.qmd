@@ -3,6 +3,7 @@ output: html_document
 format:
   html:
     echo: false
+    embed-resources: true
 title: "How many low-wage workers are in the US?"
 open-graph:
   image: open_card.png
