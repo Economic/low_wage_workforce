@@ -4,8 +4,15 @@ library(epidatatools)
 library(lubridate)
 library(haven)
 
-org_raw <- load_org(2022:2022) |>
+org_raw <- load_org(
+    2009:2022, 
+    year, month, orgwgt, wageotc,
+    educ, age, wbhao, female, statefips, region,
+    mind03, mocc03, ind17, occ18, cow1, faminc, union, ftptstat
+  ) |>
   mutate(my_wage = wageotc) |>
+  # add inflation-adjusted wage
+  mutate(my_wage_real = my_wage * 1 / 1) %>% 
   filter(my_wage > 0) |>
   mutate(month_date = ym(paste(year, month)))
 
@@ -24,7 +31,6 @@ tipped_inds <- c(
 state_follows_fed_min <- c("AL", "GA", "ID", "IN", "IA", "KS", "KY", "LA", "MS", "NH", "NC", "ND", "OK", "PA", "SC", "TN", "TX", "UT", "WI", "WY")
 
 org_clean <- org_raw %>% 
-  filter(month_date >= min_date & month_date <= max_date) |>
   mutate(all = 1) |>
   mutate(all = labelled(all, c("All workers" = 1))) |>
   mutate(union = labelled(union, c("In a union" = 1, "Not in a union" = 0))) |>
@@ -94,6 +100,7 @@ org_clean <- org_raw %>%
 
 create_slice <- function(threshold) {
   org_clean |>
+    filter(month_date >= min_date & month_date <= max_date) |>
     mutate(low_wage = my_wage < threshold) |>
     summarize_groups(
       all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03, 
@@ -104,7 +111,7 @@ create_slice <- function(threshold) {
     mutate(low_wage_threshold = threshold)
 }
 
-results <- map_dfr(15:25, create_slice) |>
+results <- map_dfr(10:25, create_slice) |>
   filter(
     group_value_label != "Other",
     group_value_label != "Armed Forces"
@@ -141,9 +148,74 @@ results <- map_dfr(15:25, create_slice) |>
     category_group == "mind03" ~ "Industry",
     category_group == "mocc03" ~ "Occupation"
   )) |>
-  arrange(low_wage_threshold, desc(priority), category_group, category) 
+  arrange(low_wage_threshold, desc(priority), category_group, category)
 
-results |>
-  print(n=Inf)
+results %>% 
+  select(-priority) %>% 
+  relocate(
+    low_wage_threshold, 
+    category_group, category, 
+    low_wage_share, low_wage_count,
+    dates
+  ) %>% 
+  write_csv("low_wage_data.csv")
 
-write_csv(results, "low_wage_data.csv")
+
+## historical results
+
+BLS_API_KEY <- Sys.getenv("BLS_API_KEY")
+cpi_data <- blsR::get_series_table("CUSR0000SA0", BLS_API_KEY, start_year = 2009, end_year = 2023) %>% 
+  mutate(
+    month = str_sub(period, 2,3),
+    month_date = ym(paste(year, month))
+  ) %>% 
+  select(month_date, cpi_u = value)
+
+cpi_base <- cpi_data %>% 
+  filter(month_date == max_date) %>% 
+  pull(cpi_u)
+
+cpi_base_date <- format(max_date, "%B %Y")
+
+org_count = org_clean %>% 
+  filter(month_date >= min_date & month_date <= max_date) |>
+  summarize(sum(orgwgt / 12)) %>% 
+  pull()
+
+summarize_history <- function(df) {
+  df %>% 
+    mutate(low_wage = my_wage < threshold) %>% 
+    summarize(
+      share = weighted.mean(low_wage, w = orgwgt),
+      threshold = mean(threshold),
+      .by = month_date
+    ) %>% 
+    mutate(count = share * org_count / 10^6) %>% 
+    pivot_longer(c(share, count)) %>% 
+    arrange(name, month_date) %>% 
+    mutate(
+      value_12m = slider::slide_mean(value, before = 11, complete = TRUE),
+      .by = name
+    ) 
+}
+  
+create_historical_slice <- function(threshold) {
+  nominal_results <- org_clean |>
+    mutate(threshold = threshold) %>% 
+    summarize_history() %>% 
+    mutate(threshold_type = "nominal")
+    
+  org_clean |>
+    inner_join(cpi_data, by = "month_date") %>% 
+    mutate(threshold = threshold * cpi_u / cpi_base) %>% 
+    summarize_history() %>% 
+    mutate(threshold_type = "real") %>% 
+    bind_rows(nominal_results) %>% 
+    filter(month_date >= ym("2010m1")) %>% 
+    rename(threshold_actual = threshold) %>% 
+    mutate(threshold_nominal = threshold)
+}
+
+results_historical <- map_dfr(10:25, create_historical_slice)
+
+write_csv(results_historical, "low_wage_data_historical.csv")

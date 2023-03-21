@@ -1,14 +1,23 @@
 project:
-  title: "How many low-wage workers are there?"
   type: website
   output-dir: docs
+  resources: 
+    - "open_card.png"
+  
 website:
+  title: "Low-wage workforce tracker"
   site-url: "https://economic.github.io/low_wage_workforce"
   image: open_card.png
   open-graph: true
   twitter-card: true
-resources: 
-  - "open_card.png"
+  google-analytics: "G-FY2JEDFR9V"
+  navbar:
+    background: light
+    left:
+      - href: historical.qmd
+        text: Historical trends
+
 format:
   html:
     theme: cosmo
+    css: styles.css
