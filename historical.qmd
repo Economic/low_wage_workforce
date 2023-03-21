@@ -190,6 +190,6 @@ rangeStyles = htl.html`<style>
 
 ------------------------------------------------------------------------
 
-Low-Wage Workforce Calculator, Economic Policy Institute, March 2023, <https://economic.github.io/low_wage_workforce>.
+Low-Wage Workforce Tracker, Economic Policy Institute, March 2023, <https://economic.github.io/low_wage_workforce>.
 
 Notes: Analysis by [Ben Zipperer](https://www.epi.org/people/ben-zipperer/) of the Economic Policy Institute Current Population Survey [extracts](https://microdata.epi.org/). Wages include overtime, tips, and commissions. Values are 12-month smoothed shares or counts of workers earning under a given threshold. Real thresholds are in December 2022 dollars. Download the [data](low_wage_data_historical.csv) shown in the figure above or the [code](https://github.com/Economic/low_wage_workforce) that produces it.
