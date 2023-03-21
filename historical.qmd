@@ -64,7 +64,7 @@ Plot.plot({
   y: {
     grid: true,
     domain: [0, max_value_12m*1.10],
-    label: outcome == "share" ? "Percent of workforce" : "Millions of workers",
+    label: outcome == "share" ? "Percent of workforce earning less than $" + threshold : "Millions of workers earning less than $" + threshold,
     tickFormat: outcome == "share" ? ".0%" : ".0f"
   },
   x: {
