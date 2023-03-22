@@ -112,8 +112,6 @@ max_value_12m = Math.max(...range_value_category)
 ```
 
 ```{ojs}
-
-
 function Range(range, options = {}) {
   const [min, max] = range;
   const {

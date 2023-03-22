@@ -11,6 +11,7 @@ website:
   open-graph: true
   twitter-card: true
   google-analytics: "G-FY2JEDFR9V"
+  search: false
   navbar:
     background: light
     left:
