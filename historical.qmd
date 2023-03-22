@@ -64,7 +64,7 @@ Plot.plot({
   y: {
     grid: true,
     domain: [0, max_value_12m*1.10],
-    label: outcome == "share" ? "Percent of workforce earning less than $" + threshold : "Millions of workers earning less than $" + threshold,
+    label: outcome == "share" ? "Percent of workforce earning less than $" + threshold + " " + category_name: "Millions of workers earning less than $" + threshold + " " + category_name,
     tickFormat: outcome == "share" ? ".0%" : ".0f"
   },
   x: {
@@ -114,6 +114,8 @@ low_wage_filtered = low_wage_data.filter(d => d.threshold_nominal == threshold &
 range_value_category = [...new Set(low_wage_data.filter(d => d.name == outcome).map((item) => item.value_12m))]
 
 max_value_12m = Math.max(...range_value_category)
+
+category_name = category == "nominal" ? "(nominal)" : "(inflation-adjusted)"
 ```
 
 ```{ojs}
