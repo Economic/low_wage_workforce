@@ -60,7 +60,7 @@ viewof category = Inputs.radio(
 Plot.plot({
   <!-- width: Math.max(width, 500), -->
   <!-- height: Math.min(width, 1000), -->
-  style: "overflow: visible;",
+  style: "padding-top:1em; overflow:visible; font-size: 16px;",
   y: {
     grid: true,
     domain: [0, max_value_12m*1.10],
@@ -80,7 +80,12 @@ Plot.plot({
       y: "value_12m",
       text: outcome == "share" ? d => (d.value_12m * 100).toFixed(1) + '%' : d => (d.value_12m).toFixed(1) + 'm',
       textAnchor: "start",
-      dx: 3
+      dx: -20,
+      dy: -20
+    })),
+    Plot.dot(low_wage_filtered, Plot.selectLast({
+      x: "month_date",
+      y: "value_12m",
     }))
   ]
 })
