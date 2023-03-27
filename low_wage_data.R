@@ -3,6 +3,7 @@ library(epiextractr)
 library(epidatatools)
 library(lubridate)
 library(haven)
+library(kableExtra)
 
 org_raw <- load_org(
     2009:2022, 
@@ -12,7 +13,6 @@ org_raw <- load_org(
   ) |>
   mutate(my_wage = wageotc) |>
   # add inflation-adjusted wage
-  mutate(my_wage_real = my_wage * 1 / 1) %>% 
   filter(my_wage > 0) |>
   mutate(month_date = ym(paste(year, month)))
 
@@ -219,3 +219,40 @@ create_historical_slice <- function(threshold) {
 results_historical <- map_dfr(10:25, create_historical_slice)
 
 write_csv(results_historical, "low_wage_data_historical.csv")
+
+
+# example historical results
+org_2022 <- org_clean %>% 
+  filter(year == 2022, wbhao == 3) %>% 
+  summarize(sum(orgwgt / 12)) %>% 
+  pull()
+
+share_count_year <- function(threshold) {
+  org_clean %>%
+    filter(year == 2019 | year == 2022, wbhao == 3) %>% 
+    summarize(
+      share_under = weighted.mean(my_wage < threshold, w = orgwgt), 
+      total_pop = sum(orgwgt/12),
+      .by = year
+    ) %>% 
+    mutate(
+      number_under = round(share_under * total_pop / 1000) * 1000,
+      number_under_2022 = round(share_under * org_2022 / 1000) * 1000,
+      number_under = scales::label_comma()(number_under),
+      number_under_2022 = scales::label_comma()(number_under_2022),
+      share_under = scales::label_percent()(share_under)
+    ) %>% 
+    select(-total_pop) %>% 
+    column_to_rownames("year") %>% 
+    kbl(
+      align = "r",
+      col.names = c(
+        paste0("Share under $", threshold),
+        paste0("Number under $", threshold),
+        paste0("Number under $", threshold, " (2022 pop basis)")
+      )
+    ) %>% 
+      kable_styling(bootstrap_options = c("striped"))
+}
+
+

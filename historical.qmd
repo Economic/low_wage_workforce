@@ -16,7 +16,7 @@ twitter-card:
 low_wage_data = FileAttachment("low_wage_data_historical.csv").csv({ typed: true })
 ```
 
-::: {.panel-sidebar}
+::: {.panel-sidebar style="margin-right: 1em;"}
 ::: {style="margin-bottom: 1em;"}
 ```{ojs}
 
@@ -29,6 +29,7 @@ viewof outcome = Inputs.radio(
 })
 ```
 :::
+
 ::: {style="margin-bottom: 1em;"}
 ```{ojs}
 viewof threshold = Range([d3.min(thresholds), d3.max(thresholds)], {
@@ -51,16 +52,15 @@ viewof category = Inputs.radio(
 
 :::
 
+::: {.panel-fill}
 ```{ojs}
-//| panel: fill
-
 <!-- use t/f logic to set values, like in celsius example from -->
 <!-- https://observablehq.com/@observablehq/plot-scales#celsius -->
 
 Plot.plot({
   <!-- width: Math.max(width, 500), -->
   <!-- height: Math.min(width, 1000), -->
-  style: "padding-top:1em; overflow:visible; font-size: 16px;",
+  style: "padding-top:1em; overflow:visible; font-size: 16px; padding-right:1.5em",
   y: {
     grid: true,
     domain: [0, max_value_12m*1.10],
@@ -90,6 +90,7 @@ Plot.plot({
   ]
 })
 ```
+:::
 
 ```{ojs}
 //| include: false
