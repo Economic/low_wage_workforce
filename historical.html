@@ -97,13 +97,13 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Low-wage workforce tracker - Historical trends of low-wage workers in the US">
-<meta property="og:description" content="">
+<meta property="og:description" content="Historical trends of low-wage workers in the United States, with nominal and inflation-adjusted hourly wage thresholds.">
 <meta property="og:image" content="https://economic.github.io/low_wage_workforce/historical_card.png">
 <meta property="og:site-name" content="Low-wage workforce tracker">
 <meta property="og:image:height" content="630">
 <meta property="og:image:width" content="1200">
 <meta name="twitter:title" content="Low-wage workforce tracker - Historical trends of low-wage workers in the US">
-<meta name="twitter:description" content="">
+<meta name="twitter:description" content="Historical trends of low-wage workers in the United States, with nominal and inflation-adjusted hourly wage thresholds.">
 <meta name="twitter:image" content="https://economic.github.io/low_wage_workforce/historical_card.png">
 <meta name="twitter:creator" content="@benzipperer">
 <meta name="twitter:image-height" content="630">
@@ -175,7 +175,7 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 </header>
 
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="23" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 22;"><span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>low_wage_data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"low_wage_data_historical.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({ <span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span> })</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="26" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 25;"><span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>low_wage_data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"low_wage_data_historical.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({ <span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span> })</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-1" data-nodetype="declaration">
 
@@ -186,13 +186,13 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 <div class="panel-sidebar card bg-light p-2 g-col-24 g-col-lg-7" style="margin-right: 1em;">
 <div style="margin-bottom: 1em;">
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb2" data-startfrom="29" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 28;"><span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> add data download button <span class="op">--&gt;</span></span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> https<span class="op">:</span><span class="co">//observablehq.com/@jeremiak/download-data-button --&gt;</span></span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>viewof outcome <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">radio</span>(</span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>  <span class="kw">new</span> <span class="bu">Map</span>([[<span class="st">"Share of workers"</span><span class="op">,</span> <span class="st">"share"</span>]<span class="op">,</span> [<span class="st">"Number of workers"</span><span class="op">,</span> <span class="st">"count"</span>]])<span class="op">,</span> {</span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a>    <span class="dt">value</span><span class="op">:</span> <span class="st">"share"</span></span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb2" data-startfrom="32" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 31;"><span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> add data download button <span class="op">--&gt;</span></span>
+<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> https<span class="op">:</span><span class="co">//observablehq.com/@jeremiak/download-data-button --&gt;</span></span>
+<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>viewof outcome <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">radio</span>(</span>
+<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a>  <span class="kw">new</span> <span class="bu">Map</span>([[<span class="st">"Share of workers"</span><span class="op">,</span> <span class="st">"share"</span>]<span class="op">,</span> [<span class="st">"Number of workers"</span><span class="op">,</span> <span class="st">"count"</span>]])<span class="op">,</span> {</span>
+<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a>    <span class="dt">value</span><span class="op">:</span> <span class="st">"share"</span></span>
+<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-2" data-nodetype="declaration">
 
@@ -202,12 +202,12 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 </div>
 <div style="margin-bottom: 1em;">
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb3" data-startfrom="42" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 41;"><span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a>viewof threshold <span class="op">=</span> <span class="bu">Range</span>([d3<span class="op">.</span><span class="fu">min</span>(thresholds)<span class="op">,</span> d3<span class="op">.</span><span class="fu">max</span>(thresholds)]<span class="op">,</span> {</span>
-<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a>  <span class="dt">step</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span></span>
-<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a>  <span class="dt">value</span><span class="op">:</span> <span class="dv">15</span><span class="op">,</span></span>
-<span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a>  <span class="dt">format</span><span class="op">:</span> (x) <span class="kw">=&gt;</span> <span class="st">"$"</span> <span class="op">+</span> x<span class="op">,</span></span>
-<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a>  <span class="dt">label</span><span class="op">:</span> <span class="st">"Threshold"</span></span>
-<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb3" data-startfrom="45" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 44;"><span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a>viewof threshold <span class="op">=</span> <span class="bu">Range</span>([d3<span class="op">.</span><span class="fu">min</span>(thresholds)<span class="op">,</span> d3<span class="op">.</span><span class="fu">max</span>(thresholds)]<span class="op">,</span> {</span>
+<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a>  <span class="dt">step</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span></span>
+<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>  <span class="dt">value</span><span class="op">:</span> <span class="dv">15</span><span class="op">,</span></span>
+<span id="cb3-48"><a href="#cb3-48" aria-hidden="true" tabindex="-1"></a>  <span class="dt">format</span><span class="op">:</span> (x) <span class="kw">=&gt;</span> <span class="st">"$"</span> <span class="op">+</span> x<span class="op">,</span></span>
+<span id="cb3-49"><a href="#cb3-49" aria-hidden="true" tabindex="-1"></a>  <span class="dt">label</span><span class="op">:</span> <span class="st">"Threshold"</span></span>
+<span id="cb3-50"><a href="#cb3-50" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-3" data-nodetype="declaration">
 
@@ -217,10 +217,10 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 </div>
 <div style="margin-bottom: 1em;">
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb4" data-startfrom="53" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 52;"><span id="cb4-53"><a href="#cb4-53" aria-hidden="true" tabindex="-1"></a>viewof category <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">radio</span>(</span>
-<span id="cb4-54"><a href="#cb4-54" aria-hidden="true" tabindex="-1"></a>  <span class="kw">new</span> <span class="bu">Map</span>([[<span class="st">"Nominal threshold"</span><span class="op">,</span> <span class="st">"nominal"</span>]<span class="op">,</span> [<span class="st">"Real threshold"</span><span class="op">,</span> <span class="st">"real"</span>]])<span class="op">,</span> {</span>
-<span id="cb4-55"><a href="#cb4-55" aria-hidden="true" tabindex="-1"></a>    <span class="dt">value</span><span class="op">:</span> <span class="st">"nominal"</span></span>
-<span id="cb4-56"><a href="#cb4-56" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb4" data-startfrom="56" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 55;"><span id="cb4-56"><a href="#cb4-56" aria-hidden="true" tabindex="-1"></a>viewof category <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">radio</span>(</span>
+<span id="cb4-57"><a href="#cb4-57" aria-hidden="true" tabindex="-1"></a>  <span class="kw">new</span> <span class="bu">Map</span>([[<span class="st">"Nominal threshold"</span><span class="op">,</span> <span class="st">"nominal"</span>]<span class="op">,</span> [<span class="st">"Real threshold"</span><span class="op">,</span> <span class="st">"real"</span>]])<span class="op">,</span> {</span>
+<span id="cb4-58"><a href="#cb4-58" aria-hidden="true" tabindex="-1"></a>    <span class="dt">value</span><span class="op">:</span> <span class="st">"nominal"</span></span>
+<span id="cb4-59"><a href="#cb4-59" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-4" data-nodetype="declaration">
 
@@ -233,41 +233,41 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 <div class="g-col-24">
 <div class="panel-fill">
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb5" data-startfrom="64" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 63;"><span id="cb5-64"><a href="#cb5-64" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> use t<span class="op">/</span>f logic to <span class="kw">set</span> values<span class="op">,</span> like <span class="kw">in</span> celsius example <span class="im">from</span> <span class="op">--&gt;</span></span>
-<span id="cb5-65"><a href="#cb5-65" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> https<span class="op">:</span><span class="co">//observablehq.com/@observablehq/plot-scales#celsius --&gt;</span></span>
-<span id="cb5-66"><a href="#cb5-66" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-67"><a href="#cb5-67" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
-<span id="cb5-68"><a href="#cb5-68" aria-hidden="true" tabindex="-1"></a>  <span class="op">&lt;!--</span> <span class="dt">width</span><span class="op">:</span> <span class="bu">Math</span><span class="op">.</span><span class="fu">max</span>(width<span class="op">,</span> <span class="dv">500</span>)<span class="op">,</span> <span class="op">--&gt;</span></span>
-<span id="cb5-69"><a href="#cb5-69" aria-hidden="true" tabindex="-1"></a>  <span class="op">&lt;!--</span> <span class="dt">height</span><span class="op">:</span> <span class="bu">Math</span><span class="op">.</span><span class="fu">min</span>(width<span class="op">,</span> <span class="dv">1000</span>)<span class="op">,</span> <span class="op">--&gt;</span></span>
-<span id="cb5-70"><a href="#cb5-70" aria-hidden="true" tabindex="-1"></a>  <span class="dt">style</span><span class="op">:</span> <span class="st">"padding-top:1em; overflow:visible; font-size: 16px; padding-right:1.5em"</span><span class="op">,</span></span>
-<span id="cb5-71"><a href="#cb5-71" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {</span>
-<span id="cb5-72"><a href="#cb5-72" aria-hidden="true" tabindex="-1"></a>    <span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span><span class="op">,</span></span>
-<span id="cb5-73"><a href="#cb5-73" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [<span class="dv">0</span><span class="op">,</span> max_value_12m<span class="op">*</span><span class="fl">1.10</span>]<span class="op">,</span></span>
-<span id="cb5-74"><a href="#cb5-74" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> outcome <span class="op">==</span> <span class="st">"share"</span> <span class="op">?</span> <span class="st">"Percent of workforce earning less than $"</span> <span class="op">+</span> threshold <span class="op">+</span> <span class="st">" "</span> <span class="op">+</span> category_name<span class="op">:</span> <span class="st">"Millions of workers earning less than $"</span> <span class="op">+</span> threshold <span class="op">+</span> <span class="st">" "</span> <span class="op">+</span> category_name<span class="op">,</span></span>
-<span id="cb5-75"><a href="#cb5-75" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickFormat</span><span class="op">:</span> outcome <span class="op">==</span> <span class="st">"share"</span> <span class="op">?</span> <span class="st">".0%"</span> <span class="op">:</span> <span class="st">".0f"</span></span>
-<span id="cb5-76"><a href="#cb5-76" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
-<span id="cb5-77"><a href="#cb5-77" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
-<span id="cb5-78"><a href="#cb5-78" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span></span>
+<div class="sourceCode cell-code hidden" id="cb5" data-startfrom="67" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 66;"><span id="cb5-67"><a href="#cb5-67" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> use t<span class="op">/</span>f logic to <span class="kw">set</span> values<span class="op">,</span> like <span class="kw">in</span> celsius example <span class="im">from</span> <span class="op">--&gt;</span></span>
+<span id="cb5-68"><a href="#cb5-68" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;!--</span> https<span class="op">:</span><span class="co">//observablehq.com/@observablehq/plot-scales#celsius --&gt;</span></span>
+<span id="cb5-69"><a href="#cb5-69" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-70"><a href="#cb5-70" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb5-71"><a href="#cb5-71" aria-hidden="true" tabindex="-1"></a>  <span class="op">&lt;!--</span> <span class="dt">width</span><span class="op">:</span> <span class="bu">Math</span><span class="op">.</span><span class="fu">max</span>(width<span class="op">,</span> <span class="dv">500</span>)<span class="op">,</span> <span class="op">--&gt;</span></span>
+<span id="cb5-72"><a href="#cb5-72" aria-hidden="true" tabindex="-1"></a>  <span class="op">&lt;!--</span> <span class="dt">height</span><span class="op">:</span> <span class="bu">Math</span><span class="op">.</span><span class="fu">min</span>(width<span class="op">,</span> <span class="dv">1000</span>)<span class="op">,</span> <span class="op">--&gt;</span></span>
+<span id="cb5-73"><a href="#cb5-73" aria-hidden="true" tabindex="-1"></a>  <span class="dt">style</span><span class="op">:</span> <span class="st">"padding-top:1em; overflow:visible; font-size: 16px; padding-right:1.5em"</span><span class="op">,</span></span>
+<span id="cb5-74"><a href="#cb5-74" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {</span>
+<span id="cb5-75"><a href="#cb5-75" aria-hidden="true" tabindex="-1"></a>    <span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span><span class="op">,</span></span>
+<span id="cb5-76"><a href="#cb5-76" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [<span class="dv">0</span><span class="op">,</span> max_value_12m<span class="op">*</span><span class="fl">1.10</span>]<span class="op">,</span></span>
+<span id="cb5-77"><a href="#cb5-77" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> outcome <span class="op">==</span> <span class="st">"share"</span> <span class="op">?</span> <span class="st">"Percent of workforce earning less than $"</span> <span class="op">+</span> threshold <span class="op">+</span> <span class="st">" "</span> <span class="op">+</span> category_name<span class="op">:</span> <span class="st">"Millions of workers earning less than $"</span> <span class="op">+</span> threshold <span class="op">+</span> <span class="st">" "</span> <span class="op">+</span> category_name<span class="op">,</span></span>
+<span id="cb5-78"><a href="#cb5-78" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickFormat</span><span class="op">:</span> outcome <span class="op">==</span> <span class="st">"share"</span> <span class="op">?</span> <span class="st">".0%"</span> <span class="op">:</span> <span class="st">".0f"</span></span>
 <span id="cb5-79"><a href="#cb5-79" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
-<span id="cb5-80"><a href="#cb5-80" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
-<span id="cb5-81"><a href="#cb5-81" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">line</span>(low_wage_filtered<span class="op">,</span> {</span>
-<span id="cb5-82"><a href="#cb5-82" aria-hidden="true" tabindex="-1"></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"month_date"</span><span class="op">,</span> </span>
-<span id="cb5-83"><a href="#cb5-83" aria-hidden="true" tabindex="-1"></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"value_12m"</span><span class="op">,</span></span>
-<span id="cb5-84"><a href="#cb5-84" aria-hidden="true" tabindex="-1"></a>    })<span class="op">,</span></span>
-<span id="cb5-85"><a href="#cb5-85" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">text</span>(low_wage_filtered<span class="op">,</span> Plot<span class="op">.</span><span class="fu">selectLast</span>({</span>
-<span id="cb5-86"><a href="#cb5-86" aria-hidden="true" tabindex="-1"></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"month_date"</span><span class="op">,</span></span>
-<span id="cb5-87"><a href="#cb5-87" aria-hidden="true" tabindex="-1"></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"value_12m"</span><span class="op">,</span></span>
-<span id="cb5-88"><a href="#cb5-88" aria-hidden="true" tabindex="-1"></a>      <span class="dt">text</span><span class="op">:</span> outcome <span class="op">==</span> <span class="st">"share"</span> <span class="op">?</span> d <span class="kw">=&gt;</span> (d<span class="op">.</span><span class="at">value_12m</span> <span class="op">*</span> <span class="dv">100</span>)<span class="op">.</span><span class="fu">toFixed</span>(<span class="dv">1</span>) <span class="op">+</span> <span class="st">'%'</span> <span class="op">:</span> d <span class="kw">=&gt;</span> (d<span class="op">.</span><span class="at">value_12m</span>)<span class="op">.</span><span class="fu">toFixed</span>(<span class="dv">1</span>) <span class="op">+</span> <span class="st">'m'</span><span class="op">,</span></span>
-<span id="cb5-89"><a href="#cb5-89" aria-hidden="true" tabindex="-1"></a>      <span class="dt">textAnchor</span><span class="op">:</span> <span class="st">"start"</span><span class="op">,</span></span>
-<span id="cb5-90"><a href="#cb5-90" aria-hidden="true" tabindex="-1"></a>      <span class="dt">dx</span><span class="op">:</span> <span class="op">-</span><span class="dv">20</span><span class="op">,</span></span>
-<span id="cb5-91"><a href="#cb5-91" aria-hidden="true" tabindex="-1"></a>      <span class="dt">dy</span><span class="op">:</span> <span class="op">-</span><span class="dv">20</span></span>
-<span id="cb5-92"><a href="#cb5-92" aria-hidden="true" tabindex="-1"></a>    }))<span class="op">,</span></span>
-<span id="cb5-93"><a href="#cb5-93" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">dot</span>(low_wage_filtered<span class="op">,</span> Plot<span class="op">.</span><span class="fu">selectLast</span>({</span>
-<span id="cb5-94"><a href="#cb5-94" aria-hidden="true" tabindex="-1"></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"month_date"</span><span class="op">,</span></span>
-<span id="cb5-95"><a href="#cb5-95" aria-hidden="true" tabindex="-1"></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"value_12m"</span><span class="op">,</span></span>
-<span id="cb5-96"><a href="#cb5-96" aria-hidden="true" tabindex="-1"></a>    }))</span>
-<span id="cb5-97"><a href="#cb5-97" aria-hidden="true" tabindex="-1"></a>  ]</span>
-<span id="cb5-98"><a href="#cb5-98" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb5-80"><a href="#cb5-80" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb5-81"><a href="#cb5-81" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span></span>
+<span id="cb5-82"><a href="#cb5-82" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb5-83"><a href="#cb5-83" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb5-84"><a href="#cb5-84" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">line</span>(low_wage_filtered<span class="op">,</span> {</span>
+<span id="cb5-85"><a href="#cb5-85" aria-hidden="true" tabindex="-1"></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"month_date"</span><span class="op">,</span> </span>
+<span id="cb5-86"><a href="#cb5-86" aria-hidden="true" tabindex="-1"></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"value_12m"</span><span class="op">,</span></span>
+<span id="cb5-87"><a href="#cb5-87" aria-hidden="true" tabindex="-1"></a>    })<span class="op">,</span></span>
+<span id="cb5-88"><a href="#cb5-88" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">text</span>(low_wage_filtered<span class="op">,</span> Plot<span class="op">.</span><span class="fu">selectLast</span>({</span>
+<span id="cb5-89"><a href="#cb5-89" aria-hidden="true" tabindex="-1"></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"month_date"</span><span class="op">,</span></span>
+<span id="cb5-90"><a href="#cb5-90" aria-hidden="true" tabindex="-1"></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"value_12m"</span><span class="op">,</span></span>
+<span id="cb5-91"><a href="#cb5-91" aria-hidden="true" tabindex="-1"></a>      <span class="dt">text</span><span class="op">:</span> outcome <span class="op">==</span> <span class="st">"share"</span> <span class="op">?</span> d <span class="kw">=&gt;</span> (d<span class="op">.</span><span class="at">value_12m</span> <span class="op">*</span> <span class="dv">100</span>)<span class="op">.</span><span class="fu">toFixed</span>(<span class="dv">1</span>) <span class="op">+</span> <span class="st">'%'</span> <span class="op">:</span> d <span class="kw">=&gt;</span> (d<span class="op">.</span><span class="at">value_12m</span>)<span class="op">.</span><span class="fu">toFixed</span>(<span class="dv">1</span>) <span class="op">+</span> <span class="st">'m'</span><span class="op">,</span></span>
+<span id="cb5-92"><a href="#cb5-92" aria-hidden="true" tabindex="-1"></a>      <span class="dt">textAnchor</span><span class="op">:</span> <span class="st">"start"</span><span class="op">,</span></span>
+<span id="cb5-93"><a href="#cb5-93" aria-hidden="true" tabindex="-1"></a>      <span class="dt">dx</span><span class="op">:</span> <span class="op">-</span><span class="dv">20</span><span class="op">,</span></span>
+<span id="cb5-94"><a href="#cb5-94" aria-hidden="true" tabindex="-1"></a>      <span class="dt">dy</span><span class="op">:</span> <span class="op">-</span><span class="dv">20</span></span>
+<span id="cb5-95"><a href="#cb5-95" aria-hidden="true" tabindex="-1"></a>    }))<span class="op">,</span></span>
+<span id="cb5-96"><a href="#cb5-96" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">dot</span>(low_wage_filtered<span class="op">,</span> Plot<span class="op">.</span><span class="fu">selectLast</span>({</span>
+<span id="cb5-97"><a href="#cb5-97" aria-hidden="true" tabindex="-1"></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"month_date"</span><span class="op">,</span></span>
+<span id="cb5-98"><a href="#cb5-98" aria-hidden="true" tabindex="-1"></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"value_12m"</span><span class="op">,</span></span>
+<span id="cb5-99"><a href="#cb5-99" aria-hidden="true" tabindex="-1"></a>    }))</span>
+<span id="cb5-100"><a href="#cb5-100" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb5-101"><a href="#cb5-101" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-5" data-nodetype="expression">
 
@@ -279,29 +279,29 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 </div>
 </div>
 <div class="cell" data-include="false">
-<div class="sourceCode cell-code hidden" id="cb6" data-startfrom="105" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 104;"><span id="cb6-105"><a href="#cb6-105" aria-hidden="true" tabindex="-1"></a>overall_count <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">find</span>(x <span class="kw">=&gt;</span> x<span class="op">.</span><span class="at">low_wage_threshold</span> <span class="op">==</span> threshold <span class="op">&amp;</span> x<span class="op">.</span><span class="at">category_group</span> <span class="op">==</span> <span class="st">"All workers"</span>)<span class="op">.</span><span class="at">count</span></span>
-<span id="cb6-106"><a href="#cb6-106" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-107"><a href="#cb6-107" aria-hidden="true" tabindex="-1"></a>overall_count_formatted <span class="op">=</span> d3<span class="op">.</span><span class="fu">format</span>(<span class="st">".0f"</span>)(overall_count <span class="op">/</span> <span class="dv">10</span><span class="op">**</span><span class="dv">6</span>)</span>
-<span id="cb6-108"><a href="#cb6-108" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-109"><a href="#cb6-109" aria-hidden="true" tabindex="-1"></a>thresholds <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">threshold_nominal</span>))]</span>
-<span id="cb6-110"><a href="#cb6-110" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-111"><a href="#cb6-111" aria-hidden="true" tabindex="-1"></a>categories <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">threshold_type</span>))]</span>
-<span id="cb6-112"><a href="#cb6-112" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-113"><a href="#cb6-113" aria-hidden="true" tabindex="-1"></a>outcomes <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">name</span>))]</span>
-<span id="cb6-114"><a href="#cb6-114" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-115"><a href="#cb6-115" aria-hidden="true" tabindex="-1"></a>d3 <span class="op">=</span> require<span class="op">.</span><span class="fu">alias</span>({</span>
-<span id="cb6-116"><a href="#cb6-116" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-drag"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
-<span id="cb6-117"><a href="#cb6-117" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-ease"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
-<span id="cb6-118"><a href="#cb6-118" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-selection"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
-<span id="cb6-119"><a href="#cb6-119" aria-hidden="true" tabindex="-1"></a>})(<span class="st">"d3@7"</span><span class="op">,</span> <span class="st">"d3-simple-slider"</span>)</span>
-<span id="cb6-120"><a href="#cb6-120" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-121"><a href="#cb6-121" aria-hidden="true" tabindex="-1"></a>low_wage_filtered <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">filter</span>(d <span class="kw">=&gt;</span> d<span class="op">.</span><span class="at">threshold_nominal</span> <span class="op">==</span> threshold <span class="op">&amp;</span> d<span class="op">.</span><span class="at">name</span> <span class="op">==</span> outcome <span class="op">&amp;</span> d<span class="op">.</span><span class="at">threshold_type</span> <span class="op">==</span> category)</span>
-<span id="cb6-122"><a href="#cb6-122" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-123"><a href="#cb6-123" aria-hidden="true" tabindex="-1"></a>range_value_category <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">filter</span>(d <span class="kw">=&gt;</span> d<span class="op">.</span><span class="at">name</span> <span class="op">==</span> outcome)<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">value_12m</span>))]</span>
-<span id="cb6-124"><a href="#cb6-124" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-125"><a href="#cb6-125" aria-hidden="true" tabindex="-1"></a>max_value_12m <span class="op">=</span> <span class="bu">Math</span><span class="op">.</span><span class="fu">max</span>(<span class="op">...</span>range_value_category)</span>
-<span id="cb6-126"><a href="#cb6-126" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-127"><a href="#cb6-127" aria-hidden="true" tabindex="-1"></a>category_name <span class="op">=</span> category <span class="op">==</span> <span class="st">"nominal"</span> <span class="op">?</span> <span class="st">"(nominal)"</span> <span class="op">:</span> <span class="st">"(inflation-adjusted)"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb6" data-startfrom="108" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 107;"><span id="cb6-108"><a href="#cb6-108" aria-hidden="true" tabindex="-1"></a>overall_count <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">find</span>(x <span class="kw">=&gt;</span> x<span class="op">.</span><span class="at">low_wage_threshold</span> <span class="op">==</span> threshold <span class="op">&amp;</span> x<span class="op">.</span><span class="at">category_group</span> <span class="op">==</span> <span class="st">"All workers"</span>)<span class="op">.</span><span class="at">count</span></span>
+<span id="cb6-109"><a href="#cb6-109" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-110"><a href="#cb6-110" aria-hidden="true" tabindex="-1"></a>overall_count_formatted <span class="op">=</span> d3<span class="op">.</span><span class="fu">format</span>(<span class="st">".0f"</span>)(overall_count <span class="op">/</span> <span class="dv">10</span><span class="op">**</span><span class="dv">6</span>)</span>
+<span id="cb6-111"><a href="#cb6-111" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-112"><a href="#cb6-112" aria-hidden="true" tabindex="-1"></a>thresholds <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">threshold_nominal</span>))]</span>
+<span id="cb6-113"><a href="#cb6-113" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-114"><a href="#cb6-114" aria-hidden="true" tabindex="-1"></a>categories <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">threshold_type</span>))]</span>
+<span id="cb6-115"><a href="#cb6-115" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-116"><a href="#cb6-116" aria-hidden="true" tabindex="-1"></a>outcomes <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">name</span>))]</span>
+<span id="cb6-117"><a href="#cb6-117" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-118"><a href="#cb6-118" aria-hidden="true" tabindex="-1"></a>d3 <span class="op">=</span> require<span class="op">.</span><span class="fu">alias</span>({</span>
+<span id="cb6-119"><a href="#cb6-119" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-drag"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
+<span id="cb6-120"><a href="#cb6-120" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-ease"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
+<span id="cb6-121"><a href="#cb6-121" aria-hidden="true" tabindex="-1"></a>  <span class="st">"d3-selection"</span><span class="op">:</span> <span class="st">"d3@7"</span><span class="op">,</span></span>
+<span id="cb6-122"><a href="#cb6-122" aria-hidden="true" tabindex="-1"></a>})(<span class="st">"d3@7"</span><span class="op">,</span> <span class="st">"d3-simple-slider"</span>)</span>
+<span id="cb6-123"><a href="#cb6-123" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-124"><a href="#cb6-124" aria-hidden="true" tabindex="-1"></a>low_wage_filtered <span class="op">=</span> low_wage_data<span class="op">.</span><span class="fu">filter</span>(d <span class="kw">=&gt;</span> d<span class="op">.</span><span class="at">threshold_nominal</span> <span class="op">==</span> threshold <span class="op">&amp;</span> d<span class="op">.</span><span class="at">name</span> <span class="op">==</span> outcome <span class="op">&amp;</span> d<span class="op">.</span><span class="at">threshold_type</span> <span class="op">==</span> category)</span>
+<span id="cb6-125"><a href="#cb6-125" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-126"><a href="#cb6-126" aria-hidden="true" tabindex="-1"></a>range_value_category <span class="op">=</span> [<span class="op">...</span><span class="kw">new</span> <span class="bu">Set</span>(low_wage_data<span class="op">.</span><span class="fu">filter</span>(d <span class="kw">=&gt;</span> d<span class="op">.</span><span class="at">name</span> <span class="op">==</span> outcome)<span class="op">.</span><span class="fu">map</span>((item) <span class="kw">=&gt;</span> item<span class="op">.</span><span class="at">value_12m</span>))]</span>
+<span id="cb6-127"><a href="#cb6-127" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-128"><a href="#cb6-128" aria-hidden="true" tabindex="-1"></a>max_value_12m <span class="op">=</span> <span class="bu">Math</span><span class="op">.</span><span class="fu">max</span>(<span class="op">...</span>range_value_category)</span>
+<span id="cb6-129"><a href="#cb6-129" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-130"><a href="#cb6-130" aria-hidden="true" tabindex="-1"></a>category_name <span class="op">=</span> category <span class="op">==</span> <span class="st">"nominal"</span> <span class="op">?</span> <span class="st">"(nominal)"</span> <span class="op">:</span> <span class="st">"(inflation-adjusted)"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display hidden">
 <div>
 <div id="ojs-cell-6-1" data-nodetype="declaration">
@@ -374,78 +374,78 @@ gtag('config', 'G-FY2JEDFR9V', { 'anonymize_ip': true});
 </div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb7" data-startfrom="131" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 130;"><span id="cb7-131"><a href="#cb7-131" aria-hidden="true" tabindex="-1"></a><span class="kw">function</span> <span class="fu">Range</span>(range<span class="op">,</span> options <span class="op">=</span> {}) {</span>
-<span id="cb7-132"><a href="#cb7-132" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> [min<span class="op">,</span> max] <span class="op">=</span> range<span class="op">;</span></span>
-<span id="cb7-133"><a href="#cb7-133" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> {</span>
-<span id="cb7-134"><a href="#cb7-134" aria-hidden="true" tabindex="-1"></a>    className <span class="op">=</span> <span class="st">"Range"</span><span class="op">,</span></span>
-<span id="cb7-135"><a href="#cb7-135" aria-hidden="true" tabindex="-1"></a>    vertical <span class="op">=</span> <span class="kw">false</span><span class="op">,</span></span>
-<span id="cb7-136"><a href="#cb7-136" aria-hidden="true" tabindex="-1"></a>    label <span class="op">=</span> <span class="kw">null</span><span class="op">,</span></span>
-<span id="cb7-137"><a href="#cb7-137" aria-hidden="true" tabindex="-1"></a>    format <span class="op">=</span> (x) <span class="kw">=&gt;</span> <span class="op">+</span>x<span class="op">,</span></span>
-<span id="cb7-138"><a href="#cb7-138" aria-hidden="true" tabindex="-1"></a>    step <span class="op">=</span> <span class="dv">1</span><span class="op">,</span></span>
-<span id="cb7-139"><a href="#cb7-139" aria-hidden="true" tabindex="-1"></a>    value <span class="op">=</span> (min <span class="op">+</span> max) <span class="op">/</span> <span class="dv">2</span><span class="op">,</span></span>
-<span id="cb7-140"><a href="#cb7-140" aria-hidden="true" tabindex="-1"></a>    style <span class="op">=</span> <span class="st">""</span><span class="op">,</span></span>
-<span id="cb7-141"><a href="#cb7-141" aria-hidden="true" tabindex="-1"></a>    labelStyle <span class="op">=</span> <span class="st">""</span><span class="op">,</span></span>
-<span id="cb7-142"><a href="#cb7-142" aria-hidden="true" tabindex="-1"></a>    rangeStyle <span class="op">=</span> <span class="st">""</span><span class="op">,</span></span>
-<span id="cb7-143"><a href="#cb7-143" aria-hidden="true" tabindex="-1"></a>    valueStyle <span class="op">=</span> <span class="st">""</span></span>
-<span id="cb7-144"><a href="#cb7-144" aria-hidden="true" tabindex="-1"></a>  } <span class="op">=</span> options<span class="op">;</span></span>
-<span id="cb7-145"><a href="#cb7-145" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> rangeWrap <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;div class=</span><span class="sc">${</span>className<span class="sc">}</span><span class="vs"> style="</span><span class="sc">${</span>style<span class="sc">}</span><span class="vs">"&gt;&lt;/div&gt;`</span><span class="op">;</span></span>
-<span id="cb7-146"><a href="#cb7-146" aria-hidden="true" tabindex="-1"></a>  <span class="bu">Object</span><span class="op">.</span><span class="fu">assign</span>(rangeWrap<span class="op">.</span><span class="at">style</span><span class="op">,</span> {</span>
-<span id="cb7-147"><a href="#cb7-147" aria-hidden="true" tabindex="-1"></a>    <span class="dt">display</span><span class="op">:</span> <span class="st">"inline-flex"</span><span class="op">,</span></span>
-<span id="cb7-148"><a href="#cb7-148" aria-hidden="true" tabindex="-1"></a>    <span class="dt">position</span><span class="op">:</span> <span class="st">"relative"</span><span class="op">,</span></span>
-<span id="cb7-149"><a href="#cb7-149" aria-hidden="true" tabindex="-1"></a>    <span class="dt">userSelect</span><span class="op">:</span> <span class="st">"none"</span></span>
-<span id="cb7-150"><a href="#cb7-150" aria-hidden="true" tabindex="-1"></a>  })<span class="op">;</span></span>
-<span id="cb7-151"><a href="#cb7-151" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> valueDisplay <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;output style="</span><span class="sc">${</span>valueStyle<span class="sc">}</span><span class="vs">"&gt;`</span><span class="op">;</span></span>
-<span id="cb7-152"><a href="#cb7-152" aria-hidden="true" tabindex="-1"></a>  <span class="bu">Object</span><span class="op">.</span><span class="fu">assign</span>(valueDisplay<span class="op">.</span><span class="at">style</span><span class="op">,</span> {</span>
-<span id="cb7-153"><a href="#cb7-153" aria-hidden="true" tabindex="-1"></a>    <span class="dt">display</span><span class="op">:</span> <span class="st">"inline-block"</span></span>
-<span id="cb7-154"><a href="#cb7-154" aria-hidden="true" tabindex="-1"></a>  })<span class="op">;</span></span>
-<span id="cb7-155"><a href="#cb7-155" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> rangeInput <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;input type=range min=</span><span class="sc">${</span>min<span class="sc">}</span><span class="vs"> max=</span><span class="sc">${</span>max<span class="sc">}</span><span class="vs"> step=</span><span class="sc">${</span>step<span class="sc">}</span><span class="vs"> value=</span><span class="sc">${</span>value<span class="sc">}</span><span class="vs"> style=</span><span class="sc">${</span>rangeStyle<span class="sc">}</span><span class="vs">&gt;`</span><span class="op">;</span></span>
-<span id="cb7-156"><a href="#cb7-156" aria-hidden="true" tabindex="-1"></a>  <span class="bu">Object</span><span class="op">.</span><span class="fu">assign</span>(rangeInput<span class="op">.</span><span class="at">style</span><span class="op">,</span> {</span>
-<span id="cb7-157"><a href="#cb7-157" aria-hidden="true" tabindex="-1"></a>    <span class="dt">display</span><span class="op">:</span> <span class="st">"inline-block"</span></span>
-<span id="cb7-158"><a href="#cb7-158" aria-hidden="true" tabindex="-1"></a>  })<span class="op">;</span></span>
-<span id="cb7-159"><a href="#cb7-159" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (vertical) {</span>
-<span id="cb7-160"><a href="#cb7-160" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="fu">setAttribute</span>(<span class="st">"orient"</span><span class="op">,</span> <span class="st">"vertical"</span>)<span class="op">;</span></span>
-<span id="cb7-161"><a href="#cb7-161" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="at">style</span><span class="op">.</span><span class="at">writingMode</span> <span class="op">=</span> <span class="st">"bt-lr"</span><span class="op">;</span> <span class="co">/* IE */</span></span>
-<span id="cb7-162"><a href="#cb7-162" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="at">style</span>[<span class="st">"-webkit-appearance"</span>] <span class="op">=</span> <span class="st">"slider-vertical"</span><span class="op">;</span> <span class="co">/* WebKit */</span></span>
-<span id="cb7-163"><a href="#cb7-163" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="at">style</span><span class="op">.</span><span class="at">width</span> <span class="op">=</span> <span class="st">"8px"</span><span class="op">;</span></span>
-<span id="cb7-164"><a href="#cb7-164" aria-hidden="true" tabindex="-1"></a>  }</span>
-<span id="cb7-165"><a href="#cb7-165" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-166"><a href="#cb7-166" aria-hidden="true" tabindex="-1"></a>  rangeWrap<span class="op">.</span><span class="fu">append</span>(rangeInput<span class="op">,</span> valueDisplay)<span class="op">;</span></span>
-<span id="cb7-167"><a href="#cb7-167" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-168"><a href="#cb7-168" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (label) rangeWrap<span class="op">.</span><span class="fu">prepend</span>(htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;label style=</span><span class="sc">${</span>labelStyle<span class="sc">}</span><span class="vs">&gt;</span><span class="sc">${</span>label<span class="sc">}</span><span class="vs">`</span>)<span class="op">;</span></span>
-<span id="cb7-169"><a href="#cb7-169" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-170"><a href="#cb7-170" aria-hidden="true" tabindex="-1"></a>  rangeInput<span class="op">.</span><span class="at">oninput</span> <span class="op">=</span> () <span class="kw">=&gt;</span> {</span>
-<span id="cb7-171"><a href="#cb7-171" aria-hidden="true" tabindex="-1"></a>    valueDisplay<span class="op">.</span><span class="at">innerHTML</span> <span class="op">=</span> <span class="fu">format</span>(rangeInput<span class="op">.</span><span class="at">valueAsNumber</span>)<span class="op">;</span></span>
-<span id="cb7-172"><a href="#cb7-172" aria-hidden="true" tabindex="-1"></a>    rangeWrap<span class="op">.</span><span class="at">value</span> <span class="op">=</span> rangeWrap<span class="op">.</span><span class="at">valueAsNumber</span> <span class="op">=</span> <span class="op">+</span>rangeInput<span class="op">.</span><span class="at">valueAsNumber</span><span class="op">;</span></span>
-<span id="cb7-173"><a href="#cb7-173" aria-hidden="true" tabindex="-1"></a>    rangeWrap<span class="op">.</span><span class="fu">dispatchEvent</span>(<span class="kw">new</span> <span class="bu">CustomEvent</span>(<span class="st">"input"</span>))<span class="op">;</span></span>
-<span id="cb7-174"><a href="#cb7-174" aria-hidden="true" tabindex="-1"></a>  }<span class="op">;</span></span>
-<span id="cb7-175"><a href="#cb7-175" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-176"><a href="#cb7-176" aria-hidden="true" tabindex="-1"></a>  rangeInput<span class="op">.</span><span class="fu">oninput</span>()<span class="op">;</span></span>
-<span id="cb7-177"><a href="#cb7-177" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> rangeWrap<span class="op">;</span></span>
-<span id="cb7-178"><a href="#cb7-178" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb7-179"><a href="#cb7-179" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-180"><a href="#cb7-180" aria-hidden="true" tabindex="-1"></a>rangeStyles <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;style&gt;</span></span>
-<span id="cb7-181"><a href="#cb7-181" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range, .Popup {</span></span>
-<span id="cb7-182"><a href="#cb7-182" aria-hidden="true" tabindex="-1"></a><span class="vs">     display: inline-flex;</span></span>
-<span id="cb7-183"><a href="#cb7-183" aria-hidden="true" tabindex="-1"></a><span class="vs">     align-items:center;</span></span>
-<span id="cb7-184"><a href="#cb7-184" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
-<span id="cb7-185"><a href="#cb7-185" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range input[type=range] {</span></span>
-<span id="cb7-186"><a href="#cb7-186" aria-hidden="true" tabindex="-1"></a><span class="vs">     width:100px;</span></span>
+<div class="sourceCode cell-code hidden" id="cb7" data-startfrom="134" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 133;"><span id="cb7-134"><a href="#cb7-134" aria-hidden="true" tabindex="-1"></a><span class="kw">function</span> <span class="fu">Range</span>(range<span class="op">,</span> options <span class="op">=</span> {}) {</span>
+<span id="cb7-135"><a href="#cb7-135" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> [min<span class="op">,</span> max] <span class="op">=</span> range<span class="op">;</span></span>
+<span id="cb7-136"><a href="#cb7-136" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> {</span>
+<span id="cb7-137"><a href="#cb7-137" aria-hidden="true" tabindex="-1"></a>    className <span class="op">=</span> <span class="st">"Range"</span><span class="op">,</span></span>
+<span id="cb7-138"><a href="#cb7-138" aria-hidden="true" tabindex="-1"></a>    vertical <span class="op">=</span> <span class="kw">false</span><span class="op">,</span></span>
+<span id="cb7-139"><a href="#cb7-139" aria-hidden="true" tabindex="-1"></a>    label <span class="op">=</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb7-140"><a href="#cb7-140" aria-hidden="true" tabindex="-1"></a>    format <span class="op">=</span> (x) <span class="kw">=&gt;</span> <span class="op">+</span>x<span class="op">,</span></span>
+<span id="cb7-141"><a href="#cb7-141" aria-hidden="true" tabindex="-1"></a>    step <span class="op">=</span> <span class="dv">1</span><span class="op">,</span></span>
+<span id="cb7-142"><a href="#cb7-142" aria-hidden="true" tabindex="-1"></a>    value <span class="op">=</span> (min <span class="op">+</span> max) <span class="op">/</span> <span class="dv">2</span><span class="op">,</span></span>
+<span id="cb7-143"><a href="#cb7-143" aria-hidden="true" tabindex="-1"></a>    style <span class="op">=</span> <span class="st">""</span><span class="op">,</span></span>
+<span id="cb7-144"><a href="#cb7-144" aria-hidden="true" tabindex="-1"></a>    labelStyle <span class="op">=</span> <span class="st">""</span><span class="op">,</span></span>
+<span id="cb7-145"><a href="#cb7-145" aria-hidden="true" tabindex="-1"></a>    rangeStyle <span class="op">=</span> <span class="st">""</span><span class="op">,</span></span>
+<span id="cb7-146"><a href="#cb7-146" aria-hidden="true" tabindex="-1"></a>    valueStyle <span class="op">=</span> <span class="st">""</span></span>
+<span id="cb7-147"><a href="#cb7-147" aria-hidden="true" tabindex="-1"></a>  } <span class="op">=</span> options<span class="op">;</span></span>
+<span id="cb7-148"><a href="#cb7-148" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> rangeWrap <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;div class=</span><span class="sc">${</span>className<span class="sc">}</span><span class="vs"> style="</span><span class="sc">${</span>style<span class="sc">}</span><span class="vs">"&gt;&lt;/div&gt;`</span><span class="op">;</span></span>
+<span id="cb7-149"><a href="#cb7-149" aria-hidden="true" tabindex="-1"></a>  <span class="bu">Object</span><span class="op">.</span><span class="fu">assign</span>(rangeWrap<span class="op">.</span><span class="at">style</span><span class="op">,</span> {</span>
+<span id="cb7-150"><a href="#cb7-150" aria-hidden="true" tabindex="-1"></a>    <span class="dt">display</span><span class="op">:</span> <span class="st">"inline-flex"</span><span class="op">,</span></span>
+<span id="cb7-151"><a href="#cb7-151" aria-hidden="true" tabindex="-1"></a>    <span class="dt">position</span><span class="op">:</span> <span class="st">"relative"</span><span class="op">,</span></span>
+<span id="cb7-152"><a href="#cb7-152" aria-hidden="true" tabindex="-1"></a>    <span class="dt">userSelect</span><span class="op">:</span> <span class="st">"none"</span></span>
+<span id="cb7-153"><a href="#cb7-153" aria-hidden="true" tabindex="-1"></a>  })<span class="op">;</span></span>
+<span id="cb7-154"><a href="#cb7-154" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> valueDisplay <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;output style="</span><span class="sc">${</span>valueStyle<span class="sc">}</span><span class="vs">"&gt;`</span><span class="op">;</span></span>
+<span id="cb7-155"><a href="#cb7-155" aria-hidden="true" tabindex="-1"></a>  <span class="bu">Object</span><span class="op">.</span><span class="fu">assign</span>(valueDisplay<span class="op">.</span><span class="at">style</span><span class="op">,</span> {</span>
+<span id="cb7-156"><a href="#cb7-156" aria-hidden="true" tabindex="-1"></a>    <span class="dt">display</span><span class="op">:</span> <span class="st">"inline-block"</span></span>
+<span id="cb7-157"><a href="#cb7-157" aria-hidden="true" tabindex="-1"></a>  })<span class="op">;</span></span>
+<span id="cb7-158"><a href="#cb7-158" aria-hidden="true" tabindex="-1"></a>  <span class="kw">const</span> rangeInput <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;input type=range min=</span><span class="sc">${</span>min<span class="sc">}</span><span class="vs"> max=</span><span class="sc">${</span>max<span class="sc">}</span><span class="vs"> step=</span><span class="sc">${</span>step<span class="sc">}</span><span class="vs"> value=</span><span class="sc">${</span>value<span class="sc">}</span><span class="vs"> style=</span><span class="sc">${</span>rangeStyle<span class="sc">}</span><span class="vs">&gt;`</span><span class="op">;</span></span>
+<span id="cb7-159"><a href="#cb7-159" aria-hidden="true" tabindex="-1"></a>  <span class="bu">Object</span><span class="op">.</span><span class="fu">assign</span>(rangeInput<span class="op">.</span><span class="at">style</span><span class="op">,</span> {</span>
+<span id="cb7-160"><a href="#cb7-160" aria-hidden="true" tabindex="-1"></a>    <span class="dt">display</span><span class="op">:</span> <span class="st">"inline-block"</span></span>
+<span id="cb7-161"><a href="#cb7-161" aria-hidden="true" tabindex="-1"></a>  })<span class="op">;</span></span>
+<span id="cb7-162"><a href="#cb7-162" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (vertical) {</span>
+<span id="cb7-163"><a href="#cb7-163" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="fu">setAttribute</span>(<span class="st">"orient"</span><span class="op">,</span> <span class="st">"vertical"</span>)<span class="op">;</span></span>
+<span id="cb7-164"><a href="#cb7-164" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="at">style</span><span class="op">.</span><span class="at">writingMode</span> <span class="op">=</span> <span class="st">"bt-lr"</span><span class="op">;</span> <span class="co">/* IE */</span></span>
+<span id="cb7-165"><a href="#cb7-165" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="at">style</span>[<span class="st">"-webkit-appearance"</span>] <span class="op">=</span> <span class="st">"slider-vertical"</span><span class="op">;</span> <span class="co">/* WebKit */</span></span>
+<span id="cb7-166"><a href="#cb7-166" aria-hidden="true" tabindex="-1"></a>    rangeInput<span class="op">.</span><span class="at">style</span><span class="op">.</span><span class="at">width</span> <span class="op">=</span> <span class="st">"8px"</span><span class="op">;</span></span>
+<span id="cb7-167"><a href="#cb7-167" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb7-168"><a href="#cb7-168" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-169"><a href="#cb7-169" aria-hidden="true" tabindex="-1"></a>  rangeWrap<span class="op">.</span><span class="fu">append</span>(rangeInput<span class="op">,</span> valueDisplay)<span class="op">;</span></span>
+<span id="cb7-170"><a href="#cb7-170" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-171"><a href="#cb7-171" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (label) rangeWrap<span class="op">.</span><span class="fu">prepend</span>(htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;label style=</span><span class="sc">${</span>labelStyle<span class="sc">}</span><span class="vs">&gt;</span><span class="sc">${</span>label<span class="sc">}</span><span class="vs">`</span>)<span class="op">;</span></span>
+<span id="cb7-172"><a href="#cb7-172" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-173"><a href="#cb7-173" aria-hidden="true" tabindex="-1"></a>  rangeInput<span class="op">.</span><span class="at">oninput</span> <span class="op">=</span> () <span class="kw">=&gt;</span> {</span>
+<span id="cb7-174"><a href="#cb7-174" aria-hidden="true" tabindex="-1"></a>    valueDisplay<span class="op">.</span><span class="at">innerHTML</span> <span class="op">=</span> <span class="fu">format</span>(rangeInput<span class="op">.</span><span class="at">valueAsNumber</span>)<span class="op">;</span></span>
+<span id="cb7-175"><a href="#cb7-175" aria-hidden="true" tabindex="-1"></a>    rangeWrap<span class="op">.</span><span class="at">value</span> <span class="op">=</span> rangeWrap<span class="op">.</span><span class="at">valueAsNumber</span> <span class="op">=</span> <span class="op">+</span>rangeInput<span class="op">.</span><span class="at">valueAsNumber</span><span class="op">;</span></span>
+<span id="cb7-176"><a href="#cb7-176" aria-hidden="true" tabindex="-1"></a>    rangeWrap<span class="op">.</span><span class="fu">dispatchEvent</span>(<span class="kw">new</span> <span class="bu">CustomEvent</span>(<span class="st">"input"</span>))<span class="op">;</span></span>
+<span id="cb7-177"><a href="#cb7-177" aria-hidden="true" tabindex="-1"></a>  }<span class="op">;</span></span>
+<span id="cb7-178"><a href="#cb7-178" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-179"><a href="#cb7-179" aria-hidden="true" tabindex="-1"></a>  rangeInput<span class="op">.</span><span class="fu">oninput</span>()<span class="op">;</span></span>
+<span id="cb7-180"><a href="#cb7-180" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> rangeWrap<span class="op">;</span></span>
+<span id="cb7-181"><a href="#cb7-181" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb7-182"><a href="#cb7-182" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-183"><a href="#cb7-183" aria-hidden="true" tabindex="-1"></a>rangeStyles <span class="op">=</span> htl<span class="op">.</span><span class="fu">html</span><span class="vs">`&lt;style&gt;</span></span>
+<span id="cb7-184"><a href="#cb7-184" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range, .Popup {</span></span>
+<span id="cb7-185"><a href="#cb7-185" aria-hidden="true" tabindex="-1"></a><span class="vs">     display: inline-flex;</span></span>
+<span id="cb7-186"><a href="#cb7-186" aria-hidden="true" tabindex="-1"></a><span class="vs">     align-items:center;</span></span>
 <span id="cb7-187"><a href="#cb7-187" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
-<span id="cb7-188"><a href="#cb7-188" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range input[type=range][orient=vertical] {</span></span>
-<span id="cb7-189"><a href="#cb7-189" aria-hidden="true" tabindex="-1"></a><span class="vs">     width:8px;</span></span>
-<span id="cb7-190"><a href="#cb7-190" aria-hidden="true" tabindex="-1"></a><span class="vs">     height:100px;</span></span>
-<span id="cb7-191"><a href="#cb7-191" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
-<span id="cb7-192"><a href="#cb7-192" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range label {</span></span>
-<span id="cb7-193"><a href="#cb7-193" aria-hidden="true" tabindex="-1"></a><span class="vs">     margin-right: 5px;</span></span>
+<span id="cb7-188"><a href="#cb7-188" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range input[type=range] {</span></span>
+<span id="cb7-189"><a href="#cb7-189" aria-hidden="true" tabindex="-1"></a><span class="vs">     width:100px;</span></span>
+<span id="cb7-190"><a href="#cb7-190" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
+<span id="cb7-191"><a href="#cb7-191" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range input[type=range][orient=vertical] {</span></span>
+<span id="cb7-192"><a href="#cb7-192" aria-hidden="true" tabindex="-1"></a><span class="vs">     width:8px;</span></span>
+<span id="cb7-193"><a href="#cb7-193" aria-hidden="true" tabindex="-1"></a><span class="vs">     height:100px;</span></span>
 <span id="cb7-194"><a href="#cb7-194" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
-<span id="cb7-195"><a href="#cb7-195" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range output {</span></span>
-<span id="cb7-196"><a href="#cb7-196" aria-hidden="true" tabindex="-1"></a><span class="vs">     margin-left: 5px;</span></span>
+<span id="cb7-195"><a href="#cb7-195" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range label {</span></span>
+<span id="cb7-196"><a href="#cb7-196" aria-hidden="true" tabindex="-1"></a><span class="vs">     margin-right: 5px;</span></span>
 <span id="cb7-197"><a href="#cb7-197" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
-<span id="cb7-198"><a href="#cb7-198" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Popup button{</span></span>
-<span id="cb7-199"><a href="#cb7-199" aria-hidden="true" tabindex="-1"></a><span class="vs">   margin-right:10px;</span></span>
+<span id="cb7-198"><a href="#cb7-198" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Range output {</span></span>
+<span id="cb7-199"><a href="#cb7-199" aria-hidden="true" tabindex="-1"></a><span class="vs">     margin-left: 5px;</span></span>
 <span id="cb7-200"><a href="#cb7-200" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
-<span id="cb7-201"><a href="#cb7-201" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/style&gt;</span></span>
-<span id="cb7-202"><a href="#cb7-202" aria-hidden="true" tabindex="-1"></a><span class="vs">`</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb7-201"><a href="#cb7-201" aria-hidden="true" tabindex="-1"></a><span class="vs">  .Popup button{</span></span>
+<span id="cb7-202"><a href="#cb7-202" aria-hidden="true" tabindex="-1"></a><span class="vs">   margin-right:10px;</span></span>
+<span id="cb7-203"><a href="#cb7-203" aria-hidden="true" tabindex="-1"></a><span class="vs">  }</span></span>
+<span id="cb7-204"><a href="#cb7-204" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/style&gt;</span></span>
+<span id="cb7-205"><a href="#cb7-205" aria-hidden="true" tabindex="-1"></a><span class="vs">`</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <div id="ojs-cell-7-1" data-nodetype="declaration">
