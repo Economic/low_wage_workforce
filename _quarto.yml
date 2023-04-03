@@ -6,7 +6,7 @@ project:
   
 website:
   title: "Low-wage workforce tracker"
-  site-url: "https://economic.github.io/low_wage_workforce"
+  site-url: https://economic.github.io/low_wage_workforce
   image: open_card.png
   open-graph: true
   twitter-card: true
@@ -17,6 +17,12 @@ website:
     left:
       - href: historical.qmd
         text: Historical trends
+      - href: states.qmd
+        text: State data
+    right:
+      - icon: github
+        href: https://github.com/economic/low_wage_workforce
+        aria-label: GitHub
 
 format:
   html:

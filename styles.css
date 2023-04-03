@@ -325,9 +325,9 @@ iframe.reveal-demo {
   }
   
   .navbar-brand-container {
-    max-width: unset
+    /*max-width: unset*/
   }
   
   .navbar-container {
-    width: unset;
+    /*width: unset;*/
   }

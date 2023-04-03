@@ -103,7 +103,7 @@ create_slice <- function(threshold) {
     filter(month_date >= min_date & month_date <= max_date) |>
     mutate(low_wage = my_wage < threshold) |>
     summarize_groups(
-      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03, 
+      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03|statefips, 
       low_wage_share = weighted.mean(low_wage, w = orgwgt),
       low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000)*1000
     ) |>
@@ -146,12 +146,14 @@ results <- map_dfr(10:25, create_slice) |>
     category_group == "public" ~ "Private/public sector",
     category_group == "new_faminc" ~ "Annual family income",
     category_group == "mind03" ~ "Industry",
-    category_group == "mocc03" ~ "Occupation"
+    category_group == "mocc03" ~ "Occupation",
+    category_group == "statefips" ~ "State"
   )) |>
   arrange(low_wage_threshold, desc(priority), category_group, category)
 
 results %>% 
   select(-priority) %>% 
+  filter(category_group != "State") %>% 
   relocate(
     low_wage_threshold, 
     category_group, category, 
@@ -159,6 +161,14 @@ results %>%
     dates
   ) %>% 
   write_csv("low_wage_data.csv")
+
+results %>% 
+  filter(category_group == "State") %>% 
+  select(
+    state = category, 
+    low_wage_threshold, low_wage_share, low_wage_count, dates
+  ) %>% 
+  write_csv("low_wage_data_states.csv")
 
 
 ## historical results

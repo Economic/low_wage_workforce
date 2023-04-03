@@ -1,0 +1,52 @@
+state_abb,state_name,row,col
+AL,Alabama,6,7
+AK,Alaska,1,0
+AZ,Arizona,5,2
+AR,Arkansas,5,5
+CA,California,4,1
+CO,Colorado,4,3
+CT,Connecticut,3,10
+DE,Delaware,4,10
+DC,District of Columbia,5,9
+FL,Florida,7,9
+GA,Georgia,6,8
+HI,Hawaii,6,0
+ID,Idaho,2,2
+IL,Illinois,2,6
+IN,Indiana,3,6
+IA,Iowa,3,5
+KS,Kansas,5,4
+KY,Kentucky,4,6
+LA,Louisiana,6,5
+ME,Maine,0,11
+MD,Maryland,4,9
+MA,Massachusetts,2,10
+MI,Michigan,2,8
+MN,Minnesota,2,5
+MS,Mississippi,6,6
+MO,Missouri,4,5
+MT,Montana,2,3
+NE,Nebraska,4,4
+NV,Nevada,3,2
+NH,New Hampshire,1,11
+NJ,New Jersey,3,9
+NM,New Mexico,5,3
+NY,New York,2,9
+NC,North Carolina,5,7
+ND,North Dakota,2,4
+OH,Ohio,3,7
+OK,Oklahoma,6,4
+OR,Oregon,3,1
+PA,Pennsylvania,3,8
+RI,Rhode Island,2,11
+SC,South Carolina,5,8
+SD,South Dakota,3,4
+TN,Tennessee,5,6
+TX,Texas,7,4
+UT,Utah,4,2
+VT,Vermont,1,10
+VA,Virginia,4,8
+WA,Washington,2,1
+WV,West Virginia,4,7
+WI,Wisconsin,2,7
+WY,Wyoming,3,3

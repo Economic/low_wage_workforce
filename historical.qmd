@@ -5,10 +5,6 @@ format:
     echo: false
     page-layout: full
 title: "Historical trends of low-wage workers in the US"
-open-graph:
-  image: open_card.png
-twitter-card:
-  image: open_card.png
 ---
 
 
@@ -24,7 +20,7 @@ low_wage_data = FileAttachment("low_wage_data_historical.csv").csv({ typed: true
 <!-- https://observablehq.com/@jeremiak/download-data-button -->
 
 viewof outcome = Inputs.radio(
-  new Map([["Share of workers", "share"], ["Count of workers", "count"]]), {
+  new Map([["Share of workers", "share"], ["Number of workers", "count"]]), {
     value: "share"
 })
 ```
