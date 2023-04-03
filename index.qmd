@@ -6,8 +6,10 @@ format:
 title: "How many low-wage workers are in the US?"
 twitter-card:
   image: open_card.png
+  description: "Up-to-date numbers of low-wage workers in the United States, by demographic group."
 open-graph:
   image: open_card.png
+  description: "Up-to-date numbers of low-wage workers in the United States, by demographic group."
 ---
 
 ```{r}

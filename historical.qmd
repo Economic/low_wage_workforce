@@ -7,8 +7,11 @@ format:
 title: "Historical trends of low-wage workers in the US"
 twitter-card:
   image: historical_card.png
+  description: "Historical trends of low-wage workers in the United States, with nominal and inflation-adjusted hourly wage thresholds."
 open-graph:
   image: historical_card.png
+  description: "Historical trends of low-wage workers in the United States, with nominal and inflation-adjusted hourly wage thresholds."
+
 ---
 
 ```{r}

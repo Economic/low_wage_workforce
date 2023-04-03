@@ -7,9 +7,12 @@ format:
 twitter-card:
   image: map_card.png
   title: How many low wage workers are there by state?
+  description: "Up-to-date numbers of low-wage workers in the United States, by state."
 open-graph:
   image: map_card.png
   title: How many low wage workers are there by state?
+  description: "Up-to-date numbers of low-wage workers in the United States, by state."
+
 ---
 
 ::: {.grid style="gap:unset"}
