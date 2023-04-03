@@ -6,7 +6,7 @@ library(haven)
 library(kableExtra)
 
 org_raw <- load_org(
-    2009:2022, 
+    2009:2023, 
     year, month, orgwgt, wageotc,
     educ, age, wbhao, female, statefips, region,
     mind03, mocc03, ind17, occ18, cow1, faminc, union, ftptstat
@@ -220,6 +220,7 @@ create_historical_slice <- function(threshold) {
     mutate(threshold = threshold * cpi_u / cpi_base) %>% 
     summarize_history() %>% 
     mutate(threshold_type = "real") %>% 
+    mutate(real_dollars_date = cpi_base_date) %>% 
     bind_rows(nominal_results) %>% 
     filter(month_date >= ym("2010m1")) %>% 
     rename(threshold_actual = threshold) %>% 

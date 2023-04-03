@@ -5,16 +5,8 @@ library(lubridate)
 library(haven)
 library(kableExtra)
 
-state_mw_current <- read_csv("mw_projections_state.csv") %>% 
-  janitor::clean_names() %>% 
-  filter(notes == ymd("2023-01-01")) %>% 
-  select(-cpi_value, -notes) %>% 
-  pivot_longer(everything(), names_to = "state_abb", values_to = "state_mw") %>% 
-  filter(state_abb != "us") %>% 
-  mutate(state_abb = str_to_upper(state_abb))
-
 org_raw <- load_org(
-  2022, 
+  2022:2023, 
   year, month, orgwgt, 
   matches("wage"), matches("a_"), paidhre, statefips
 ) |>
@@ -33,6 +25,13 @@ max_date <- org_raw |>
 min_date <- max_date - months(11)
 
 org_clean <- org_raw
+
+state_mw_current <- read_csv("mw_projections_state.csv") %>% 
+  janitor::clean_names() %>% 
+  filter(notes == max_date) %>% 
+  select(-cpi_value, -notes, -us) %>% 
+  pivot_longer(everything(), names_to = "state_abb", values_to = "state_mw") %>% 
+  mutate(state_abb = str_to_upper(state_abb))
 
 create_slice <- function(threshold) {
   org_clean |>
