@@ -4,6 +4,10 @@ format:
   html:
     echo: false
 title: "How many low-wage workers are in the US?"
+twitter-card:
+  image: open_card.png
+open-graph:
+  image: open_card.png
 ---
 
 ```{r}

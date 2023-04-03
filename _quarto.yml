@@ -9,7 +9,8 @@ website:
   site-url: https://economic.github.io/low_wage_workforce
   image: open_card.png
   open-graph: true
-  twitter-card: true
+  twitter-card:
+    creator: "@benzipperer"
   google-analytics: "G-FY2JEDFR9V"
   search: false
   navbar:

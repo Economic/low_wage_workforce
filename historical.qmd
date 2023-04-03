@@ -5,6 +5,10 @@ format:
     echo: false
     page-layout: full
 title: "Historical trends of low-wage workers in the US"
+twitter-card:
+  image: historical_card.png
+open-graph:
+  image: historical_card.png
 ---
 
 ```{r}

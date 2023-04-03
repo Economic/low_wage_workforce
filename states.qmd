@@ -4,6 +4,12 @@ format:
   html:
     echo: false
     page-layout: article
+twitter-card:
+  image: map_card.png
+  title: How many low wage workers are there by state?
+open-graph:
+  image: map_card.png
+  title: How many low wage workers are there by state?
 ---
 
 ::: {.grid style="gap:unset"}
@@ -14,7 +20,7 @@ viewof threshold = Range([d3.min(thresholds), d3.max(thresholds)], {
   step: 1,
   value: 15,
   format: (x) => "$" + x,
-  label: "Threshold"
+  label: "Thresholds"
 })
 ```
 :::
