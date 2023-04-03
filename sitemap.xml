@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://economic.github.io/low_wage_workforce/states.html</loc>
+    <lastmod>2023-04-03T02:42:25.299Z</lastmod>
+  </url>
+  <url>
     <loc>https://economic.github.io/low_wage_workforce/index.html</loc>
-    <lastmod>2023-03-27T19:28:46.154Z</lastmod>
+    <lastmod>2023-04-03T02:42:26.979Z</lastmod>
   </url>
   <url>
     <loc>https://economic.github.io/low_wage_workforce/historical.html</loc>
-    <lastmod>2023-03-27T19:28:46.578Z</lastmod>
+    <lastmod>2023-04-03T02:42:27.407Z</lastmod>
   </url>
 </urlset>
