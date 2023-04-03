@@ -4,7 +4,7 @@
     "href": "states.html",
     "title": "Low-wage workforce tracker",
     "section": "",
-    "text": "viewof threshold = Range([d3.min(thresholds), d3.max(thresholds)], {\n  step: 1,\n  value: 15,\n  format: (x) =&gt; \"$\" + x,\n  label: \"Threshold\"\n})\n\n\n\n\n\n\n\n\n\nviewof outcome = Inputs.radio(\n  new Map([[\"Share of workers\", \"share\"], [\"Number of workers\", \"count\"]]), {\n    value: \"share\"\n})\ndata = transpose(data_ojs)\n\nthresholds = [...new Set(data.map((item) =&gt; item.low_wage_threshold))]\n\nfiltered = data.filter(d =&gt; {\n  return d.low_wage_threshold == threshold\n})\n\n// Update table data when filtered data changes\nReactable.setData('tbl', filtered)"
+    "text": "viewof threshold = Range([d3.min(thresholds), d3.max(thresholds)], {\n  step: 1,\n  value: 15,\n  format: (x) =&gt; \"$\" + x,\n  label: \"Thresholds\"\n})\n\n\n\n\n\n\n\n\n\nviewof outcome = Inputs.radio(\n  new Map([[\"Share of workers\", \"share\"], [\"Number of workers\", \"count\"]]), {\n    value: \"share\"\n})\ndata = transpose(data_ojs)\n\nthresholds = [...new Set(data.map((item) =&gt; item.low_wage_threshold))]\n\nfiltered = data.filter(d =&gt; {\n  return d.low_wage_threshold == threshold\n})\n\n// Update table data when filtered data changes\nReactable.setData('tbl', filtered)"
   },
   {
     "objectID": "states.html#outcome-share-share-number-of-workers-paid-less-than-threshold-per-hour",
