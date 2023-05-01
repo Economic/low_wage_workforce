@@ -16,7 +16,6 @@ org_raw <- load_org(
     a_weekpay == 1 & paidhre == 0 ~ NA,
     .default = my_wage
   )) %>% 
-  filter(my_wage > 0) %>% 
   mutate(month_date = ym(paste(year, month)))
 
 max_date <- org_raw |>
@@ -24,7 +23,13 @@ max_date <- org_raw |>
   pull()
 min_date <- max_date - months(11)
 
-org_clean <- org_raw
+state_wage_earners <- org_raw %>% 
+  filter(month_date >= min_date & month_date <= max_date) %>% 
+  filter(wageotc > 0) %>% 
+  summarize(total_wage_earners = sum(orgwgt / 12), .by = statefips)
+
+org_clean <- org_raw %>% 
+  filter(my_wage > 0)
 
 state_mw_current <- read_csv("mw_projections_state.csv") %>% 
   janitor::clean_names() %>% 
@@ -35,16 +40,22 @@ state_mw_current <- read_csv("mw_projections_state.csv") %>%
 
 create_slice <- function(threshold) {
   org_clean |>
-    filter(month_date >= min_date & month_date <= max_date) |>
     mutate(low_wage = my_wage < threshold) |>
     summarize(
       low_wage_share = weighted.mean(low_wage, w = orgwgt),
-      low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000)*1000,
       obs_count = n(),
       .by = statefips
     ) |>
-    mutate(dates = paste(format(min_date, "%B %Y"), "through", format(max_date, "%B %Y"))) |>
-    mutate(low_wage_threshold = threshold)
+    inner_join(state_wage_earners, by = "statefips") %>% 
+    mutate(
+      low_wage_count = round(low_wage_share * total_wage_earners / 1000)*1000,
+      low_wage_threshold = threshold,
+      dates = paste(
+        format(min_date, "%B %Y"), 
+        "through", 
+        format(max_date, "%B %Y")
+      ),
+    )
 }
 
 results <- map_dfr(10:25, create_slice) |>

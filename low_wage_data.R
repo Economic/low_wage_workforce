@@ -162,15 +162,6 @@ results %>%
   ) %>% 
   write_csv("low_wage_data.csv")
 
-results %>% 
-  filter(category_group == "State") %>% 
-  select(
-    state = category, 
-    low_wage_threshold, low_wage_share, low_wage_count, dates
-  ) %>% 
-  write_csv("low_wage_data_states.csv")
-
-
 ## historical results
 
 BLS_API_KEY <- Sys.getenv("BLS_API_KEY")

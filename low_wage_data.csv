@@ -1,945 +1,945 @@
 low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
-10,All workers,All workers,3,3576000,March 2022 through February 2023
-10,Race and ethnicity,Asian,2,201000,March 2022 through February 2023
-10,Race and ethnicity,Black,4,667000,March 2022 through February 2023
-10,Race and ethnicity,Hispanic,3,840000,March 2022 through February 2023
-10,Race and ethnicity,White,2,1826000,March 2022 through February 2023
-10,Gender,Female,3,2185000,March 2022 through February 2023
-10,Gender,Male,2,1391000,March 2022 through February 2023
-10,Age group,Ages 16-24,6,1201000,March 2022 through February 2023
-10,Age group,Ages 25-34,2,651000,March 2022 through February 2023
-10,Age group,Ages 35-44,2,496000,March 2022 through February 2023
-10,Age group,Ages 45-54,2,434000,March 2022 through February 2023
-10,Age group,Ages 55-64,2,469000,March 2022 through February 2023
-10,Age group,Ages 65 and above,4,326000,March 2022 through February 2023
-10,Annual family income,"Family income  $24,999 or less",7,676000,March 2022 through February 2023
-10,Annual family income,"Family income  $25,000 - $49,999",4,857000,March 2022 through February 2023
-10,Annual family income,"Family income  $50,000 - $74,999",3,657000,March 2022 through February 2023
-10,Annual family income,"Family income  $75,000 - $99,999",2,409000,March 2022 through February 2023
-10,Annual family income,"Family income $100,000 or more",2,977000,March 2022 through February 2023
-10,Education,College or advanced degree,1,724000,March 2022 through February 2023
-10,Education,High school diploma,3,1104000,March 2022 through February 2023
-10,Education,Less than high school diploma,7,760000,March 2022 through February 2023
-10,Education,Some college,3,988000,March 2022 through February 2023
-10,Industry,"Agriculture, forestry, fishing, and hunting",6,82000,March 2022 through February 2023
-10,Industry,Construction,1,130000,March 2022 through February 2023
-10,Industry,Educational and health services,2,779000,March 2022 through February 2023
-10,Industry,Financial activities,1,125000,March 2022 through February 2023
-10,Industry,Information,2,53000,March 2022 through February 2023
-10,Industry,Leisure and hospitality,7,873000,March 2022 through February 2023
-10,Industry,Manufacturing,1,148000,March 2022 through February 2023
-10,Industry,Mining,2,10000,March 2022 through February 2023
-10,Industry,Other services,5,310000,March 2022 through February 2023
-10,Industry,Professional and business services,2,290000,March 2022 through February 2023
-10,Industry,Public administration,1,87000,March 2022 through February 2023
-10,Industry,Transportation and utilities,2,194000,March 2022 through February 2023
-10,Industry,Wholesale and retail trade,3,496000,March 2022 through February 2023
-10,Occupation,Construction and extraction occupations,1,101000,March 2022 through February 2023
-10,Occupation,"Farming, fishing, and forestry occupations",8,69000,March 2022 through February 2023
-10,Occupation,"Installation, maintenance, and repair occupations",1,36000,March 2022 through February 2023
-10,Occupation,"Management, business, and financial occupations",1,247000,March 2022 through February 2023
-10,Occupation,Office and administrative support occupations,2,378000,March 2022 through February 2023
-10,Occupation,Production occupations,1,101000,March 2022 through February 2023
-10,Occupation,Professional and related occupations,1,524000,March 2022 through February 2023
-10,Occupation,Sales and related occupations,4,428000,March 2022 through February 2023
-10,Occupation,Service occupations,6,1415000,March 2022 through February 2023
-10,Occupation,Transportation and material moving occupations,3,279000,March 2022 through February 2023
-10,Part-time status,Works full-time,2,2019000,March 2022 through February 2023
-10,Part-time status,Works part-time,7,1557000,March 2022 through February 2023
-10,Private/public sector,Government employee,2,364000,March 2022 through February 2023
-10,Private/public sector,Private-sector employee,3,3212000,March 2022 through February 2023
-10,Region,Midwest,2,728000,March 2022 through February 2023
-10,Region,Northeast,2,572000,March 2022 through February 2023
-10,Region,South,3,1737000,March 2022 through February 2023
-10,Region,West,2,539000,March 2022 through February 2023
-10,State minimum wage,State minimum exceeds federal minimum,2,1796000,March 2022 through February 2023
-10,State minimum wage,State minimum follows federal minimum,3,1781000,March 2022 through February 2023
-10,Tipped occupation,Works in a non-tipped occupation,2,3131000,March 2022 through February 2023
-10,Tipped occupation,Works in a tipped occupation,11,445000,March 2022 through February 2023
-10,Union status,In a union,1,131000,March 2022 through February 2023
-10,Union status,Not in a union,3,3445000,March 2022 through February 2023
-11,All workers,All workers,4,6036000,March 2022 through February 2023
-11,Race and ethnicity,Asian,3,306000,March 2022 through February 2023
-11,Race and ethnicity,Black,6,1165000,March 2022 through February 2023
-11,Race and ethnicity,Hispanic,5,1421000,March 2022 through February 2023
-11,Race and ethnicity,White,4,3064000,March 2022 through February 2023
-11,Gender,Female,5,3593000,March 2022 through February 2023
-11,Gender,Male,3,2443000,March 2022 through February 2023
-11,Age group,Ages 16-24,12,2190000,March 2022 through February 2023
-11,Age group,Ages 25-34,3,1059000,March 2022 through February 2023
-11,Age group,Ages 35-44,3,811000,March 2022 through February 2023
-11,Age group,Ages 45-54,3,740000,March 2022 through February 2023
-11,Age group,Ages 55-64,3,753000,March 2022 through February 2023
-11,Age group,Ages 65 and above,6,484000,March 2022 through February 2023
-11,Annual family income,"Family income  $24,999 or less",11,1176000,March 2022 through February 2023
-11,Annual family income,"Family income  $25,000 - $49,999",6,1477000,March 2022 through February 2023
-11,Annual family income,"Family income  $50,000 - $74,999",4,1107000,March 2022 through February 2023
-11,Annual family income,"Family income  $75,000 - $99,999",3,727000,March 2022 through February 2023
-11,Annual family income,"Family income $100,000 or more",3,1549000,March 2022 through February 2023
-11,Education,College or advanced degree,2,1002000,March 2022 through February 2023
-11,Education,High school diploma,5,1956000,March 2022 through February 2023
-11,Education,Less than high school diploma,13,1412000,March 2022 through February 2023
-11,Education,Some college,5,1666000,March 2022 through February 2023
-11,Industry,"Agriculture, forestry, fishing, and hunting",9,121000,March 2022 through February 2023
-11,Industry,Construction,2,218000,March 2022 through February 2023
-11,Industry,Educational and health services,4,1276000,March 2022 through February 2023
-11,Industry,Financial activities,2,164000,March 2022 through February 2023
-11,Industry,Information,3,76000,March 2022 through February 2023
-11,Industry,Leisure and hospitality,12,1509000,March 2022 through February 2023
-11,Industry,Manufacturing,2,247000,March 2022 through February 2023
-11,Industry,Mining,3,14000,March 2022 through February 2023
-11,Industry,Other services,8,480000,March 2022 through February 2023
-11,Industry,Professional and business services,3,486000,March 2022 through February 2023
-11,Industry,Public administration,2,147000,March 2022 through February 2023
-11,Industry,Transportation and utilities,3,295000,March 2022 through February 2023
-11,Industry,Wholesale and retail trade,6,1003000,March 2022 through February 2023
-11,Occupation,Construction and extraction occupations,3,185000,March 2022 through February 2023
-11,Occupation,"Farming, fishing, and forestry occupations",12,107000,March 2022 through February 2023
-11,Occupation,"Installation, maintenance, and repair occupations",2,83000,March 2022 through February 2023
-11,Occupation,"Management, business, and financial occupations",1,317000,March 2022 through February 2023
-11,Occupation,Office and administrative support occupations,4,629000,March 2022 through February 2023
-11,Occupation,Production occupations,3,197000,March 2022 through February 2023
-11,Occupation,Professional and related occupations,2,772000,March 2022 through February 2023
-11,Occupation,Sales and related occupations,7,808000,March 2022 through February 2023
-11,Occupation,Service occupations,11,2427000,March 2022 through February 2023
-11,Occupation,Transportation and material moving occupations,5,512000,March 2022 through February 2023
-11,Part-time status,Works full-time,3,3184000,March 2022 through February 2023
-11,Part-time status,Works part-time,13,2853000,March 2022 through February 2023
-11,Private/public sector,Government employee,3,585000,March 2022 through February 2023
-11,Private/public sector,Private-sector employee,5,5452000,March 2022 through February 2023
-11,Region,Midwest,4,1232000,March 2022 through February 2023
-11,Region,Northeast,4,886000,March 2022 through February 2023
-11,Region,South,6,3075000,March 2022 through February 2023
-11,Region,West,3,844000,March 2022 through February 2023
-11,State minimum wage,State minimum exceeds federal minimum,3,2922000,March 2022 through February 2023
-11,State minimum wage,State minimum follows federal minimum,6,3114000,March 2022 through February 2023
-11,Tipped occupation,Works in a non-tipped occupation,4,5360000,March 2022 through February 2023
-11,Tipped occupation,Works in a tipped occupation,16,676000,March 2022 through February 2023
-11,Union status,In a union,2,256000,March 2022 through February 2023
-11,Union status,Not in a union,5,5780000,March 2022 through February 2023
-12,All workers,All workers,6,8256000,March 2022 through February 2023
-12,Race and ethnicity,Asian,4,435000,March 2022 through February 2023
-12,Race and ethnicity,Black,8,1508000,March 2022 through February 2023
-12,Race and ethnicity,Hispanic,7,1918000,March 2022 through February 2023
-12,Race and ethnicity,White,5,4289000,March 2022 through February 2023
-12,Gender,Female,7,4899000,March 2022 through February 2023
-12,Gender,Male,5,3358000,March 2022 through February 2023
-12,Age group,Ages 16-24,16,2964000,March 2022 through February 2023
-12,Age group,Ages 25-34,4,1454000,March 2022 through February 2023
-12,Age group,Ages 35-44,4,1130000,March 2022 through February 2023
-12,Age group,Ages 45-54,4,987000,March 2022 through February 2023
-12,Age group,Ages 55-64,5,1039000,March 2022 through February 2023
-12,Age group,Ages 65 and above,9,682000,March 2022 through February 2023
-12,Annual family income,"Family income  $24,999 or less",15,1593000,March 2022 through February 2023
-12,Annual family income,"Family income  $25,000 - $49,999",9,2054000,March 2022 through February 2023
-12,Annual family income,"Family income  $50,000 - $74,999",6,1522000,March 2022 through February 2023
-12,Annual family income,"Family income  $75,000 - $99,999",5,959000,March 2022 through February 2023
-12,Annual family income,"Family income $100,000 or more",4,2129000,March 2022 through February 2023
-12,Education,College or advanced degree,2,1322000,March 2022 through February 2023
-12,Education,High school diploma,7,2702000,March 2022 through February 2023
-12,Education,Less than high school diploma,18,1936000,March 2022 through February 2023
-12,Education,Some college,6,2296000,March 2022 through February 2023
-12,Industry,"Agriculture, forestry, fishing, and hunting",12,151000,March 2022 through February 2023
-12,Industry,Construction,3,285000,March 2022 through February 2023
-12,Industry,Educational and health services,5,1729000,March 2022 through February 2023
-12,Industry,Financial activities,2,201000,March 2022 through February 2023
-12,Industry,Information,4,94000,March 2022 through February 2023
-12,Industry,Leisure and hospitality,16,2075000,March 2022 through February 2023
-12,Industry,Manufacturing,2,327000,March 2022 through February 2023
-12,Industry,Mining,3,14000,March 2022 through February 2023
-12,Industry,Other services,10,605000,March 2022 through February 2023
-12,Industry,Professional and business services,4,678000,March 2022 through February 2023
-12,Industry,Public administration,3,214000,March 2022 through February 2023
-12,Industry,Transportation and utilities,5,412000,March 2022 through February 2023
-12,Industry,Wholesale and retail trade,8,1471000,March 2022 through February 2023
-12,Occupation,Construction and extraction occupations,4,241000,March 2022 through February 2023
-12,Occupation,"Farming, fishing, and forestry occupations",15,138000,March 2022 through February 2023
-12,Occupation,"Installation, maintenance, and repair occupations",2,100000,March 2022 through February 2023
-12,Occupation,"Management, business, and financial occupations",2,402000,March 2022 through February 2023
-12,Occupation,Office and administrative support occupations,5,829000,March 2022 through February 2023
-12,Occupation,Production occupations,4,296000,March 2022 through February 2023
-12,Occupation,Professional and related occupations,3,1019000,March 2022 through February 2023
-12,Occupation,Sales and related occupations,10,1223000,March 2022 through February 2023
-12,Occupation,Service occupations,14,3266000,March 2022 through February 2023
-12,Occupation,Transportation and material moving occupations,7,742000,March 2022 through February 2023
-12,Part-time status,Works full-time,4,4387000,March 2022 through February 2023
-12,Part-time status,Works part-time,18,3870000,March 2022 through February 2023
-12,Private/public sector,Government employee,4,842000,March 2022 through February 2023
-12,Private/public sector,Private-sector employee,6,7414000,March 2022 through February 2023
-12,Region,Midwest,6,1746000,March 2022 through February 2023
-12,Region,Northeast,5,1203000,March 2022 through February 2023
-12,Region,South,8,4179000,March 2022 through February 2023
-12,Region,West,3,1129000,March 2022 through February 2023
-12,State minimum wage,State minimum exceeds federal minimum,5,4076000,March 2022 through February 2023
-12,State minimum wage,State minimum follows federal minimum,8,4180000,March 2022 through February 2023
-12,Tipped occupation,Works in a non-tipped occupation,5,7384000,March 2022 through February 2023
-12,Tipped occupation,Works in a tipped occupation,21,872000,March 2022 through February 2023
-12,Union status,In a union,2,362000,March 2022 through February 2023
-12,Union status,Not in a union,6,7895000,March 2022 through February 2023
-13,All workers,All workers,9,12333000,March 2022 through February 2023
-13,Race and ethnicity,Asian,6,649000,March 2022 through February 2023
-13,Race and ethnicity,Black,12,2167000,March 2022 through February 2023
-13,Race and ethnicity,Hispanic,11,2896000,March 2022 through February 2023
-13,Race and ethnicity,White,8,6448000,March 2022 through February 2023
-13,Gender,Female,11,7214000,March 2022 through February 2023
-13,Gender,Male,7,5119000,March 2022 through February 2023
-13,Age group,Ages 16-24,23,4425000,March 2022 through February 2023
-13,Age group,Ages 25-34,7,2218000,March 2022 through February 2023
-13,Age group,Ages 35-44,6,1711000,March 2022 through February 2023
-13,Age group,Ages 45-54,5,1479000,March 2022 through February 2023
-13,Age group,Ages 55-64,7,1509000,March 2022 through February 2023
-13,Age group,Ages 65 and above,12,990000,March 2022 through February 2023
-13,Annual family income,"Family income  $24,999 or less",22,2295000,March 2022 through February 2023
-13,Annual family income,"Family income  $25,000 - $49,999",13,3123000,March 2022 through February 2023
-13,Annual family income,"Family income  $50,000 - $74,999",9,2337000,March 2022 through February 2023
-13,Annual family income,"Family income  $75,000 - $99,999",7,1455000,March 2022 through February 2023
-13,Annual family income,"Family income $100,000 or more",5,3122000,March 2022 through February 2023
-13,Education,College or advanced degree,3,1857000,March 2022 through February 2023
-13,Education,High school diploma,11,4085000,March 2022 through February 2023
-13,Education,Less than high school diploma,27,2911000,March 2022 through February 2023
-13,Education,Some college,10,3479000,March 2022 through February 2023
-13,Industry,"Agriculture, forestry, fishing, and hunting",17,220000,March 2022 through February 2023
-13,Industry,Construction,5,477000,March 2022 through February 2023
-13,Industry,Educational and health services,8,2561000,March 2022 through February 2023
-13,Industry,Financial activities,4,342000,March 2022 through February 2023
-13,Industry,Information,5,134000,March 2022 through February 2023
-13,Industry,Leisure and hospitality,24,2964000,March 2022 through February 2023
-13,Industry,Manufacturing,4,586000,March 2022 through February 2023
-13,Industry,Mining,5,26000,March 2022 through February 2023
-13,Industry,Other services,14,843000,March 2022 through February 2023
-13,Industry,Professional and business services,6,986000,March 2022 through February 2023
-13,Industry,Public administration,4,299000,March 2022 through February 2023
-13,Industry,Transportation and utilities,7,586000,March 2022 through February 2023
-13,Industry,Wholesale and retail trade,13,2308000,March 2022 through February 2023
-13,Occupation,Construction and extraction occupations,6,415000,March 2022 through February 2023
-13,Occupation,"Farming, fishing, and forestry occupations",21,191000,March 2022 through February 2023
-13,Occupation,"Installation, maintenance, and repair occupations",4,197000,March 2022 through February 2023
-13,Occupation,"Management, business, and financial occupations",2,568000,March 2022 through February 2023
-13,Occupation,Office and administrative support occupations,8,1283000,March 2022 through February 2023
-13,Occupation,Production occupations,6,509000,March 2022 through February 2023
-13,Occupation,Professional and related occupations,4,1481000,March 2022 through February 2023
-13,Occupation,Sales and related occupations,15,1868000,March 2022 through February 2023
-13,Occupation,Service occupations,20,4638000,March 2022 through February 2023
-13,Occupation,Transportation and material moving occupations,11,1184000,March 2022 through February 2023
-13,Part-time status,Works full-time,6,6772000,March 2022 through February 2023
-13,Part-time status,Works part-time,26,5561000,March 2022 through February 2023
-13,Private/public sector,Government employee,6,1231000,March 2022 through February 2023
-13,Private/public sector,Private-sector employee,9,11102000,March 2022 through February 2023
-13,Region,Midwest,9,2695000,March 2022 through February 2023
-13,Region,Northeast,7,1737000,March 2022 through February 2023
-13,Region,South,12,6154000,March 2022 through February 2023
-13,Region,West,5,1747000,March 2022 through February 2023
-13,State minimum wage,State minimum exceeds federal minimum,7,6291000,March 2022 through February 2023
-13,State minimum wage,State minimum follows federal minimum,11,6042000,March 2022 through February 2023
-13,Tipped occupation,Works in a non-tipped occupation,8,11150000,March 2022 through February 2023
-13,Tipped occupation,Works in a tipped occupation,28,1183000,March 2022 through February 2023
-13,Union status,In a union,3,534000,March 2022 through February 2023
-13,Union status,Not in a union,9,11798000,March 2022 through February 2023
-14,All workers,All workers,11,15864000,March 2022 through February 2023
-14,Race and ethnicity,Asian,8,852000,March 2022 through February 2023
-14,Race and ethnicity,Black,15,2723000,March 2022 through February 2023
-14,Race and ethnicity,Hispanic,14,3779000,March 2022 through February 2023
-14,Race and ethnicity,White,10,8287000,March 2022 through February 2023
-14,Gender,Female,14,9396000,March 2022 through February 2023
-14,Gender,Male,9,6467000,March 2022 through February 2023
-14,Age group,Ages 16-24,29,5565000,March 2022 through February 2023
-14,Age group,Ages 25-34,9,2909000,March 2022 through February 2023
-14,Age group,Ages 35-44,7,2281000,March 2022 through February 2023
-14,Age group,Ages 45-54,7,1930000,March 2022 through February 2023
-14,Age group,Ages 55-64,9,1971000,March 2022 through February 2023
-14,Age group,Ages 65 and above,15,1207000,March 2022 through February 2023
-14,Annual family income,"Family income  $24,999 or less",28,2933000,March 2022 through February 2023
-14,Annual family income,"Family income  $25,000 - $49,999",17,4139000,March 2022 through February 2023
-14,Annual family income,"Family income  $50,000 - $74,999",12,2995000,March 2022 through February 2023
-14,Annual family income,"Family income  $75,000 - $99,999",9,1909000,March 2022 through February 2023
-14,Annual family income,"Family income $100,000 or more",6,3888000,March 2022 through February 2023
-14,Education,College or advanced degree,4,2317000,March 2022 through February 2023
-14,Education,High school diploma,15,5420000,March 2022 through February 2023
-14,Education,Less than high school diploma,34,3592000,March 2022 through February 2023
-14,Education,Some college,12,4535000,March 2022 through February 2023
-14,Industry,"Agriculture, forestry, fishing, and hunting",20,266000,March 2022 through February 2023
-14,Industry,Construction,7,627000,March 2022 through February 2023
-14,Industry,Educational and health services,10,3405000,March 2022 through February 2023
-14,Industry,Financial activities,4,426000,March 2022 through February 2023
-14,Industry,Information,6,153000,March 2022 through February 2023
-14,Industry,Leisure and hospitality,29,3717000,March 2022 through February 2023
-14,Industry,Manufacturing,5,795000,March 2022 through February 2023
-14,Industry,Mining,5,31000,March 2022 through February 2023
-14,Industry,Other services,17,1027000,March 2022 through February 2023
-14,Industry,Professional and business services,7,1265000,March 2022 through February 2023
-14,Industry,Public administration,5,398000,March 2022 through February 2023
-14,Industry,Transportation and utilities,8,744000,March 2022 through February 2023
-14,Industry,Wholesale and retail trade,17,3010000,March 2022 through February 2023
-14,Occupation,Construction and extraction occupations,8,532000,March 2022 through February 2023
-14,Occupation,"Farming, fishing, and forestry occupations",26,238000,March 2022 through February 2023
-14,Occupation,"Installation, maintenance, and repair occupations",5,226000,March 2022 through February 2023
-14,Occupation,"Management, business, and financial occupations",3,741000,March 2022 through February 2023
-14,Occupation,Office and administrative support occupations,11,1676000,March 2022 through February 2023
-14,Occupation,Production occupations,9,719000,March 2022 through February 2023
-14,Occupation,Professional and related occupations,5,1896000,March 2022 through February 2023
-14,Occupation,Sales and related occupations,20,2375000,March 2022 through February 2023
-14,Occupation,Service occupations,26,5967000,March 2022 through February 2023
-14,Occupation,Transportation and material moving occupations,14,1493000,March 2022 through February 2023
-14,Part-time status,Works full-time,8,9010000,March 2022 through February 2023
-14,Part-time status,Works part-time,32,6854000,March 2022 through February 2023
-14,Private/public sector,Government employee,7,1575000,March 2022 through February 2023
-14,Private/public sector,Private-sector employee,12,14288000,March 2022 through February 2023
-14,Region,Midwest,12,3537000,March 2022 through February 2023
-14,Region,Northeast,9,2278000,March 2022 through February 2023
-14,Region,South,15,7738000,March 2022 through February 2023
-14,Region,West,7,2312000,March 2022 through February 2023
-14,State minimum wage,State minimum exceeds federal minimum,9,8272000,March 2022 through February 2023
-14,State minimum wage,State minimum follows federal minimum,14,7592000,March 2022 through February 2023
-14,Tipped occupation,Works in a non-tipped occupation,10,14410000,March 2022 through February 2023
-14,Tipped occupation,Works in a tipped occupation,34,1454000,March 2022 through February 2023
-14,Union status,In a union,5,745000,March 2022 through February 2023
-14,Union status,Not in a union,12,15119000,March 2022 through February 2023
-15,All workers,All workers,14,19933000,March 2022 through February 2023
-15,Race and ethnicity,Asian,10,1096000,March 2022 through February 2023
-15,Race and ethnicity,Black,19,3434000,March 2022 through February 2023
-15,Race and ethnicity,Hispanic,18,4804000,March 2022 through February 2023
-15,Race and ethnicity,White,12,10309000,March 2022 through February 2023
-15,Gender,Female,17,11769000,March 2022 through February 2023
-15,Gender,Male,11,8164000,March 2022 through February 2023
-15,Age group,Ages 16-24,36,6735000,March 2022 through February 2023
-15,Age group,Ages 25-34,11,3742000,March 2022 through February 2023
-15,Age group,Ages 35-44,10,2966000,March 2022 through February 2023
-15,Age group,Ages 45-54,9,2524000,March 2022 through February 2023
-15,Age group,Ages 55-64,11,2529000,March 2022 through February 2023
-15,Age group,Ages 65 and above,18,1438000,March 2022 through February 2023
-15,Annual family income,"Family income  $24,999 or less",34,3488000,March 2022 through February 2023
-15,Annual family income,"Family income  $25,000 - $49,999",22,5334000,March 2022 through February 2023
-15,Annual family income,"Family income  $50,000 - $74,999",15,3816000,March 2022 through February 2023
-15,Annual family income,"Family income  $75,000 - $99,999",11,2406000,March 2022 through February 2023
-15,Annual family income,"Family income $100,000 or more",8,4889000,March 2022 through February 2023
-15,Education,College or advanced degree,5,2985000,March 2022 through February 2023
-15,Education,High school diploma,19,6894000,March 2022 through February 2023
-15,Education,Less than high school diploma,40,4298000,March 2022 through February 2023
-15,Education,Some college,16,5756000,March 2022 through February 2023
-15,Industry,"Agriculture, forestry, fishing, and hunting",28,364000,March 2022 through February 2023
-15,Industry,Construction,9,817000,March 2022 through February 2023
-15,Industry,Educational and health services,13,4316000,March 2022 through February 2023
-15,Industry,Financial activities,6,575000,March 2022 through February 2023
-15,Industry,Information,7,191000,March 2022 through February 2023
-15,Industry,Leisure and hospitality,35,4420000,March 2022 through February 2023
-15,Industry,Manufacturing,7,1083000,March 2022 through February 2023
-15,Industry,Mining,6,33000,March 2022 through February 2023
-15,Industry,Other services,21,1239000,March 2022 through February 2023
-15,Industry,Professional and business services,9,1599000,March 2022 through February 2023
-15,Industry,Public administration,7,515000,March 2022 through February 2023
-15,Industry,Transportation and utilities,11,958000,March 2022 through February 2023
-15,Industry,Wholesale and retail trade,21,3821000,March 2022 through February 2023
-15,Occupation,Construction and extraction occupations,10,677000,March 2022 through February 2023
-15,Occupation,"Farming, fishing, and forestry occupations",36,323000,March 2022 through February 2023
-15,Occupation,"Installation, maintenance, and repair occupations",7,316000,March 2022 through February 2023
-15,Occupation,"Management, business, and financial occupations",4,984000,March 2022 through February 2023
-15,Occupation,Office and administrative support occupations,14,2207000,March 2022 through February 2023
-15,Occupation,Production occupations,12,949000,March 2022 through February 2023
-15,Occupation,Professional and related occupations,6,2309000,March 2022 through February 2023
-15,Occupation,Sales and related occupations,24,2926000,March 2022 through February 2023
-15,Occupation,Service occupations,32,7297000,March 2022 through February 2023
-15,Occupation,Transportation and material moving occupations,18,1944000,March 2022 through February 2023
-15,Part-time status,Works full-time,10,11902000,March 2022 through February 2023
-15,Part-time status,Works part-time,37,8031000,March 2022 through February 2023
-15,Private/public sector,Government employee,9,2016000,March 2022 through February 2023
-15,Private/public sector,Private-sector employee,15,17917000,March 2022 through February 2023
-15,Region,Midwest,15,4456000,March 2022 through February 2023
-15,Region,Northeast,11,2856000,March 2022 through February 2023
-15,Region,South,18,9497000,March 2022 through February 2023
-15,Region,West,9,3123000,March 2022 through February 2023
-15,State minimum wage,State minimum exceeds federal minimum,12,10650000,March 2022 through February 2023
-15,State minimum wage,State minimum follows federal minimum,18,9283000,March 2022 through February 2023
-15,Tipped occupation,Works in a non-tipped occupation,13,18275000,March 2022 through February 2023
-15,Tipped occupation,Works in a tipped occupation,39,1658000,March 2022 through February 2023
-15,Union status,In a union,6,983000,March 2022 through February 2023
-15,Union status,Not in a union,15,18950000,March 2022 through February 2023
-16,All workers,All workers,20,28558000,March 2022 through February 2023
-16,Race and ethnicity,Asian,15,1606000,March 2022 through February 2023
-16,Race and ethnicity,Black,27,4911000,March 2022 through February 2023
-16,Race and ethnicity,Hispanic,27,7146000,March 2022 through February 2023
-16,Race and ethnicity,White,17,14502000,March 2022 through February 2023
-16,Gender,Female,24,16488000,March 2022 through February 2023
-16,Gender,Male,16,12070000,March 2022 through February 2023
-16,Age group,Ages 16-24,49,9345000,March 2022 through February 2023
-16,Age group,Ages 25-34,17,5604000,March 2022 through February 2023
-16,Age group,Ages 35-44,14,4299000,March 2022 through February 2023
-16,Age group,Ages 45-54,13,3657000,March 2022 through February 2023
-16,Age group,Ages 55-64,16,3644000,March 2022 through February 2023
-16,Age group,Ages 65 and above,25,2008000,March 2022 through February 2023
-16,Annual family income,"Family income  $24,999 or less",46,4776000,March 2022 through February 2023
-16,Annual family income,"Family income  $25,000 - $49,999",32,7674000,March 2022 through February 2023
-16,Annual family income,"Family income  $50,000 - $74,999",22,5567000,March 2022 through February 2023
-16,Annual family income,"Family income  $75,000 - $99,999",17,3502000,March 2022 through February 2023
-16,Annual family income,"Family income $100,000 or more",12,7039000,March 2022 through February 2023
-16,Education,College or advanced degree,7,4284000,March 2022 through February 2023
-16,Education,High school diploma,28,10182000,March 2022 through February 2023
-16,Education,Less than high school diploma,53,5660000,March 2022 through February 2023
-16,Education,Some college,23,8431000,March 2022 through February 2023
-16,Industry,"Agriculture, forestry, fishing, and hunting",41,533000,March 2022 through February 2023
-16,Industry,Construction,14,1276000,March 2022 through February 2023
-16,Industry,Educational and health services,18,6134000,March 2022 through February 2023
-16,Industry,Financial activities,9,880000,March 2022 through February 2023
-16,Industry,Information,11,290000,March 2022 through February 2023
-16,Industry,Leisure and hospitality,46,5843000,March 2022 through February 2023
-16,Industry,Manufacturing,12,1724000,March 2022 through February 2023
-16,Industry,Mining,8,47000,March 2022 through February 2023
-16,Industry,Other services,28,1659000,March 2022 through February 2023
-16,Industry,Professional and business services,14,2365000,March 2022 through February 2023
-16,Industry,Public administration,10,771000,March 2022 through February 2023
-16,Industry,Transportation and utilities,17,1485000,March 2022 through February 2023
-16,Industry,Wholesale and retail trade,31,5551000,March 2022 through February 2023
-16,Occupation,Construction and extraction occupations,16,1069000,March 2022 through February 2023
-16,Occupation,"Farming, fishing, and forestry occupations",51,461000,March 2022 through February 2023
-16,Occupation,"Installation, maintenance, and repair occupations",10,464000,March 2022 through February 2023
-16,Occupation,"Management, business, and financial occupations",6,1359000,March 2022 through February 2023
-16,Occupation,Office and administrative support occupations,22,3411000,March 2022 through February 2023
-16,Occupation,Production occupations,19,1527000,March 2022 through February 2023
-16,Occupation,Professional and related occupations,9,3273000,March 2022 through February 2023
-16,Occupation,Sales and related occupations,33,4026000,March 2022 through February 2023
-16,Occupation,Service occupations,43,9972000,March 2022 through February 2023
-16,Occupation,Transportation and material moving occupations,28,2996000,March 2022 through February 2023
-16,Part-time status,Works full-time,15,17647000,March 2022 through February 2023
-16,Part-time status,Works part-time,50,10911000,March 2022 through February 2023
-16,Private/public sector,Government employee,13,2855000,March 2022 through February 2023
-16,Private/public sector,Private-sector employee,21,25703000,March 2022 through February 2023
-16,Region,Midwest,21,6227000,March 2022 through February 2023
-16,Region,Northeast,18,4374000,March 2022 through February 2023
-16,Region,South,24,12806000,March 2022 through February 2023
-16,Region,West,15,5151000,March 2022 through February 2023
-16,State minimum wage,State minimum exceeds federal minimum,18,16027000,March 2022 through February 2023
-16,State minimum wage,State minimum follows federal minimum,24,12531000,March 2022 through February 2023
-16,Tipped occupation,Works in a non-tipped occupation,19,26403000,March 2022 through February 2023
-16,Tipped occupation,Works in a tipped occupation,51,2155000,March 2022 through February 2023
-16,Union status,In a union,10,1569000,March 2022 through February 2023
-16,Union status,Not in a union,21,26989000,March 2022 through February 2023
-17,All workers,All workers,24,34576000,March 2022 through February 2023
-17,Race and ethnicity,Asian,18,1968000,March 2022 through February 2023
-17,Race and ethnicity,Black,32,5825000,March 2022 through February 2023
-17,Race and ethnicity,Hispanic,33,8740000,March 2022 through February 2023
-17,Race and ethnicity,White,21,17561000,March 2022 through February 2023
-17,Gender,Female,29,19817000,March 2022 through February 2023
-17,Gender,Male,20,14759000,March 2022 through February 2023
-17,Age group,Ages 16-24,57,10773000,March 2022 through February 2023
-17,Age group,Ages 25-34,21,6974000,March 2022 through February 2023
-17,Age group,Ages 35-44,17,5362000,March 2022 through February 2023
-17,Age group,Ages 45-54,17,4627000,March 2022 through February 2023
-17,Age group,Ages 55-64,19,4456000,March 2022 through February 2023
-17,Age group,Ages 65 and above,30,2383000,March 2022 through February 2023
-17,Annual family income,"Family income  $24,999 or less",53,5496000,March 2022 through February 2023
-17,Annual family income,"Family income  $25,000 - $49,999",39,9348000,March 2022 through February 2023
-17,Annual family income,"Family income  $50,000 - $74,999",27,6883000,March 2022 through February 2023
-17,Annual family income,"Family income  $75,000 - $99,999",21,4341000,March 2022 through February 2023
-17,Annual family income,"Family income $100,000 or more",14,8508000,March 2022 through February 2023
-17,Education,College or advanced degree,9,5246000,March 2022 through February 2023
-17,Education,High school diploma,34,12551000,March 2022 through February 2023
-17,Education,Less than high school diploma,60,6461000,March 2022 through February 2023
-17,Education,Some college,28,10318000,March 2022 through February 2023
-17,Industry,"Agriculture, forestry, fishing, and hunting",49,641000,March 2022 through February 2023
-17,Industry,Construction,17,1529000,March 2022 through February 2023
-17,Industry,Educational and health services,22,7368000,March 2022 through February 2023
-17,Industry,Financial activities,12,1111000,March 2022 through February 2023
-17,Industry,Information,14,368000,March 2022 through February 2023
-17,Industry,Leisure and hospitality,53,6737000,March 2022 through February 2023
-17,Industry,Manufacturing,16,2290000,March 2022 through February 2023
-17,Industry,Mining,10,60000,March 2022 through February 2023
-17,Industry,Other services,33,1971000,March 2022 through February 2023
-17,Industry,Professional and business services,17,2893000,March 2022 through February 2023
-17,Industry,Public administration,13,1007000,March 2022 through February 2023
-17,Industry,Transportation and utilities,22,1922000,March 2022 through February 2023
-17,Industry,Wholesale and retail trade,38,6676000,March 2022 through February 2023
-17,Occupation,Construction and extraction occupations,19,1278000,March 2022 through February 2023
-17,Occupation,"Farming, fishing, and forestry occupations",62,560000,March 2022 through February 2023
-17,Occupation,"Installation, maintenance, and repair occupations",14,612000,March 2022 through February 2023
-17,Occupation,"Management, business, and financial occupations",7,1690000,March 2022 through February 2023
-17,Occupation,Office and administrative support occupations,28,4286000,March 2022 through February 2023
-17,Occupation,Production occupations,25,1990000,March 2022 through February 2023
-17,Occupation,Professional and related occupations,11,4030000,March 2022 through February 2023
-17,Occupation,Sales and related occupations,39,4674000,March 2022 through February 2023
-17,Occupation,Service occupations,51,11646000,March 2022 through February 2023
-17,Occupation,Transportation and material moving occupations,35,3810000,March 2022 through February 2023
-17,Part-time status,Works full-time,19,22255000,March 2022 through February 2023
-17,Part-time status,Works part-time,57,12321000,March 2022 through February 2023
-17,Private/public sector,Government employee,16,3480000,March 2022 through February 2023
-17,Private/public sector,Private-sector employee,26,31097000,March 2022 through February 2023
-17,Region,Midwest,25,7506000,March 2022 through February 2023
-17,Region,Northeast,21,5271000,March 2022 through February 2023
-17,Region,South,28,15092000,March 2022 through February 2023
-17,Region,West,20,6708000,March 2022 through February 2023
-17,State minimum wage,State minimum exceeds federal minimum,22,19788000,March 2022 through February 2023
-17,State minimum wage,State minimum follows federal minimum,28,14788000,March 2022 through February 2023
-17,Tipped occupation,Works in a non-tipped occupation,23,32120000,March 2022 through February 2023
-17,Tipped occupation,Works in a tipped occupation,58,2457000,March 2022 through February 2023
-17,Union status,In a union,13,2056000,March 2022 through February 2023
-17,Union status,Not in a union,26,32520000,March 2022 through February 2023
-18,All workers,All workers,28,40219000,March 2022 through February 2023
-18,Race and ethnicity,Asian,21,2293000,March 2022 through February 2023
-18,Race and ethnicity,Black,36,6660000,March 2022 through February 2023
-18,Race and ethnicity,Hispanic,39,10252000,March 2022 through February 2023
-18,Race and ethnicity,White,24,20466000,March 2022 through February 2023
-18,Gender,Female,34,22827000,March 2022 through February 2023
-18,Gender,Male,24,17392000,March 2022 through February 2023
-18,Age group,Ages 16-24,63,11980000,March 2022 through February 2023
-18,Age group,Ages 25-34,26,8454000,March 2022 through February 2023
-18,Age group,Ages 35-44,20,6331000,March 2022 through February 2023
-18,Age group,Ages 45-54,20,5496000,March 2022 through February 2023
-18,Age group,Ages 55-64,23,5278000,March 2022 through February 2023
-18,Age group,Ages 65 and above,34,2681000,March 2022 through February 2023
-18,Annual family income,"Family income  $24,999 or less",59,6067000,March 2022 through February 2023
-18,Annual family income,"Family income  $25,000 - $49,999",46,10936000,March 2022 through February 2023
-18,Annual family income,"Family income  $50,000 - $74,999",32,8138000,March 2022 through February 2023
-18,Annual family income,"Family income  $75,000 - $99,999",25,5159000,March 2022 through February 2023
-18,Annual family income,"Family income $100,000 or more",16,9920000,March 2022 through February 2023
-18,Education,College or advanced degree,11,6383000,March 2022 through February 2023
-18,Education,High school diploma,40,14654000,March 2022 through February 2023
-18,Education,Less than high school diploma,66,7069000,March 2022 through February 2023
-18,Education,Some college,33,12114000,March 2022 through February 2023
-18,Industry,"Agriculture, forestry, fishing, and hunting",55,713000,March 2022 through February 2023
-18,Industry,Construction,20,1835000,March 2022 through February 2023
-18,Industry,Educational and health services,26,8698000,March 2022 through February 2023
-18,Industry,Financial activities,14,1354000,March 2022 through February 2023
-18,Industry,Information,16,423000,March 2022 through February 2023
-18,Industry,Leisure and hospitality,59,7408000,March 2022 through February 2023
-18,Industry,Manufacturing,20,2880000,March 2022 through February 2023
-18,Industry,Mining,13,73000,March 2022 through February 2023
-18,Industry,Other services,37,2228000,March 2022 through February 2023
-18,Industry,Professional and business services,20,3381000,March 2022 through February 2023
-18,Industry,Public administration,15,1203000,March 2022 through February 2023
-18,Industry,Transportation and utilities,26,2304000,March 2022 through February 2023
-18,Industry,Wholesale and retail trade,43,7721000,March 2022 through February 2023
-18,Occupation,Construction and extraction occupations,23,1542000,March 2022 through February 2023
-18,Occupation,"Farming, fishing, and forestry occupations",67,607000,March 2022 through February 2023
-18,Occupation,"Installation, maintenance, and repair occupations",18,777000,March 2022 through February 2023
-18,Occupation,"Management, business, and financial occupations",9,2078000,March 2022 through February 2023
-18,Occupation,Office and administrative support occupations,33,5174000,March 2022 through February 2023
-18,Occupation,Production occupations,32,2515000,March 2022 through February 2023
-18,Occupation,Professional and related occupations,13,4764000,March 2022 through February 2023
-18,Occupation,Sales and related occupations,43,5185000,March 2022 through February 2023
-18,Occupation,Service occupations,57,13040000,March 2022 through February 2023
-18,Occupation,Transportation and material moving occupations,42,4537000,March 2022 through February 2023
-18,Part-time status,Works full-time,22,26864000,March 2022 through February 2023
-18,Part-time status,Works part-time,61,13356000,March 2022 through February 2023
-18,Private/public sector,Government employee,19,4135000,March 2022 through February 2023
-18,Private/public sector,Private-sector employee,30,36084000,March 2022 through February 2023
-18,Region,Midwest,29,8736000,March 2022 through February 2023
-18,Region,Northeast,25,6190000,March 2022 through February 2023
-18,Region,South,32,17162000,March 2022 through February 2023
-18,Region,West,24,8131000,March 2022 through February 2023
-18,State minimum wage,State minimum exceeds federal minimum,26,23362000,March 2022 through February 2023
-18,State minimum wage,State minimum follows federal minimum,32,16857000,March 2022 through February 2023
-18,Tipped occupation,Works in a non-tipped occupation,27,37559000,March 2022 through February 2023
-18,Tipped occupation,Works in a tipped occupation,63,2660000,March 2022 through February 2023
-18,Union status,In a union,16,2529000,March 2022 through February 2023
-18,Union status,Not in a union,30,37690000,March 2022 through February 2023
-19,All workers,All workers,32,45917000,March 2022 through February 2023
-19,Race and ethnicity,Asian,24,2626000,March 2022 through February 2023
-19,Race and ethnicity,Black,41,7592000,March 2022 through February 2023
-19,Race and ethnicity,Hispanic,44,11722000,March 2022 through February 2023
-19,Race and ethnicity,White,28,23358000,March 2022 through February 2023
-19,Gender,Female,38,25785000,March 2022 through February 2023
-19,Gender,Male,27,20132000,March 2022 through February 2023
-19,Age group,Ages 16-24,69,13081000,March 2022 through February 2023
-19,Age group,Ages 25-34,30,10030000,March 2022 through February 2023
-19,Age group,Ages 35-44,24,7363000,March 2022 through February 2023
-19,Age group,Ages 45-54,23,6422000,March 2022 through February 2023
-19,Age group,Ages 55-64,26,6040000,March 2022 through February 2023
-19,Age group,Ages 65 and above,37,2980000,March 2022 through February 2023
-19,Annual family income,"Family income  $24,999 or less",64,6577000,March 2022 through February 2023
-19,Annual family income,"Family income  $25,000 - $49,999",52,12538000,March 2022 through February 2023
-19,Annual family income,"Family income  $50,000 - $74,999",37,9332000,March 2022 through February 2023
-19,Annual family income,"Family income  $75,000 - $99,999",29,6073000,March 2022 through February 2023
-19,Annual family income,"Family income $100,000 or more",19,11396000,March 2022 through February 2023
-19,Education,College or advanced degree,13,7477000,March 2022 through February 2023
-19,Education,High school diploma,46,16947000,March 2022 through February 2023
-19,Education,Less than high school diploma,71,7548000,March 2022 through February 2023
-19,Education,Some college,38,13944000,March 2022 through February 2023
-19,Industry,"Agriculture, forestry, fishing, and hunting",61,793000,March 2022 through February 2023
-19,Industry,Construction,25,2242000,March 2022 through February 2023
-19,Industry,Educational and health services,29,9981000,March 2022 through February 2023
-19,Industry,Financial activities,17,1650000,March 2022 through February 2023
-19,Industry,Information,19,491000,March 2022 through February 2023
-19,Industry,Leisure and hospitality,63,7994000,March 2022 through February 2023
-19,Industry,Manufacturing,24,3511000,March 2022 through February 2023
-19,Industry,Mining,15,86000,March 2022 through February 2023
-19,Industry,Other services,41,2471000,March 2022 through February 2023
-19,Industry,Professional and business services,23,3872000,March 2022 through February 2023
-19,Industry,Public administration,18,1418000,March 2022 through February 2023
-19,Industry,Transportation and utilities,31,2744000,March 2022 through February 2023
-19,Industry,Wholesale and retail trade,49,8663000,March 2022 through February 2023
-19,Occupation,Construction and extraction occupations,27,1867000,March 2022 through February 2023
-19,Occupation,"Farming, fishing, and forestry occupations",74,668000,March 2022 through February 2023
-19,Occupation,"Installation, maintenance, and repair occupations",21,948000,March 2022 through February 2023
-19,Occupation,"Management, business, and financial occupations",10,2518000,March 2022 through February 2023
-19,Occupation,Office and administrative support occupations,39,6081000,March 2022 through February 2023
-19,Occupation,Production occupations,38,3017000,March 2022 through February 2023
-19,Occupation,Professional and related occupations,15,5576000,March 2022 through February 2023
-19,Occupation,Sales and related occupations,47,5685000,March 2022 through February 2023
-19,Occupation,Service occupations,62,14290000,March 2022 through February 2023
-19,Occupation,Transportation and material moving occupations,49,5268000,March 2022 through February 2023
-19,Part-time status,Works full-time,26,31641000,March 2022 through February 2023
-19,Part-time status,Works part-time,66,14276000,March 2022 through February 2023
-19,Private/public sector,Government employee,23,4797000,March 2022 through February 2023
-19,Private/public sector,Private-sector employee,34,41120000,March 2022 through February 2023
-19,Region,Midwest,33,9975000,March 2022 through February 2023
-19,Region,Northeast,29,7146000,March 2022 through February 2023
-19,Region,South,36,19276000,March 2022 through February 2023
-19,Region,West,29,9521000,March 2022 through February 2023
-19,State minimum wage,State minimum exceeds federal minimum,30,26843000,March 2022 through February 2023
-19,State minimum wage,State minimum follows federal minimum,36,19074000,March 2022 through February 2023
-19,Tipped occupation,Works in a non-tipped occupation,31,43087000,March 2022 through February 2023
-19,Tipped occupation,Works in a tipped occupation,67,2830000,March 2022 through February 2023
-19,Union status,In a union,19,3015000,March 2022 through February 2023
-19,Union status,Not in a union,34,42902000,March 2022 through February 2023
-20,All workers,All workers,36,50540000,March 2022 through February 2023
-20,Race and ethnicity,Asian,27,2915000,March 2022 through February 2023
-20,Race and ethnicity,Black,45,8328000,March 2022 through February 2023
-20,Race and ethnicity,Hispanic,48,12738000,March 2022 through February 2023
-20,Race and ethnicity,White,31,25886000,March 2022 through February 2023
-20,Gender,Female,42,28307000,March 2022 through February 2023
-20,Gender,Male,30,22233000,March 2022 through February 2023
-20,Age group,Ages 16-24,72,13710000,March 2022 through February 2023
-20,Age group,Ages 25-34,34,11329000,March 2022 through February 2023
-20,Age group,Ages 35-44,27,8241000,March 2022 through February 2023
-20,Age group,Ages 45-54,26,7263000,March 2022 through February 2023
-20,Age group,Ages 55-64,29,6770000,March 2022 through February 2023
-20,Age group,Ages 65 and above,41,3228000,March 2022 through February 2023
-20,Annual family income,"Family income  $24,999 or less",67,6913000,March 2022 through February 2023
-20,Annual family income,"Family income  $25,000 - $49,999",57,13684000,March 2022 through February 2023
-20,Annual family income,"Family income  $50,000 - $74,999",40,10260000,March 2022 through February 2023
-20,Annual family income,"Family income  $75,000 - $99,999",33,6886000,March 2022 through February 2023
-20,Annual family income,"Family income $100,000 or more",21,12798000,March 2022 through February 2023
-20,Education,College or advanced degree,15,8811000,March 2022 through February 2023
-20,Education,High school diploma,50,18450000,March 2022 through February 2023
-20,Education,Less than high school diploma,74,7900000,March 2022 through February 2023
-20,Education,Some college,42,15378000,March 2022 through February 2023
-20,Industry,"Agriculture, forestry, fishing, and hunting",64,832000,March 2022 through February 2023
-20,Industry,Construction,28,2546000,March 2022 through February 2023
-20,Industry,Educational and health services,33,11081000,March 2022 through February 2023
-20,Industry,Financial activities,21,1950000,March 2022 through February 2023
-20,Industry,Information,21,547000,March 2022 through February 2023
-20,Industry,Leisure and hospitality,67,8413000,March 2022 through February 2023
-20,Industry,Manufacturing,27,4006000,March 2022 through February 2023
-20,Industry,Mining,17,100000,March 2022 through February 2023
-20,Industry,Other services,45,2664000,March 2022 through February 2023
-20,Industry,Professional and business services,25,4324000,March 2022 through February 2023
-20,Industry,Public administration,21,1657000,March 2022 through February 2023
-20,Industry,Transportation and utilities,35,3090000,March 2022 through February 2023
-20,Industry,Wholesale and retail trade,52,9330000,March 2022 through February 2023
-20,Occupation,Construction and extraction occupations,31,2123000,March 2022 through February 2023
-20,Occupation,"Farming, fishing, and forestry occupations",76,689000,March 2022 through February 2023
-20,Occupation,"Installation, maintenance, and repair occupations",24,1082000,March 2022 through February 2023
-20,Occupation,"Management, business, and financial occupations",13,3022000,March 2022 through February 2023
-20,Occupation,Office and administrative support occupations,44,6905000,March 2022 through February 2023
-20,Occupation,Production occupations,42,3328000,March 2022 through February 2023
-20,Occupation,Professional and related occupations,18,6410000,March 2022 through February 2023
-20,Occupation,Sales and related occupations,50,6070000,March 2022 through February 2023
-20,Occupation,Service occupations,66,15164000,March 2022 through February 2023
-20,Occupation,Transportation and material moving occupations,53,5748000,March 2022 through February 2023
-20,Part-time status,Works full-time,30,35704000,March 2022 through February 2023
-20,Part-time status,Works part-time,68,14835000,March 2022 through February 2023
-20,Private/public sector,Government employee,26,5485000,March 2022 through February 2023
-20,Private/public sector,Private-sector employee,37,45055000,March 2022 through February 2023
-20,Region,Midwest,36,11043000,March 2022 through February 2023
-20,Region,Northeast,32,7893000,March 2022 through February 2023
-20,Region,South,40,21036000,March 2022 through February 2023
-20,Region,West,32,10568000,March 2022 through February 2023
-20,State minimum wage,State minimum exceeds federal minimum,33,29618000,March 2022 through February 2023
-20,State minimum wage,State minimum follows federal minimum,40,20922000,March 2022 through February 2023
-20,Tipped occupation,Works in a non-tipped occupation,35,47571000,March 2022 through February 2023
-20,Tipped occupation,Works in a tipped occupation,70,2969000,March 2022 through February 2023
-20,Union status,In a union,22,3517000,March 2022 through February 2023
-20,Union status,Not in a union,37,47023000,March 2022 through February 2023
-21,All workers,All workers,40,56820000,March 2022 through February 2023
-21,Race and ethnicity,Asian,31,3295000,March 2022 through February 2023
-21,Race and ethnicity,Black,50,9171000,March 2022 through February 2023
-21,Race and ethnicity,Hispanic,54,14233000,March 2022 through February 2023
-21,Race and ethnicity,White,35,29375000,March 2022 through February 2023
-21,Gender,Female,46,31273000,March 2022 through February 2023
-21,Gender,Male,35,25547000,March 2022 through February 2023
-21,Age group,Ages 16-24,77,14674000,March 2022 through February 2023
-21,Age group,Ages 25-34,39,13025000,March 2022 through February 2023
-21,Age group,Ages 35-44,30,9425000,March 2022 through February 2023
-21,Age group,Ages 45-54,30,8375000,March 2022 through February 2023
-21,Age group,Ages 55-64,34,7757000,March 2022 through February 2023
-21,Age group,Ages 65 and above,45,3564000,March 2022 through February 2023
-21,Annual family income,"Family income  $24,999 or less",72,7478000,March 2022 through February 2023
-21,Annual family income,"Family income  $25,000 - $49,999",64,15264000,March 2022 through February 2023
-21,Annual family income,"Family income  $50,000 - $74,999",46,11648000,March 2022 through February 2023
-21,Annual family income,"Family income  $75,000 - $99,999",37,7890000,March 2022 through February 2023
-21,Annual family income,"Family income $100,000 or more",24,14541000,March 2022 through February 2023
-21,Education,College or advanced degree,18,10360000,March 2022 through February 2023
-21,Education,High school diploma,56,20690000,March 2022 through February 2023
-21,Education,Less than high school diploma,79,8508000,March 2022 through February 2023
-21,Education,Some college,47,17261000,March 2022 through February 2023
-21,Industry,"Agriculture, forestry, fishing, and hunting",70,904000,March 2022 through February 2023
-21,Industry,Construction,35,3154000,March 2022 through February 2023
-21,Industry,Educational and health services,37,12448000,March 2022 through February 2023
-21,Industry,Financial activities,24,2270000,March 2022 through February 2023
-21,Industry,Information,25,649000,March 2022 through February 2023
-21,Industry,Leisure and hospitality,71,8963000,March 2022 through February 2023
-21,Industry,Manufacturing,32,4735000,March 2022 through February 2023
-21,Industry,Mining,23,131000,March 2022 through February 2023
-21,Industry,Other services,50,2988000,March 2022 through February 2023
-21,Industry,Professional and business services,29,4937000,March 2022 through February 2023
-21,Industry,Public administration,25,1934000,March 2022 through February 2023
-21,Industry,Transportation and utilities,40,3580000,March 2022 through February 2023
-21,Industry,Wholesale and retail trade,57,10127000,March 2022 through February 2023
-21,Occupation,Construction and extraction occupations,39,2664000,March 2022 through February 2023
-21,Occupation,"Farming, fishing, and forestry occupations",82,743000,March 2022 through February 2023
-21,Occupation,"Installation, maintenance, and repair occupations",30,1320000,March 2022 through February 2023
-21,Occupation,"Management, business, and financial occupations",15,3621000,March 2022 through February 2023
-21,Occupation,Office and administrative support occupations,51,7927000,March 2022 through February 2023
-21,Occupation,Production occupations,49,3868000,March 2022 through February 2023
-21,Occupation,Professional and related occupations,21,7463000,March 2022 through February 2023
-21,Occupation,Sales and related occupations,53,6449000,March 2022 through February 2023
-21,Occupation,Service occupations,71,16329000,March 2022 through February 2023
-21,Occupation,Transportation and material moving occupations,60,6437000,March 2022 through February 2023
-21,Part-time status,Works full-time,34,40994000,March 2022 through February 2023
-21,Part-time status,Works part-time,73,15827000,March 2022 through February 2023
-21,Private/public sector,Government employee,30,6301000,March 2022 through February 2023
-21,Private/public sector,Private-sector employee,42,50519000,March 2022 through February 2023
-21,Region,Midwest,41,12471000,March 2022 through February 2023
-21,Region,Northeast,36,8936000,March 2022 through February 2023
-21,Region,South,44,23334000,March 2022 through February 2023
-21,Region,West,36,12080000,March 2022 through February 2023
-21,State minimum wage,State minimum exceeds federal minimum,38,33488000,March 2022 through February 2023
-21,State minimum wage,State minimum follows federal minimum,44,23332000,March 2022 through February 2023
-21,Tipped occupation,Works in a non-tipped occupation,39,53671000,March 2022 through February 2023
-21,Tipped occupation,Works in a tipped occupation,74,3149000,March 2022 through February 2023
-21,Union status,In a union,26,4103000,March 2022 through February 2023
-21,Union status,Not in a union,42,52717000,March 2022 through February 2023
-22,All workers,All workers,43,60804000,March 2022 through February 2023
-22,Race and ethnicity,Asian,33,3508000,March 2022 through February 2023
-22,Race and ethnicity,Black,53,9759000,March 2022 through February 2023
-22,Race and ethnicity,Hispanic,57,15002000,March 2022 through February 2023
-22,Race and ethnicity,White,38,31745000,March 2022 through February 2023
-22,Gender,Female,49,33318000,March 2022 through February 2023
-22,Gender,Male,37,27487000,March 2022 through February 2023
-22,Age group,Ages 16-24,80,15080000,March 2022 through February 2023
-22,Age group,Ages 25-34,43,14216000,March 2022 through February 2023
-22,Age group,Ages 35-44,33,10276000,March 2022 through February 2023
-22,Age group,Ages 45-54,33,9126000,March 2022 through February 2023
-22,Age group,Ages 55-64,36,8347000,March 2022 through February 2023
-22,Age group,Ages 65 and above,47,3759000,March 2022 through February 2023
-22,Annual family income,"Family income  $24,999 or less",75,7723000,March 2022 through February 2023
-22,Annual family income,"Family income  $25,000 - $49,999",67,16164000,March 2022 through February 2023
-22,Annual family income,"Family income  $50,000 - $74,999",49,12557000,March 2022 through February 2023
-22,Annual family income,"Family income  $75,000 - $99,999",41,8562000,March 2022 through February 2023
-22,Annual family income,"Family income $100,000 or more",26,15798000,March 2022 through February 2023
-22,Education,College or advanced degree,20,11573000,March 2022 through February 2023
-22,Education,High school diploma,60,21978000,March 2022 through February 2023
-22,Education,Less than high school diploma,81,8700000,March 2022 through February 2023
-22,Education,Some college,51,18554000,March 2022 through February 2023
-22,Industry,"Agriculture, forestry, fishing, and hunting",72,937000,March 2022 through February 2023
-22,Industry,Construction,38,3442000,March 2022 through February 2023
-22,Industry,Educational and health services,40,13498000,March 2022 through February 2023
-22,Industry,Financial activities,27,2539000,March 2022 through February 2023
-22,Industry,Information,27,708000,March 2022 through February 2023
-22,Industry,Leisure and hospitality,73,9252000,March 2022 through February 2023
-22,Industry,Manufacturing,36,5193000,March 2022 through February 2023
-22,Industry,Mining,26,146000,March 2022 through February 2023
-22,Industry,Other services,53,3181000,March 2022 through February 2023
-22,Industry,Professional and business services,31,5308000,March 2022 through February 2023
-22,Industry,Public administration,27,2112000,March 2022 through February 2023
-22,Industry,Transportation and utilities,43,3844000,March 2022 through February 2023
-22,Industry,Wholesale and retail trade,60,10644000,March 2022 through February 2023
-22,Occupation,Construction and extraction occupations,43,2896000,March 2022 through February 2023
-22,Occupation,"Farming, fishing, and forestry occupations",84,758000,March 2022 through February 2023
-22,Occupation,"Installation, maintenance, and repair occupations",33,1452000,March 2022 through February 2023
-22,Occupation,"Management, business, and financial occupations",17,4141000,March 2022 through February 2023
-22,Occupation,Office and administrative support occupations,55,8614000,March 2022 through February 2023
-22,Occupation,Production occupations,53,4144000,March 2022 through February 2023
-22,Occupation,Professional and related occupations,23,8280000,March 2022 through February 2023
-22,Occupation,Sales and related occupations,56,6769000,March 2022 through February 2023
-22,Occupation,Service occupations,74,16969000,March 2022 through February 2023
-22,Occupation,Transportation and material moving occupations,63,6781000,March 2022 through February 2023
-22,Part-time status,Works full-time,37,44629000,March 2022 through February 2023
-22,Part-time status,Works part-time,74,16175000,March 2022 through February 2023
-22,Private/public sector,Government employee,33,6913000,March 2022 through February 2023
-22,Private/public sector,Private-sector employee,45,53891000,March 2022 through February 2023
-22,Region,Midwest,44,13410000,March 2022 through February 2023
-22,Region,Northeast,38,9567000,March 2022 through February 2023
-22,Region,South,47,24813000,March 2022 through February 2023
-22,Region,West,39,13014000,March 2022 through February 2023
-22,State minimum wage,State minimum exceeds federal minimum,40,35971000,March 2022 through February 2023
-22,State minimum wage,State minimum follows federal minimum,47,24833000,March 2022 through February 2023
-22,Tipped occupation,Works in a non-tipped occupation,42,57562000,March 2022 through February 2023
-22,Tipped occupation,Works in a tipped occupation,77,3243000,March 2022 through February 2023
-22,Union status,In a union,29,4576000,March 2022 through February 2023
-22,Union status,Not in a union,45,56228000,March 2022 through February 2023
-23,All workers,All workers,46,64591000,March 2022 through February 2023
-23,Race and ethnicity,Asian,35,3734000,March 2022 through February 2023
-23,Race and ethnicity,Black,57,10371000,March 2022 through February 2023
-23,Race and ethnicity,Hispanic,60,15775000,March 2022 through February 2023
-23,Race and ethnicity,White,40,33876000,March 2022 through February 2023
-23,Gender,Female,52,35093000,March 2022 through February 2023
-23,Gender,Male,40,29497000,March 2022 through February 2023
-23,Age group,Ages 16-24,82,15526000,March 2022 through February 2023
-23,Age group,Ages 25-34,46,15288000,March 2022 through February 2023
-23,Age group,Ages 35-44,36,11109000,March 2022 through February 2023
-23,Age group,Ages 45-54,36,9876000,March 2022 through February 2023
-23,Age group,Ages 55-64,39,8869000,March 2022 through February 2023
-23,Age group,Ages 65 and above,49,3922000,March 2022 through February 2023
-23,Annual family income,"Family income  $24,999 or less",77,7973000,March 2022 through February 2023
-23,Annual family income,"Family income  $25,000 - $49,999",71,17067000,March 2022 through February 2023
-23,Annual family income,"Family income  $50,000 - $74,999",53,13379000,March 2022 through February 2023
-23,Annual family income,"Family income  $75,000 - $99,999",44,9228000,March 2022 through February 2023
-23,Annual family income,"Family income $100,000 or more",28,16944000,March 2022 through February 2023
-23,Education,College or advanced degree,22,12630000,March 2022 through February 2023
-23,Education,High school diploma,63,23232000,March 2022 through February 2023
-23,Education,Less than high school diploma,83,8938000,March 2022 through February 2023
-23,Education,Some college,54,19791000,March 2022 through February 2023
-23,Industry,"Agriculture, forestry, fishing, and hunting",74,963000,March 2022 through February 2023
-23,Industry,Construction,42,3771000,March 2022 through February 2023
-23,Industry,Educational and health services,42,14334000,March 2022 through February 2023
-23,Industry,Financial activities,29,2775000,March 2022 through February 2023
-23,Industry,Information,29,751000,March 2022 through February 2023
-23,Industry,Leisure and hospitality,76,9561000,March 2022 through February 2023
-23,Industry,Manufacturing,39,5685000,March 2022 through February 2023
-23,Industry,Mining,28,161000,March 2022 through February 2023
-23,Industry,Other services,56,3362000,March 2022 through February 2023
-23,Industry,Professional and business services,33,5657000,March 2022 through February 2023
-23,Industry,Public administration,29,2274000,March 2022 through February 2023
-23,Industry,Transportation and utilities,47,4170000,March 2022 through February 2023
-23,Industry,Wholesale and retail trade,63,11127000,March 2022 through February 2023
-23,Occupation,Construction and extraction occupations,47,3190000,March 2022 through February 2023
-23,Occupation,"Farming, fishing, and forestry occupations",85,772000,March 2022 through February 2023
-23,Occupation,"Installation, maintenance, and repair occupations",37,1617000,March 2022 through February 2023
-23,Occupation,"Management, business, and financial occupations",19,4550000,March 2022 through February 2023
-23,Occupation,Office and administrative support occupations,59,9177000,March 2022 through February 2023
-23,Occupation,Production occupations,57,4478000,March 2022 through February 2023
-23,Occupation,Professional and related occupations,25,8960000,March 2022 through February 2023
-23,Occupation,Sales and related occupations,58,7073000,March 2022 through February 2023
-23,Occupation,Service occupations,76,17583000,March 2022 through February 2023
-23,Occupation,Transportation and material moving occupations,67,7192000,March 2022 through February 2023
-23,Part-time status,Works full-time,40,48061000,March 2022 through February 2023
-23,Part-time status,Works part-time,76,16530000,March 2022 through February 2023
-23,Private/public sector,Government employee,35,7420000,March 2022 through February 2023
-23,Private/public sector,Private-sector employee,47,57170000,March 2022 through February 2023
-23,Region,Midwest,47,14304000,March 2022 through February 2023
-23,Region,Northeast,41,10156000,March 2022 through February 2023
-23,Region,South,49,26215000,March 2022 through February 2023
-23,Region,West,42,13916000,March 2022 through February 2023
-23,State minimum wage,State minimum exceeds federal minimum,43,38291000,March 2022 through February 2023
-23,State minimum wage,State minimum follows federal minimum,50,26300000,March 2022 through February 2023
-23,Tipped occupation,Works in a non-tipped occupation,45,61248000,March 2022 through February 2023
-23,Tipped occupation,Works in a tipped occupation,79,3343000,March 2022 through February 2023
-23,Union status,In a union,31,5030000,March 2022 through February 2023
-23,Union status,Not in a union,47,59561000,March 2022 through February 2023
-24,All workers,All workers,48,67908000,March 2022 through February 2023
-24,Race and ethnicity,Asian,37,3943000,March 2022 through February 2023
-24,Race and ethnicity,Black,59,10789000,March 2022 through February 2023
-24,Race and ethnicity,Hispanic,62,16488000,March 2022 through February 2023
-24,Race and ethnicity,White,42,35827000,March 2022 through February 2023
-24,Gender,Female,54,36702000,March 2022 through February 2023
-24,Gender,Male,42,31207000,March 2022 through February 2023
-24,Age group,Ages 16-24,84,15838000,March 2022 through February 2023
-24,Age group,Ages 25-34,49,16200000,March 2022 through February 2023
-24,Age group,Ages 35-44,38,11860000,March 2022 through February 2023
-24,Age group,Ages 45-54,38,10529000,March 2022 through February 2023
-24,Age group,Ages 55-64,41,9403000,March 2022 through February 2023
-24,Age group,Ages 65 and above,51,4078000,March 2022 through February 2023
-24,Annual family income,"Family income  $24,999 or less",79,8134000,March 2022 through February 2023
-24,Annual family income,"Family income  $25,000 - $49,999",74,17745000,March 2022 through February 2023
-24,Annual family income,"Family income  $50,000 - $74,999",56,14153000,March 2022 through February 2023
-24,Annual family income,"Family income  $75,000 - $99,999",47,9844000,March 2022 through February 2023
-24,Annual family income,"Family income $100,000 or more",30,18032000,March 2022 through February 2023
-24,Education,College or advanced degree,24,13743000,March 2022 through February 2023
-24,Education,High school diploma,66,24246000,March 2022 through February 2023
-24,Education,Less than high school diploma,85,9104000,March 2022 through February 2023
-24,Education,Some college,57,20816000,March 2022 through February 2023
-24,Industry,"Agriculture, forestry, fishing, and hunting",76,984000,March 2022 through February 2023
-24,Industry,Construction,45,4036000,March 2022 through February 2023
-24,Industry,Educational and health services,45,15152000,March 2022 through February 2023
-24,Industry,Financial activities,32,3008000,March 2022 through February 2023
-24,Industry,Information,30,787000,March 2022 through February 2023
-24,Industry,Leisure and hospitality,77,9763000,March 2022 through February 2023
-24,Industry,Manufacturing,42,6102000,March 2022 through February 2023
-24,Industry,Mining,31,174000,March 2022 through February 2023
-24,Industry,Other services,59,3503000,March 2022 through February 2023
-24,Industry,Professional and business services,35,5958000,March 2022 through February 2023
-24,Industry,Public administration,32,2491000,March 2022 through February 2023
-24,Industry,Transportation and utilities,50,4431000,March 2022 through February 2023
-24,Industry,Wholesale and retail trade,65,11519000,March 2022 through February 2023
-24,Occupation,Construction and extraction occupations,50,3396000,March 2022 through February 2023
-24,Occupation,"Farming, fishing, and forestry occupations",87,782000,March 2022 through February 2023
-24,Occupation,"Installation, maintenance, and repair occupations",39,1727000,March 2022 through February 2023
-24,Occupation,"Management, business, and financial occupations",21,5018000,March 2022 through February 2023
-24,Occupation,Office and administrative support occupations,63,9726000,March 2022 through February 2023
-24,Occupation,Production occupations,61,4783000,March 2022 through February 2023
-24,Occupation,Professional and related occupations,27,9726000,March 2022 through February 2023
-24,Occupation,Sales and related occupations,60,7303000,March 2022 through February 2023
-24,Occupation,Service occupations,78,17977000,March 2022 through February 2023
-24,Occupation,Transportation and material moving occupations,69,7470000,March 2022 through February 2023
-24,Part-time status,Works full-time,43,51102000,March 2022 through February 2023
-24,Part-time status,Works part-time,77,16807000,March 2022 through February 2023
-24,Private/public sector,Government employee,38,8023000,March 2022 through February 2023
-24,Private/public sector,Private-sector employee,50,59885000,March 2022 through February 2023
-24,Region,Midwest,50,15080000,March 2022 through February 2023
-24,Region,Northeast,43,10658000,March 2022 through February 2023
-24,Region,South,51,27397000,March 2022 through February 2023
-24,Region,West,44,14773000,March 2022 through February 2023
-24,State minimum wage,State minimum exceeds federal minimum,45,40370000,March 2022 through February 2023
-24,State minimum wage,State minimum follows federal minimum,52,27538000,March 2022 through February 2023
-24,Tipped occupation,Works in a non-tipped occupation,47,64513000,March 2022 through February 2023
-24,Tipped occupation,Works in a tipped occupation,80,3395000,March 2022 through February 2023
-24,Union status,In a union,34,5490000,March 2022 through February 2023
-24,Union status,Not in a union,50,62419000,March 2022 through February 2023
-25,All workers,All workers,50,71506000,March 2022 through February 2023
-25,Race and ethnicity,Asian,39,4163000,March 2022 through February 2023
-25,Race and ethnicity,Black,61,11247000,March 2022 through February 2023
-25,Race and ethnicity,Hispanic,65,17120000,March 2022 through February 2023
-25,Race and ethnicity,White,45,38073000,March 2022 through February 2023
-25,Gender,Female,57,38456000,March 2022 through February 2023
-25,Gender,Male,45,33050000,March 2022 through February 2023
-25,Age group,Ages 16-24,85,16159000,March 2022 through February 2023
-25,Age group,Ages 25-34,52,17251000,March 2022 through February 2023
-25,Age group,Ages 35-44,41,12680000,March 2022 through February 2023
-25,Age group,Ages 45-54,40,11200000,March 2022 through February 2023
-25,Age group,Ages 55-64,43,9985000,March 2022 through February 2023
-25,Age group,Ages 65 and above,53,4230000,March 2022 through February 2023
-25,Annual family income,"Family income  $24,999 or less",80,8306000,March 2022 through February 2023
-25,Annual family income,"Family income  $25,000 - $49,999",77,18353000,March 2022 through February 2023
-25,Annual family income,"Family income  $50,000 - $74,999",59,14968000,March 2022 through February 2023
-25,Annual family income,"Family income  $75,000 - $99,999",50,10502000,March 2022 through February 2023
-25,Annual family income,"Family income $100,000 or more",32,19377000,March 2022 through February 2023
-25,Education,College or advanced degree,26,15170000,March 2022 through February 2023
-25,Education,High school diploma,69,25231000,March 2022 through February 2023
-25,Education,Less than high school diploma,87,9282000,March 2022 through February 2023
-25,Education,Some college,60,21823000,March 2022 through February 2023
-25,Industry,"Agriculture, forestry, fishing, and hunting",78,1007000,March 2022 through February 2023
-25,Industry,Construction,48,4320000,March 2022 through February 2023
-25,Industry,Educational and health services,47,16057000,March 2022 through February 2023
-25,Industry,Financial activities,35,3290000,March 2022 through February 2023
-25,Industry,Information,32,844000,March 2022 through February 2023
-25,Industry,Leisure and hospitality,79,9981000,March 2022 through February 2023
-25,Industry,Manufacturing,44,6479000,March 2022 through February 2023
-25,Industry,Mining,33,188000,March 2022 through February 2023
-25,Industry,Other services,61,3653000,March 2022 through February 2023
-25,Industry,Professional and business services,37,6320000,March 2022 through February 2023
-25,Industry,Public administration,35,2710000,March 2022 through February 2023
-25,Industry,Transportation and utilities,53,4687000,March 2022 through February 2023
-25,Industry,Wholesale and retail trade,67,11971000,March 2022 through February 2023
-25,Occupation,Construction and extraction occupations,53,3576000,March 2022 through February 2023
-25,Occupation,"Farming, fishing, and forestry occupations",88,791000,March 2022 through February 2023
-25,Occupation,"Installation, maintenance, and repair occupations",43,1912000,March 2022 through February 2023
-25,Occupation,"Management, business, and financial occupations",23,5613000,March 2022 through February 2023
-25,Occupation,Office and administrative support occupations,66,10247000,March 2022 through February 2023
-25,Occupation,Production occupations,64,5041000,March 2022 through February 2023
-25,Occupation,Professional and related occupations,29,10536000,March 2022 through February 2023
-25,Occupation,Sales and related occupations,63,7636000,March 2022 through February 2023
-25,Occupation,Service occupations,80,18400000,March 2022 through February 2023
-25,Occupation,Transportation and material moving occupations,72,7755000,March 2022 through February 2023
-25,Part-time status,Works full-time,45,54477000,March 2022 through February 2023
-25,Part-time status,Works part-time,78,17028000,March 2022 through February 2023
-25,Private/public sector,Government employee,41,8642000,March 2022 through February 2023
-25,Private/public sector,Private-sector employee,52,62863000,March 2022 through February 2023
-25,Region,Midwest,52,15889000,March 2022 through February 2023
-25,Region,Northeast,45,11274000,March 2022 through February 2023
-25,Region,South,54,28823000,March 2022 through February 2023
-25,Region,West,47,15519000,March 2022 through February 2023
-25,State minimum wage,State minimum exceeds federal minimum,48,42548000,March 2022 through February 2023
-25,State minimum wage,State minimum follows federal minimum,55,28957000,March 2022 through February 2023
-25,Tipped occupation,Works in a non-tipped occupation,50,68043000,March 2022 through February 2023
-25,Tipped occupation,Works in a tipped occupation,82,3463000,March 2022 through February 2023
-25,Union status,In a union,37,5970000,March 2022 through February 2023
-25,Union status,Not in a union,52,65535000,March 2022 through February 2023
+10,All workers,All workers,2,3473000,April 2022 through March 2023
+10,Race and ethnicity,Asian,2,191000,April 2022 through March 2023
+10,Race and ethnicity,Black,4,662000,April 2022 through March 2023
+10,Race and ethnicity,Hispanic,3,788000,April 2022 through March 2023
+10,Race and ethnicity,White,2,1786000,April 2022 through March 2023
+10,Gender,Female,3,2107000,April 2022 through March 2023
+10,Gender,Male,2,1367000,April 2022 through March 2023
+10,Age group,Ages 16-24,6,1156000,April 2022 through March 2023
+10,Age group,Ages 25-34,2,640000,April 2022 through March 2023
+10,Age group,Ages 35-44,2,477000,April 2022 through March 2023
+10,Age group,Ages 45-54,2,428000,April 2022 through March 2023
+10,Age group,Ages 55-64,2,447000,April 2022 through March 2023
+10,Age group,Ages 65 and above,4,325000,April 2022 through March 2023
+10,Annual family income,"Family income  $24,999 or less",6,642000,April 2022 through March 2023
+10,Annual family income,"Family income  $25,000 - $49,999",4,862000,April 2022 through March 2023
+10,Annual family income,"Family income  $50,000 - $74,999",2,638000,April 2022 through March 2023
+10,Annual family income,"Family income  $75,000 - $99,999",2,393000,April 2022 through March 2023
+10,Annual family income,"Family income $100,000 or more",2,939000,April 2022 through March 2023
+10,Education,College or advanced degree,1,737000,April 2022 through March 2023
+10,Education,High school diploma,3,1046000,April 2022 through March 2023
+10,Education,Less than high school diploma,7,725000,April 2022 through March 2023
+10,Education,Some college,3,965000,April 2022 through March 2023
+10,Industry,"Agriculture, forestry, fishing, and hunting",6,82000,April 2022 through March 2023
+10,Industry,Construction,1,122000,April 2022 through March 2023
+10,Industry,Educational and health services,2,768000,April 2022 through March 2023
+10,Industry,Financial activities,1,127000,April 2022 through March 2023
+10,Industry,Information,2,44000,April 2022 through March 2023
+10,Industry,Leisure and hospitality,7,832000,April 2022 through March 2023
+10,Industry,Manufacturing,1,157000,April 2022 through March 2023
+10,Industry,Mining,2,10000,April 2022 through March 2023
+10,Industry,Other services,5,290000,April 2022 through March 2023
+10,Industry,Professional and business services,2,287000,April 2022 through March 2023
+10,Industry,Public administration,1,84000,April 2022 through March 2023
+10,Industry,Transportation and utilities,2,196000,April 2022 through March 2023
+10,Industry,Wholesale and retail trade,3,476000,April 2022 through March 2023
+10,Occupation,Construction and extraction occupations,1,98000,April 2022 through March 2023
+10,Occupation,"Farming, fishing, and forestry occupations",8,68000,April 2022 through March 2023
+10,Occupation,"Installation, maintenance, and repair occupations",1,34000,April 2022 through March 2023
+10,Occupation,"Management, business, and financial occupations",1,240000,April 2022 through March 2023
+10,Occupation,Office and administrative support occupations,2,355000,April 2022 through March 2023
+10,Occupation,Production occupations,1,108000,April 2022 through March 2023
+10,Occupation,Professional and related occupations,2,543000,April 2022 through March 2023
+10,Occupation,Sales and related occupations,3,415000,April 2022 through March 2023
+10,Occupation,Service occupations,6,1332000,April 2022 through March 2023
+10,Occupation,Transportation and material moving occupations,3,281000,April 2022 through March 2023
+10,Part-time status,Works full-time,2,1983000,April 2022 through March 2023
+10,Part-time status,Works part-time,7,1490000,April 2022 through March 2023
+10,Private/public sector,Government employee,2,360000,April 2022 through March 2023
+10,Private/public sector,Private-sector employee,3,3113000,April 2022 through March 2023
+10,Region,Midwest,2,705000,April 2022 through March 2023
+10,Region,Northeast,2,549000,April 2022 through March 2023
+10,Region,South,3,1701000,April 2022 through March 2023
+10,Region,West,2,519000,April 2022 through March 2023
+10,State minimum wage,State minimum exceeds federal minimum,2,1713000,April 2022 through March 2023
+10,State minimum wage,State minimum follows federal minimum,3,1760000,April 2022 through March 2023
+10,Tipped occupation,Works in a non-tipped occupation,2,3061000,April 2022 through March 2023
+10,Tipped occupation,Works in a tipped occupation,10,412000,April 2022 through March 2023
+10,Union status,In a union,1,133000,April 2022 through March 2023
+10,Union status,Not in a union,3,3340000,April 2022 through March 2023
+11,All workers,All workers,4,5848000,April 2022 through March 2023
+11,Race and ethnicity,Asian,3,298000,April 2022 through March 2023
+11,Race and ethnicity,Black,6,1137000,April 2022 through March 2023
+11,Race and ethnicity,Hispanic,5,1362000,April 2022 through March 2023
+11,Race and ethnicity,White,4,2966000,April 2022 through March 2023
+11,Gender,Female,5,3469000,April 2022 through March 2023
+11,Gender,Male,3,2379000,April 2022 through March 2023
+11,Age group,Ages 16-24,11,2085000,April 2022 through March 2023
+11,Age group,Ages 25-34,3,1039000,April 2022 through March 2023
+11,Age group,Ages 35-44,3,786000,April 2022 through March 2023
+11,Age group,Ages 45-54,3,730000,April 2022 through March 2023
+11,Age group,Ages 55-64,3,724000,April 2022 through March 2023
+11,Age group,Ages 65 and above,6,484000,April 2022 through March 2023
+11,Annual family income,"Family income  $24,999 or less",11,1128000,April 2022 through March 2023
+11,Annual family income,"Family income  $25,000 - $49,999",6,1464000,April 2022 through March 2023
+11,Annual family income,"Family income  $50,000 - $74,999",4,1062000,April 2022 through March 2023
+11,Annual family income,"Family income  $75,000 - $99,999",3,698000,April 2022 through March 2023
+11,Annual family income,"Family income $100,000 or more",2,1495000,April 2022 through March 2023
+11,Education,College or advanced degree,2,994000,April 2022 through March 2023
+11,Education,High school diploma,5,1882000,April 2022 through March 2023
+11,Education,Less than high school diploma,13,1374000,April 2022 through March 2023
+11,Education,Some college,4,1597000,April 2022 through March 2023
+11,Industry,"Agriculture, forestry, fishing, and hunting",10,123000,April 2022 through March 2023
+11,Industry,Construction,2,208000,April 2022 through March 2023
+11,Industry,Educational and health services,4,1252000,April 2022 through March 2023
+11,Industry,Financial activities,2,165000,April 2022 through March 2023
+11,Industry,Information,3,68000,April 2022 through March 2023
+11,Industry,Leisure and hospitality,11,1450000,April 2022 through March 2023
+11,Industry,Manufacturing,2,258000,April 2022 through March 2023
+11,Industry,Mining,2,13000,April 2022 through March 2023
+11,Industry,Other services,8,457000,April 2022 through March 2023
+11,Industry,Professional and business services,3,463000,April 2022 through March 2023
+11,Industry,Public administration,2,146000,April 2022 through March 2023
+11,Industry,Transportation and utilities,3,300000,April 2022 through March 2023
+11,Industry,Wholesale and retail trade,5,946000,April 2022 through March 2023
+11,Occupation,Construction and extraction occupations,3,182000,April 2022 through March 2023
+11,Occupation,"Farming, fishing, and forestry occupations",13,111000,April 2022 through March 2023
+11,Occupation,"Installation, maintenance, and repair occupations",2,77000,April 2022 through March 2023
+11,Occupation,"Management, business, and financial occupations",1,310000,April 2022 through March 2023
+11,Occupation,Office and administrative support occupations,4,601000,April 2022 through March 2023
+11,Occupation,Production occupations,3,207000,April 2022 through March 2023
+11,Occupation,Professional and related occupations,2,776000,April 2022 through March 2023
+11,Occupation,Sales and related occupations,6,764000,April 2022 through March 2023
+11,Occupation,Service occupations,10,2313000,April 2022 through March 2023
+11,Occupation,Transportation and material moving occupations,5,506000,April 2022 through March 2023
+11,Part-time status,Works full-time,3,3127000,April 2022 through March 2023
+11,Part-time status,Works part-time,12,2720000,April 2022 through March 2023
+11,Private/public sector,Government employee,3,581000,April 2022 through March 2023
+11,Private/public sector,Private-sector employee,4,5267000,April 2022 through March 2023
+11,Region,Midwest,4,1202000,April 2022 through March 2023
+11,Region,Northeast,3,844000,April 2022 through March 2023
+11,Region,South,6,2987000,April 2022 through March 2023
+11,Region,West,2,815000,April 2022 through March 2023
+11,State minimum wage,State minimum exceeds federal minimum,3,2791000,April 2022 through March 2023
+11,State minimum wage,State minimum follows federal minimum,6,3057000,April 2022 through March 2023
+11,Tipped occupation,Works in a non-tipped occupation,4,5212000,April 2022 through March 2023
+11,Tipped occupation,Works in a tipped occupation,15,636000,April 2022 through March 2023
+11,Union status,In a union,2,251000,April 2022 through March 2023
+11,Union status,Not in a union,4,5597000,April 2022 through March 2023
+12,All workers,All workers,6,8015000,April 2022 through March 2023
+12,Race and ethnicity,Asian,4,417000,April 2022 through March 2023
+12,Race and ethnicity,Black,8,1454000,April 2022 through March 2023
+12,Race and ethnicity,Hispanic,7,1856000,April 2022 through March 2023
+12,Race and ethnicity,White,5,4182000,April 2022 through March 2023
+12,Gender,Female,7,4708000,April 2022 through March 2023
+12,Gender,Male,4,3307000,April 2022 through March 2023
+12,Age group,Ages 16-24,15,2854000,April 2022 through March 2023
+12,Age group,Ages 25-34,4,1424000,April 2022 through March 2023
+12,Age group,Ages 35-44,4,1097000,April 2022 through March 2023
+12,Age group,Ages 45-54,3,964000,April 2022 through March 2023
+12,Age group,Ages 55-64,4,995000,April 2022 through March 2023
+12,Age group,Ages 65 and above,9,681000,April 2022 through March 2023
+12,Annual family income,"Family income  $24,999 or less",15,1529000,April 2022 through March 2023
+12,Annual family income,"Family income  $25,000 - $49,999",9,2031000,April 2022 through March 2023
+12,Annual family income,"Family income  $50,000 - $74,999",6,1463000,April 2022 through March 2023
+12,Annual family income,"Family income  $75,000 - $99,999",4,928000,April 2022 through March 2023
+12,Annual family income,"Family income $100,000 or more",3,2063000,April 2022 through March 2023
+12,Education,College or advanced degree,2,1309000,April 2022 through March 2023
+12,Education,High school diploma,7,2607000,April 2022 through March 2023
+12,Education,Less than high school diploma,18,1900000,April 2022 through March 2023
+12,Education,Some college,6,2199000,April 2022 through March 2023
+12,Industry,"Agriculture, forestry, fishing, and hunting",12,156000,April 2022 through March 2023
+12,Industry,Construction,3,264000,April 2022 through March 2023
+12,Industry,Educational and health services,5,1681000,April 2022 through March 2023
+12,Industry,Financial activities,2,207000,April 2022 through March 2023
+12,Industry,Information,3,86000,April 2022 through March 2023
+12,Industry,Leisure and hospitality,16,2025000,April 2022 through March 2023
+12,Industry,Manufacturing,2,335000,April 2022 through March 2023
+12,Industry,Mining,2,13000,April 2022 through March 2023
+12,Industry,Other services,10,571000,April 2022 through March 2023
+12,Industry,Professional and business services,4,650000,April 2022 through March 2023
+12,Industry,Public administration,3,214000,April 2022 through March 2023
+12,Industry,Transportation and utilities,5,410000,April 2022 through March 2023
+12,Industry,Wholesale and retail trade,8,1403000,April 2022 through March 2023
+12,Occupation,Construction and extraction occupations,3,228000,April 2022 through March 2023
+12,Occupation,"Farming, fishing, and forestry occupations",16,144000,April 2022 through March 2023
+12,Occupation,"Installation, maintenance, and repair occupations",2,94000,April 2022 through March 2023
+12,Occupation,"Management, business, and financial occupations",2,395000,April 2022 through March 2023
+12,Occupation,Office and administrative support occupations,5,791000,April 2022 through March 2023
+12,Occupation,Production occupations,4,299000,April 2022 through March 2023
+12,Occupation,Professional and related occupations,3,1011000,April 2022 through March 2023
+12,Occupation,Sales and related occupations,10,1175000,April 2022 through March 2023
+12,Occupation,Service occupations,14,3145000,April 2022 through March 2023
+12,Occupation,Transportation and material moving occupations,7,733000,April 2022 through March 2023
+12,Part-time status,Works full-time,4,4285000,April 2022 through March 2023
+12,Part-time status,Works part-time,17,3730000,April 2022 through March 2023
+12,Private/public sector,Government employee,4,833000,April 2022 through March 2023
+12,Private/public sector,Private-sector employee,6,7182000,April 2022 through March 2023
+12,Region,Midwest,6,1696000,April 2022 through March 2023
+12,Region,Northeast,5,1155000,April 2022 through March 2023
+12,Region,South,8,4055000,April 2022 through March 2023
+12,Region,West,3,1109000,April 2022 through March 2023
+12,State minimum wage,State minimum exceeds federal minimum,4,3923000,April 2022 through March 2023
+12,State minimum wage,State minimum follows federal minimum,8,4092000,April 2022 through March 2023
+12,Tipped occupation,Works in a non-tipped occupation,5,7183000,April 2022 through March 2023
+12,Tipped occupation,Works in a tipped occupation,20,832000,April 2022 through March 2023
+12,Union status,In a union,2,353000,April 2022 through March 2023
+12,Union status,Not in a union,6,7662000,April 2022 through March 2023
+13,All workers,All workers,8,11998000,April 2022 through March 2023
+13,Race and ethnicity,Asian,6,631000,April 2022 through March 2023
+13,Race and ethnicity,Black,11,2109000,April 2022 through March 2023
+13,Race and ethnicity,Hispanic,11,2807000,April 2022 through March 2023
+13,Race and ethnicity,White,7,6274000,April 2022 through March 2023
+13,Gender,Female,10,6964000,April 2022 through March 2023
+13,Gender,Male,7,5034000,April 2022 through March 2023
+13,Age group,Ages 16-24,22,4280000,April 2022 through March 2023
+13,Age group,Ages 25-34,7,2161000,April 2022 through March 2023
+13,Age group,Ages 35-44,5,1653000,April 2022 through March 2023
+13,Age group,Ages 45-54,5,1438000,April 2022 through March 2023
+13,Age group,Ages 55-64,6,1465000,April 2022 through March 2023
+13,Age group,Ages 65 and above,13,1001000,April 2022 through March 2023
+13,Annual family income,"Family income  $24,999 or less",22,2206000,April 2022 through March 2023
+13,Annual family income,"Family income  $25,000 - $49,999",13,3074000,April 2022 through March 2023
+13,Annual family income,"Family income  $50,000 - $74,999",9,2272000,April 2022 through March 2023
+13,Annual family income,"Family income  $75,000 - $99,999",7,1400000,April 2022 through March 2023
+13,Annual family income,"Family income $100,000 or more",5,3046000,April 2022 through March 2023
+13,Education,College or advanced degree,3,1834000,April 2022 through March 2023
+13,Education,High school diploma,11,3948000,April 2022 through March 2023
+13,Education,Less than high school diploma,27,2876000,April 2022 through March 2023
+13,Education,Some college,9,3340000,April 2022 through March 2023
+13,Industry,"Agriculture, forestry, fishing, and hunting",17,221000,April 2022 through March 2023
+13,Industry,Construction,5,443000,April 2022 through March 2023
+13,Industry,Educational and health services,7,2492000,April 2022 through March 2023
+13,Industry,Financial activities,4,339000,April 2022 through March 2023
+13,Industry,Information,5,127000,April 2022 through March 2023
+13,Industry,Leisure and hospitality,23,2917000,April 2022 through March 2023
+13,Industry,Manufacturing,4,585000,April 2022 through March 2023
+13,Industry,Mining,4,24000,April 2022 through March 2023
+13,Industry,Other services,14,820000,April 2022 through March 2023
+13,Industry,Professional and business services,6,946000,April 2022 through March 2023
+13,Industry,Public administration,4,292000,April 2022 through March 2023
+13,Industry,Transportation and utilities,7,591000,April 2022 through March 2023
+13,Industry,Wholesale and retail trade,12,2200000,April 2022 through March 2023
+13,Occupation,Construction and extraction occupations,6,390000,April 2022 through March 2023
+13,Occupation,"Farming, fishing, and forestry occupations",22,191000,April 2022 through March 2023
+13,Occupation,"Installation, maintenance, and repair occupations",4,188000,April 2022 through March 2023
+13,Occupation,"Management, business, and financial occupations",2,570000,April 2022 through March 2023
+13,Occupation,Office and administrative support occupations,8,1237000,April 2022 through March 2023
+13,Occupation,Production occupations,6,513000,April 2022 through March 2023
+13,Occupation,Professional and related occupations,4,1455000,April 2022 through March 2023
+13,Occupation,Sales and related occupations,15,1793000,April 2022 through March 2023
+13,Occupation,Service occupations,19,4494000,April 2022 through March 2023
+13,Occupation,Transportation and material moving occupations,11,1169000,April 2022 through March 2023
+13,Part-time status,Works full-time,6,6615000,April 2022 through March 2023
+13,Part-time status,Works part-time,25,5383000,April 2022 through March 2023
+13,Private/public sector,Government employee,6,1210000,April 2022 through March 2023
+13,Private/public sector,Private-sector employee,9,10788000,April 2022 through March 2023
+13,Region,Midwest,9,2595000,April 2022 through March 2023
+13,Region,Northeast,7,1670000,April 2022 through March 2023
+13,Region,South,11,6027000,April 2022 through March 2023
+13,Region,West,5,1705000,April 2022 through March 2023
+13,State minimum wage,State minimum exceeds federal minimum,7,6053000,April 2022 through March 2023
+13,State minimum wage,State minimum follows federal minimum,11,5945000,April 2022 through March 2023
+13,Tipped occupation,Works in a non-tipped occupation,8,10849000,April 2022 through March 2023
+13,Tipped occupation,Works in a tipped occupation,27,1149000,April 2022 through March 2023
+13,Union status,In a union,3,525000,April 2022 through March 2023
+13,Union status,Not in a union,9,11473000,April 2022 through March 2023
+14,All workers,All workers,11,15511000,April 2022 through March 2023
+14,Race and ethnicity,Asian,8,830000,April 2022 through March 2023
+14,Race and ethnicity,Black,15,2674000,April 2022 through March 2023
+14,Race and ethnicity,Hispanic,14,3669000,April 2022 through March 2023
+14,Race and ethnicity,White,10,8109000,April 2022 through March 2023
+14,Gender,Female,13,9122000,April 2022 through March 2023
+14,Gender,Male,9,6389000,April 2022 through March 2023
+14,Age group,Ages 16-24,28,5421000,April 2022 through March 2023
+14,Age group,Ages 25-34,9,2874000,April 2022 through March 2023
+14,Age group,Ages 35-44,7,2210000,April 2022 through March 2023
+14,Age group,Ages 45-54,7,1884000,April 2022 through March 2023
+14,Age group,Ages 55-64,8,1905000,April 2022 through March 2023
+14,Age group,Ages 65 and above,15,1218000,April 2022 through March 2023
+14,Annual family income,"Family income  $24,999 or less",28,2835000,April 2022 through March 2023
+14,Annual family income,"Family income  $25,000 - $49,999",17,4083000,April 2022 through March 2023
+14,Annual family income,"Family income  $50,000 - $74,999",11,2925000,April 2022 through March 2023
+14,Annual family income,"Family income  $75,000 - $99,999",9,1847000,April 2022 through March 2023
+14,Annual family income,"Family income $100,000 or more",6,3821000,April 2022 through March 2023
+14,Education,College or advanced degree,4,2298000,April 2022 through March 2023
+14,Education,High school diploma,14,5275000,April 2022 through March 2023
+14,Education,Less than high school diploma,33,3543000,April 2022 through March 2023
+14,Education,Some college,12,4396000,April 2022 through March 2023
+14,Industry,"Agriculture, forestry, fishing, and hunting",21,265000,April 2022 through March 2023
+14,Industry,Construction,6,589000,April 2022 through March 2023
+14,Industry,Educational and health services,10,3335000,April 2022 through March 2023
+14,Industry,Financial activities,4,416000,April 2022 through March 2023
+14,Industry,Information,6,147000,April 2022 through March 2023
+14,Industry,Leisure and hospitality,29,3662000,April 2022 through March 2023
+14,Industry,Manufacturing,5,788000,April 2022 through March 2023
+14,Industry,Mining,5,29000,April 2022 through March 2023
+14,Industry,Other services,17,1004000,April 2022 through March 2023
+14,Industry,Professional and business services,7,1227000,April 2022 through March 2023
+14,Industry,Public administration,5,394000,April 2022 through March 2023
+14,Industry,Transportation and utilities,8,758000,April 2022 through March 2023
+14,Industry,Wholesale and retail trade,16,2898000,April 2022 through March 2023
+14,Occupation,Construction and extraction occupations,7,499000,April 2022 through March 2023
+14,Occupation,"Farming, fishing, and forestry occupations",26,232000,April 2022 through March 2023
+14,Occupation,"Installation, maintenance, and repair occupations",5,218000,April 2022 through March 2023
+14,Occupation,"Management, business, and financial occupations",3,731000,April 2022 through March 2023
+14,Occupation,Office and administrative support occupations,11,1632000,April 2022 through March 2023
+14,Occupation,Production occupations,9,713000,April 2022 through March 2023
+14,Occupation,Professional and related occupations,5,1867000,April 2022 through March 2023
+14,Occupation,Sales and related occupations,19,2303000,April 2022 through March 2023
+14,Occupation,Service occupations,25,5829000,April 2022 through March 2023
+14,Occupation,Transportation and material moving occupations,14,1487000,April 2022 through March 2023
+14,Part-time status,Works full-time,7,8829000,April 2022 through March 2023
+14,Part-time status,Works part-time,31,6682000,April 2022 through March 2023
+14,Private/public sector,Government employee,7,1563000,April 2022 through March 2023
+14,Private/public sector,Private-sector employee,12,13949000,April 2022 through March 2023
+14,Region,Midwest,11,3428000,April 2022 through March 2023
+14,Region,Northeast,9,2213000,April 2022 through March 2023
+14,Region,South,14,7609000,April 2022 through March 2023
+14,Region,West,7,2262000,April 2022 through March 2023
+14,State minimum wage,State minimum exceeds federal minimum,9,8019000,April 2022 through March 2023
+14,State minimum wage,State minimum follows federal minimum,14,7492000,April 2022 through March 2023
+14,Tipped occupation,Works in a non-tipped occupation,10,14096000,April 2022 through March 2023
+14,Tipped occupation,Works in a tipped occupation,33,1415000,April 2022 through March 2023
+14,Union status,In a union,5,746000,April 2022 through March 2023
+14,Union status,Not in a union,12,14765000,April 2022 through March 2023
+15,All workers,All workers,14,19469000,April 2022 through March 2023
+15,Race and ethnicity,Asian,10,1057000,April 2022 through March 2023
+15,Race and ethnicity,Black,18,3338000,April 2022 through March 2023
+15,Race and ethnicity,Hispanic,18,4655000,April 2022 through March 2023
+15,Race and ethnicity,White,12,10122000,April 2022 through March 2023
+15,Gender,Female,17,11455000,April 2022 through March 2023
+15,Gender,Male,11,8014000,April 2022 through March 2023
+15,Age group,Ages 16-24,35,6586000,April 2022 through March 2023
+15,Age group,Ages 25-34,11,3679000,April 2022 through March 2023
+15,Age group,Ages 35-44,9,2860000,April 2022 through March 2023
+15,Age group,Ages 45-54,9,2464000,April 2022 through March 2023
+15,Age group,Ages 55-64,11,2432000,April 2022 through March 2023
+15,Age group,Ages 65 and above,18,1449000,April 2022 through March 2023
+15,Annual family income,"Family income  $24,999 or less",33,3390000,April 2022 through March 2023
+15,Annual family income,"Family income  $25,000 - $49,999",22,5220000,April 2022 through March 2023
+15,Annual family income,"Family income  $50,000 - $74,999",15,3730000,April 2022 through March 2023
+15,Annual family income,"Family income  $75,000 - $99,999",11,2321000,April 2022 through March 2023
+15,Annual family income,"Family income $100,000 or more",8,4806000,April 2022 through March 2023
+15,Education,College or advanced degree,5,2931000,April 2022 through March 2023
+15,Education,High school diploma,18,6732000,April 2022 through March 2023
+15,Education,Less than high school diploma,40,4240000,April 2022 through March 2023
+15,Education,Some college,15,5565000,April 2022 through March 2023
+15,Industry,"Agriculture, forestry, fishing, and hunting",28,359000,April 2022 through March 2023
+15,Industry,Construction,9,772000,April 2022 through March 2023
+15,Industry,Educational and health services,12,4201000,April 2022 through March 2023
+15,Industry,Financial activities,6,561000,April 2022 through March 2023
+15,Industry,Information,7,183000,April 2022 through March 2023
+15,Industry,Leisure and hospitality,35,4378000,April 2022 through March 2023
+15,Industry,Manufacturing,7,1074000,April 2022 through March 2023
+15,Industry,Mining,6,31000,April 2022 through March 2023
+15,Industry,Other services,20,1207000,April 2022 through March 2023
+15,Industry,Professional and business services,9,1544000,April 2022 through March 2023
+15,Industry,Public administration,7,508000,April 2022 through March 2023
+15,Industry,Transportation and utilities,11,969000,April 2022 through March 2023
+15,Industry,Wholesale and retail trade,21,3682000,April 2022 through March 2023
+15,Occupation,Construction and extraction occupations,9,638000,April 2022 through March 2023
+15,Occupation,"Farming, fishing, and forestry occupations",36,316000,April 2022 through March 2023
+15,Occupation,"Installation, maintenance, and repair occupations",7,301000,April 2022 through March 2023
+15,Occupation,"Management, business, and financial occupations",4,956000,April 2022 through March 2023
+15,Occupation,Office and administrative support occupations,14,2150000,April 2022 through March 2023
+15,Occupation,Production occupations,12,946000,April 2022 through March 2023
+15,Occupation,Professional and related occupations,6,2289000,April 2022 through March 2023
+15,Occupation,Sales and related occupations,24,2848000,April 2022 through March 2023
+15,Occupation,Service occupations,31,7091000,April 2022 through March 2023
+15,Occupation,Transportation and material moving occupations,18,1936000,April 2022 through March 2023
+15,Part-time status,Works full-time,10,11600000,April 2022 through March 2023
+15,Part-time status,Works part-time,36,7868000,April 2022 through March 2023
+15,Private/public sector,Government employee,9,1981000,April 2022 through March 2023
+15,Private/public sector,Private-sector employee,15,17488000,April 2022 through March 2023
+15,Region,Midwest,14,4308000,April 2022 through March 2023
+15,Region,Northeast,11,2778000,April 2022 through March 2023
+15,Region,South,18,9327000,April 2022 through March 2023
+15,Region,West,9,3056000,April 2022 through March 2023
+15,State minimum wage,State minimum exceeds federal minimum,12,10312000,April 2022 through March 2023
+15,State minimum wage,State minimum follows federal minimum,17,9157000,April 2022 through March 2023
+15,Tipped occupation,Works in a non-tipped occupation,13,17853000,April 2022 through March 2023
+15,Tipped occupation,Works in a tipped occupation,38,1615000,April 2022 through March 2023
+15,Union status,In a union,6,981000,April 2022 through March 2023
+15,Union status,Not in a union,15,18488000,April 2022 through March 2023
+16,All workers,All workers,20,28055000,April 2022 through March 2023
+16,Race and ethnicity,Asian,15,1590000,April 2022 through March 2023
+16,Race and ethnicity,Black,26,4801000,April 2022 through March 2023
+16,Race and ethnicity,Hispanic,26,6977000,April 2022 through March 2023
+16,Race and ethnicity,White,17,14285000,April 2022 through March 2023
+16,Gender,Female,24,16174000,April 2022 through March 2023
+16,Gender,Male,16,11881000,April 2022 through March 2023
+16,Age group,Ages 16-24,48,9197000,April 2022 through March 2023
+16,Age group,Ages 25-34,17,5518000,April 2022 through March 2023
+16,Age group,Ages 35-44,14,4199000,April 2022 through March 2023
+16,Age group,Ages 45-54,13,3615000,April 2022 through March 2023
+16,Age group,Ages 55-64,15,3517000,April 2022 through March 2023
+16,Age group,Ages 65 and above,25,2009000,April 2022 through March 2023
+16,Annual family income,"Family income  $24,999 or less",46,4655000,April 2022 through March 2023
+16,Annual family income,"Family income  $25,000 - $49,999",32,7528000,April 2022 through March 2023
+16,Annual family income,"Family income  $50,000 - $74,999",21,5496000,April 2022 through March 2023
+16,Annual family income,"Family income  $75,000 - $99,999",16,3412000,April 2022 through March 2023
+16,Annual family income,"Family income $100,000 or more",11,6965000,April 2022 through March 2023
+16,Education,College or advanced degree,7,4216000,April 2022 through March 2023
+16,Education,High school diploma,27,10027000,April 2022 through March 2023
+16,Education,Less than high school diploma,52,5599000,April 2022 through March 2023
+16,Education,Some college,22,8213000,April 2022 through March 2023
+16,Industry,"Agriculture, forestry, fishing, and hunting",41,520000,April 2022 through March 2023
+16,Industry,Construction,14,1236000,April 2022 through March 2023
+16,Industry,Educational and health services,18,5967000,April 2022 through March 2023
+16,Industry,Financial activities,9,859000,April 2022 through March 2023
+16,Industry,Information,10,274000,April 2022 through March 2023
+16,Industry,Leisure and hospitality,46,5803000,April 2022 through March 2023
+16,Industry,Manufacturing,12,1718000,April 2022 through March 2023
+16,Industry,Mining,8,44000,April 2022 through March 2023
+16,Industry,Other services,27,1625000,April 2022 through March 2023
+16,Industry,Professional and business services,14,2313000,April 2022 through March 2023
+16,Industry,Public administration,10,759000,April 2022 through March 2023
+16,Industry,Transportation and utilities,17,1489000,April 2022 through March 2023
+16,Industry,Wholesale and retail trade,31,5448000,April 2022 through March 2023
+16,Occupation,Construction and extraction occupations,15,1031000,April 2022 through March 2023
+16,Occupation,"Farming, fishing, and forestry occupations",51,448000,April 2022 through March 2023
+16,Occupation,"Installation, maintenance, and repair occupations",10,444000,April 2022 through March 2023
+16,Occupation,"Management, business, and financial occupations",5,1323000,April 2022 through March 2023
+16,Occupation,Office and administrative support occupations,21,3305000,April 2022 through March 2023
+16,Occupation,Production occupations,19,1547000,April 2022 through March 2023
+16,Occupation,Professional and related occupations,9,3222000,April 2022 through March 2023
+16,Occupation,Sales and related occupations,33,3968000,April 2022 through March 2023
+16,Occupation,Service occupations,42,9778000,April 2022 through March 2023
+16,Occupation,Transportation and material moving occupations,28,2989000,April 2022 through March 2023
+16,Part-time status,Works full-time,14,17297000,April 2022 through March 2023
+16,Part-time status,Works part-time,49,10758000,April 2022 through March 2023
+16,Private/public sector,Government employee,13,2785000,April 2022 through March 2023
+16,Private/public sector,Private-sector employee,21,25270000,April 2022 through March 2023
+16,Region,Midwest,20,6082000,April 2022 through March 2023
+16,Region,Northeast,17,4276000,April 2022 through March 2023
+16,Region,South,24,12619000,April 2022 through March 2023
+16,Region,West,15,5079000,April 2022 through March 2023
+16,State minimum wage,State minimum exceeds federal minimum,18,15686000,April 2022 through March 2023
+16,State minimum wage,State minimum follows federal minimum,23,12369000,April 2022 through March 2023
+16,Tipped occupation,Works in a non-tipped occupation,19,25925000,April 2022 through March 2023
+16,Tipped occupation,Works in a tipped occupation,50,2130000,April 2022 through March 2023
+16,Union status,In a union,10,1577000,April 2022 through March 2023
+16,Union status,Not in a union,21,26478000,April 2022 through March 2023
+17,All workers,All workers,24,34187000,April 2022 through March 2023
+17,Race and ethnicity,Asian,18,1952000,April 2022 through March 2023
+17,Race and ethnicity,Black,31,5790000,April 2022 through March 2023
+17,Race and ethnicity,Hispanic,32,8590000,April 2022 through March 2023
+17,Race and ethnicity,White,21,17361000,April 2022 through March 2023
+17,Gender,Female,29,19553000,April 2022 through March 2023
+17,Gender,Male,20,14634000,April 2022 through March 2023
+17,Age group,Ages 16-24,56,10685000,April 2022 through March 2023
+17,Age group,Ages 25-34,21,6910000,April 2022 through March 2023
+17,Age group,Ages 35-44,17,5276000,April 2022 through March 2023
+17,Age group,Ages 45-54,17,4579000,April 2022 through March 2023
+17,Age group,Ages 55-64,19,4332000,April 2022 through March 2023
+17,Age group,Ages 65 and above,30,2405000,April 2022 through March 2023
+17,Annual family income,"Family income  $24,999 or less",53,5363000,April 2022 through March 2023
+17,Annual family income,"Family income  $25,000 - $49,999",39,9220000,April 2022 through March 2023
+17,Annual family income,"Family income  $50,000 - $74,999",27,6866000,April 2022 through March 2023
+17,Annual family income,"Family income  $75,000 - $99,999",20,4286000,April 2022 through March 2023
+17,Annual family income,"Family income $100,000 or more",14,8451000,April 2022 through March 2023
+17,Education,College or advanced degree,9,5173000,April 2022 through March 2023
+17,Education,High school diploma,34,12445000,April 2022 through March 2023
+17,Education,Less than high school diploma,60,6409000,April 2022 through March 2023
+17,Education,Some college,28,10160000,April 2022 through March 2023
+17,Industry,"Agriculture, forestry, fishing, and hunting",49,630000,April 2022 through March 2023
+17,Industry,Construction,17,1502000,April 2022 through March 2023
+17,Industry,Educational and health services,21,7233000,April 2022 through March 2023
+17,Industry,Financial activities,12,1097000,April 2022 through March 2023
+17,Industry,Information,13,352000,April 2022 through March 2023
+17,Industry,Leisure and hospitality,53,6728000,April 2022 through March 2023
+17,Industry,Manufacturing,16,2291000,April 2022 through March 2023
+17,Industry,Mining,10,57000,April 2022 through March 2023
+17,Industry,Other services,33,1963000,April 2022 through March 2023
+17,Industry,Professional and business services,17,2839000,April 2022 through March 2023
+17,Industry,Public administration,13,973000,April 2022 through March 2023
+17,Industry,Transportation and utilities,22,1946000,April 2022 through March 2023
+17,Industry,Wholesale and retail trade,37,6575000,April 2022 through March 2023
+17,Occupation,Construction and extraction occupations,18,1251000,April 2022 through March 2023
+17,Occupation,"Farming, fishing, and forestry occupations",62,548000,April 2022 through March 2023
+17,Occupation,"Installation, maintenance, and repair occupations",14,605000,April 2022 through March 2023
+17,Occupation,"Management, business, and financial occupations",7,1674000,April 2022 through March 2023
+17,Occupation,Office and administrative support occupations,27,4174000,April 2022 through March 2023
+17,Occupation,Production occupations,25,2012000,April 2022 through March 2023
+17,Occupation,Professional and related occupations,11,3989000,April 2022 through March 2023
+17,Occupation,Sales and related occupations,38,4631000,April 2022 through March 2023
+17,Occupation,Service occupations,50,11488000,April 2022 through March 2023
+17,Occupation,Transportation and material moving occupations,35,3814000,April 2022 through March 2023
+17,Part-time status,Works full-time,18,21979000,April 2022 through March 2023
+17,Part-time status,Works part-time,56,12208000,April 2022 through March 2023
+17,Private/public sector,Government employee,16,3410000,April 2022 through March 2023
+17,Private/public sector,Private-sector employee,26,30777000,April 2022 through March 2023
+17,Region,Midwest,24,7393000,April 2022 through March 2023
+17,Region,Northeast,21,5205000,April 2022 through March 2023
+17,Region,South,28,14948000,April 2022 through March 2023
+17,Region,West,20,6641000,April 2022 through March 2023
+17,State minimum wage,State minimum exceeds federal minimum,22,19508000,April 2022 through March 2023
+17,State minimum wage,State minimum follows federal minimum,28,14679000,April 2022 through March 2023
+17,Tipped occupation,Works in a non-tipped occupation,23,31740000,April 2022 through March 2023
+17,Tipped occupation,Works in a tipped occupation,58,2447000,April 2022 through March 2023
+17,Union status,In a union,13,2062000,April 2022 through March 2023
+17,Union status,Not in a union,26,32125000,April 2022 through March 2023
+18,All workers,All workers,28,39778000,April 2022 through March 2023
+18,Race and ethnicity,Asian,21,2277000,April 2022 through March 2023
+18,Race and ethnicity,Black,36,6625000,April 2022 through March 2023
+18,Race and ethnicity,Hispanic,38,10121000,April 2022 through March 2023
+18,Race and ethnicity,White,24,20189000,April 2022 through March 2023
+18,Gender,Female,33,22549000,April 2022 through March 2023
+18,Gender,Male,23,17229000,April 2022 through March 2023
+18,Age group,Ages 16-24,62,11898000,April 2022 through March 2023
+18,Age group,Ages 25-34,25,8356000,April 2022 through March 2023
+18,Age group,Ages 35-44,20,6230000,April 2022 through March 2023
+18,Age group,Ages 45-54,20,5441000,April 2022 through March 2023
+18,Age group,Ages 55-64,22,5147000,April 2022 through March 2023
+18,Age group,Ages 65 and above,34,2705000,April 2022 through March 2023
+18,Annual family income,"Family income  $24,999 or less",58,5925000,April 2022 through March 2023
+18,Annual family income,"Family income  $25,000 - $49,999",45,10782000,April 2022 through March 2023
+18,Annual family income,"Family income  $50,000 - $74,999",32,8098000,April 2022 through March 2023
+18,Annual family income,"Family income  $75,000 - $99,999",24,5097000,April 2022 through March 2023
+18,Annual family income,"Family income $100,000 or more",16,9876000,April 2022 through March 2023
+18,Education,College or advanced degree,11,6280000,April 2022 through March 2023
+18,Education,High school diploma,40,14504000,April 2022 through March 2023
+18,Education,Less than high school diploma,66,7048000,April 2022 through March 2023
+18,Education,Some college,33,11946000,April 2022 through March 2023
+18,Industry,"Agriculture, forestry, fishing, and hunting",55,699000,April 2022 through March 2023
+18,Industry,Construction,20,1799000,April 2022 through March 2023
+18,Industry,Educational and health services,25,8537000,April 2022 through March 2023
+18,Industry,Financial activities,14,1323000,April 2022 through March 2023
+18,Industry,Information,15,405000,April 2022 through March 2023
+18,Industry,Leisure and hospitality,58,7386000,April 2022 through March 2023
+18,Industry,Manufacturing,20,2883000,April 2022 through March 2023
+18,Industry,Mining,12,68000,April 2022 through March 2023
+18,Industry,Other services,37,2213000,April 2022 through March 2023
+18,Industry,Professional and business services,19,3328000,April 2022 through March 2023
+18,Industry,Public administration,15,1178000,April 2022 through March 2023
+18,Industry,Transportation and utilities,26,2330000,April 2022 through March 2023
+18,Industry,Wholesale and retail trade,43,7629000,April 2022 through March 2023
+18,Occupation,Construction and extraction occupations,22,1506000,April 2022 through March 2023
+18,Occupation,"Farming, fishing, and forestry occupations",67,591000,April 2022 through March 2023
+18,Occupation,"Installation, maintenance, and repair occupations",17,767000,April 2022 through March 2023
+18,Occupation,"Management, business, and financial occupations",8,2051000,April 2022 through March 2023
+18,Occupation,Office and administrative support occupations,32,5035000,April 2022 through March 2023
+18,Occupation,Production occupations,32,2542000,April 2022 through March 2023
+18,Occupation,Professional and related occupations,13,4696000,April 2022 through March 2023
+18,Occupation,Sales and related occupations,43,5146000,April 2022 through March 2023
+18,Occupation,Service occupations,56,12903000,April 2022 through March 2023
+18,Occupation,Transportation and material moving occupations,42,4539000,April 2022 through March 2023
+18,Part-time status,Works full-time,22,26550000,April 2022 through March 2023
+18,Part-time status,Works part-time,61,13228000,April 2022 through March 2023
+18,Private/public sector,Government employee,19,4060000,April 2022 through March 2023
+18,Private/public sector,Private-sector employee,30,35718000,April 2022 through March 2023
+18,Region,Midwest,28,8607000,April 2022 through March 2023
+18,Region,Northeast,25,6106000,April 2022 through March 2023
+18,Region,South,32,17000000,April 2022 through March 2023
+18,Region,West,24,8064000,April 2022 through March 2023
+18,State minimum wage,State minimum exceeds federal minimum,26,23084000,April 2022 through March 2023
+18,State minimum wage,State minimum follows federal minimum,32,16694000,April 2022 through March 2023
+18,Tipped occupation,Works in a non-tipped occupation,27,37130000,April 2022 through March 2023
+18,Tipped occupation,Works in a tipped occupation,63,2648000,April 2022 through March 2023
+18,Union status,In a union,16,2535000,April 2022 through March 2023
+18,Union status,Not in a union,30,37243000,April 2022 through March 2023
+19,All workers,All workers,32,45508000,April 2022 through March 2023
+19,Race and ethnicity,Asian,24,2611000,April 2022 through March 2023
+19,Race and ethnicity,Black,41,7549000,April 2022 through March 2023
+19,Race and ethnicity,Hispanic,44,11603000,April 2022 through March 2023
+19,Race and ethnicity,White,27,23102000,April 2022 through March 2023
+19,Gender,Female,38,25547000,April 2022 through March 2023
+19,Gender,Male,27,19961000,April 2022 through March 2023
+19,Age group,Ages 16-24,68,13010000,April 2022 through March 2023
+19,Age group,Ages 25-34,30,9938000,April 2022 through March 2023
+19,Age group,Ages 35-44,23,7256000,April 2022 through March 2023
+19,Age group,Ages 45-54,23,6382000,April 2022 through March 2023
+19,Age group,Ages 55-64,26,5924000,April 2022 through March 2023
+19,Age group,Ages 65 and above,38,2998000,April 2022 through March 2023
+19,Annual family income,"Family income  $24,999 or less",63,6436000,April 2022 through March 2023
+19,Annual family income,"Family income  $25,000 - $49,999",52,12370000,April 2022 through March 2023
+19,Annual family income,"Family income  $50,000 - $74,999",36,9318000,April 2022 through March 2023
+19,Annual family income,"Family income  $75,000 - $99,999",29,6042000,April 2022 through March 2023
+19,Annual family income,"Family income $100,000 or more",19,11341000,April 2022 through March 2023
+19,Education,College or advanced degree,13,7378000,April 2022 through March 2023
+19,Education,High school diploma,46,16781000,April 2022 through March 2023
+19,Education,Less than high school diploma,71,7555000,April 2022 through March 2023
+19,Education,Some college,38,13794000,April 2022 through March 2023
+19,Industry,"Agriculture, forestry, fishing, and hunting",60,773000,April 2022 through March 2023
+19,Industry,Construction,24,2206000,April 2022 through March 2023
+19,Industry,Educational and health services,29,9804000,April 2022 through March 2023
+19,Industry,Financial activities,17,1624000,April 2022 through March 2023
+19,Industry,Information,18,478000,April 2022 through March 2023
+19,Industry,Leisure and hospitality,63,7995000,April 2022 through March 2023
+19,Industry,Manufacturing,24,3529000,April 2022 through March 2023
+19,Industry,Mining,14,81000,April 2022 through March 2023
+19,Industry,Other services,41,2453000,April 2022 through March 2023
+19,Industry,Professional and business services,22,3824000,April 2022 through March 2023
+19,Industry,Public administration,18,1394000,April 2022 through March 2023
+19,Industry,Transportation and utilities,31,2757000,April 2022 through March 2023
+19,Industry,Wholesale and retail trade,48,8590000,April 2022 through March 2023
+19,Occupation,Construction and extraction occupations,27,1822000,April 2022 through March 2023
+19,Occupation,"Farming, fishing, and forestry occupations",74,649000,April 2022 through March 2023
+19,Occupation,"Installation, maintenance, and repair occupations",21,927000,April 2022 through March 2023
+19,Occupation,"Management, business, and financial occupations",10,2486000,April 2022 through March 2023
+19,Occupation,Office and administrative support occupations,38,5959000,April 2022 through March 2023
+19,Occupation,Production occupations,38,3056000,April 2022 through March 2023
+19,Occupation,Professional and related occupations,15,5498000,April 2022 through March 2023
+19,Occupation,Sales and related occupations,47,5651000,April 2022 through March 2023
+19,Occupation,Service occupations,62,14183000,April 2022 through March 2023
+19,Occupation,Transportation and material moving occupations,49,5277000,April 2022 through March 2023
+19,Part-time status,Works full-time,26,31319000,April 2022 through March 2023
+19,Part-time status,Works part-time,65,14189000,April 2022 through March 2023
+19,Private/public sector,Government employee,22,4729000,April 2022 through March 2023
+19,Private/public sector,Private-sector employee,34,40779000,April 2022 through March 2023
+19,Region,Midwest,32,9837000,April 2022 through March 2023
+19,Region,Northeast,28,7089000,April 2022 through March 2023
+19,Region,South,36,19098000,April 2022 through March 2023
+19,Region,West,28,9483000,April 2022 through March 2023
+19,State minimum wage,State minimum exceeds federal minimum,30,26603000,April 2022 through March 2023
+19,State minimum wage,State minimum follows federal minimum,36,18905000,April 2022 through March 2023
+19,Tipped occupation,Works in a non-tipped occupation,31,42685000,April 2022 through March 2023
+19,Tipped occupation,Works in a tipped occupation,67,2823000,April 2022 through March 2023
+19,Union status,In a union,19,3001000,April 2022 through March 2023
+19,Union status,Not in a union,34,42507000,April 2022 through March 2023
+20,All workers,All workers,35,50125000,April 2022 through March 2023
+20,Race and ethnicity,Asian,27,2900000,April 2022 through March 2023
+20,Race and ethnicity,Black,45,8305000,April 2022 through March 2023
+20,Race and ethnicity,Hispanic,48,12628000,April 2022 through March 2023
+20,Race and ethnicity,White,30,25598000,April 2022 through March 2023
+20,Gender,Female,41,28046000,April 2022 through March 2023
+20,Gender,Male,30,22079000,April 2022 through March 2023
+20,Age group,Ages 16-24,72,13641000,April 2022 through March 2023
+20,Age group,Ages 25-34,34,11190000,April 2022 through March 2023
+20,Age group,Ages 35-44,26,8159000,April 2022 through March 2023
+20,Age group,Ages 45-54,26,7238000,April 2022 through March 2023
+20,Age group,Ages 55-64,29,6638000,April 2022 through March 2023
+20,Age group,Ages 65 and above,41,3260000,April 2022 through March 2023
+20,Annual family income,"Family income  $24,999 or less",67,6777000,April 2022 through March 2023
+20,Annual family income,"Family income  $25,000 - $49,999",57,13509000,April 2022 through March 2023
+20,Annual family income,"Family income  $50,000 - $74,999",40,10248000,April 2022 through March 2023
+20,Annual family income,"Family income  $75,000 - $99,999",33,6863000,April 2022 through March 2023
+20,Annual family income,"Family income $100,000 or more",21,12729000,April 2022 through March 2023
+20,Education,College or advanced degree,15,8691000,April 2022 through March 2023
+20,Education,High school diploma,50,18295000,April 2022 through March 2023
+20,Education,Less than high school diploma,74,7888000,April 2022 through March 2023
+20,Education,Some college,42,15252000,April 2022 through March 2023
+20,Industry,"Agriculture, forestry, fishing, and hunting",63,808000,April 2022 through March 2023
+20,Industry,Construction,28,2513000,April 2022 through March 2023
+20,Industry,Educational and health services,32,10920000,April 2022 through March 2023
+20,Industry,Financial activities,20,1916000,April 2022 through March 2023
+20,Industry,Information,20,537000,April 2022 through March 2023
+20,Industry,Leisure and hospitality,66,8409000,April 2022 through March 2023
+20,Industry,Manufacturing,27,4010000,April 2022 through March 2023
+20,Industry,Mining,16,93000,April 2022 through March 2023
+20,Industry,Other services,44,2646000,April 2022 through March 2023
+20,Industry,Professional and business services,25,4279000,April 2022 through March 2023
+20,Industry,Public administration,21,1626000,April 2022 through March 2023
+20,Industry,Transportation and utilities,35,3126000,April 2022 through March 2023
+20,Industry,Wholesale and retail trade,52,9243000,April 2022 through March 2023
+20,Occupation,Construction and extraction occupations,31,2082000,April 2022 through March 2023
+20,Occupation,"Farming, fishing, and forestry occupations",76,668000,April 2022 through March 2023
+20,Occupation,"Installation, maintenance, and repair occupations",24,1054000,April 2022 through March 2023
+20,Occupation,"Management, business, and financial occupations",12,2978000,April 2022 through March 2023
+20,Occupation,Office and administrative support occupations,44,6791000,April 2022 through March 2023
+20,Occupation,Production occupations,42,3370000,April 2022 through March 2023
+20,Occupation,Professional and related occupations,18,6328000,April 2022 through March 2023
+20,Occupation,Sales and related occupations,50,6025000,April 2022 through March 2023
+20,Occupation,Service occupations,65,15075000,April 2022 through March 2023
+20,Occupation,Transportation and material moving occupations,53,5754000,April 2022 through March 2023
+20,Part-time status,Works full-time,29,35367000,April 2022 through March 2023
+20,Part-time status,Works part-time,68,14758000,April 2022 through March 2023
+20,Private/public sector,Government employee,25,5420000,April 2022 through March 2023
+20,Private/public sector,Private-sector employee,37,44706000,April 2022 through March 2023
+20,Region,Midwest,36,10884000,April 2022 through March 2023
+20,Region,Northeast,31,7831000,April 2022 through March 2023
+20,Region,South,39,20872000,April 2022 through March 2023
+20,Region,West,32,10538000,April 2022 through March 2023
+20,State minimum wage,State minimum exceeds federal minimum,33,29348000,April 2022 through March 2023
+20,State minimum wage,State minimum follows federal minimum,39,20778000,April 2022 through March 2023
+20,Tipped occupation,Works in a non-tipped occupation,34,47164000,April 2022 through March 2023
+20,Tipped occupation,Works in a tipped occupation,70,2962000,April 2022 through March 2023
+20,Union status,In a union,22,3510000,April 2022 through March 2023
+20,Union status,Not in a union,37,46616000,April 2022 through March 2023
+21,All workers,All workers,40,56518000,April 2022 through March 2023
+21,Race and ethnicity,Asian,30,3268000,April 2022 through March 2023
+21,Race and ethnicity,Black,50,9167000,April 2022 through March 2023
+21,Race and ethnicity,Hispanic,53,14176000,April 2022 through March 2023
+21,Race and ethnicity,White,34,29133000,April 2022 through March 2023
+21,Gender,Female,46,31031000,April 2022 through March 2023
+21,Gender,Male,35,25488000,April 2022 through March 2023
+21,Age group,Ages 16-24,77,14669000,April 2022 through March 2023
+21,Age group,Ages 25-34,39,12910000,April 2022 through March 2023
+21,Age group,Ages 35-44,30,9371000,April 2022 through March 2023
+21,Age group,Ages 45-54,30,8362000,April 2022 through March 2023
+21,Age group,Ages 55-64,33,7613000,April 2022 through March 2023
+21,Age group,Ages 65 and above,45,3593000,April 2022 through March 2023
+21,Annual family income,"Family income  $24,999 or less",72,7312000,April 2022 through March 2023
+21,Annual family income,"Family income  $25,000 - $49,999",64,15114000,April 2022 through March 2023
+21,Annual family income,"Family income  $50,000 - $74,999",46,11666000,April 2022 through March 2023
+21,Annual family income,"Family income  $75,000 - $99,999",37,7903000,April 2022 through March 2023
+21,Annual family income,"Family income $100,000 or more",24,14522000,April 2022 through March 2023
+21,Education,College or advanced degree,18,10214000,April 2022 through March 2023
+21,Education,High school diploma,56,20599000,April 2022 through March 2023
+21,Education,Less than high school diploma,79,8487000,April 2022 through March 2023
+21,Education,Some college,47,17218000,April 2022 through March 2023
+21,Industry,"Agriculture, forestry, fishing, and hunting",68,872000,April 2022 through March 2023
+21,Industry,Construction,35,3160000,April 2022 through March 2023
+21,Industry,Educational and health services,36,12327000,April 2022 through March 2023
+21,Industry,Financial activities,24,2236000,April 2022 through March 2023
+21,Industry,Information,24,637000,April 2022 through March 2023
+21,Industry,Leisure and hospitality,71,8961000,April 2022 through March 2023
+21,Industry,Manufacturing,32,4760000,April 2022 through March 2023
+21,Industry,Mining,22,122000,April 2022 through March 2023
+21,Industry,Other services,50,2977000,April 2022 through March 2023
+21,Industry,Professional and business services,29,4892000,April 2022 through March 2023
+21,Industry,Public administration,25,1905000,April 2022 through March 2023
+21,Industry,Transportation and utilities,40,3615000,April 2022 through March 2023
+21,Industry,Wholesale and retail trade,57,10054000,April 2022 through March 2023
+21,Occupation,Construction and extraction occupations,39,2659000,April 2022 through March 2023
+21,Occupation,"Farming, fishing, and forestry occupations",82,720000,April 2022 through March 2023
+21,Occupation,"Installation, maintenance, and repair occupations",29,1280000,April 2022 through March 2023
+21,Occupation,"Management, business, and financial occupations",15,3591000,April 2022 through March 2023
+21,Occupation,Office and administrative support occupations,50,7818000,April 2022 through March 2023
+21,Occupation,Production occupations,49,3914000,April 2022 through March 2023
+21,Occupation,Professional and related occupations,20,7385000,April 2022 through March 2023
+21,Occupation,Sales and related occupations,53,6407000,April 2022 through March 2023
+21,Occupation,Service occupations,71,16277000,April 2022 through March 2023
+21,Occupation,Transportation and material moving occupations,60,6468000,April 2022 through March 2023
+21,Part-time status,Works full-time,34,40733000,April 2022 through March 2023
+21,Part-time status,Works part-time,73,15786000,April 2022 through March 2023
+21,Private/public sector,Government employee,29,6254000,April 2022 through March 2023
+21,Private/public sector,Private-sector employee,42,50264000,April 2022 through March 2023
+21,Region,Midwest,41,12344000,April 2022 through March 2023
+21,Region,Northeast,36,8892000,April 2022 through March 2023
+21,Region,South,44,23214000,April 2022 through March 2023
+21,Region,West,36,12068000,April 2022 through March 2023
+21,State minimum wage,State minimum exceeds federal minimum,37,33297000,April 2022 through March 2023
+21,State minimum wage,State minimum follows federal minimum,44,23221000,April 2022 through March 2023
+21,Tipped occupation,Works in a non-tipped occupation,39,53376000,April 2022 through March 2023
+21,Tipped occupation,Works in a tipped occupation,74,3142000,April 2022 through March 2023
+21,Union status,In a union,25,4117000,April 2022 through March 2023
+21,Union status,Not in a union,42,52401000,April 2022 through March 2023
+22,All workers,All workers,43,60478000,April 2022 through March 2023
+22,Race and ethnicity,Asian,32,3494000,April 2022 through March 2023
+22,Race and ethnicity,Black,53,9768000,April 2022 through March 2023
+22,Race and ethnicity,Hispanic,56,14929000,April 2022 through March 2023
+22,Race and ethnicity,White,37,31471000,April 2022 through March 2023
+22,Gender,Female,49,33065000,April 2022 through March 2023
+22,Gender,Male,37,27414000,April 2022 through March 2023
+22,Age group,Ages 16-24,79,15087000,April 2022 through March 2023
+22,Age group,Ages 25-34,43,14115000,April 2022 through March 2023
+22,Age group,Ages 35-44,33,10214000,April 2022 through March 2023
+22,Age group,Ages 45-54,33,9082000,April 2022 through March 2023
+22,Age group,Ages 55-64,36,8193000,April 2022 through March 2023
+22,Age group,Ages 65 and above,47,3787000,April 2022 through March 2023
+22,Annual family income,"Family income  $24,999 or less",74,7548000,April 2022 through March 2023
+22,Annual family income,"Family income  $25,000 - $49,999",67,16013000,April 2022 through March 2023
+22,Annual family income,"Family income  $50,000 - $74,999",49,12576000,April 2022 through March 2023
+22,Annual family income,"Family income  $75,000 - $99,999",41,8580000,April 2022 through March 2023
+22,Annual family income,"Family income $100,000 or more",26,15762000,April 2022 through March 2023
+22,Education,College or advanced degree,20,11396000,April 2022 through March 2023
+22,Education,High school diploma,60,21895000,April 2022 through March 2023
+22,Education,Less than high school diploma,81,8674000,April 2022 through March 2023
+22,Education,Some college,50,18513000,April 2022 through March 2023
+22,Industry,"Agriculture, forestry, fishing, and hunting",71,906000,April 2022 through March 2023
+22,Industry,Construction,38,3448000,April 2022 through March 2023
+22,Industry,Educational and health services,39,13348000,April 2022 through March 2023
+22,Industry,Financial activities,26,2509000,April 2022 through March 2023
+22,Industry,Information,27,699000,April 2022 through March 2023
+22,Industry,Leisure and hospitality,73,9254000,April 2022 through March 2023
+22,Industry,Manufacturing,36,5221000,April 2022 through March 2023
+22,Industry,Mining,24,138000,April 2022 through March 2023
+22,Industry,Other services,53,3157000,April 2022 through March 2023
+22,Industry,Professional and business services,31,5272000,April 2022 through March 2023
+22,Industry,Public administration,27,2082000,April 2022 through March 2023
+22,Industry,Transportation and utilities,43,3881000,April 2022 through March 2023
+22,Industry,Wholesale and retail trade,60,10564000,April 2022 through March 2023
+22,Occupation,Construction and extraction occupations,42,2888000,April 2022 through March 2023
+22,Occupation,"Farming, fishing, and forestry occupations",84,738000,April 2022 through March 2023
+22,Occupation,"Installation, maintenance, and repair occupations",32,1414000,April 2022 through March 2023
+22,Occupation,"Management, business, and financial occupations",17,4096000,April 2022 through March 2023
+22,Occupation,Office and administrative support occupations,55,8505000,April 2022 through March 2023
+22,Occupation,Production occupations,53,4197000,April 2022 through March 2023
+22,Occupation,Professional and related occupations,23,8192000,April 2022 through March 2023
+22,Occupation,Sales and related occupations,55,6715000,April 2022 through March 2023
+22,Occupation,Service occupations,73,16923000,April 2022 through March 2023
+22,Occupation,Transportation and material moving occupations,63,6810000,April 2022 through March 2023
+22,Part-time status,Works full-time,37,44334000,April 2022 through March 2023
+22,Part-time status,Works part-time,74,16144000,April 2022 through March 2023
+22,Private/public sector,Government employee,32,6858000,April 2022 through March 2023
+22,Private/public sector,Private-sector employee,44,53620000,April 2022 through March 2023
+22,Region,Midwest,44,13271000,April 2022 through March 2023
+22,Region,Northeast,38,9513000,April 2022 through March 2023
+22,Region,South,46,24698000,April 2022 through March 2023
+22,Region,West,39,12996000,April 2022 through March 2023
+22,State minimum wage,State minimum exceeds federal minimum,40,35755000,April 2022 through March 2023
+22,State minimum wage,State minimum follows federal minimum,47,24723000,April 2022 through March 2023
+22,Tipped occupation,Works in a non-tipped occupation,42,57236000,April 2022 through March 2023
+22,Tipped occupation,Works in a tipped occupation,77,3242000,April 2022 through March 2023
+22,Union status,In a union,28,4590000,April 2022 through March 2023
+22,Union status,Not in a union,44,55889000,April 2022 through March 2023
+23,All workers,All workers,45,64311000,April 2022 through March 2023
+23,Race and ethnicity,Asian,35,3720000,April 2022 through March 2023
+23,Race and ethnicity,Black,56,10359000,April 2022 through March 2023
+23,Race and ethnicity,Hispanic,59,15705000,April 2022 through March 2023
+23,Race and ethnicity,White,40,33661000,April 2022 through March 2023
+23,Gender,Female,51,34850000,April 2022 through March 2023
+23,Gender,Male,40,29461000,April 2022 through March 2023
+23,Age group,Ages 16-24,82,15553000,April 2022 through March 2023
+23,Age group,Ages 25-34,46,15168000,April 2022 through March 2023
+23,Age group,Ages 35-44,36,11048000,April 2022 through March 2023
+23,Age group,Ages 45-54,35,9840000,April 2022 through March 2023
+23,Age group,Ages 55-64,38,8745000,April 2022 through March 2023
+23,Age group,Ages 65 and above,50,3957000,April 2022 through March 2023
+23,Annual family income,"Family income  $24,999 or less",77,7789000,April 2022 through March 2023
+23,Annual family income,"Family income  $25,000 - $49,999",71,16898000,April 2022 through March 2023
+23,Annual family income,"Family income  $50,000 - $74,999",52,13438000,April 2022 through March 2023
+23,Annual family income,"Family income  $75,000 - $99,999",44,9239000,April 2022 through March 2023
+23,Annual family income,"Family income $100,000 or more",28,16947000,April 2022 through March 2023
+23,Education,College or advanced degree,22,12458000,April 2022 through March 2023
+23,Education,High school diploma,63,23139000,April 2022 through March 2023
+23,Education,Less than high school diploma,83,8909000,April 2022 through March 2023
+23,Education,Some college,54,19804000,April 2022 through March 2023
+23,Industry,"Agriculture, forestry, fishing, and hunting",73,932000,April 2022 through March 2023
+23,Industry,Construction,42,3776000,April 2022 through March 2023
+23,Industry,Educational and health services,42,14201000,April 2022 through March 2023
+23,Industry,Financial activities,29,2746000,April 2022 through March 2023
+23,Industry,Information,28,742000,April 2022 through March 2023
+23,Industry,Leisure and hospitality,75,9560000,April 2022 through March 2023
+23,Industry,Manufacturing,39,5721000,April 2022 through March 2023
+23,Industry,Mining,27,153000,April 2022 through March 2023
+23,Industry,Other services,56,3339000,April 2022 through March 2023
+23,Industry,Professional and business services,33,5626000,April 2022 through March 2023
+23,Industry,Public administration,29,2261000,April 2022 through March 2023
+23,Industry,Transportation and utilities,47,4194000,April 2022 through March 2023
+23,Industry,Wholesale and retail trade,62,11062000,April 2022 through March 2023
+23,Occupation,Construction and extraction occupations,47,3190000,April 2022 through March 2023
+23,Occupation,"Farming, fishing, and forestry occupations",85,752000,April 2022 through March 2023
+23,Occupation,"Installation, maintenance, and repair occupations",36,1575000,April 2022 through March 2023
+23,Occupation,"Management, business, and financial occupations",19,4507000,April 2022 through March 2023
+23,Occupation,Office and administrative support occupations,59,9075000,April 2022 through March 2023
+23,Occupation,Production occupations,57,4538000,April 2022 through March 2023
+23,Occupation,Professional and related occupations,25,8891000,April 2022 through March 2023
+23,Occupation,Sales and related occupations,58,7026000,April 2022 through March 2023
+23,Occupation,Service occupations,76,17553000,April 2022 through March 2023
+23,Occupation,Transportation and material moving occupations,67,7204000,April 2022 through March 2023
+23,Part-time status,Works full-time,40,47803000,April 2022 through March 2023
+23,Part-time status,Works part-time,76,16508000,April 2022 through March 2023
+23,Private/public sector,Government employee,35,7382000,April 2022 through March 2023
+23,Private/public sector,Private-sector employee,47,56929000,April 2022 through March 2023
+23,Region,Midwest,47,14199000,April 2022 through March 2023
+23,Region,Northeast,41,10087000,April 2022 through March 2023
+23,Region,South,49,26121000,April 2022 through March 2023
+23,Region,West,42,13904000,April 2022 through March 2023
+23,State minimum wage,State minimum exceeds federal minimum,43,38112000,April 2022 through March 2023
+23,State minimum wage,State minimum follows federal minimum,50,26199000,April 2022 through March 2023
+23,Tipped occupation,Works in a non-tipped occupation,44,60962000,April 2022 through March 2023
+23,Tipped occupation,Works in a tipped occupation,79,3349000,April 2022 through March 2023
+23,Union status,In a union,31,5048000,April 2022 through March 2023
+23,Union status,Not in a union,47,59263000,April 2022 through March 2023
+24,All workers,All workers,48,67636000,April 2022 through March 2023
+24,Race and ethnicity,Asian,37,3929000,April 2022 through March 2023
+24,Race and ethnicity,Black,59,10786000,April 2022 through March 2023
+24,Race and ethnicity,Hispanic,62,16442000,April 2022 through March 2023
+24,Race and ethnicity,White,42,35585000,April 2022 through March 2023
+24,Gender,Female,54,36463000,April 2022 through March 2023
+24,Gender,Male,42,31173000,April 2022 through March 2023
+24,Age group,Ages 16-24,83,15883000,April 2022 through March 2023
+24,Age group,Ages 25-34,49,16096000,April 2022 through March 2023
+24,Age group,Ages 35-44,38,11800000,April 2022 through March 2023
+24,Age group,Ages 45-54,38,10461000,April 2022 through March 2023
+24,Age group,Ages 55-64,40,9286000,April 2022 through March 2023
+24,Age group,Ages 65 and above,51,4109000,April 2022 through March 2023
+24,Annual family income,"Family income  $24,999 or less",78,7954000,April 2022 through March 2023
+24,Annual family income,"Family income  $25,000 - $49,999",74,17564000,April 2022 through March 2023
+24,Annual family income,"Family income  $50,000 - $74,999",56,14219000,April 2022 through March 2023
+24,Annual family income,"Family income  $75,000 - $99,999",47,9860000,April 2022 through March 2023
+24,Annual family income,"Family income $100,000 or more",29,18039000,April 2022 through March 2023
+24,Education,College or advanced degree,23,13575000,April 2022 through March 2023
+24,Education,High school diploma,66,24150000,April 2022 through March 2023
+24,Education,Less than high school diploma,85,9082000,April 2022 through March 2023
+24,Education,Some college,57,20829000,April 2022 through March 2023
+24,Industry,"Agriculture, forestry, fishing, and hunting",75,954000,April 2022 through March 2023
+24,Industry,Construction,44,4035000,April 2022 through March 2023
+24,Industry,Educational and health services,44,15003000,April 2022 through March 2023
+24,Industry,Financial activities,31,2984000,April 2022 through March 2023
+24,Industry,Information,30,780000,April 2022 through March 2023
+24,Industry,Leisure and hospitality,77,9774000,April 2022 through March 2023
+24,Industry,Manufacturing,42,6133000,April 2022 through March 2023
+24,Industry,Mining,29,166000,April 2022 through March 2023
+24,Industry,Other services,58,3475000,April 2022 through March 2023
+24,Industry,Professional and business services,35,5932000,April 2022 through March 2023
+24,Industry,Public administration,32,2480000,April 2022 through March 2023
+24,Industry,Transportation and utilities,50,4456000,April 2022 through March 2023
+24,Industry,Wholesale and retail trade,65,11466000,April 2022 through March 2023
+24,Occupation,Construction and extraction occupations,50,3389000,April 2022 through March 2023
+24,Occupation,"Farming, fishing, and forestry occupations",87,764000,April 2022 through March 2023
+24,Occupation,"Installation, maintenance, and repair occupations",38,1685000,April 2022 through March 2023
+24,Occupation,"Management, business, and financial occupations",21,4987000,April 2022 through March 2023
+24,Occupation,Office and administrative support occupations,62,9626000,April 2022 through March 2023
+24,Occupation,Production occupations,61,4825000,April 2022 through March 2023
+24,Occupation,Professional and related occupations,27,9653000,April 2022 through March 2023
+24,Occupation,Sales and related occupations,60,7251000,April 2022 through March 2023
+24,Occupation,Service occupations,78,17955000,April 2022 through March 2023
+24,Occupation,Transportation and material moving occupations,69,7502000,April 2022 through March 2023
+24,Part-time status,Works full-time,42,50853000,April 2022 through March 2023
+24,Part-time status,Works part-time,77,16783000,April 2022 through March 2023
+24,Private/public sector,Government employee,37,7981000,April 2022 through March 2023
+24,Private/public sector,Private-sector employee,49,59654000,April 2022 through March 2023
+24,Region,Midwest,49,14979000,April 2022 through March 2023
+24,Region,Northeast,43,10604000,April 2022 through March 2023
+24,Region,South,51,27295000,April 2022 through March 2023
+24,Region,West,44,14759000,April 2022 through March 2023
+24,State minimum wage,State minimum exceeds federal minimum,45,40186000,April 2022 through March 2023
+24,State minimum wage,State minimum follows federal minimum,52,27450000,April 2022 through March 2023
+24,Tipped occupation,Works in a non-tipped occupation,47,64235000,April 2022 through March 2023
+24,Tipped occupation,Works in a tipped occupation,80,3401000,April 2022 through March 2023
+24,Union status,In a union,34,5497000,April 2022 through March 2023
+24,Union status,Not in a union,49,62139000,April 2022 through March 2023
+25,All workers,All workers,50,71289000,April 2022 through March 2023
+25,Race and ethnicity,Asian,38,4142000,April 2022 through March 2023
+25,Race and ethnicity,Black,61,11250000,April 2022 through March 2023
+25,Race and ethnicity,Hispanic,64,17122000,April 2022 through March 2023
+25,Race and ethnicity,White,45,37849000,April 2022 through March 2023
+25,Gender,Female,56,38253000,April 2022 through March 2023
+25,Gender,Male,45,33036000,April 2022 through March 2023
+25,Age group,Ages 16-24,85,16217000,April 2022 through March 2023
+25,Age group,Ages 25-34,52,17161000,April 2022 through March 2023
+25,Age group,Ages 35-44,41,12635000,April 2022 through March 2023
+25,Age group,Ages 45-54,40,11134000,April 2022 through March 2023
+25,Age group,Ages 55-64,43,9872000,April 2022 through March 2023
+25,Age group,Ages 65 and above,53,4269000,April 2022 through March 2023
+25,Annual family income,"Family income  $24,999 or less",80,8130000,April 2022 through March 2023
+25,Annual family income,"Family income  $25,000 - $49,999",77,18166000,April 2022 through March 2023
+25,Annual family income,"Family income  $50,000 - $74,999",59,15043000,April 2022 through March 2023
+25,Annual family income,"Family income  $75,000 - $99,999",50,10538000,April 2022 through March 2023
+25,Annual family income,"Family income $100,000 or more",32,19413000,April 2022 through March 2023
+25,Education,College or advanced degree,26,15019000,April 2022 through March 2023
+25,Education,High school diploma,69,25175000,April 2022 through March 2023
+25,Education,Less than high school diploma,86,9260000,April 2022 through March 2023
+25,Education,Some college,60,21835000,April 2022 through March 2023
+25,Industry,"Agriculture, forestry, fishing, and hunting",76,976000,April 2022 through March 2023
+25,Industry,Construction,47,4311000,April 2022 through March 2023
+25,Industry,Educational and health services,47,15923000,April 2022 through March 2023
+25,Industry,Financial activities,35,3271000,April 2022 through March 2023
+25,Industry,Information,32,844000,April 2022 through March 2023
+25,Industry,Leisure and hospitality,79,10001000,April 2022 through March 2023
+25,Industry,Manufacturing,45,6531000,April 2022 through March 2023
+25,Industry,Mining,32,183000,April 2022 through March 2023
+25,Industry,Other services,61,3622000,April 2022 through March 2023
+25,Industry,Professional and business services,37,6284000,April 2022 through March 2023
+25,Industry,Public administration,35,2709000,April 2022 through March 2023
+25,Industry,Transportation and utilities,53,4714000,April 2022 through March 2023
+25,Industry,Wholesale and retail trade,67,11921000,April 2022 through March 2023
+25,Occupation,Construction and extraction occupations,52,3562000,April 2022 through March 2023
+25,Occupation,"Farming, fishing, and forestry occupations",88,773000,April 2022 through March 2023
+25,Occupation,"Installation, maintenance, and repair occupations",43,1882000,April 2022 through March 2023
+25,Occupation,"Management, business, and financial occupations",23,5584000,April 2022 through March 2023
+25,Occupation,Office and administrative support occupations,66,10168000,April 2022 through March 2023
+25,Occupation,Production occupations,64,5086000,April 2022 through March 2023
+25,Occupation,Professional and related occupations,29,10488000,April 2022 through March 2023
+25,Occupation,Sales and related occupations,63,7579000,April 2022 through March 2023
+25,Occupation,Service occupations,80,18377000,April 2022 through March 2023
+25,Occupation,Transportation and material moving occupations,72,7791000,April 2022 through March 2023
+25,Part-time status,Works full-time,45,54269000,April 2022 through March 2023
+25,Part-time status,Works part-time,78,17020000,April 2022 through March 2023
+25,Private/public sector,Government employee,40,8621000,April 2022 through March 2023
+25,Private/public sector,Private-sector employee,52,62668000,April 2022 through March 2023
+25,Region,Midwest,52,15801000,April 2022 through March 2023
+25,Region,Northeast,45,11236000,April 2022 through March 2023
+25,Region,South,54,28726000,April 2022 through March 2023
+25,Region,West,47,15525000,April 2022 through March 2023
+25,State minimum wage,State minimum exceeds federal minimum,48,42423000,April 2022 through March 2023
+25,State minimum wage,State minimum follows federal minimum,55,28866000,April 2022 through March 2023
+25,Tipped occupation,Works in a non-tipped occupation,49,67818000,April 2022 through March 2023
+25,Tipped occupation,Works in a tipped occupation,82,3471000,April 2022 through March 2023
+25,Union status,In a union,37,5997000,April 2022 through March 2023
+25,Union status,Not in a union,52,65292000,April 2022 through March 2023
