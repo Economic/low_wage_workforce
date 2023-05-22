@@ -21,6 +21,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 10,Education,High school diploma,3,1046000,April 2022 through March 2023
 10,Education,Less than high school diploma,7,725000,April 2022 through March 2023
 10,Education,Some college,3,965000,April 2022 through March 2023
+10,Firm size,Under 10 employees,4,730000,April 2022 through March 2023
+10,Firm size,10 to 24 employees,3,679000,April 2022 through March 2023
+10,Firm size,25 to 99 employees,2,240000,April 2022 through March 2023
+10,Firm size,100 to 499 employees,2,338000,April 2022 through March 2023
+10,Firm size,500 to 999 employees,1,110000,April 2022 through March 2023
+10,Firm size,1000 or more employees,2,1360000,April 2022 through March 2023
 10,Industry,"Agriculture, forestry, fishing, and hunting",6,82000,April 2022 through March 2023
 10,Industry,Construction,1,122000,April 2022 through March 2023
 10,Industry,Educational and health services,2,768000,April 2022 through March 2023
@@ -80,6 +86,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 11,Education,High school diploma,5,1882000,April 2022 through March 2023
 11,Education,Less than high school diploma,13,1374000,April 2022 through March 2023
 11,Education,Some college,4,1597000,April 2022 through March 2023
+11,Firm size,Under 10 employees,7,1209000,April 2022 through March 2023
+11,Firm size,10 to 24 employees,6,1150000,April 2022 through March 2023
+11,Firm size,25 to 99 employees,4,404000,April 2022 through March 2023
+11,Firm size,100 to 499 employees,3,593000,April 2022 through March 2023
+11,Firm size,500 to 999 employees,3,238000,April 2022 through March 2023
+11,Firm size,1000 or more employees,3,2252000,April 2022 through March 2023
 11,Industry,"Agriculture, forestry, fishing, and hunting",10,123000,April 2022 through March 2023
 11,Industry,Construction,2,208000,April 2022 through March 2023
 11,Industry,Educational and health services,4,1252000,April 2022 through March 2023
@@ -139,6 +151,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 12,Education,High school diploma,7,2607000,April 2022 through March 2023
 12,Education,Less than high school diploma,18,1900000,April 2022 through March 2023
 12,Education,Some college,6,2199000,April 2022 through March 2023
+12,Firm size,Under 10 employees,10,1648000,April 2022 through March 2023
+12,Firm size,10 to 24 employees,8,1617000,April 2022 through March 2023
+12,Firm size,25 to 99 employees,5,520000,April 2022 through March 2023
+12,Firm size,100 to 499 employees,4,794000,April 2022 through March 2023
+12,Firm size,500 to 999 employees,4,306000,April 2022 through March 2023
+12,Firm size,1000 or more employees,5,3126000,April 2022 through March 2023
 12,Industry,"Agriculture, forestry, fishing, and hunting",12,156000,April 2022 through March 2023
 12,Industry,Construction,3,264000,April 2022 through March 2023
 12,Industry,Educational and health services,5,1681000,April 2022 through March 2023
@@ -198,6 +216,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 13,Education,High school diploma,11,3948000,April 2022 through March 2023
 13,Education,Less than high school diploma,27,2876000,April 2022 through March 2023
 13,Education,Some college,9,3340000,April 2022 through March 2023
+13,Firm size,Under 10 employees,14,2261000,April 2022 through March 2023
+13,Firm size,10 to 24 employees,11,2365000,April 2022 through March 2023
+13,Firm size,25 to 99 employees,8,857000,April 2022 through March 2023
+13,Firm size,100 to 499 employees,6,1108000,April 2022 through March 2023
+13,Firm size,500 to 999 employees,6,472000,April 2022 through March 2023
+13,Firm size,1000 or more employees,7,4559000,April 2022 through March 2023
 13,Industry,"Agriculture, forestry, fishing, and hunting",17,221000,April 2022 through March 2023
 13,Industry,Construction,5,443000,April 2022 through March 2023
 13,Industry,Educational and health services,7,2492000,April 2022 through March 2023
@@ -257,6 +281,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 14,Education,High school diploma,14,5275000,April 2022 through March 2023
 14,Education,Less than high school diploma,33,3543000,April 2022 through March 2023
 14,Education,Some college,12,4396000,April 2022 through March 2023
+14,Firm size,Under 10 employees,18,2988000,April 2022 through March 2023
+14,Firm size,10 to 24 employees,15,3163000,April 2022 through March 2023
+14,Firm size,25 to 99 employees,11,1107000,April 2022 through March 2023
+14,Firm size,100 to 499 employees,8,1409000,April 2022 through March 2023
+14,Firm size,500 to 999 employees,8,617000,April 2022 through March 2023
+14,Firm size,1000 or more employees,9,6063000,April 2022 through March 2023
 14,Industry,"Agriculture, forestry, fishing, and hunting",21,265000,April 2022 through March 2023
 14,Industry,Construction,6,589000,April 2022 through March 2023
 14,Industry,Educational and health services,10,3335000,April 2022 through March 2023
@@ -316,6 +346,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 15,Education,High school diploma,18,6732000,April 2022 through March 2023
 15,Education,Less than high school diploma,40,4240000,April 2022 through March 2023
 15,Education,Some college,15,5565000,April 2022 through March 2023
+15,Firm size,Under 10 employees,22,3597000,April 2022 through March 2023
+15,Firm size,10 to 24 employees,19,3881000,April 2022 through March 2023
+15,Firm size,25 to 99 employees,13,1374000,April 2022 through March 2023
+15,Firm size,100 to 499 employees,10,1717000,April 2022 through March 2023
+15,Firm size,500 to 999 employees,10,784000,April 2022 through March 2023
+15,Firm size,1000 or more employees,11,7472000,April 2022 through March 2023
 15,Industry,"Agriculture, forestry, fishing, and hunting",28,359000,April 2022 through March 2023
 15,Industry,Construction,9,772000,April 2022 through March 2023
 15,Industry,Educational and health services,12,4201000,April 2022 through March 2023
@@ -375,6 +411,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 16,Education,High school diploma,27,10027000,April 2022 through March 2023
 16,Education,Less than high school diploma,52,5599000,April 2022 through March 2023
 16,Education,Some college,22,8213000,April 2022 through March 2023
+16,Firm size,Under 10 employees,31,5094000,April 2022 through March 2023
+16,Firm size,10 to 24 employees,27,5528000,April 2022 through March 2023
+16,Firm size,25 to 99 employees,19,1992000,April 2022 through March 2023
+16,Firm size,100 to 499 employees,14,2541000,April 2022 through March 2023
+16,Firm size,500 to 999 employees,15,1188000,April 2022 through March 2023
+16,Firm size,1000 or more employees,16,10998000,April 2022 through March 2023
 16,Industry,"Agriculture, forestry, fishing, and hunting",41,520000,April 2022 through March 2023
 16,Industry,Construction,14,1236000,April 2022 through March 2023
 16,Industry,Educational and health services,18,5967000,April 2022 through March 2023
@@ -434,6 +476,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 17,Education,High school diploma,34,12445000,April 2022 through March 2023
 17,Education,Less than high school diploma,60,6409000,April 2022 through March 2023
 17,Education,Some college,28,10160000,April 2022 through March 2023
+17,Firm size,Under 10 employees,34,5610000,April 2022 through March 2023
+17,Firm size,10 to 24 employees,30,6174000,April 2022 through March 2023
+17,Firm size,25 to 99 employees,22,2244000,April 2022 through March 2023
+17,Firm size,100 to 499 employees,17,2994000,April 2022 through March 2023
+17,Firm size,500 to 999 employees,17,1360000,April 2022 through March 2023
+17,Firm size,1000 or more employees,18,12474000,April 2022 through March 2023
 17,Industry,"Agriculture, forestry, fishing, and hunting",49,630000,April 2022 through March 2023
 17,Industry,Construction,17,1502000,April 2022 through March 2023
 17,Industry,Educational and health services,21,7233000,April 2022 through March 2023
@@ -493,6 +541,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 18,Education,High school diploma,40,14504000,April 2022 through March 2023
 18,Education,Less than high school diploma,66,7048000,April 2022 through March 2023
 18,Education,Some college,33,11946000,April 2022 through March 2023
+18,Firm size,Under 10 employees,43,6987000,April 2022 through March 2023
+18,Firm size,10 to 24 employees,37,7660000,April 2022 through March 2023
+18,Firm size,25 to 99 employees,29,2932000,April 2022 through March 2023
+18,Firm size,100 to 499 employees,23,4039000,April 2022 through March 2023
+18,Firm size,500 to 999 employees,23,1798000,April 2022 through March 2023
+18,Firm size,1000 or more employees,23,16011000,April 2022 through March 2023
 18,Industry,"Agriculture, forestry, fishing, and hunting",55,699000,April 2022 through March 2023
 18,Industry,Construction,20,1799000,April 2022 through March 2023
 18,Industry,Educational and health services,25,8537000,April 2022 through March 2023
@@ -552,6 +606,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 19,Education,High school diploma,46,16781000,April 2022 through March 2023
 19,Education,Less than high school diploma,71,7555000,April 2022 through March 2023
 19,Education,Some college,38,13794000,April 2022 through March 2023
+19,Firm size,Under 10 employees,48,7806000,April 2022 through March 2023
+19,Firm size,10 to 24 employees,43,8794000,April 2022 through March 2023
+19,Firm size,25 to 99 employees,34,3465000,April 2022 through March 2023
+19,Firm size,100 to 499 employees,27,4707000,April 2022 through March 2023
+19,Firm size,500 to 999 employees,27,2178000,April 2022 through March 2023
+19,Firm size,1000 or more employees,27,18548000,April 2022 through March 2023
 19,Industry,"Agriculture, forestry, fishing, and hunting",60,773000,April 2022 through March 2023
 19,Industry,Construction,24,2206000,April 2022 through March 2023
 19,Industry,Educational and health services,29,9804000,April 2022 through March 2023
@@ -611,6 +671,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 20,Education,High school diploma,50,18295000,April 2022 through March 2023
 20,Education,Less than high school diploma,74,7888000,April 2022 through March 2023
 20,Education,Some college,42,15252000,April 2022 through March 2023
+20,Firm size,Under 10 employees,51,8365000,April 2022 through March 2023
+20,Firm size,10 to 24 employees,46,9532000,April 2022 through March 2023
+20,Firm size,25 to 99 employees,37,3835000,April 2022 through March 2023
+20,Firm size,100 to 499 employees,30,5287000,April 2022 through March 2023
+20,Firm size,500 to 999 employees,30,2417000,April 2022 through March 2023
+20,Firm size,1000 or more employees,30,20473000,April 2022 through March 2023
 20,Industry,"Agriculture, forestry, fishing, and hunting",63,808000,April 2022 through March 2023
 20,Industry,Construction,28,2513000,April 2022 through March 2023
 20,Industry,Educational and health services,32,10920000,April 2022 through March 2023
@@ -670,6 +736,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 21,Education,High school diploma,56,20599000,April 2022 through March 2023
 21,Education,Less than high school diploma,79,8487000,April 2022 through March 2023
 21,Education,Some college,47,17218000,April 2022 through March 2023
+21,Firm size,Under 10 employees,53,8724000,April 2022 through March 2023
+21,Firm size,10 to 24 employees,49,10027000,April 2022 through March 2023
+21,Firm size,25 to 99 employees,40,4050000,April 2022 through March 2023
+21,Firm size,100 to 499 employees,32,5694000,April 2022 through March 2023
+21,Firm size,500 to 999 employees,32,2549000,April 2022 through March 2023
+21,Firm size,1000 or more employees,31,21645000,April 2022 through March 2023
 21,Industry,"Agriculture, forestry, fishing, and hunting",68,872000,April 2022 through March 2023
 21,Industry,Construction,35,3160000,April 2022 through March 2023
 21,Industry,Educational and health services,36,12327000,April 2022 through March 2023
@@ -729,6 +801,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 22,Education,High school diploma,60,21895000,April 2022 through March 2023
 22,Education,Less than high school diploma,81,8674000,April 2022 through March 2023
 22,Education,Some college,50,18513000,April 2022 through March 2023
+22,Firm size,Under 10 employees,59,9692000,April 2022 through March 2023
+22,Firm size,10 to 24 employees,55,11260000,April 2022 through March 2023
+22,Firm size,25 to 99 employees,46,4726000,April 2022 through March 2023
+22,Firm size,100 to 499 employees,38,6701000,April 2022 through March 2023
+22,Firm size,500 to 999 employees,38,3002000,April 2022 through March 2023
+22,Firm size,1000 or more employees,36,25097000,April 2022 through March 2023
 22,Industry,"Agriculture, forestry, fishing, and hunting",71,906000,April 2022 through March 2023
 22,Industry,Construction,38,3448000,April 2022 through March 2023
 22,Industry,Educational and health services,39,13348000,April 2022 through March 2023
@@ -788,6 +866,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 23,Education,High school diploma,63,23139000,April 2022 through March 2023
 23,Education,Less than high school diploma,83,8909000,April 2022 through March 2023
 23,Education,Some college,54,19804000,April 2022 through March 2023
+23,Firm size,Under 10 employees,61,10092000,April 2022 through March 2023
+23,Firm size,10 to 24 employees,57,11752000,April 2022 through March 2023
+23,Firm size,25 to 99 employees,49,5044000,April 2022 through March 2023
+23,Firm size,100 to 499 employees,40,7138000,April 2022 through March 2023
+23,Firm size,500 to 999 employees,40,3215000,April 2022 through March 2023
+23,Firm size,1000 or more employees,39,26681000,April 2022 through March 2023
 23,Industry,"Agriculture, forestry, fishing, and hunting",73,932000,April 2022 through March 2023
 23,Industry,Construction,42,3776000,April 2022 through March 2023
 23,Industry,Educational and health services,42,14201000,April 2022 through March 2023
@@ -847,6 +931,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 24,Education,High school diploma,66,24150000,April 2022 through March 2023
 24,Education,Less than high school diploma,85,9082000,April 2022 through March 2023
 24,Education,Some college,57,20829000,April 2022 through March 2023
+24,Firm size,Under 10 employees,64,10485000,April 2022 through March 2023
+24,Firm size,10 to 24 employees,60,12394000,April 2022 through March 2023
+24,Firm size,25 to 99 employees,52,5303000,April 2022 through March 2023
+24,Firm size,100 to 499 employees,43,7674000,April 2022 through March 2023
+24,Firm size,500 to 999 employees,43,3464000,April 2022 through March 2023
+24,Firm size,1000 or more employees,41,28314000,April 2022 through March 2023
 24,Industry,"Agriculture, forestry, fishing, and hunting",75,954000,April 2022 through March 2023
 24,Industry,Construction,44,4035000,April 2022 through March 2023
 24,Industry,Educational and health services,44,15003000,April 2022 through March 2023
@@ -906,6 +996,12 @@ low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
 25,Education,High school diploma,69,25175000,April 2022 through March 2023
 25,Education,Less than high school diploma,86,9260000,April 2022 through March 2023
 25,Education,Some college,60,21835000,April 2022 through March 2023
+25,Firm size,Under 10 employees,66,10892000,April 2022 through March 2023
+25,Firm size,10 to 24 employees,63,12916000,April 2022 through March 2023
+25,Firm size,25 to 99 employees,54,5564000,April 2022 through March 2023
+25,Firm size,100 to 499 employees,46,8130000,April 2022 through March 2023
+25,Firm size,500 to 999 employees,46,3689000,April 2022 through March 2023
+25,Firm size,1000 or more employees,44,30091000,April 2022 through March 2023
 25,Industry,"Agriculture, forestry, fishing, and hunting",76,976000,April 2022 through March 2023
 25,Industry,Construction,47,4311000,April 2022 through March 2023
 25,Industry,Educational and health services,47,15923000,April 2022 through March 2023

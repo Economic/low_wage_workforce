@@ -5,3 +5,8 @@
 
 /.quarto/
 docs/
+
+*.feather
+
+cps_*.dat.gz
+cps_*.xml

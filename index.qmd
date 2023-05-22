@@ -175,9 +175,9 @@ reactable(
 ```
 
 ------------------------------------------------------------------------
-Low-Wage Workforce Tracker, Economic Policy Institute, March 2023, <https://economic.github.io/low_wage_workforce>.
+Low-Wage Workforce Tracker, Economic Policy Institute, April 2023, <https://economic.github.io/low_wage_workforce>.
 
-Notes: Analysis by [Ben Zipperer](https://www.epi.org/people/ben-zipperer/) of the Economic Policy Institute Current Population Survey [extracts](https://microdata.epi.org/), `r data_dates`. Wages include overtime, tips, and commissions. Download the [data](low_wage_data.csv) shown in the figure above or the [code](https://github.com/Economic/low_wage_workforce) that produces it.
+Notes: Analysis by [Ben Zipperer](https://www.epi.org/people/ben-zipperer/) of the Economic Policy Institute Current Population Survey [extracts](https://microdata.epi.org/), `r data_dates`. Wages include overtime, tips, and commissions. The wage-firm-size distribution is derived from 2022 Annual Social and Economic Supplement extracts from [IPUMS-CPS](https://www.ipums.org), University of Minnesota. Download the [data](low_wage_data.csv) shown in the figure above or the [code](https://github.com/Economic/low_wage_workforce) that produces it.
 
 
 ```{ojs}

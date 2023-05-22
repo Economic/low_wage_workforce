@@ -5,6 +5,8 @@ library(lubridate)
 library(haven)
 library(kableExtra)
 
+asec_raw <- arrow::read_feather("asec_2022_wage_firmsize.feather")
+
 org_raw <- load_org(
     2009:2023, 
     year, month, orgwgt, wageotc,
@@ -98,16 +100,49 @@ org_clean <- org_raw %>%
     "Family income $100,000 or more" = 5
   )))
 
+
+summarize_data <- function(data, ...) {
+  summarize_groups(
+    data, 
+    ..., 
+    low_wage_share = weighted.mean(low_wage, w = orgwgt),
+    low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000)*1000
+  )
+}
+
 create_slice <- function(threshold) {
-  org_clean |>
+  org_source <- org_clean  %>% 
     filter(month_date >= min_date & month_date <= max_date) |>
-    mutate(low_wage = my_wage < threshold) |>
-    summarize_groups(
-      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03|statefips, 
-      low_wage_share = weighted.mean(low_wage, w = orgwgt),
-      low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000)*1000
-    ) |>
-    mutate(dates = paste(format(min_date, "%B %Y"), "through", format(max_date, "%B %Y"))) |>
+    mutate(low_wage = my_wage < threshold)
+  
+  org_percentile <- org_source %>% 
+    summarize(weighted.mean(low_wage, w = orgwgt)) %>% 
+    pull()
+  
+  org_total <- org_source %>% 
+    summarize(sum(orgwgt)) %>% 
+    pull()
+  
+  asec_results <- asec_raw %>% 
+    mutate(orgwgt = asecwt * org_total / sum(asecwt)) %>% 
+    mutate(wage_threshold = MetricsWeighted::weighted_quantile(
+      wage, 
+      w = orgwgt, 
+      p = org_percentile
+    )) %>% 
+    mutate(low_wage = wage < wage_threshold) %>% 
+    summarize_data(firmsize)
+  
+  org_source %>% 
+    summarize_data(
+      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03|statefips
+    ) %>% 
+    bind_rows(asec_results) %>% 
+    mutate(dates = paste(
+      format(min_date, "%B %Y"), 
+      "through", 
+      format(max_date, "%B %Y")
+    )) %>% 
     mutate(low_wage_threshold = threshold)
 }
 
@@ -147,9 +182,23 @@ results <- map_dfr(10:25, create_slice) |>
     category_group == "new_faminc" ~ "Annual family income",
     category_group == "mind03" ~ "Industry",
     category_group == "mocc03" ~ "Occupation",
-    category_group == "statefips" ~ "State"
+    category_group == "statefips" ~ "State",
+    category_group == "firmsize" ~ "Firm size",
   )) |>
-  arrange(low_wage_threshold, desc(priority), category_group, category)
+  mutate(category = case_when(
+    category == "Under 10" ~ "A. Under 10 employees",
+    category == "10 to 24" ~ "B. 10 to 24 employees",
+    category == "25 to 99" ~ "C. 25 to 99 employees",
+    category == "100 to 499" ~ "D. 100 to 499 employees",
+    category == "500 to 999" ~ "E. 500 to 999 employees",
+    category == "1000+" ~ "F. 1000 or more employees",
+    .default = category
+  )) %>% 
+  arrange(low_wage_threshold, desc(priority), category_group, category) %>% 
+  mutate(category = case_when(
+    category_group == "Firm size" ~ str_sub(category, 4),
+    .default = category
+  ))
 
 results %>% 
   select(-priority) %>% 
@@ -163,7 +212,6 @@ results %>%
   write_csv("low_wage_data.csv")
 
 ## historical results
-
 BLS_API_KEY <- Sys.getenv("BLS_API_KEY")
 cpi_data <- blsR::get_series_table("CUSR0000SA0", BLS_API_KEY, start_year = 2009, end_year = 2023) %>% 
   mutate(
@@ -256,5 +304,3 @@ share_count_year <- function(threshold) {
     ) %>% 
       kable_styling(bootstrap_options = c("striped"))
 }
-
-
