@@ -32,6 +32,8 @@ tipped_inds <- c(
 
 state_follows_fed_min <- c("AL", "GA", "ID", "IN", "IA", "KS", "KY", "LA", "MS", "NH", "NC", "ND", "OK", "PA", "SC", "TN", "TX", "UT", "WI", "WY")
 
+state_is_rtw <- c("AL", "AZ", "AR", "FL", "GA", "ID", "IN", "IA", "KS", "KY", "LA", "MS", "NE", "NV", "NC", "ND", "OK", "SC", "SD", "TN", "TX", "UT", "VA", "WV", "WI", "WY")
+
 org_clean <- org_raw %>% 
   mutate(all = 1) |>
   mutate(all = labelled(all, c("All workers" = 1))) |>
@@ -68,6 +70,13 @@ org_clean <- org_raw %>%
     "State minimum exceeds federal minimum" = 1,
     "State minimum follows federal minimum" = 0
   ))) %>% 
+  mutate(rtw_state = if_else(
+    as_factor(statefips) %in% state_is_rtw, 1, 0
+  )) %>% 
+  mutate(rtw_state = labelled(rtw_state, c(
+    "Right-to-work state" = 1,
+    "Non-right-to-work state" = 0
+  ))) %>% 
   mutate(tipped = case_when(
     occ18 %in% tipped_occs ~ 1,
     occ18 == 4120 & ind17 %in% tipped_inds ~ 1,
@@ -98,7 +107,7 @@ org_clean <- org_raw %>%
     "Family income  $50,000 - $74,999" = 3,
     "Family income  $75,000 - $99,999" = 4,
     "Family income $100,000 or more" = 5
-  )))
+  ))) 
 
 
 summarize_data <- function(data, ...) {
@@ -135,7 +144,7 @@ create_slice <- function(threshold) {
   
   org_source %>% 
     summarize_data(
-      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03|statefips
+      all|wbhao|female|union|part_time|new_educ|new_age|above_fedmw|region|tipped|public|new_faminc|mind03|mocc03|statefips|rtw_state
     ) %>% 
     bind_rows(asec_results) %>% 
     mutate(dates = paste(
@@ -184,6 +193,7 @@ results <- map_dfr(10:25, create_slice) |>
     category_group == "mocc03" ~ "Occupation",
     category_group == "statefips" ~ "State",
     category_group == "firmsize" ~ "Firm size",
+    category_group == "rtw_state" ~ "Right-to-work"
   )) |>
   mutate(category = case_when(
     category == "Under 10" ~ "A. Under 10 employees",
@@ -269,38 +279,3 @@ create_historical_slice <- function(threshold) {
 results_historical <- map_dfr(10:25, create_historical_slice)
 
 write_csv(results_historical, "low_wage_data_historical.csv")
-
-
-# example historical results
-org_2022 <- org_clean %>% 
-  filter(year == 2022, wbhao == 3) %>% 
-  summarize(sum(orgwgt / 12)) %>% 
-  pull()
-
-share_count_year <- function(threshold) {
-  org_clean %>%
-    filter(year == 2019 | year == 2022, wbhao == 3) %>% 
-    summarize(
-      share_under = weighted.mean(my_wage < threshold, w = orgwgt), 
-      total_pop = sum(orgwgt/12),
-      .by = year
-    ) %>% 
-    mutate(
-      number_under = round(share_under * total_pop / 1000) * 1000,
-      number_under_2022 = round(share_under * org_2022 / 1000) * 1000,
-      number_under = scales::label_comma()(number_under),
-      number_under_2022 = scales::label_comma()(number_under_2022),
-      share_under = scales::label_percent()(share_under)
-    ) %>% 
-    select(-total_pop) %>% 
-    column_to_rownames("year") %>% 
-    kbl(
-      align = "r",
-      col.names = c(
-        paste0("Share under $", threshold),
-        paste0("Number under $", threshold),
-        paste0("Number under $", threshold, " (2022 pop basis)")
-      )
-    ) %>% 
-      kable_styling(bootstrap_options = c("striped"))
-}

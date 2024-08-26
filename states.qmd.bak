@@ -78,11 +78,10 @@ filtered = data.filter(d => {
 
 // Update table data when filtered data changes
 Reactable.setData('tbl', filtered)
-
-share_or_number = outcome == "share" ? "Share" : "Number"
 ```
 
-## \${share_or_number} of workers paid less than \$\${threshold} per hour
+## \${outcome == "share" ? "Share" : "Number"} of workers paid less than \$\${threshold} per hour
+
 ```{ojs}
 Plot.plot({
   margin: 0,
