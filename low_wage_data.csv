@@ -1,1073 +1,1073 @@
 low_wage_threshold,category_group,category,low_wage_share,low_wage_count,dates
-10,All workers,All workers,2,2779000,January 2023 through December 2023
-10,Race and ethnicity,Asian,2,172000,January 2023 through December 2023
-10,Race and ethnicity,Black,3,517000,January 2023 through December 2023
-10,Race and ethnicity,Hispanic,2,641000,January 2023 through December 2023
-10,Race and ethnicity,White,2,1417000,January 2023 through December 2023
-10,Gender,Female,2,1722000,January 2023 through December 2023
-10,Gender,Male,1,1057000,January 2023 through December 2023
-10,Age group,Ages 16-24,4,849000,January 2023 through December 2023
-10,Age group,Ages 25-34,1,470000,January 2023 through December 2023
-10,Age group,Ages 35-44,1,397000,January 2023 through December 2023
-10,Age group,Ages 45-54,1,405000,January 2023 through December 2023
-10,Age group,Ages 55-64,2,381000,January 2023 through December 2023
-10,Age group,Ages 65 and above,3,277000,January 2023 through December 2023
-10,Annual family income,"Family income  $24,999 or less",5,505000,January 2023 through December 2023
-10,Annual family income,"Family income  $25,000 - $49,999",3,624000,January 2023 through December 2023
-10,Annual family income,"Family income  $50,000 - $74,999",2,495000,January 2023 through December 2023
-10,Annual family income,"Family income  $75,000 - $99,999",1,309000,January 2023 through December 2023
-10,Annual family income,"Family income $100,000 or more",1,845000,January 2023 through December 2023
-10,Education,College or advanced degree,1,647000,January 2023 through December 2023
-10,Education,High school diploma,2,804000,January 2023 through December 2023
-10,Education,Less than high school diploma,6,607000,January 2023 through December 2023
-10,Education,Some college,2,721000,January 2023 through December 2023
-10,Firm size,Under 10 employees,3,557000,January 2023 through December 2023
-10,Firm size,10 to 24 employees,3,531000,January 2023 through December 2023
-10,Firm size,25 to 99 employees,2,186000,January 2023 through December 2023
-10,Firm size,100 to 499 employees,1,265000,January 2023 through December 2023
-10,Firm size,500 to 999 employees,1,89000,January 2023 through December 2023
-10,Firm size,1000 or more employees,2,1102000,January 2023 through December 2023
-10,Industry,"Agriculture, forestry, fishing, and hunting",4,51000,January 2023 through December 2023
-10,Industry,Construction,1,135000,January 2023 through December 2023
-10,Industry,Educational and health services,2,652000,January 2023 through December 2023
-10,Industry,Financial activities,1,107000,January 2023 through December 2023
-10,Industry,Information,2,48000,January 2023 through December 2023
-10,Industry,Leisure and hospitality,5,631000,January 2023 through December 2023
-10,Industry,Manufacturing,1,125000,January 2023 through December 2023
-10,Industry,Mining,0,3000,January 2023 through December 2023
-10,Industry,Other services,4,228000,January 2023 through December 2023
-10,Industry,Professional and business services,1,240000,January 2023 through December 2023
-10,Industry,Public administration,1,76000,January 2023 through December 2023
-10,Industry,Transportation and utilities,2,143000,January 2023 through December 2023
-10,Industry,Wholesale and retail trade,2,342000,January 2023 through December 2023
-10,Occupation,Construction and extraction occupations,1,101000,January 2023 through December 2023
-10,Occupation,"Farming, fishing, and forestry occupations",4,37000,January 2023 through December 2023
-10,Occupation,"Installation, maintenance, and repair occupations",1,40000,January 2023 through December 2023
-10,Occupation,"Management, business, and financial occupations",1,211000,January 2023 through December 2023
-10,Occupation,Office and administrative support occupations,2,269000,January 2023 through December 2023
-10,Occupation,Production occupations,1,76000,January 2023 through December 2023
-10,Occupation,Professional and related occupations,1,465000,January 2023 through December 2023
-10,Occupation,Sales and related occupations,2,298000,January 2023 through December 2023
-10,Occupation,Service occupations,5,1066000,January 2023 through December 2023
-10,Occupation,Transportation and material moving occupations,2,217000,January 2023 through December 2023
-10,Part-time status,Works full-time,1,1719000,January 2023 through December 2023
-10,Part-time status,Works part-time,5,1060000,January 2023 through December 2023
-10,Private/public sector,Government employee,1,321000,January 2023 through December 2023
-10,Private/public sector,Private-sector employee,2,2458000,January 2023 through December 2023
-10,Region,Midwest,2,476000,January 2023 through December 2023
-10,Region,Northeast,2,433000,January 2023 through December 2023
-10,Region,South,3,1383000,January 2023 through December 2023
-10,Region,West,1,486000,January 2023 through December 2023
-10,Right-to-work,Non-right-to-work state,1,1131000,January 2023 through December 2023
-10,Right-to-work,Right-to-work state,2,1648000,January 2023 through December 2023
-10,State minimum wage,State minimum exceeds federal minimum,2,1381000,January 2023 through December 2023
-10,State minimum wage,State minimum follows federal minimum,3,1398000,January 2023 through December 2023
-10,Tipped occupation,Works in a non-tipped occupation,2,2442000,January 2023 through December 2023
-10,Tipped occupation,Works in a tipped occupation,8,337000,January 2023 through December 2023
-10,Union status,In a union,1,128000,January 2023 through December 2023
-10,Union status,Not in a union,2,2651000,January 2023 through December 2023
-11,All workers,All workers,3,4825000,January 2023 through December 2023
-11,Race and ethnicity,Asian,2,268000,January 2023 through December 2023
-11,Race and ethnicity,Black,5,917000,January 2023 through December 2023
-11,Race and ethnicity,Hispanic,4,1152000,January 2023 through December 2023
-11,Race and ethnicity,White,3,2423000,January 2023 through December 2023
-11,Gender,Female,4,2915000,January 2023 through December 2023
-11,Gender,Male,3,1911000,January 2023 through December 2023
-11,Age group,Ages 16-24,8,1648000,January 2023 through December 2023
-11,Age group,Ages 25-34,2,809000,January 2023 through December 2023
-11,Age group,Ages 35-44,2,677000,January 2023 through December 2023
-11,Age group,Ages 45-54,2,646000,January 2023 through December 2023
-11,Age group,Ages 55-64,3,601000,January 2023 through December 2023
-11,Age group,Ages 65 and above,5,444000,January 2023 through December 2023
-11,Annual family income,"Family income  $24,999 or less",9,868000,January 2023 through December 2023
-11,Annual family income,"Family income  $25,000 - $49,999",5,1189000,January 2023 through December 2023
-11,Annual family income,"Family income  $50,000 - $74,999",3,853000,January 2023 through December 2023
-11,Annual family income,"Family income  $75,000 - $99,999",3,533000,January 2023 through December 2023
-11,Annual family income,"Family income $100,000 or more",2,1382000,January 2023 through December 2023
-11,Education,College or advanced degree,2,930000,January 2023 through December 2023
-11,Education,High school diploma,4,1470000,January 2023 through December 2023
-11,Education,Less than high school diploma,11,1167000,January 2023 through December 2023
-11,Education,Some college,3,1258000,January 2023 through December 2023
-11,Firm size,Under 10 employees,6,954000,January 2023 through December 2023
-11,Firm size,10 to 24 employees,4,904000,January 2023 through December 2023
-11,Firm size,25 to 99 employees,3,338000,January 2023 through December 2023
-11,Firm size,100 to 499 employees,3,488000,January 2023 through December 2023
-11,Firm size,500 to 999 employees,2,180000,January 2023 through December 2023
-11,Firm size,1000 or more employees,3,1819000,January 2023 through December 2023
-11,Industry,"Agriculture, forestry, fishing, and hunting",7,86000,January 2023 through December 2023
-11,Industry,Construction,2,223000,January 2023 through December 2023
-11,Industry,Educational and health services,3,1082000,January 2023 through December 2023
-11,Industry,Financial activities,2,160000,January 2023 through December 2023
-11,Industry,Information,2,60000,January 2023 through December 2023
-11,Industry,Leisure and hospitality,9,1195000,January 2023 through December 2023
-11,Industry,Manufacturing,1,222000,January 2023 through December 2023
-11,Industry,Mining,1,7000,January 2023 through December 2023
-11,Industry,Other services,6,363000,January 2023 through December 2023
-11,Industry,Professional and business services,2,388000,January 2023 through December 2023
-11,Industry,Public administration,2,123000,January 2023 through December 2023
-11,Industry,Transportation and utilities,2,217000,January 2023 through December 2023
-11,Industry,Wholesale and retail trade,4,699000,January 2023 through December 2023
-11,Occupation,Construction and extraction occupations,3,195000,January 2023 through December 2023
-11,Occupation,"Farming, fishing, and forestry occupations",9,76000,January 2023 through December 2023
-11,Occupation,"Installation, maintenance, and repair occupations",1,56000,January 2023 through December 2023
-11,Occupation,"Management, business, and financial occupations",1,284000,January 2023 through December 2023
-11,Occupation,Office and administrative support occupations,3,462000,January 2023 through December 2023
-11,Occupation,Production occupations,2,169000,January 2023 through December 2023
-11,Occupation,Professional and related occupations,2,688000,January 2023 through December 2023
-11,Occupation,Sales and related occupations,5,591000,January 2023 through December 2023
-11,Occupation,Service occupations,8,1917000,January 2023 through December 2023
-11,Occupation,Transportation and material moving occupations,4,388000,January 2023 through December 2023
-11,Part-time status,Works full-time,2,2791000,January 2023 through December 2023
-11,Part-time status,Works part-time,9,2035000,January 2023 through December 2023
-11,Private/public sector,Government employee,2,516000,January 2023 through December 2023
-11,Private/public sector,Private-sector employee,4,4309000,January 2023 through December 2023
-11,Region,Midwest,3,937000,January 2023 through December 2023
-11,Region,Northeast,3,695000,January 2023 through December 2023
-11,Region,South,5,2479000,January 2023 through December 2023
-11,Region,West,2,715000,January 2023 through December 2023
-11,Right-to-work,Non-right-to-work state,2,1870000,January 2023 through December 2023
-11,Right-to-work,Right-to-work state,4,2956000,January 2023 through December 2023
-11,State minimum wage,State minimum exceeds federal minimum,3,2290000,January 2023 through December 2023
-11,State minimum wage,State minimum follows federal minimum,5,2536000,January 2023 through December 2023
-11,Tipped occupation,Works in a non-tipped occupation,3,4276000,January 2023 through December 2023
-11,Tipped occupation,Works in a tipped occupation,13,550000,January 2023 through December 2023
-11,Union status,In a union,1,216000,January 2023 through December 2023
-11,Union status,Not in a union,4,4609000,January 2023 through December 2023
-12,All workers,All workers,5,6640000,January 2023 through December 2023
-12,Race and ethnicity,Asian,3,365000,January 2023 through December 2023
-12,Race and ethnicity,Black,7,1231000,January 2023 through December 2023
-12,Race and ethnicity,Hispanic,6,1580000,January 2023 through December 2023
-12,Race and ethnicity,White,4,3378000,January 2023 through December 2023
-12,Gender,Female,6,3941000,January 2023 through December 2023
-12,Gender,Male,4,2699000,January 2023 through December 2023
-12,Age group,Ages 16-24,12,2347000,January 2023 through December 2023
-12,Age group,Ages 25-34,3,1137000,January 2023 through December 2023
-12,Age group,Ages 35-44,3,900000,January 2023 through December 2023
-12,Age group,Ages 45-54,3,860000,January 2023 through December 2023
-12,Age group,Ages 55-64,3,794000,January 2023 through December 2023
-12,Age group,Ages 65 and above,7,603000,January 2023 through December 2023
-12,Annual family income,"Family income  $24,999 or less",13,1195000,January 2023 through December 2023
-12,Annual family income,"Family income  $25,000 - $49,999",7,1640000,January 2023 through December 2023
-12,Annual family income,"Family income  $50,000 - $74,999",5,1185000,January 2023 through December 2023
-12,Annual family income,"Family income  $75,000 - $99,999",3,738000,January 2023 through December 2023
-12,Annual family income,"Family income $100,000 or more",3,1882000,January 2023 through December 2023
-12,Education,College or advanced degree,2,1159000,January 2023 through December 2023
-12,Education,High school diploma,6,2101000,January 2023 through December 2023
-12,Education,Less than high school diploma,15,1607000,January 2023 through December 2023
-12,Education,Some college,5,1773000,January 2023 through December 2023
-12,Firm size,Under 10 employees,8,1280000,January 2023 through December 2023
-12,Firm size,10 to 24 employees,6,1240000,January 2023 through December 2023
-12,Firm size,25 to 99 employees,4,423000,January 2023 through December 2023
-12,Firm size,100 to 499 employees,4,636000,January 2023 through December 2023
-12,Firm size,500 to 999 employees,3,252000,January 2023 through December 2023
-12,Firm size,1000 or more employees,3,2419000,January 2023 through December 2023
-12,Industry,"Agriculture, forestry, fishing, and hunting",9,120000,January 2023 through December 2023
-12,Industry,Construction,3,283000,January 2023 through December 2023
-12,Industry,Educational and health services,4,1426000,January 2023 through December 2023
-12,Industry,Financial activities,2,217000,January 2023 through December 2023
-12,Industry,Information,3,82000,January 2023 through December 2023
-12,Industry,Leisure and hospitality,13,1648000,January 2023 through December 2023
-12,Industry,Manufacturing,2,305000,January 2023 through December 2023
-12,Industry,Mining,1,7000,January 2023 through December 2023
-12,Industry,Other services,8,460000,January 2023 through December 2023
-12,Industry,Professional and business services,3,514000,January 2023 through December 2023
-12,Industry,Public administration,2,153000,January 2023 through December 2023
-12,Industry,Transportation and utilities,4,336000,January 2023 through December 2023
-12,Industry,Wholesale and retail trade,6,1088000,January 2023 through December 2023
-12,Occupation,Construction and extraction occupations,3,239000,January 2023 through December 2023
-12,Occupation,"Farming, fishing, and forestry occupations",13,109000,January 2023 through December 2023
-12,Occupation,"Installation, maintenance, and repair occupations",2,68000,January 2023 through December 2023
-12,Occupation,"Management, business, and financial occupations",1,362000,January 2023 through December 2023
-12,Occupation,Office and administrative support occupations,4,670000,January 2023 through December 2023
-12,Occupation,Production occupations,3,241000,January 2023 through December 2023
-12,Occupation,Professional and related occupations,2,875000,January 2023 through December 2023
-12,Occupation,Sales and related occupations,8,945000,January 2023 through December 2023
-12,Occupation,Service occupations,11,2533000,January 2023 through December 2023
-12,Occupation,Transportation and material moving occupations,6,597000,January 2023 through December 2023
-12,Part-time status,Works full-time,3,3779000,January 2023 through December 2023
-12,Part-time status,Works part-time,13,2861000,January 2023 through December 2023
-12,Private/public sector,Government employee,3,673000,January 2023 through December 2023
-12,Private/public sector,Private-sector employee,5,5967000,January 2023 through December 2023
-12,Region,Midwest,4,1287000,January 2023 through December 2023
-12,Region,Northeast,4,933000,January 2023 through December 2023
-12,Region,South,6,3442000,January 2023 through December 2023
-12,Region,West,3,978000,January 2023 through December 2023
-12,Right-to-work,Non-right-to-work state,3,2513000,January 2023 through December 2023
-12,Right-to-work,Right-to-work state,6,4127000,January 2023 through December 2023
-12,State minimum wage,State minimum exceeds federal minimum,3,3146000,January 2023 through December 2023
-12,State minimum wage,State minimum follows federal minimum,7,3494000,January 2023 through December 2023
-12,Tipped occupation,Works in a non-tipped occupation,4,5922000,January 2023 through December 2023
-12,Tipped occupation,Works in a tipped occupation,16,718000,January 2023 through December 2023
-12,Union status,In a union,2,269000,January 2023 through December 2023
-12,Union status,Not in a union,5,6372000,January 2023 through December 2023
-13,All workers,All workers,7,10058000,January 2023 through December 2023
-13,Race and ethnicity,Asian,5,545000,January 2023 through December 2023
-13,Race and ethnicity,Black,10,1864000,January 2023 through December 2023
-13,Race and ethnicity,Hispanic,9,2417000,January 2023 through December 2023
-13,Race and ethnicity,White,6,5088000,January 2023 through December 2023
-13,Gender,Female,9,5918000,January 2023 through December 2023
-13,Gender,Male,6,4139000,January 2023 through December 2023
-13,Age group,Ages 16-24,18,3629000,January 2023 through December 2023
-13,Age group,Ages 25-34,5,1745000,January 2023 through December 2023
-13,Age group,Ages 35-44,4,1407000,January 2023 through December 2023
-13,Age group,Ages 45-54,4,1255000,January 2023 through December 2023
-13,Age group,Ages 55-64,5,1145000,January 2023 through December 2023
-13,Age group,Ages 65 and above,11,877000,January 2023 through December 2023
-13,Annual family income,"Family income  $24,999 or less",19,1793000,January 2023 through December 2023
-13,Annual family income,"Family income  $25,000 - $49,999",11,2466000,January 2023 through December 2023
-13,Annual family income,"Family income  $50,000 - $74,999",7,1848000,January 2023 through December 2023
-13,Annual family income,"Family income  $75,000 - $99,999",5,1129000,January 2023 through December 2023
-13,Annual family income,"Family income $100,000 or more",4,2822000,January 2023 through December 2023
-13,Education,College or advanced degree,3,1639000,January 2023 through December 2023
-13,Education,High school diploma,9,3310000,January 2023 through December 2023
-13,Education,Less than high school diploma,22,2376000,January 2023 through December 2023
-13,Education,Some college,7,2732000,January 2023 through December 2023
-13,Firm size,Under 10 employees,12,2019000,January 2023 through December 2023
-13,Firm size,10 to 24 employees,10,1990000,January 2023 through December 2023
-13,Firm size,25 to 99 employees,7,702000,January 2023 through December 2023
-13,Firm size,100 to 499 employees,5,984000,January 2023 through December 2023
-13,Firm size,500 to 999 employees,5,409000,January 2023 through December 2023
-13,Firm size,1000 or more employees,6,3948000,January 2023 through December 2023
-13,Industry,"Agriculture, forestry, fishing, and hunting",14,176000,January 2023 through December 2023
-13,Industry,Construction,4,411000,January 2023 through December 2023
-13,Industry,Educational and health services,6,2141000,January 2023 through December 2023
-13,Industry,Financial activities,3,326000,January 2023 through December 2023
-13,Industry,Information,4,117000,January 2023 through December 2023
-13,Industry,Leisure and hospitality,19,2475000,January 2023 through December 2023
-13,Industry,Manufacturing,3,499000,January 2023 through December 2023
-13,Industry,Mining,2,13000,January 2023 through December 2023
-13,Industry,Other services,11,682000,January 2023 through December 2023
-13,Industry,Professional and business services,4,717000,January 2023 through December 2023
-13,Industry,Public administration,3,222000,January 2023 through December 2023
-13,Industry,Transportation and utilities,6,489000,January 2023 through December 2023
-13,Industry,Wholesale and retail trade,10,1790000,January 2023 through December 2023
-13,Occupation,Construction and extraction occupations,5,351000,January 2023 through December 2023
-13,Occupation,"Farming, fishing, and forestry occupations",18,157000,January 2023 through December 2023
-13,Occupation,"Installation, maintenance, and repair occupations",3,117000,January 2023 through December 2023
-13,Occupation,"Management, business, and financial occupations",2,497000,January 2023 through December 2023
-13,Occupation,Office and administrative support occupations,7,1087000,January 2023 through December 2023
-13,Occupation,Production occupations,5,411000,January 2023 through December 2023
-13,Occupation,Professional and related occupations,3,1225000,January 2023 through December 2023
-13,Occupation,Sales and related occupations,12,1459000,January 2023 through December 2023
-13,Occupation,Service occupations,16,3756000,January 2023 through December 2023
-13,Occupation,Transportation and material moving occupations,9,997000,January 2023 through December 2023
-13,Part-time status,Works full-time,5,5728000,January 2023 through December 2023
-13,Part-time status,Works part-time,19,4329000,January 2023 through December 2023
-13,Private/public sector,Government employee,5,970000,January 2023 through December 2023
-13,Private/public sector,Private-sector employee,7,9088000,January 2023 through December 2023
-13,Region,Midwest,7,2012000,January 2023 through December 2023
-13,Region,Northeast,5,1350000,January 2023 through December 2023
-13,Region,South,10,5204000,January 2023 through December 2023
-13,Region,West,4,1492000,January 2023 through December 2023
-13,Right-to-work,Non-right-to-work state,5,3802000,January 2023 through December 2023
-13,Right-to-work,Right-to-work state,9,6255000,January 2023 through December 2023
-13,State minimum wage,State minimum exceeds federal minimum,5,4892000,January 2023 through December 2023
-13,State minimum wage,State minimum follows federal minimum,10,5165000,January 2023 through December 2023
-13,Tipped occupation,Works in a non-tipped occupation,6,9031000,January 2023 through December 2023
-13,Tipped occupation,Works in a tipped occupation,23,1026000,January 2023 through December 2023
-13,Union status,In a union,3,411000,January 2023 through December 2023
-13,Union status,Not in a union,8,9647000,January 2023 through December 2023
-14,All workers,All workers,9,12980000,January 2023 through December 2023
-14,Race and ethnicity,Asian,6,680000,January 2023 through December 2023
-14,Race and ethnicity,Black,13,2398000,January 2023 through December 2023
-14,Race and ethnicity,Hispanic,11,3095000,January 2023 through December 2023
-14,Race and ethnicity,White,8,6621000,January 2023 through December 2023
-14,Gender,Female,11,7699000,January 2023 through December 2023
-14,Gender,Male,7,5282000,January 2023 through December 2023
-14,Age group,Ages 16-24,24,4734000,January 2023 through December 2023
-14,Age group,Ages 25-34,7,2312000,January 2023 through December 2023
-14,Age group,Ages 35-44,6,1805000,January 2023 through December 2023
-14,Age group,Ages 45-54,6,1604000,January 2023 through December 2023
-14,Age group,Ages 55-64,6,1454000,January 2023 through December 2023
-14,Age group,Ages 65 and above,13,1072000,January 2023 through December 2023
-14,Annual family income,"Family income  $24,999 or less",24,2224000,January 2023 through December 2023
-14,Annual family income,"Family income  $25,000 - $49,999",14,3268000,January 2023 through December 2023
-14,Annual family income,"Family income  $50,000 - $74,999",9,2367000,January 2023 through December 2023
-14,Annual family income,"Family income  $75,000 - $99,999",7,1502000,January 2023 through December 2023
-14,Annual family income,"Family income $100,000 or more",6,3620000,January 2023 through December 2023
-14,Education,College or advanced degree,3,2050000,January 2023 through December 2023
-14,Education,High school diploma,12,4378000,January 2023 through December 2023
-14,Education,Less than high school diploma,27,2939000,January 2023 through December 2023
-14,Education,Some college,10,3614000,January 2023 through December 2023
-14,Firm size,Under 10 employees,14,2294000,January 2023 through December 2023
-14,Firm size,10 to 24 employees,11,2400000,January 2023 through December 2023
-14,Firm size,25 to 99 employees,8,870000,January 2023 through December 2023
-14,Firm size,100 to 499 employees,6,1125000,January 2023 through December 2023
-14,Firm size,500 to 999 employees,6,479000,January 2023 through December 2023
-14,Firm size,1000 or more employees,7,4625000,January 2023 through December 2023
-14,Industry,"Agriculture, forestry, fishing, and hunting",17,215000,January 2023 through December 2023
-14,Industry,Construction,6,523000,January 2023 through December 2023
-14,Industry,Educational and health services,8,2809000,January 2023 through December 2023
-14,Industry,Financial activities,4,414000,January 2023 through December 2023
-14,Industry,Information,5,146000,January 2023 through December 2023
-14,Industry,Leisure and hospitality,24,3118000,January 2023 through December 2023
-14,Industry,Manufacturing,4,649000,January 2023 through December 2023
-14,Industry,Mining,3,16000,January 2023 through December 2023
-14,Industry,Other services,14,833000,January 2023 through December 2023
-14,Industry,Professional and business services,5,930000,January 2023 through December 2023
-14,Industry,Public administration,4,300000,January 2023 through December 2023
-14,Industry,Transportation and utilities,7,631000,January 2023 through December 2023
-14,Industry,Wholesale and retail trade,13,2397000,January 2023 through December 2023
-14,Occupation,Construction and extraction occupations,6,437000,January 2023 through December 2023
-14,Occupation,"Farming, fishing, and forestry occupations",22,188000,January 2023 through December 2023
-14,Occupation,"Installation, maintenance, and repair occupations",3,146000,January 2023 through December 2023
-14,Occupation,"Management, business, and financial occupations",3,636000,January 2023 through December 2023
-14,Occupation,Office and administrative support occupations,9,1442000,January 2023 through December 2023
-14,Occupation,Production occupations,7,535000,January 2023 through December 2023
-14,Occupation,Professional and related occupations,4,1589000,January 2023 through December 2023
-14,Occupation,Sales and related occupations,16,1934000,January 2023 through December 2023
-14,Occupation,Service occupations,20,4812000,January 2023 through December 2023
-14,Occupation,Transportation and material moving occupations,12,1260000,January 2023 through December 2023
-14,Part-time status,Works full-time,6,7471000,January 2023 through December 2023
-14,Part-time status,Works part-time,25,5510000,January 2023 through December 2023
-14,Private/public sector,Government employee,6,1289000,January 2023 through December 2023
-14,Private/public sector,Private-sector employee,10,11691000,January 2023 through December 2023
-14,Region,Midwest,9,2740000,January 2023 through December 2023
-14,Region,Northeast,7,1736000,January 2023 through December 2023
-14,Region,South,12,6564000,January 2023 through December 2023
-14,Region,West,6,1940000,January 2023 through December 2023
-14,Right-to-work,Non-right-to-work state,7,5056000,January 2023 through December 2023
-14,Right-to-work,Right-to-work state,12,7925000,January 2023 through December 2023
-14,State minimum wage,State minimum exceeds federal minimum,7,6562000,January 2023 through December 2023
-14,State minimum wage,State minimum follows federal minimum,12,6419000,January 2023 through December 2023
-14,Tipped occupation,Works in a non-tipped occupation,8,11740000,January 2023 through December 2023
-14,Tipped occupation,Works in a tipped occupation,28,1241000,January 2023 through December 2023
-14,Union status,In a union,4,568000,January 2023 through December 2023
-14,Union status,Not in a union,10,12412000,January 2023 through December 2023
-15,All workers,All workers,12,16693000,January 2023 through December 2023
-15,Race and ethnicity,Asian,8,876000,January 2023 through December 2023
-15,Race and ethnicity,Black,16,3049000,January 2023 through December 2023
-15,Race and ethnicity,Hispanic,15,4002000,January 2023 through December 2023
-15,Race and ethnicity,White,10,8525000,January 2023 through December 2023
-15,Gender,Female,14,9904000,January 2023 through December 2023
-15,Gender,Male,9,6789000,January 2023 through December 2023
-15,Age group,Ages 16-24,30,5895000,January 2023 through December 2023
-15,Age group,Ages 25-34,9,3054000,January 2023 through December 2023
-15,Age group,Ages 35-44,8,2383000,January 2023 through December 2023
-15,Age group,Ages 45-54,7,2099000,January 2023 through December 2023
-15,Age group,Ages 55-64,9,1949000,January 2023 through December 2023
-15,Age group,Ages 65 and above,16,1313000,January 2023 through December 2023
-15,Annual family income,"Family income  $24,999 or less",30,2761000,January 2023 through December 2023
-15,Annual family income,"Family income  $25,000 - $49,999",19,4258000,January 2023 through December 2023
-15,Annual family income,"Family income  $50,000 - $74,999",12,3091000,January 2023 through December 2023
-15,Annual family income,"Family income  $75,000 - $99,999",9,1923000,January 2023 through December 2023
-15,Annual family income,"Family income $100,000 or more",7,4660000,January 2023 through December 2023
-15,Education,College or advanced degree,4,2544000,January 2023 through December 2023
-15,Education,High school diploma,16,5791000,January 2023 through December 2023
-15,Education,Less than high school diploma,33,3592000,January 2023 through December 2023
-15,Education,Some college,13,4766000,January 2023 through December 2023
-15,Firm size,Under 10 employees,19,3203000,January 2023 through December 2023
-15,Firm size,10 to 24 employees,16,3405000,January 2023 through December 2023
-15,Firm size,25 to 99 employees,12,1209000,January 2023 through December 2023
-15,Firm size,100 to 499 employees,8,1525000,January 2023 through December 2023
-15,Firm size,500 to 999 employees,9,689000,January 2023 through December 2023
-15,Firm size,1000 or more employees,10,6638000,January 2023 through December 2023
-15,Industry,"Agriculture, forestry, fishing, and hunting",20,259000,January 2023 through December 2023
-15,Industry,Construction,7,669000,January 2023 through December 2023
-15,Industry,Educational and health services,10,3627000,January 2023 through December 2023
-15,Industry,Financial activities,6,522000,January 2023 through December 2023
-15,Industry,Information,7,179000,January 2023 through December 2023
-15,Industry,Leisure and hospitality,29,3846000,January 2023 through December 2023
-15,Industry,Manufacturing,6,875000,January 2023 through December 2023
-15,Industry,Mining,3,18000,January 2023 through December 2023
-15,Industry,Other services,18,1062000,January 2023 through December 2023
-15,Industry,Professional and business services,7,1207000,January 2023 through December 2023
-15,Industry,Public administration,5,402000,January 2023 through December 2023
-15,Industry,Transportation and utilities,9,796000,January 2023 through December 2023
-15,Industry,Wholesale and retail trade,18,3231000,January 2023 through December 2023
-15,Occupation,Construction and extraction occupations,8,550000,January 2023 through December 2023
-15,Occupation,"Farming, fishing, and forestry occupations",26,223000,January 2023 through December 2023
-15,Occupation,"Installation, maintenance, and repair occupations",5,214000,January 2023 through December 2023
-15,Occupation,"Management, business, and financial occupations",3,817000,January 2023 through December 2023
-15,Occupation,Office and administrative support occupations,12,1918000,January 2023 through December 2023
-15,Occupation,Production occupations,9,740000,January 2023 through December 2023
-15,Occupation,Professional and related occupations,5,1974000,January 2023 through December 2023
-15,Occupation,Sales and related occupations,20,2483000,January 2023 through December 2023
-15,Occupation,Service occupations,26,6098000,January 2023 through December 2023
-15,Occupation,Transportation and material moving occupations,16,1677000,January 2023 through December 2023
-15,Part-time status,Works full-time,8,9916000,January 2023 through December 2023
-15,Part-time status,Works part-time,30,6777000,January 2023 through December 2023
-15,Private/public sector,Government employee,8,1656000,January 2023 through December 2023
-15,Private/public sector,Private-sector employee,12,15037000,January 2023 through December 2023
-15,Region,Midwest,12,3594000,January 2023 through December 2023
-15,Region,Northeast,9,2312000,January 2023 through December 2023
-15,Region,South,15,8239000,January 2023 through December 2023
-15,Region,West,8,2548000,January 2023 through December 2023
-15,Right-to-work,Non-right-to-work state,9,6622000,January 2023 through December 2023
-15,Right-to-work,Right-to-work state,15,10071000,January 2023 through December 2023
-15,State minimum wage,State minimum exceeds federal minimum,10,8633000,January 2023 through December 2023
-15,State minimum wage,State minimum follows federal minimum,15,8060000,January 2023 through December 2023
-15,Tipped occupation,Works in a non-tipped occupation,11,15215000,January 2023 through December 2023
-15,Tipped occupation,Works in a tipped occupation,34,1478000,January 2023 through December 2023
-15,Union status,In a union,5,775000,January 2023 through December 2023
-15,Union status,Not in a union,12,15918000,January 2023 through December 2023
-16,All workers,All workers,17,24688000,January 2023 through December 2023
-16,Race and ethnicity,Asian,12,1375000,January 2023 through December 2023
-16,Race and ethnicity,Black,23,4350000,January 2023 through December 2023
-16,Race and ethnicity,Hispanic,23,6169000,January 2023 through December 2023
-16,Race and ethnicity,White,15,12459000,January 2023 through December 2023
-16,Gender,Female,21,14391000,January 2023 through December 2023
-16,Gender,Male,14,10297000,January 2023 through December 2023
-16,Age group,Ages 16-24,44,8590000,January 2023 through December 2023
-16,Age group,Ages 25-34,14,4627000,January 2023 through December 2023
-16,Age group,Ages 35-44,11,3595000,January 2023 through December 2023
-16,Age group,Ages 45-54,11,3149000,January 2023 through December 2023
-16,Age group,Ages 55-64,13,2879000,January 2023 through December 2023
-16,Age group,Ages 65 and above,22,1850000,January 2023 through December 2023
-16,Annual family income,"Family income  $24,999 or less",41,3825000,January 2023 through December 2023
-16,Annual family income,"Family income  $25,000 - $49,999",28,6349000,January 2023 through December 2023
-16,Annual family income,"Family income  $50,000 - $74,999",19,4792000,January 2023 through December 2023
-16,Annual family income,"Family income  $75,000 - $99,999",14,2943000,January 2023 through December 2023
-16,Annual family income,"Family income $100,000 or more",10,6779000,January 2023 through December 2023
-16,Education,College or advanced degree,6,3634000,January 2023 through December 2023
-16,Education,High school diploma,24,8799000,January 2023 through December 2023
-16,Education,Less than high school diploma,47,5011000,January 2023 through December 2023
-16,Education,Some college,20,7245000,January 2023 through December 2023
-16,Firm size,Under 10 employees,27,4440000,January 2023 through December 2023
-16,Firm size,10 to 24 employees,24,4922000,January 2023 through December 2023
-16,Firm size,25 to 99 employees,17,1772000,January 2023 through December 2023
-16,Firm size,100 to 499 employees,12,2210000,January 2023 through December 2023
-16,Firm size,500 to 999 employees,12,995000,January 2023 through December 2023
-16,Firm size,1000 or more employees,14,9604000,January 2023 through December 2023
-16,Industry,"Agriculture, forestry, fishing, and hunting",36,468000,January 2023 through December 2023
-16,Industry,Construction,11,1039000,January 2023 through December 2023
-16,Industry,Educational and health services,15,5243000,January 2023 through December 2023
-16,Industry,Financial activities,8,796000,January 2023 through December 2023
-16,Industry,Information,9,236000,January 2023 through December 2023
-16,Industry,Leisure and hospitality,41,5327000,January 2023 through December 2023
-16,Industry,Manufacturing,10,1447000,January 2023 through December 2023
-16,Industry,Mining,4,25000,January 2023 through December 2023
-16,Industry,Other services,25,1486000,January 2023 through December 2023
-16,Industry,Professional and business services,11,1868000,January 2023 through December 2023
-16,Industry,Public administration,8,660000,January 2023 through December 2023
-16,Industry,Transportation and utilities,14,1195000,January 2023 through December 2023
-16,Industry,Wholesale and retail trade,27,4899000,January 2023 through December 2023
-16,Occupation,Construction and extraction occupations,13,864000,January 2023 through December 2023
-16,Occupation,"Farming, fishing, and forestry occupations",46,396000,January 2023 through December 2023
-16,Occupation,"Installation, maintenance, and repair occupations",8,361000,January 2023 through December 2023
-16,Occupation,"Management, business, and financial occupations",5,1166000,January 2023 through December 2023
-16,Occupation,Office and administrative support occupations,19,2985000,January 2023 through December 2023
-16,Occupation,Production occupations,16,1281000,January 2023 through December 2023
-16,Occupation,Professional and related occupations,8,2761000,January 2023 through December 2023
-16,Occupation,Sales and related occupations,29,3521000,January 2023 through December 2023
-16,Occupation,Service occupations,38,8838000,January 2023 through December 2023
-16,Occupation,Transportation and material moving occupations,23,2513000,January 2023 through December 2023
-16,Part-time status,Works full-time,12,14926000,January 2023 through December 2023
-16,Part-time status,Works part-time,44,9763000,January 2023 through December 2023
-16,Private/public sector,Government employee,11,2398000,January 2023 through December 2023
-16,Private/public sector,Private-sector employee,18,22290000,January 2023 through December 2023
-16,Region,Midwest,17,5320000,January 2023 through December 2023
-16,Region,Northeast,14,3575000,January 2023 through December 2023
-16,Region,South,21,11499000,January 2023 through December 2023
-16,Region,West,13,4295000,January 2023 through December 2023
-16,Right-to-work,Non-right-to-work state,14,10499000,January 2023 through December 2023
-16,Right-to-work,Right-to-work state,21,14189000,January 2023 through December 2023
-16,State minimum wage,State minimum exceeds federal minimum,15,13493000,January 2023 through December 2023
-16,State minimum wage,State minimum follows federal minimum,21,11195000,January 2023 through December 2023
-16,Tipped occupation,Works in a non-tipped occupation,16,22665000,January 2023 through December 2023
-16,Tipped occupation,Works in a tipped occupation,46,2023000,January 2023 through December 2023
-16,Union status,In a union,8,1228000,January 2023 through December 2023
-16,Union status,Not in a union,18,23460000,January 2023 through December 2023
-17,All workers,All workers,21,30621000,January 2023 through December 2023
-17,Race and ethnicity,Asian,16,1758000,January 2023 through December 2023
-17,Race and ethnicity,Black,28,5286000,January 2023 through December 2023
-17,Race and ethnicity,Hispanic,29,7891000,January 2023 through December 2023
-17,Race and ethnicity,White,18,15283000,January 2023 through December 2023
-17,Gender,Female,26,17725000,January 2023 through December 2023
-17,Gender,Male,17,12896000,January 2023 through December 2023
-17,Age group,Ages 16-24,52,10190000,January 2023 through December 2023
-17,Age group,Ages 25-34,18,6060000,January 2023 through December 2023
-17,Age group,Ages 35-44,14,4559000,January 2023 through December 2023
-17,Age group,Ages 45-54,14,3931000,January 2023 through December 2023
-17,Age group,Ages 55-64,16,3634000,January 2023 through December 2023
-17,Age group,Ages 65 and above,27,2247000,January 2023 through December 2023
-17,Annual family income,"Family income  $24,999 or less",48,4478000,January 2023 through December 2023
-17,Annual family income,"Family income  $25,000 - $49,999",35,7959000,January 2023 through December 2023
-17,Annual family income,"Family income  $50,000 - $74,999",24,6126000,January 2023 through December 2023
-17,Annual family income,"Family income  $75,000 - $99,999",18,3774000,January 2023 through December 2023
-17,Annual family income,"Family income $100,000 or more",13,8283000,January 2023 through December 2023
-17,Education,College or advanced degree,8,4571000,January 2023 through December 2023
-17,Education,High school diploma,30,11126000,January 2023 through December 2023
-17,Education,Less than high school diploma,55,5857000,January 2023 through December 2023
-17,Education,Some college,24,9066000,January 2023 through December 2023
-17,Firm size,Under 10 employees,34,5583000,January 2023 through December 2023
-17,Firm size,10 to 24 employees,29,6164000,January 2023 through December 2023
-17,Firm size,25 to 99 employees,21,2234000,January 2023 through December 2023
-17,Firm size,100 to 499 employees,16,2938000,January 2023 through December 2023
-17,Firm size,500 to 999 employees,17,1342000,January 2023 through December 2023
-17,Firm size,1000 or more employees,18,12347000,January 2023 through December 2023
-17,Industry,"Agriculture, forestry, fishing, and hunting",44,572000,January 2023 through December 2023
-17,Industry,Construction,14,1333000,January 2023 through December 2023
-17,Industry,Educational and health services,19,6521000,January 2023 through December 2023
-17,Industry,Financial activities,10,981000,January 2023 through December 2023
-17,Industry,Information,10,283000,January 2023 through December 2023
-17,Industry,Leisure and hospitality,48,6285000,January 2023 through December 2023
-17,Industry,Manufacturing,13,1970000,January 2023 through December 2023
-17,Industry,Mining,7,43000,January 2023 through December 2023
-17,Industry,Other services,31,1843000,January 2023 through December 2023
-17,Industry,Professional and business services,14,2422000,January 2023 through December 2023
-17,Industry,Public administration,11,872000,January 2023 through December 2023
-17,Industry,Transportation and utilities,17,1512000,January 2023 through December 2023
-17,Industry,Wholesale and retail trade,33,5983000,January 2023 through December 2023
-17,Occupation,Construction and extraction occupations,16,1123000,January 2023 through December 2023
-17,Occupation,"Farming, fishing, and forestry occupations",56,485000,January 2023 through December 2023
-17,Occupation,"Installation, maintenance, and repair occupations",11,467000,January 2023 through December 2023
-17,Occupation,"Management, business, and financial occupations",6,1463000,January 2023 through December 2023
-17,Occupation,Office and administrative support occupations,25,3782000,January 2023 through December 2023
-17,Occupation,Production occupations,22,1727000,January 2023 through December 2023
-17,Occupation,Professional and related occupations,9,3450000,January 2023 through December 2023
-17,Occupation,Sales and related occupations,34,4201000,January 2023 through December 2023
-17,Occupation,Service occupations,46,10766000,January 2023 through December 2023
-17,Occupation,Transportation and material moving occupations,29,3155000,January 2023 through December 2023
-17,Part-time status,Works full-time,16,19243000,January 2023 through December 2023
-17,Part-time status,Works part-time,51,11378000,January 2023 through December 2023
-17,Private/public sector,Government employee,14,3032000,January 2023 through December 2023
-17,Private/public sector,Private-sector employee,23,27589000,January 2023 through December 2023
-17,Region,Midwest,21,6536000,January 2023 through December 2023
-17,Region,Northeast,18,4466000,January 2023 through December 2023
-17,Region,South,25,13809000,January 2023 through December 2023
-17,Region,West,17,5809000,January 2023 through December 2023
-17,Right-to-work,Non-right-to-work state,18,13514000,January 2023 through December 2023
-17,Right-to-work,Right-to-work state,25,17107000,January 2023 through December 2023
-17,State minimum wage,State minimum exceeds federal minimum,19,17196000,January 2023 through December 2023
-17,State minimum wage,State minimum follows federal minimum,25,13425000,January 2023 through December 2023
-17,Tipped occupation,Works in a non-tipped occupation,20,28275000,January 2023 through December 2023
-17,Tipped occupation,Works in a tipped occupation,54,2345000,January 2023 through December 2023
-17,Union status,In a union,10,1651000,January 2023 through December 2023
-17,Union status,Not in a union,23,28970000,January 2023 through December 2023
-18,All workers,All workers,25,36550000,January 2023 through December 2023
-18,Race and ethnicity,Asian,19,2120000,January 2023 through December 2023
-18,Race and ethnicity,Black,33,6201000,January 2023 through December 2023
-18,Race and ethnicity,Hispanic,35,9605000,January 2023 through December 2023
-18,Race and ethnicity,White,21,18118000,January 2023 through December 2023
-18,Gender,Female,30,20997000,January 2023 through December 2023
-18,Gender,Male,21,15553000,January 2023 through December 2023
-18,Age group,Ages 16-24,59,11607000,January 2023 through December 2023
-18,Age group,Ages 25-34,23,7564000,January 2023 through December 2023
-18,Age group,Ages 35-44,18,5545000,January 2023 through December 2023
-18,Age group,Ages 45-54,17,4851000,January 2023 through December 2023
-18,Age group,Ages 55-64,19,4419000,January 2023 through December 2023
-18,Age group,Ages 65 and above,31,2565000,January 2023 through December 2023
-18,Annual family income,"Family income  $24,999 or less",55,5120000,January 2023 through December 2023
-18,Annual family income,"Family income  $25,000 - $49,999",42,9514000,January 2023 through December 2023
-18,Annual family income,"Family income  $50,000 - $74,999",29,7397000,January 2023 through December 2023
-18,Annual family income,"Family income  $75,000 - $99,999",22,4690000,January 2023 through December 2023
-18,Annual family income,"Family income $100,000 or more",15,9829000,January 2023 through December 2023
-18,Education,College or advanced degree,10,5679000,January 2023 through December 2023
-18,Education,High school diploma,36,13325000,January 2023 through December 2023
-18,Education,Less than high school diploma,61,6596000,January 2023 through December 2023
-18,Education,Some college,30,10950000,January 2023 through December 2023
-18,Firm size,Under 10 employees,39,6526000,January 2023 through December 2023
-18,Firm size,10 to 24 employees,34,7145000,January 2023 through December 2023
-18,Firm size,25 to 99 employees,25,2611000,January 2023 through December 2023
-18,Firm size,100 to 499 employees,20,3667000,January 2023 through December 2023
-18,Firm size,500 to 999 employees,20,1649000,January 2023 through December 2023
-18,Firm size,1000 or more employees,21,14597000,January 2023 through December 2023
-18,Industry,"Agriculture, forestry, fishing, and hunting",49,638000,January 2023 through December 2023
-18,Industry,Construction,18,1676000,January 2023 through December 2023
-18,Industry,Educational and health services,23,7829000,January 2023 through December 2023
-18,Industry,Financial activities,13,1221000,January 2023 through December 2023
-18,Industry,Information,13,351000,January 2023 through December 2023
-18,Industry,Leisure and hospitality,54,7061000,January 2023 through December 2023
-18,Industry,Manufacturing,17,2519000,January 2023 through December 2023
-18,Industry,Mining,9,53000,January 2023 through December 2023
-18,Industry,Other services,36,2127000,January 2023 through December 2023
-18,Industry,Professional and business services,17,2965000,January 2023 through December 2023
-18,Industry,Public administration,13,1062000,January 2023 through December 2023
-18,Industry,Transportation and utilities,21,1873000,January 2023 through December 2023
-18,Industry,Wholesale and retail trade,40,7174000,January 2023 through December 2023
-18,Occupation,Construction and extraction occupations,20,1399000,January 2023 through December 2023
-18,Occupation,"Farming, fishing, and forestry occupations",61,533000,January 2023 through December 2023
-18,Occupation,"Installation, maintenance, and repair occupations",15,637000,January 2023 through December 2023
-18,Occupation,"Management, business, and financial occupations",7,1843000,January 2023 through December 2023
-18,Occupation,Office and administrative support occupations,30,4690000,January 2023 through December 2023
-18,Occupation,Production occupations,28,2194000,January 2023 through December 2023
-18,Occupation,Professional and related occupations,11,4171000,January 2023 through December 2023
-18,Occupation,Sales and related occupations,40,4849000,January 2023 through December 2023
-18,Occupation,Service occupations,52,12360000,January 2023 through December 2023
-18,Occupation,Transportation and material moving occupations,36,3875000,January 2023 through December 2023
-18,Part-time status,Works full-time,20,23832000,January 2023 through December 2023
-18,Part-time status,Works part-time,57,12718000,January 2023 through December 2023
-18,Private/public sector,Government employee,17,3635000,January 2023 through December 2023
-18,Private/public sector,Private-sector employee,27,32915000,January 2023 through December 2023
-18,Region,Midwest,25,7769000,January 2023 through December 2023
-18,Region,Northeast,22,5423000,January 2023 through December 2023
-18,Region,South,29,15973000,January 2023 through December 2023
-18,Region,West,22,7385000,January 2023 through December 2023
-18,Right-to-work,Non-right-to-work state,22,16625000,January 2023 through December 2023
-18,Right-to-work,Right-to-work state,29,19925000,January 2023 through December 2023
-18,State minimum wage,State minimum exceeds federal minimum,23,20987000,January 2023 through December 2023
-18,State minimum wage,State minimum follows federal minimum,29,15562000,January 2023 through December 2023
-18,Tipped occupation,Works in a non-tipped occupation,24,33935000,January 2023 through December 2023
-18,Tipped occupation,Works in a tipped occupation,60,2615000,January 2023 through December 2023
-18,Union status,In a union,13,2132000,January 2023 through December 2023
-18,Union status,Not in a union,27,34418000,January 2023 through December 2023
-19,All workers,All workers,30,42574000,January 2023 through December 2023
-19,Race and ethnicity,Asian,22,2447000,January 2023 through December 2023
-19,Race and ethnicity,Black,38,7115000,January 2023 through December 2023
-19,Race and ethnicity,Hispanic,41,11224000,January 2023 through December 2023
-19,Race and ethnicity,White,25,21209000,January 2023 through December 2023
-19,Gender,Female,35,24097000,January 2023 through December 2023
-19,Gender,Male,25,18477000,January 2023 through December 2023
-19,Age group,Ages 16-24,65,12839000,January 2023 through December 2023
-19,Age group,Ages 25-34,27,9058000,January 2023 through December 2023
-19,Age group,Ages 35-44,21,6610000,January 2023 through December 2023
-19,Age group,Ages 45-54,21,5877000,January 2023 through December 2023
-19,Age group,Ages 55-64,23,5271000,January 2023 through December 2023
-19,Age group,Ages 65 and above,35,2918000,January 2023 through December 2023
-19,Annual family income,"Family income  $24,999 or less",61,5627000,January 2023 through December 2023
-19,Annual family income,"Family income  $25,000 - $49,999",49,11133000,January 2023 through December 2023
-19,Annual family income,"Family income  $50,000 - $74,999",35,8722000,January 2023 through December 2023
-19,Annual family income,"Family income  $75,000 - $99,999",27,5596000,January 2023 through December 2023
-19,Annual family income,"Family income $100,000 or more",18,11497000,January 2023 through December 2023
-19,Education,College or advanced degree,12,6834000,January 2023 through December 2023
-19,Education,High school diploma,42,15579000,January 2023 through December 2023
-19,Education,Less than high school diploma,68,7314000,January 2023 through December 2023
-19,Education,Some college,35,12848000,January 2023 through December 2023
-19,Firm size,Under 10 employees,44,7411000,January 2023 through December 2023
-19,Firm size,10 to 24 employees,39,8230000,January 2023 through December 2023
-19,Firm size,25 to 99 employees,31,3209000,January 2023 through December 2023
-19,Firm size,100 to 499 employees,24,4393000,January 2023 through December 2023
-19,Firm size,500 to 999 employees,25,1986000,January 2023 through December 2023
-19,Firm size,1000 or more employees,25,17317000,January 2023 through December 2023
-19,Industry,"Agriculture, forestry, fishing, and hunting",54,703000,January 2023 through December 2023
-19,Industry,Construction,22,2082000,January 2023 through December 2023
-19,Industry,Educational and health services,26,9159000,January 2023 through December 2023
-19,Industry,Financial activities,16,1473000,January 2023 through December 2023
-19,Industry,Information,15,419000,January 2023 through December 2023
-19,Industry,Leisure and hospitality,60,7806000,January 2023 through December 2023
-19,Industry,Manufacturing,21,3179000,January 2023 through December 2023
-19,Industry,Mining,12,67000,January 2023 through December 2023
-19,Industry,Other services,40,2403000,January 2023 through December 2023
-19,Industry,Professional and business services,20,3422000,January 2023 through December 2023
-19,Industry,Public administration,16,1278000,January 2023 through December 2023
-19,Industry,Transportation and utilities,26,2290000,January 2023 through December 2023
-19,Industry,Wholesale and retail trade,46,8293000,January 2023 through December 2023
-19,Occupation,Construction and extraction occupations,25,1734000,January 2023 through December 2023
-19,Occupation,"Farming, fishing, and forestry occupations",68,589000,January 2023 through December 2023
-19,Occupation,"Installation, maintenance, and repair occupations",19,823000,January 2023 through December 2023
-19,Occupation,"Management, business, and financial occupations",9,2271000,January 2023 through December 2023
-19,Occupation,Office and administrative support occupations,36,5574000,January 2023 through December 2023
-19,Occupation,Production occupations,34,2682000,January 2023 through December 2023
-19,Occupation,Professional and related occupations,14,5005000,January 2023 through December 2023
-19,Occupation,Sales and related occupations,44,5420000,January 2023 through December 2023
-19,Occupation,Service occupations,59,13781000,January 2023 through December 2023
-19,Occupation,Transportation and material moving occupations,44,4695000,January 2023 through December 2023
-19,Part-time status,Works full-time,24,28713000,January 2023 through December 2023
-19,Part-time status,Works part-time,62,13861000,January 2023 through December 2023
-19,Private/public sector,Government employee,20,4331000,January 2023 through December 2023
-19,Private/public sector,Private-sector employee,31,38243000,January 2023 through December 2023
-19,Region,Midwest,30,9121000,January 2023 through December 2023
-19,Region,Northeast,26,6403000,January 2023 through December 2023
-19,Region,South,33,18260000,January 2023 through December 2023
-19,Region,West,26,8791000,January 2023 through December 2023
-19,Right-to-work,Non-right-to-work state,26,19690000,January 2023 through December 2023
-19,Right-to-work,Right-to-work state,33,22885000,January 2023 through December 2023
-19,State minimum wage,State minimum exceeds federal minimum,27,24660000,January 2023 through December 2023
-19,State minimum wage,State minimum follows federal minimum,33,17914000,January 2023 through December 2023
-19,Tipped occupation,Works in a non-tipped occupation,28,39743000,January 2023 through December 2023
-19,Tipped occupation,Works in a tipped occupation,65,2831000,January 2023 through December 2023
-19,Union status,In a union,16,2641000,January 2023 through December 2023
-19,Union status,Not in a union,31,39933000,January 2023 through December 2023
-20,All workers,All workers,33,47307000,January 2023 through December 2023
-20,Race and ethnicity,Asian,24,2733000,January 2023 through December 2023
-20,Race and ethnicity,Black,42,7951000,January 2023 through December 2023
-20,Race and ethnicity,Hispanic,45,12292000,January 2023 through December 2023
-20,Race and ethnicity,White,28,23711000,January 2023 through December 2023
-20,Gender,Female,38,26629000,January 2023 through December 2023
-20,Gender,Male,28,20678000,January 2023 through December 2023
-20,Age group,Ages 16-24,69,13595000,January 2023 through December 2023
-20,Age group,Ages 25-34,31,10335000,January 2023 through December 2023
-20,Age group,Ages 35-44,24,7563000,January 2023 through December 2023
-20,Age group,Ages 45-54,24,6664000,January 2023 through December 2023
-20,Age group,Ages 55-64,26,5954000,January 2023 through December 2023
-20,Age group,Ages 65 and above,39,3196000,January 2023 through December 2023
-20,Annual family income,"Family income  $24,999 or less",64,5949000,January 2023 through December 2023
-20,Annual family income,"Family income  $25,000 - $49,999",54,12336000,January 2023 through December 2023
-20,Annual family income,"Family income  $50,000 - $74,999",38,9714000,January 2023 through December 2023
-20,Annual family income,"Family income  $75,000 - $99,999",30,6385000,January 2023 through December 2023
-20,Annual family income,"Family income $100,000 or more",20,12923000,January 2023 through December 2023
-20,Education,College or advanced degree,14,8084000,January 2023 through December 2023
-20,Education,High school diploma,46,17213000,January 2023 through December 2023
-20,Education,Less than high school diploma,71,7632000,January 2023 through December 2023
-20,Education,Some college,39,14379000,January 2023 through December 2023
-20,Firm size,Under 10 employees,48,8054000,January 2023 through December 2023
-20,Firm size,10 to 24 employees,43,9070000,January 2023 through December 2023
-20,Firm size,25 to 99 employees,35,3608000,January 2023 through December 2023
-20,Firm size,100 to 499 employees,27,4883000,January 2023 through December 2023
-20,Firm size,500 to 999 employees,28,2269000,January 2023 through December 2023
-20,Firm size,1000 or more employees,27,19205000,January 2023 through December 2023
-20,Industry,"Agriculture, forestry, fishing, and hunting",57,745000,January 2023 through December 2023
-20,Industry,Construction,25,2351000,January 2023 through December 2023
-20,Industry,Educational and health services,30,10283000,January 2023 through December 2023
-20,Industry,Financial activities,18,1693000,January 2023 through December 2023
-20,Industry,Information,17,472000,January 2023 through December 2023
-20,Industry,Leisure and hospitality,64,8323000,January 2023 through December 2023
-20,Industry,Manufacturing,25,3695000,January 2023 through December 2023
-20,Industry,Mining,15,86000,January 2023 through December 2023
-20,Industry,Other services,44,2625000,January 2023 through December 2023
-20,Industry,Professional and business services,22,3858000,January 2023 through December 2023
-20,Industry,Public administration,19,1507000,January 2023 through December 2023
-20,Industry,Transportation and utilities,30,2643000,January 2023 through December 2023
-20,Industry,Wholesale and retail trade,50,9028000,January 2023 through December 2023
-20,Occupation,Construction and extraction occupations,28,1943000,January 2023 through December 2023
-20,Occupation,"Farming, fishing, and forestry occupations",71,615000,January 2023 through December 2023
-20,Occupation,"Installation, maintenance, and repair occupations",22,953000,January 2023 through December 2023
-20,Occupation,"Management, business, and financial occupations",11,2739000,January 2023 through December 2023
-20,Occupation,Office and administrative support occupations,41,6354000,January 2023 through December 2023
-20,Occupation,Production occupations,39,3083000,January 2023 through December 2023
-20,Occupation,Professional and related occupations,16,5790000,January 2023 through December 2023
-20,Occupation,Sales and related occupations,48,5825000,January 2023 through December 2023
-20,Occupation,Service occupations,63,14821000,January 2023 through December 2023
-20,Occupation,Transportation and material moving occupations,48,5184000,January 2023 through December 2023
-20,Part-time status,Works full-time,27,32793000,January 2023 through December 2023
-20,Part-time status,Works part-time,65,14514000,January 2023 through December 2023
-20,Private/public sector,Government employee,23,5018000,January 2023 through December 2023
-20,Private/public sector,Private-sector employee,35,42289000,January 2023 through December 2023
-20,Region,Midwest,33,10185000,January 2023 through December 2023
-20,Region,Northeast,28,7153000,January 2023 through December 2023
-20,Region,South,37,20079000,January 2023 through December 2023
-20,Region,West,29,9890000,January 2023 through December 2023
-20,Right-to-work,Non-right-to-work state,29,22105000,January 2023 through December 2023
-20,Right-to-work,Right-to-work state,37,25202000,January 2023 through December 2023
-20,State minimum wage,State minimum exceeds federal minimum,31,27556000,January 2023 through December 2023
-20,State minimum wage,State minimum follows federal minimum,37,19751000,January 2023 through December 2023
-20,Tipped occupation,Works in a non-tipped occupation,32,44309000,January 2023 through December 2023
-20,Tipped occupation,Works in a tipped occupation,68,2998000,January 2023 through December 2023
-20,Union status,In a union,19,3130000,January 2023 through December 2023
-20,Union status,Not in a union,35,44177000,January 2023 through December 2023
-21,All workers,All workers,37,53914000,January 2023 through December 2023
-21,Race and ethnicity,Asian,28,3172000,January 2023 through December 2023
-21,Race and ethnicity,Black,47,8854000,January 2023 through December 2023
-21,Race and ethnicity,Hispanic,51,13922000,January 2023 through December 2023
-21,Race and ethnicity,White,32,27269000,January 2023 through December 2023
-21,Gender,Female,43,29871000,January 2023 through December 2023
-21,Gender,Male,32,24043000,January 2023 through December 2023
-21,Age group,Ages 16-24,75,14767000,January 2023 through December 2023
-21,Age group,Ages 25-34,36,12076000,January 2023 through December 2023
-21,Age group,Ages 35-44,28,8824000,January 2023 through December 2023
-21,Age group,Ages 45-54,28,7817000,January 2023 through December 2023
-21,Age group,Ages 55-64,30,6864000,January 2023 through December 2023
-21,Age group,Ages 65 and above,43,3565000,January 2023 through December 2023
-21,Annual family income,"Family income  $24,999 or less",69,6402000,January 2023 through December 2023
-21,Annual family income,"Family income  $25,000 - $49,999",62,13984000,January 2023 through December 2023
-21,Annual family income,"Family income  $50,000 - $74,999",44,11230000,January 2023 through December 2023
-21,Annual family income,"Family income  $75,000 - $99,999",35,7444000,January 2023 through December 2023
-21,Annual family income,"Family income $100,000 or more",23,14854000,January 2023 through December 2023
-21,Education,College or advanced degree,16,9583000,January 2023 through December 2023
-21,Education,High school diploma,53,19651000,January 2023 through December 2023
-21,Education,Less than high school diploma,77,8238000,January 2023 through December 2023
-21,Education,Some college,44,16442000,January 2023 through December 2023
-21,Firm size,Under 10 employees,53,8851000,January 2023 through December 2023
-21,Firm size,10 to 24 employees,49,10173000,January 2023 through December 2023
-21,Firm size,25 to 99 employees,40,4109000,January 2023 through December 2023
-21,Firm size,100 to 499 employees,32,5777000,January 2023 through December 2023
-21,Firm size,500 to 999 employees,32,2587000,January 2023 through December 2023
-21,Firm size,1000 or more employees,31,21961000,January 2023 through December 2023
-21,Industry,"Agriculture, forestry, fishing, and hunting",60,785000,January 2023 through December 2023
-21,Industry,Construction,33,3029000,January 2023 through December 2023
-21,Industry,Educational and health services,34,11857000,January 2023 through December 2023
-21,Industry,Financial activities,21,2021000,January 2023 through December 2023
-21,Industry,Information,20,548000,January 2023 through December 2023
-21,Industry,Leisure and hospitality,68,8893000,January 2023 through December 2023
-21,Industry,Manufacturing,30,4429000,January 2023 through December 2023
-21,Industry,Mining,19,108000,January 2023 through December 2023
-21,Industry,Other services,50,2961000,January 2023 through December 2023
-21,Industry,Professional and business services,26,4527000,January 2023 through December 2023
-21,Industry,Public administration,22,1775000,January 2023 through December 2023
-21,Industry,Transportation and utilities,36,3152000,January 2023 through December 2023
-21,Industry,Wholesale and retail trade,54,9829000,January 2023 through December 2023
-21,Occupation,Construction and extraction occupations,37,2529000,January 2023 through December 2023
-21,Occupation,"Farming, fishing, and forestry occupations",75,649000,January 2023 through December 2023
-21,Occupation,"Installation, maintenance, and repair occupations",27,1154000,January 2023 through December 2023
-21,Occupation,"Management, business, and financial occupations",13,3387000,January 2023 through December 2023
-21,Occupation,Office and administrative support occupations,48,7399000,January 2023 through December 2023
-21,Occupation,Production occupations,46,3620000,January 2023 through December 2023
-21,Occupation,Professional and related occupations,19,6897000,January 2023 through December 2023
-21,Occupation,Sales and related occupations,51,6216000,January 2023 through December 2023
-21,Occupation,Service occupations,69,16161000,January 2023 through December 2023
-21,Occupation,Transportation and material moving occupations,55,5902000,January 2023 through December 2023
-21,Part-time status,Works full-time,31,38248000,January 2023 through December 2023
-21,Part-time status,Works part-time,70,15666000,January 2023 through December 2023
-21,Private/public sector,Government employee,27,5871000,January 2023 through December 2023
-21,Private/public sector,Private-sector employee,39,48043000,January 2023 through December 2023
-21,Region,Midwest,38,11653000,January 2023 through December 2023
-21,Region,Northeast,33,8255000,January 2023 through December 2023
-21,Region,South,41,22525000,January 2023 through December 2023
-21,Region,West,34,11480000,January 2023 through December 2023
-21,Right-to-work,Non-right-to-work state,34,25569000,January 2023 through December 2023
-21,Right-to-work,Right-to-work state,41,28345000,January 2023 through December 2023
-21,State minimum wage,State minimum exceeds federal minimum,35,31719000,January 2023 through December 2023
-21,State minimum wage,State minimum follows federal minimum,41,22195000,January 2023 through December 2023
-21,Tipped occupation,Works in a non-tipped occupation,36,50690000,January 2023 through December 2023
-21,Tipped occupation,Works in a tipped occupation,74,3224000,January 2023 through December 2023
-21,Union status,In a union,23,3774000,January 2023 through December 2023
-21,Union status,Not in a union,39,50140000,January 2023 through December 2023
-22,All workers,All workers,40,57849000,January 2023 through December 2023
-22,Race and ethnicity,Asian,30,3389000,January 2023 through December 2023
-22,Race and ethnicity,Black,50,9459000,January 2023 through December 2023
-22,Race and ethnicity,Hispanic,54,14746000,January 2023 through December 2023
-22,Race and ethnicity,White,35,29501000,January 2023 through December 2023
-22,Gender,Female,46,31800000,January 2023 through December 2023
-22,Gender,Male,35,26048000,January 2023 through December 2023
-22,Age group,Ages 16-24,77,15228000,January 2023 through December 2023
-22,Age group,Ages 25-34,39,13082000,January 2023 through December 2023
-22,Age group,Ages 35-44,31,9653000,January 2023 through December 2023
-22,Age group,Ages 45-54,31,8616000,January 2023 through December 2023
-22,Age group,Ages 55-64,33,7502000,January 2023 through December 2023
-22,Age group,Ages 65 and above,46,3769000,January 2023 through December 2023
-22,Annual family income,"Family income  $24,999 or less",71,6615000,January 2023 through December 2023
-22,Annual family income,"Family income  $25,000 - $49,999",66,14893000,January 2023 through December 2023
-22,Annual family income,"Family income  $50,000 - $74,999",48,12082000,January 2023 through December 2023
-22,Annual family income,"Family income  $75,000 - $99,999",39,8165000,January 2023 through December 2023
-22,Annual family income,"Family income $100,000 or more",25,16094000,January 2023 through December 2023
-22,Education,College or advanced degree,18,10670000,January 2023 through December 2023
-22,Education,High school diploma,56,20939000,January 2023 through December 2023
-22,Education,Less than high school diploma,79,8505000,January 2023 through December 2023
-22,Education,Some college,48,17734000,January 2023 through December 2023
-22,Firm size,Under 10 employees,53,8851000,January 2023 through December 2023
-22,Firm size,10 to 24 employees,49,10173000,January 2023 through December 2023
-22,Firm size,25 to 99 employees,40,4109000,January 2023 through December 2023
-22,Firm size,100 to 499 employees,32,5777000,January 2023 through December 2023
-22,Firm size,500 to 999 employees,32,2587000,January 2023 through December 2023
-22,Firm size,1000 or more employees,31,21961000,January 2023 through December 2023
-22,Industry,"Agriculture, forestry, fishing, and hunting",63,819000,January 2023 through December 2023
-22,Industry,Construction,36,3316000,January 2023 through December 2023
-22,Industry,Educational and health services,37,12838000,January 2023 through December 2023
-22,Industry,Financial activities,24,2228000,January 2023 through December 2023
-22,Industry,Information,22,591000,January 2023 through December 2023
-22,Industry,Leisure and hospitality,71,9246000,January 2023 through December 2023
-22,Industry,Manufacturing,32,4871000,January 2023 through December 2023
-22,Industry,Mining,22,124000,January 2023 through December 2023
-22,Industry,Other services,52,3121000,January 2023 through December 2023
-22,Industry,Professional and business services,29,4914000,January 2023 through December 2023
-22,Industry,Public administration,25,1963000,January 2023 through December 2023
-22,Industry,Transportation and utilities,39,3455000,January 2023 through December 2023
-22,Industry,Wholesale and retail trade,57,10363000,January 2023 through December 2023
-22,Occupation,Construction and extraction occupations,40,2760000,January 2023 through December 2023
-22,Occupation,"Farming, fishing, and forestry occupations",77,671000,January 2023 through December 2023
-22,Occupation,"Installation, maintenance, and repair occupations",30,1290000,January 2023 through December 2023
-22,Occupation,"Management, business, and financial occupations",15,3850000,January 2023 through December 2023
-22,Occupation,Office and administrative support occupations,52,7985000,January 2023 through December 2023
-22,Occupation,Production occupations,50,3908000,January 2023 through December 2023
-22,Occupation,Professional and related occupations,21,7649000,January 2023 through December 2023
-22,Occupation,Sales and related occupations,54,6539000,January 2023 through December 2023
-22,Occupation,Service occupations,72,16859000,January 2023 through December 2023
-22,Occupation,Transportation and material moving occupations,59,6336000,January 2023 through December 2023
-22,Part-time status,Works full-time,34,41776000,January 2023 through December 2023
-22,Part-time status,Works part-time,72,16072000,January 2023 through December 2023
-22,Private/public sector,Government employee,30,6450000,January 2023 through December 2023
-22,Private/public sector,Private-sector employee,42,51399000,January 2023 through December 2023
-22,Region,Midwest,41,12549000,January 2023 through December 2023
-22,Region,Northeast,35,8886000,January 2023 through December 2023
-22,Region,South,44,24052000,January 2023 through December 2023
-22,Region,West,37,12362000,January 2023 through December 2023
-22,Right-to-work,Non-right-to-work state,36,27498000,January 2023 through December 2023
-22,Right-to-work,Right-to-work state,44,30351000,January 2023 through December 2023
-22,State minimum wage,State minimum exceeds federal minimum,38,34082000,January 2023 through December 2023
-22,State minimum wage,State minimum follows federal minimum,44,23767000,January 2023 through December 2023
-22,Tipped occupation,Works in a non-tipped occupation,39,54531000,January 2023 through December 2023
-22,Tipped occupation,Works in a tipped occupation,76,3318000,January 2023 through December 2023
-22,Union status,In a union,26,4219000,January 2023 through December 2023
-22,Union status,Not in a union,42,53629000,January 2023 through December 2023
-23,All workers,All workers,43,61843000,January 2023 through December 2023
-23,Race and ethnicity,Asian,32,3622000,January 2023 through December 2023
-23,Race and ethnicity,Black,53,10022000,January 2023 through December 2023
-23,Race and ethnicity,Hispanic,57,15589000,January 2023 through December 2023
-23,Race and ethnicity,White,37,31813000,January 2023 through December 2023
-23,Gender,Female,49,33656000,January 2023 through December 2023
-23,Gender,Male,38,28187000,January 2023 through December 2023
-23,Age group,Ages 16-24,80,15723000,January 2023 through December 2023
-23,Age group,Ages 25-34,42,14149000,January 2023 through December 2023
-23,Age group,Ages 35-44,33,10508000,January 2023 through December 2023
-23,Age group,Ages 45-54,33,9392000,January 2023 through December 2023
-23,Age group,Ages 55-64,35,8112000,January 2023 through December 2023
-23,Age group,Ages 65 and above,48,3959000,January 2023 through December 2023
-23,Annual family income,"Family income  $24,999 or less",74,6848000,January 2023 through December 2023
-23,Annual family income,"Family income  $25,000 - $49,999",70,15774000,January 2023 through December 2023
-23,Annual family income,"Family income  $50,000 - $74,999",51,12988000,January 2023 through December 2023
-23,Annual family income,"Family income  $75,000 - $99,999",42,8825000,January 2023 through December 2023
-23,Annual family income,"Family income $100,000 or more",27,17408000,January 2023 through December 2023
-23,Education,College or advanced degree,20,11751000,January 2023 through December 2023
-23,Education,High school diploma,60,22294000,January 2023 through December 2023
-23,Education,Less than high school diploma,82,8758000,January 2023 through December 2023
-23,Education,Some college,51,19040000,January 2023 through December 2023
-23,Firm size,Under 10 employees,60,9932000,January 2023 through December 2023
-23,Firm size,10 to 24 employees,55,11508000,January 2023 through December 2023
-23,Firm size,25 to 99 employees,46,4813000,January 2023 through December 2023
-23,Firm size,100 to 499 employees,38,6867000,January 2023 through December 2023
-23,Firm size,500 to 999 employees,38,3058000,January 2023 through December 2023
-23,Firm size,1000 or more employees,37,25657000,January 2023 through December 2023
-23,Industry,"Agriculture, forestry, fishing, and hunting",65,840000,January 2023 through December 2023
-23,Industry,Construction,39,3651000,January 2023 through December 2023
-23,Industry,Educational and health services,40,13742000,January 2023 through December 2023
-23,Industry,Financial activities,26,2442000,January 2023 through December 2023
-23,Industry,Information,24,650000,January 2023 through December 2023
-23,Industry,Leisure and hospitality,73,9545000,January 2023 through December 2023
-23,Industry,Manufacturing,36,5381000,January 2023 through December 2023
-23,Industry,Mining,25,142000,January 2023 through December 2023
-23,Industry,Other services,56,3315000,January 2023 through December 2023
-23,Industry,Professional and business services,31,5284000,January 2023 through December 2023
-23,Industry,Public administration,27,2183000,January 2023 through December 2023
-23,Industry,Transportation and utilities,43,3768000,January 2023 through December 2023
-23,Industry,Wholesale and retail trade,60,10901000,January 2023 through December 2023
-23,Occupation,Construction and extraction occupations,44,3051000,January 2023 through December 2023
-23,Occupation,"Farming, fishing, and forestry occupations",79,687000,January 2023 through December 2023
-23,Occupation,"Installation, maintenance, and repair occupations",35,1507000,January 2023 through December 2023
-23,Occupation,"Management, business, and financial occupations",17,4286000,January 2023 through December 2023
-23,Occupation,Office and administrative support occupations,56,8611000,January 2023 through December 2023
-23,Occupation,Production occupations,54,4279000,January 2023 through December 2023
-23,Occupation,Professional and related occupations,23,8331000,January 2023 through December 2023
-23,Occupation,Sales and related occupations,56,6826000,January 2023 through December 2023
-23,Occupation,Service occupations,74,17513000,January 2023 through December 2023
-23,Occupation,Transportation and material moving occupations,63,6752000,January 2023 through December 2023
-23,Part-time status,Works full-time,37,45388000,January 2023 through December 2023
-23,Part-time status,Works part-time,74,16456000,January 2023 through December 2023
-23,Private/public sector,Government employee,33,7005000,January 2023 through December 2023
-23,Private/public sector,Private-sector employee,45,54838000,January 2023 through December 2023
-23,Region,Midwest,44,13426000,January 2023 through December 2023
-23,Region,Northeast,38,9587000,January 2023 through December 2023
-23,Region,South,47,25550000,January 2023 through December 2023
-23,Region,West,40,13279000,January 2023 through December 2023
-23,Right-to-work,Non-right-to-work state,39,29521000,January 2023 through December 2023
-23,Right-to-work,Right-to-work state,47,32323000,January 2023 through December 2023
-23,State minimum wage,State minimum exceeds federal minimum,40,36512000,January 2023 through December 2023
-23,State minimum wage,State minimum follows federal minimum,47,25331000,January 2023 through December 2023
-23,Tipped occupation,Works in a non-tipped occupation,42,58438000,January 2023 through December 2023
-23,Tipped occupation,Works in a tipped occupation,78,3405000,January 2023 through December 2023
-23,Union status,In a union,29,4680000,January 2023 through December 2023
-23,Union status,Not in a union,45,57163000,January 2023 through December 2023
-24,All workers,All workers,46,65508000,January 2023 through December 2023
-24,Race and ethnicity,Asian,34,3840000,January 2023 through December 2023
-24,Race and ethnicity,Black,56,10526000,January 2023 through December 2023
-24,Race and ethnicity,Hispanic,60,16381000,January 2023 through December 2023
-24,Race and ethnicity,White,40,33931000,January 2023 through December 2023
-24,Gender,Female,51,35498000,January 2023 through December 2023
-24,Gender,Male,40,30010000,January 2023 through December 2023
-24,Age group,Ages 16-24,82,16102000,January 2023 through December 2023
-24,Age group,Ages 25-34,45,15217000,January 2023 through December 2023
-24,Age group,Ages 35-44,36,11291000,January 2023 through December 2023
-24,Age group,Ages 45-54,36,10053000,January 2023 through December 2023
-24,Age group,Ages 55-64,38,8729000,January 2023 through December 2023
-24,Age group,Ages 65 and above,50,4117000,January 2023 through December 2023
-24,Annual family income,"Family income  $24,999 or less",76,7044000,January 2023 through December 2023
-24,Annual family income,"Family income  $25,000 - $49,999",73,16523000,January 2023 through December 2023
-24,Annual family income,"Family income  $50,000 - $74,999",54,13772000,January 2023 through December 2023
-24,Annual family income,"Family income  $75,000 - $99,999",45,9429000,January 2023 through December 2023
-24,Annual family income,"Family income $100,000 or more",29,18742000,January 2023 through December 2023
-24,Education,College or advanced degree,22,13019000,January 2023 through December 2023
-24,Education,High school diploma,63,23439000,January 2023 through December 2023
-24,Education,Less than high school diploma,83,8944000,January 2023 through December 2023
-24,Education,Some college,54,20107000,January 2023 through December 2023
-24,Firm size,Under 10 employees,61,10239000,January 2023 through December 2023
-24,Firm size,10 to 24 employees,57,11923000,January 2023 through December 2023
-24,Firm size,25 to 99 employees,49,5118000,January 2023 through December 2023
-24,Firm size,100 to 499 employees,40,7242000,January 2023 through December 2023
-24,Firm size,500 to 999 employees,40,3262000,January 2023 through December 2023
-24,Firm size,1000 or more employees,39,27071000,January 2023 through December 2023
-24,Industry,"Agriculture, forestry, fishing, and hunting",67,869000,January 2023 through December 2023
-24,Industry,Construction,42,3915000,January 2023 through December 2023
-24,Industry,Educational and health services,42,14678000,January 2023 through December 2023
-24,Industry,Financial activities,29,2698000,January 2023 through December 2023
-24,Industry,Information,26,706000,January 2023 through December 2023
-24,Industry,Leisure and hospitality,75,9813000,January 2023 through December 2023
-24,Industry,Manufacturing,38,5767000,January 2023 through December 2023
-24,Industry,Mining,28,160000,January 2023 through December 2023
-24,Industry,Other services,58,3461000,January 2023 through December 2023
-24,Industry,Professional and business services,33,5658000,January 2023 through December 2023
-24,Industry,Public administration,30,2376000,January 2023 through December 2023
-24,Industry,Transportation and utilities,46,4028000,January 2023 through December 2023
-24,Industry,Wholesale and retail trade,63,11379000,January 2023 through December 2023
-24,Occupation,Construction and extraction occupations,47,3260000,January 2023 through December 2023
-24,Occupation,"Farming, fishing, and forestry occupations",81,706000,January 2023 through December 2023
-24,Occupation,"Installation, maintenance, and repair occupations",38,1633000,January 2023 through December 2023
-24,Occupation,"Management, business, and financial occupations",19,4777000,January 2023 through December 2023
-24,Occupation,Office and administrative support occupations,60,9221000,January 2023 through December 2023
-24,Occupation,Production occupations,58,4556000,January 2023 through December 2023
-24,Occupation,Professional and related occupations,25,9142000,January 2023 through December 2023
-24,Occupation,Sales and related occupations,58,7091000,January 2023 through December 2023
-24,Occupation,Service occupations,77,18032000,January 2023 through December 2023
-24,Occupation,Transportation and material moving occupations,66,7092000,January 2023 through December 2023
-24,Part-time status,Works full-time,40,48714000,January 2023 through December 2023
-24,Part-time status,Works part-time,75,16794000,January 2023 through December 2023
-24,Private/public sector,Government employee,35,7592000,January 2023 through December 2023
-24,Private/public sector,Private-sector employee,47,57917000,January 2023 through December 2023
-24,Region,Midwest,46,14189000,January 2023 through December 2023
-24,Region,Northeast,41,10194000,January 2023 through December 2023
-24,Region,South,49,26974000,January 2023 through December 2023
-24,Region,West,42,14151000,January 2023 through December 2023
-24,Right-to-work,Non-right-to-work state,42,31342000,January 2023 through December 2023
-24,Right-to-work,Right-to-work state,50,34166000,January 2023 through December 2023
-24,State minimum wage,State minimum exceeds federal minimum,43,38746000,January 2023 through December 2023
-24,State minimum wage,State minimum follows federal minimum,50,26762000,January 2023 through December 2023
-24,Tipped occupation,Works in a non-tipped occupation,44,62016000,January 2023 through December 2023
-24,Tipped occupation,Works in a tipped occupation,80,3493000,January 2023 through December 2023
-24,Union status,In a union,32,5101000,January 2023 through December 2023
-24,Union status,Not in a union,47,60408000,January 2023 through December 2023
-25,All workers,All workers,48,69334000,January 2023 through December 2023
-25,Race and ethnicity,Asian,36,4050000,January 2023 through December 2023
-25,Race and ethnicity,Black,59,11058000,January 2023 through December 2023
-25,Race and ethnicity,Hispanic,63,17158000,January 2023 through December 2023
-25,Race and ethnicity,White,43,36198000,January 2023 through December 2023
-25,Gender,Female,54,37457000,January 2023 through December 2023
-25,Gender,Male,43,31877000,January 2023 through December 2023
-25,Age group,Ages 16-24,84,16531000,January 2023 through December 2023
-25,Age group,Ages 25-34,49,16272000,January 2023 through December 2023
-25,Age group,Ages 35-44,38,12122000,January 2023 through December 2023
-25,Age group,Ages 45-54,38,10779000,January 2023 through December 2023
-25,Age group,Ages 55-64,41,9334000,January 2023 through December 2023
-25,Age group,Ages 65 and above,52,4296000,January 2023 through December 2023
-25,Annual family income,"Family income  $24,999 or less",78,7219000,January 2023 through December 2023
-25,Annual family income,"Family income  $25,000 - $49,999",76,17133000,January 2023 through December 2023
-25,Annual family income,"Family income  $50,000 - $74,999",58,14685000,January 2023 through December 2023
-25,Annual family income,"Family income  $75,000 - $99,999",48,10102000,January 2023 through December 2023
-25,Annual family income,"Family income $100,000 or more",31,20195000,January 2023 through December 2023
-25,Education,College or advanced degree,24,14458000,January 2023 through December 2023
-25,Education,High school diploma,66,24542000,January 2023 through December 2023
-25,Education,Less than high school diploma,85,9117000,January 2023 through December 2023
-25,Education,Some college,57,21217000,January 2023 through December 2023
-25,Firm size,Under 10 employees,64,10708000,January 2023 through December 2023
-25,Firm size,10 to 24 employees,61,12657000,January 2023 through December 2023
-25,Firm size,25 to 99 employees,52,5421000,January 2023 through December 2023
-25,Firm size,100 to 499 employees,44,7848000,January 2023 through December 2023
-25,Firm size,500 to 999 employees,44,3543000,January 2023 through December 2023
-25,Firm size,1000 or more employees,41,28923000,January 2023 through December 2023
-25,Industry,"Agriculture, forestry, fishing, and hunting",69,896000,January 2023 through December 2023
-25,Industry,Construction,45,4198000,January 2023 through December 2023
-25,Industry,Educational and health services,45,15630000,January 2023 through December 2023
-25,Industry,Financial activities,32,3002000,January 2023 through December 2023
-25,Industry,Information,29,778000,January 2023 through December 2023
-25,Industry,Leisure and hospitality,77,10058000,January 2023 through December 2023
-25,Industry,Manufacturing,41,6212000,January 2023 through December 2023
-25,Industry,Mining,34,194000,January 2023 through December 2023
-25,Industry,Other services,61,3617000,January 2023 through December 2023
-25,Industry,Professional and business services,35,6075000,January 2023 through December 2023
-25,Industry,Public administration,33,2598000,January 2023 through December 2023
-25,Industry,Transportation and utilities,48,4285000,January 2023 through December 2023
-25,Industry,Wholesale and retail trade,65,11792000,January 2023 through December 2023
-25,Occupation,Construction and extraction occupations,50,3462000,January 2023 through December 2023
-25,Occupation,"Farming, fishing, and forestry occupations",82,714000,January 2023 through December 2023
-25,Occupation,"Installation, maintenance, and repair occupations",41,1784000,January 2023 through December 2023
-25,Occupation,"Management, business, and financial occupations",22,5442000,January 2023 through December 2023
-25,Occupation,Office and administrative support occupations,63,9797000,January 2023 through December 2023
-25,Occupation,Production occupations,62,4860000,January 2023 through December 2023
-25,Occupation,Professional and related occupations,27,10034000,January 2023 through December 2023
-25,Occupation,Sales and related occupations,61,7423000,January 2023 through December 2023
-25,Occupation,Service occupations,78,18450000,January 2023 through December 2023
-25,Occupation,Transportation and material moving occupations,68,7369000,January 2023 through December 2023
-25,Part-time status,Works full-time,43,52292000,January 2023 through December 2023
-25,Part-time status,Works part-time,76,17042000,January 2023 through December 2023
-25,Private/public sector,Government employee,38,8231000,January 2023 through December 2023
-25,Private/public sector,Private-sector employee,50,61103000,January 2023 through December 2023
-25,Region,Midwest,49,15059000,January 2023 through December 2023
-25,Region,Northeast,43,10833000,January 2023 through December 2023
-25,Region,South,52,28523000,January 2023 through December 2023
-25,Region,West,44,14920000,January 2023 through December 2023
-25,Right-to-work,Non-right-to-work state,44,33184000,January 2023 through December 2023
-25,Right-to-work,Right-to-work state,53,36150000,January 2023 through December 2023
-25,State minimum wage,State minimum exceeds federal minimum,45,41040000,January 2023 through December 2023
-25,State minimum wage,State minimum follows federal minimum,53,28294000,January 2023 through December 2023
-25,Tipped occupation,Works in a non-tipped occupation,47,65778000,January 2023 through December 2023
-25,Tipped occupation,Works in a tipped occupation,81,3556000,January 2023 through December 2023
-25,Union status,In a union,35,5584000,January 2023 through December 2023
-25,Union status,Not in a union,50,63750000,January 2023 through December 2023
+10,All workers,All workers,2,2618000,July 2024 through June 2025
+10,Race and ethnicity,Asian,1,139000,July 2024 through June 2025
+10,Race and ethnicity,Black,2,444000,July 2024 through June 2025
+10,Race and ethnicity,Hispanic,2,614000,July 2024 through June 2025
+10,Race and ethnicity,White,2,1380000,July 2024 through June 2025
+10,Gender,Female,2,1531000,July 2024 through June 2025
+10,Gender,Male,1,1087000,July 2024 through June 2025
+10,Age group,Ages 16-24,4,777000,July 2024 through June 2025
+10,Age group,Ages 25-34,1,483000,July 2024 through June 2025
+10,Age group,Ages 35-44,1,407000,July 2024 through June 2025
+10,Age group,Ages 45-54,1,343000,July 2024 through June 2025
+10,Age group,Ages 55-64,1,334000,July 2024 through June 2025
+10,Age group,Ages 65 and above,3,273000,July 2024 through June 2025
+10,Annual family income,"Family income  $24,999 or less",5,422000,July 2024 through June 2025
+10,Annual family income,"Family income  $25,000 - $49,999",3,587000,July 2024 through June 2025
+10,Annual family income,"Family income  $50,000 - $74,999",2,465000,July 2024 through June 2025
+10,Annual family income,"Family income  $75,000 - $99,999",1,307000,July 2024 through June 2025
+10,Annual family income,"Family income $100,000 or more",1,838000,July 2024 through June 2025
+10,Education,College or advanced degree,1,584000,July 2024 through June 2025
+10,Education,High school diploma,2,811000,July 2024 through June 2025
+10,Education,Less than high school diploma,4,468000,July 2024 through June 2025
+10,Education,Some college,2,756000,July 2024 through June 2025
+10,Firm size,Under 10 employees,3,533000,July 2024 through June 2025
+10,Firm size,10 to 24 employees,2,506000,July 2024 through June 2025
+10,Firm size,25 to 99 employees,2,170000,July 2024 through June 2025
+10,Firm size,100 to 499 employees,1,238000,July 2024 through June 2025
+10,Firm size,500 to 999 employees,1,86000,July 2024 through June 2025
+10,Firm size,1000 or more employees,2,1065000,July 2024 through June 2025
+10,Industry,"Agriculture, forestry, fishing, and hunting",4,56000,July 2024 through June 2025
+10,Industry,Construction,1,96000,July 2024 through June 2025
+10,Industry,Educational and health services,2,537000,July 2024 through June 2025
+10,Industry,Financial activities,1,81000,July 2024 through June 2025
+10,Industry,Information,1,31000,July 2024 through June 2025
+10,Industry,Leisure and hospitality,6,717000,July 2024 through June 2025
+10,Industry,Manufacturing,1,101000,July 2024 through June 2025
+10,Industry,Mining,1,5000,July 2024 through June 2025
+10,Industry,Other services,3,205000,July 2024 through June 2025
+10,Industry,Professional and business services,1,252000,July 2024 through June 2025
+10,Industry,Public administration,1,73000,July 2024 through June 2025
+10,Industry,Transportation and utilities,2,143000,July 2024 through June 2025
+10,Industry,Wholesale and retail trade,2,322000,July 2024 through June 2025
+10,Occupation,Construction and extraction occupations,1,71000,July 2024 through June 2025
+10,Occupation,"Farming, fishing, and forestry occupations",5,43000,July 2024 through June 2025
+10,Occupation,"Installation, maintenance, and repair occupations",1,57000,July 2024 through June 2025
+10,Occupation,"Management, business, and financial occupations",1,187000,July 2024 through June 2025
+10,Occupation,Office and administrative support occupations,2,265000,July 2024 through June 2025
+10,Occupation,Production occupations,1,60000,July 2024 through June 2025
+10,Occupation,Professional and related occupations,1,367000,July 2024 through June 2025
+10,Occupation,Sales and related occupations,2,258000,July 2024 through June 2025
+10,Occupation,Service occupations,5,1109000,July 2024 through June 2025
+10,Occupation,Transportation and material moving occupations,2,201000,July 2024 through June 2025
+10,Part-time status,Works full-time,1,1498000,July 2024 through June 2025
+10,Part-time status,Works part-time,5,1120000,July 2024 through June 2025
+10,Private/public sector,Government employee,1,288000,July 2024 through June 2025
+10,Private/public sector,Private-sector employee,2,2330000,July 2024 through June 2025
+10,Region,Midwest,2,498000,July 2024 through June 2025
+10,Region,Northeast,2,381000,July 2024 through June 2025
+10,Region,South,3,1370000,July 2024 through June 2025
+10,Region,West,1,369000,July 2024 through June 2025
+10,Right-to-work,Non-right-to-work state,1,1036000,July 2024 through June 2025
+10,Right-to-work,Right-to-work state,2,1582000,July 2024 through June 2025
+10,State minimum wage,State minimum exceeds federal minimum,1,1302000,July 2024 through June 2025
+10,State minimum wage,State minimum follows federal minimum,2,1316000,July 2024 through June 2025
+10,Tipped occupation,Works in a non-tipped occupation,2,2158000,July 2024 through June 2025
+10,Tipped occupation,Works in a tipped occupation,11,460000,July 2024 through June 2025
+10,Union status,In a union,1,118000,July 2024 through June 2025
+10,Union status,Not in a union,2,2500000,July 2024 through June 2025
+11,All workers,All workers,3,4188000,July 2024 through June 2025
+11,Race and ethnicity,Asian,2,229000,July 2024 through June 2025
+11,Race and ethnicity,Black,4,733000,July 2024 through June 2025
+11,Race and ethnicity,Hispanic,3,970000,July 2024 through June 2025
+11,Race and ethnicity,White,3,2191000,July 2024 through June 2025
+11,Gender,Female,4,2457000,July 2024 through June 2025
+11,Gender,Male,2,1731000,July 2024 through June 2025
+11,Age group,Ages 16-24,7,1432000,July 2024 through June 2025
+11,Age group,Ages 25-34,2,709000,July 2024 through June 2025
+11,Age group,Ages 35-44,2,643000,July 2024 through June 2025
+11,Age group,Ages 45-54,2,503000,July 2024 through June 2025
+11,Age group,Ages 55-64,2,488000,July 2024 through June 2025
+11,Age group,Ages 65 and above,5,414000,July 2024 through June 2025
+11,Annual family income,"Family income  $24,999 or less",8,683000,July 2024 through June 2025
+11,Annual family income,"Family income  $25,000 - $49,999",5,954000,July 2024 through June 2025
+11,Annual family income,"Family income  $50,000 - $74,999",3,726000,July 2024 through June 2025
+11,Annual family income,"Family income  $75,000 - $99,999",2,514000,July 2024 through June 2025
+11,Annual family income,"Family income $100,000 or more",2,1312000,July 2024 through June 2025
+11,Education,College or advanced degree,1,788000,July 2024 through June 2025
+11,Education,High school diploma,4,1329000,July 2024 through June 2025
+11,Education,Less than high school diploma,8,886000,July 2024 through June 2025
+11,Education,Some college,3,1185000,July 2024 through June 2025
+11,Firm size,Under 10 employees,5,847000,July 2024 through June 2025
+11,Firm size,10 to 24 employees,4,788000,July 2024 through June 2025
+11,Firm size,25 to 99 employees,3,277000,July 2024 through June 2025
+11,Firm size,100 to 499 employees,2,407000,July 2024 through June 2025
+11,Firm size,500 to 999 employees,2,131000,July 2024 through June 2025
+11,Firm size,1000 or more employees,2,1571000,July 2024 through June 2025
+11,Industry,"Agriculture, forestry, fishing, and hunting",6,77000,July 2024 through June 2025
+11,Industry,Construction,2,169000,July 2024 through June 2025
+11,Industry,Educational and health services,2,881000,July 2024 through June 2025
+11,Industry,Financial activities,1,109000,July 2024 through June 2025
+11,Industry,Information,2,48000,July 2024 through June 2025
+11,Industry,Leisure and hospitality,9,1152000,July 2024 through June 2025
+11,Industry,Manufacturing,1,154000,July 2024 through June 2025
+11,Industry,Mining,1,7000,July 2024 through June 2025
+11,Industry,Other services,5,329000,July 2024 through June 2025
+11,Industry,Professional and business services,2,360000,July 2024 through June 2025
+11,Industry,Public administration,1,100000,July 2024 through June 2025
+11,Industry,Transportation and utilities,2,222000,July 2024 through June 2025
+11,Industry,Wholesale and retail trade,3,580000,July 2024 through June 2025
+11,Occupation,Construction and extraction occupations,2,143000,July 2024 through June 2025
+11,Occupation,"Farming, fishing, and forestry occupations",7,62000,July 2024 through June 2025
+11,Occupation,"Installation, maintenance, and repair occupations",2,75000,July 2024 through June 2025
+11,Occupation,"Management, business, and financial occupations",1,234000,July 2024 through June 2025
+11,Occupation,Office and administrative support occupations,3,410000,July 2024 through June 2025
+11,Occupation,Production occupations,1,100000,July 2024 through June 2025
+11,Occupation,Professional and related occupations,1,547000,July 2024 through June 2025
+11,Occupation,Sales and related occupations,4,496000,July 2024 through June 2025
+11,Occupation,Service occupations,7,1753000,July 2024 through June 2025
+11,Occupation,Transportation and material moving occupations,3,367000,July 2024 through June 2025
+11,Part-time status,Works full-time,2,2225000,July 2024 through June 2025
+11,Part-time status,Works part-time,8,1963000,July 2024 through June 2025
+11,Private/public sector,Government employee,2,433000,July 2024 through June 2025
+11,Private/public sector,Private-sector employee,3,3755000,July 2024 through June 2025
+11,Region,Midwest,3,791000,July 2024 through June 2025
+11,Region,Northeast,2,583000,July 2024 through June 2025
+11,Region,South,4,2262000,July 2024 through June 2025
+11,Region,West,2,552000,July 2024 through June 2025
+11,Right-to-work,Non-right-to-work state,2,1575000,July 2024 through June 2025
+11,Right-to-work,Right-to-work state,4,2613000,July 2024 through June 2025
+11,State minimum wage,State minimum exceeds federal minimum,2,1933000,July 2024 through June 2025
+11,State minimum wage,State minimum follows federal minimum,4,2255000,July 2024 through June 2025
+11,Tipped occupation,Works in a non-tipped occupation,3,3561000,July 2024 through June 2025
+11,Tipped occupation,Works in a tipped occupation,15,627000,July 2024 through June 2025
+11,Union status,In a union,1,190000,July 2024 through June 2025
+11,Union status,Not in a union,3,3998000,July 2024 through June 2025
+12,All workers,All workers,4,5545000,July 2024 through June 2025
+12,Race and ethnicity,Asian,3,297000,July 2024 through June 2025
+12,Race and ethnicity,Black,5,1013000,July 2024 through June 2025
+12,Race and ethnicity,Hispanic,5,1319000,July 2024 through June 2025
+12,Race and ethnicity,White,3,2827000,July 2024 through June 2025
+12,Gender,Female,5,3278000,July 2024 through June 2025
+12,Gender,Male,3,2267000,July 2024 through June 2025
+12,Age group,Ages 16-24,10,1933000,July 2024 through June 2025
+12,Age group,Ages 25-34,3,917000,July 2024 through June 2025
+12,Age group,Ages 35-44,3,844000,July 2024 through June 2025
+12,Age group,Ages 45-54,2,695000,July 2024 through June 2025
+12,Age group,Ages 55-64,3,639000,July 2024 through June 2025
+12,Age group,Ages 65 and above,6,517000,July 2024 through June 2025
+12,Annual family income,"Family income  $24,999 or less",11,878000,July 2024 through June 2025
+12,Annual family income,"Family income  $25,000 - $49,999",6,1290000,July 2024 through June 2025
+12,Annual family income,"Family income  $50,000 - $74,999",4,962000,July 2024 through June 2025
+12,Annual family income,"Family income  $75,000 - $99,999",3,674000,July 2024 through June 2025
+12,Annual family income,"Family income $100,000 or more",2,1740000,July 2024 through June 2025
+12,Education,College or advanced degree,2,1014000,July 2024 through June 2025
+12,Education,High school diploma,5,1768000,July 2024 through June 2025
+12,Education,Less than high school diploma,12,1208000,July 2024 through June 2025
+12,Education,Some college,4,1555000,July 2024 through June 2025
+12,Firm size,Under 10 employees,7,1158000,July 2024 through June 2025
+12,Firm size,10 to 24 employees,5,1072000,July 2024 through June 2025
+12,Firm size,25 to 99 employees,4,379000,July 2024 through June 2025
+12,Firm size,100 to 499 employees,3,566000,July 2024 through June 2025
+12,Firm size,500 to 999 employees,3,216000,July 2024 through June 2025
+12,Firm size,1000 or more employees,3,2114000,July 2024 through June 2025
+12,Industry,"Agriculture, forestry, fishing, and hunting",7,92000,July 2024 through June 2025
+12,Industry,Construction,2,209000,July 2024 through June 2025
+12,Industry,Educational and health services,3,1198000,July 2024 through June 2025
+12,Industry,Financial activities,1,137000,July 2024 through June 2025
+12,Industry,Information,3,65000,July 2024 through June 2025
+12,Industry,Leisure and hospitality,12,1506000,July 2024 through June 2025
+12,Industry,Manufacturing,2,224000,July 2024 through June 2025
+12,Industry,Mining,2,9000,July 2024 through June 2025
+12,Industry,Other services,7,426000,July 2024 through June 2025
+12,Industry,Professional and business services,3,448000,July 2024 through June 2025
+12,Industry,Public administration,2,132000,July 2024 through June 2025
+12,Industry,Transportation and utilities,3,283000,July 2024 through June 2025
+12,Industry,Wholesale and retail trade,5,816000,July 2024 through June 2025
+12,Occupation,Construction and extraction occupations,3,173000,July 2024 through June 2025
+12,Occupation,"Farming, fishing, and forestry occupations",8,74000,July 2024 through June 2025
+12,Occupation,"Installation, maintenance, and repair occupations",2,91000,July 2024 through June 2025
+12,Occupation,"Management, business, and financial occupations",1,278000,July 2024 through June 2025
+12,Occupation,Office and administrative support occupations,3,534000,July 2024 through June 2025
+12,Occupation,Production occupations,2,161000,July 2024 through June 2025
+12,Occupation,Professional and related occupations,2,726000,July 2024 through June 2025
+12,Occupation,Sales and related occupations,6,704000,July 2024 through June 2025
+12,Occupation,Service occupations,10,2335000,July 2024 through June 2025
+12,Occupation,Transportation and material moving occupations,4,469000,July 2024 through June 2025
+12,Part-time status,Works full-time,2,2928000,July 2024 through June 2025
+12,Part-time status,Works part-time,11,2617000,July 2024 through June 2025
+12,Private/public sector,Government employee,3,571000,July 2024 through June 2025
+12,Private/public sector,Private-sector employee,4,4973000,July 2024 through June 2025
+12,Region,Midwest,3,1049000,July 2024 through June 2025
+12,Region,Northeast,3,755000,July 2024 through June 2025
+12,Region,South,5,2984000,July 2024 through June 2025
+12,Region,West,2,757000,July 2024 through June 2025
+12,Right-to-work,Non-right-to-work state,3,2083000,July 2024 through June 2025
+12,Right-to-work,Right-to-work state,5,3462000,July 2024 through June 2025
+12,State minimum wage,State minimum exceeds federal minimum,3,2580000,July 2024 through June 2025
+12,State minimum wage,State minimum follows federal minimum,5,2965000,July 2024 through June 2025
+12,Tipped occupation,Works in a non-tipped occupation,3,4780000,July 2024 through June 2025
+12,Tipped occupation,Works in a tipped occupation,18,765000,July 2024 through June 2025
+12,Union status,In a union,2,260000,July 2024 through June 2025
+12,Union status,Not in a union,4,5284000,July 2024 through June 2025
+13,All workers,All workers,6,8379000,July 2024 through June 2025
+13,Race and ethnicity,Asian,4,460000,July 2024 through June 2025
+13,Race and ethnicity,Black,8,1434000,July 2024 through June 2025
+13,Race and ethnicity,Hispanic,7,2094000,July 2024 through June 2025
+13,Race and ethnicity,White,5,4256000,July 2024 through June 2025
+13,Gender,Female,7,4999000,July 2024 through June 2025
+13,Gender,Male,5,3380000,July 2024 through June 2025
+13,Age group,Ages 16-24,16,3071000,July 2024 through June 2025
+13,Age group,Ages 25-34,4,1370000,July 2024 through June 2025
+13,Age group,Ages 35-44,4,1239000,July 2024 through June 2025
+13,Age group,Ages 45-54,4,1040000,July 2024 through June 2025
+13,Age group,Ages 55-64,4,913000,July 2024 through June 2025
+13,Age group,Ages 65 and above,9,747000,July 2024 through June 2025
+13,Annual family income,"Family income  $24,999 or less",15,1283000,July 2024 through June 2025
+13,Annual family income,"Family income  $25,000 - $49,999",10,1986000,July 2024 through June 2025
+13,Annual family income,"Family income  $50,000 - $74,999",6,1464000,July 2024 through June 2025
+13,Annual family income,"Family income  $75,000 - $99,999",5,1056000,July 2024 through June 2025
+13,Annual family income,"Family income $100,000 or more",4,2590000,July 2024 through June 2025
+13,Education,College or advanced degree,2,1360000,July 2024 through June 2025
+13,Education,High school diploma,8,2833000,July 2024 through June 2025
+13,Education,Less than high school diploma,18,1855000,July 2024 through June 2025
+13,Education,Some college,6,2331000,July 2024 through June 2025
+13,Firm size,Under 10 employees,10,1708000,July 2024 through June 2025
+13,Firm size,10 to 24 employees,8,1680000,July 2024 through June 2025
+13,Firm size,25 to 99 employees,5,532000,July 2024 through June 2025
+13,Firm size,100 to 499 employees,5,831000,July 2024 through June 2025
+13,Firm size,500 to 999 employees,4,329000,July 2024 through June 2025
+13,Firm size,1000 or more employees,5,3255000,July 2024 through June 2025
+13,Industry,"Agriculture, forestry, fishing, and hunting",9,120000,July 2024 through June 2025
+13,Industry,Construction,4,351000,July 2024 through June 2025
+13,Industry,Educational and health services,5,1775000,July 2024 through June 2025
+13,Industry,Financial activities,2,221000,July 2024 through June 2025
+13,Industry,Information,5,116000,July 2024 through June 2025
+13,Industry,Leisure and hospitality,17,2180000,July 2024 through June 2025
+13,Industry,Manufacturing,3,378000,July 2024 through June 2025
+13,Industry,Mining,2,11000,July 2024 through June 2025
+13,Industry,Other services,10,613000,July 2024 through June 2025
+13,Industry,Professional and business services,4,636000,July 2024 through June 2025
+13,Industry,Public administration,2,187000,July 2024 through June 2025
+13,Industry,Transportation and utilities,5,421000,July 2024 through June 2025
+13,Industry,Wholesale and retail trade,8,1371000,July 2024 through June 2025
+13,Occupation,Construction and extraction occupations,4,278000,July 2024 through June 2025
+13,Occupation,"Farming, fishing, and forestry occupations",11,98000,July 2024 through June 2025
+13,Occupation,"Installation, maintenance, and repair occupations",3,147000,July 2024 through June 2025
+13,Occupation,"Management, business, and financial occupations",2,384000,July 2024 through June 2025
+13,Occupation,Office and administrative support occupations,6,845000,July 2024 through June 2025
+13,Occupation,Production occupations,4,295000,July 2024 through June 2025
+13,Occupation,Professional and related occupations,3,1057000,July 2024 through June 2025
+13,Occupation,Sales and related occupations,10,1156000,July 2024 through June 2025
+13,Occupation,Service occupations,14,3350000,July 2024 through June 2025
+13,Occupation,Transportation and material moving occupations,7,768000,July 2024 through June 2025
+13,Part-time status,Works full-time,4,4395000,July 2024 through June 2025
+13,Part-time status,Works part-time,17,3984000,July 2024 through June 2025
+13,Private/public sector,Government employee,4,842000,July 2024 through June 2025
+13,Private/public sector,Private-sector employee,6,7537000,July 2024 through June 2025
+13,Region,Midwest,5,1665000,July 2024 through June 2025
+13,Region,Northeast,4,1118000,July 2024 through June 2025
+13,Region,South,8,4403000,July 2024 through June 2025
+13,Region,West,4,1192000,July 2024 through June 2025
+13,Right-to-work,Non-right-to-work state,4,3130000,July 2024 through June 2025
+13,Right-to-work,Right-to-work state,8,5249000,July 2024 through June 2025
+13,State minimum wage,State minimum exceeds federal minimum,4,3926000,July 2024 through June 2025
+13,State minimum wage,State minimum follows federal minimum,8,4453000,July 2024 through June 2025
+13,Tipped occupation,Works in a non-tipped occupation,5,7383000,July 2024 through June 2025
+13,Tipped occupation,Works in a tipped occupation,24,996000,July 2024 through June 2025
+13,Union status,In a union,2,389000,July 2024 through June 2025
+13,Union status,Not in a union,6,7990000,July 2024 through June 2025
+14,All workers,All workers,7,10789000,July 2024 through June 2025
+14,Race and ethnicity,Asian,5,566000,July 2024 through June 2025
+14,Race and ethnicity,Black,10,1863000,July 2024 through June 2025
+14,Race and ethnicity,Hispanic,10,2730000,July 2024 through June 2025
+14,Race and ethnicity,White,7,5458000,July 2024 through June 2025
+14,Gender,Female,9,6364000,July 2024 through June 2025
+14,Gender,Male,6,4424000,July 2024 through June 2025
+14,Age group,Ages 16-24,21,3944000,July 2024 through June 2025
+14,Age group,Ages 25-34,6,1891000,July 2024 through June 2025
+14,Age group,Ages 35-44,5,1555000,July 2024 through June 2025
+14,Age group,Ages 45-54,5,1313000,July 2024 through June 2025
+14,Age group,Ages 55-64,5,1191000,July 2024 through June 2025
+14,Age group,Ages 65 and above,10,894000,July 2024 through June 2025
+14,Annual family income,"Family income  $24,999 or less",20,1635000,July 2024 through June 2025
+14,Annual family income,"Family income  $25,000 - $49,999",13,2617000,July 2024 through June 2025
+14,Annual family income,"Family income  $50,000 - $74,999",8,1904000,July 2024 through June 2025
+14,Annual family income,"Family income  $75,000 - $99,999",7,1373000,July 2024 through June 2025
+14,Annual family income,"Family income $100,000 or more",5,3259000,July 2024 through June 2025
+14,Education,College or advanced degree,3,1662000,July 2024 through June 2025
+14,Education,High school diploma,10,3731000,July 2024 through June 2025
+14,Education,Less than high school diploma,22,2338000,July 2024 through June 2025
+14,Education,Some college,8,3058000,July 2024 through June 2025
+14,Firm size,Under 10 employees,13,2132000,July 2024 through June 2025
+14,Firm size,10 to 24 employees,10,2155000,July 2024 through June 2025
+14,Firm size,25 to 99 employees,8,785000,July 2024 through June 2025
+14,Firm size,100 to 499 employees,6,1059000,July 2024 through June 2025
+14,Firm size,500 to 999 employees,5,440000,July 2024 through June 2025
+14,Firm size,1000 or more employees,6,4216000,July 2024 through June 2025
+14,Industry,"Agriculture, forestry, fishing, and hunting",13,173000,July 2024 through June 2025
+14,Industry,Construction,5,435000,July 2024 through June 2025
+14,Industry,Educational and health services,6,2256000,July 2024 through June 2025
+14,Industry,Financial activities,3,280000,July 2024 through June 2025
+14,Industry,Information,6,137000,July 2024 through June 2025
+14,Industry,Leisure and hospitality,22,2761000,July 2024 through June 2025
+14,Industry,Manufacturing,4,502000,July 2024 through June 2025
+14,Industry,Mining,3,14000,July 2024 through June 2025
+14,Industry,Other services,12,745000,July 2024 through June 2025
+14,Industry,Professional and business services,4,798000,July 2024 through June 2025
+14,Industry,Public administration,3,233000,July 2024 through June 2025
+14,Industry,Transportation and utilities,6,515000,July 2024 through June 2025
+14,Industry,Wholesale and retail trade,11,1941000,July 2024 through June 2025
+14,Occupation,Construction and extraction occupations,5,356000,July 2024 through June 2025
+14,Occupation,"Farming, fishing, and forestry occupations",16,141000,July 2024 through June 2025
+14,Occupation,"Installation, maintenance, and repair occupations",4,177000,July 2024 through June 2025
+14,Occupation,"Management, business, and financial occupations",2,491000,July 2024 through June 2025
+14,Occupation,Office and administrative support occupations,7,1065000,July 2024 through June 2025
+14,Occupation,Production occupations,5,386000,July 2024 through June 2025
+14,Occupation,Professional and related occupations,4,1318000,July 2024 through June 2025
+14,Occupation,Sales and related occupations,13,1568000,July 2024 through June 2025
+14,Occupation,Service occupations,18,4263000,July 2024 through June 2025
+14,Occupation,Transportation and material moving occupations,9,1024000,July 2024 through June 2025
+14,Part-time status,Works full-time,5,5757000,July 2024 through June 2025
+14,Part-time status,Works part-time,22,5031000,July 2024 through June 2025
+14,Private/public sector,Government employee,5,1030000,July 2024 through June 2025
+14,Private/public sector,Private-sector employee,8,9759000,July 2024 through June 2025
+14,Region,Midwest,7,2310000,July 2024 through June 2025
+14,Region,Northeast,6,1390000,July 2024 through June 2025
+14,Region,South,10,5565000,July 2024 through June 2025
+14,Region,West,5,1524000,July 2024 through June 2025
+14,Right-to-work,Non-right-to-work state,5,4056000,July 2024 through June 2025
+14,Right-to-work,Right-to-work state,10,6733000,July 2024 through June 2025
+14,State minimum wage,State minimum exceeds federal minimum,6,5177000,July 2024 through June 2025
+14,State minimum wage,State minimum follows federal minimum,10,5612000,July 2024 through June 2025
+14,Tipped occupation,Works in a non-tipped occupation,7,9606000,July 2024 through June 2025
+14,Tipped occupation,Works in a tipped occupation,28,1182000,July 2024 through June 2025
+14,Union status,In a union,3,493000,July 2024 through June 2025
+14,Union status,Not in a union,8,10295000,July 2024 through June 2025
+15,All workers,All workers,10,14062000,July 2024 through June 2025
+15,Race and ethnicity,Asian,7,762000,July 2024 through June 2025
+15,Race and ethnicity,Black,13,2451000,July 2024 through June 2025
+15,Race and ethnicity,Hispanic,12,3557000,July 2024 through June 2025
+15,Race and ethnicity,White,8,7080000,July 2024 through June 2025
+15,Gender,Female,12,8263000,July 2024 through June 2025
+15,Gender,Male,8,5800000,July 2024 through June 2025
+15,Age group,Ages 16-24,26,5056000,July 2024 through June 2025
+15,Age group,Ages 25-34,8,2547000,July 2024 through June 2025
+15,Age group,Ages 35-44,6,2043000,July 2024 through June 2025
+15,Age group,Ages 45-54,6,1721000,July 2024 through June 2025
+15,Age group,Ages 55-64,7,1549000,July 2024 through June 2025
+15,Age group,Ages 65 and above,13,1147000,July 2024 through June 2025
+15,Annual family income,"Family income  $24,999 or less",25,2051000,July 2024 through June 2025
+15,Annual family income,"Family income  $25,000 - $49,999",17,3468000,July 2024 through June 2025
+15,Annual family income,"Family income  $50,000 - $74,999",11,2554000,July 2024 through June 2025
+15,Annual family income,"Family income  $75,000 - $99,999",8,1754000,July 2024 through June 2025
+15,Annual family income,"Family income $100,000 or more",6,4235000,July 2024 through June 2025
+15,Education,College or advanced degree,4,2147000,July 2024 through June 2025
+15,Education,High school diploma,13,4970000,July 2024 through June 2025
+15,Education,Less than high school diploma,28,2937000,July 2024 through June 2025
+15,Education,Some college,11,4008000,July 2024 through June 2025
+15,Firm size,Under 10 employees,17,2759000,July 2024 through June 2025
+15,Firm size,10 to 24 employees,14,2883000,July 2024 through June 2025
+15,Firm size,25 to 99 employees,10,1006000,July 2024 through June 2025
+15,Firm size,100 to 499 employees,7,1301000,July 2024 through June 2025
+15,Firm size,500 to 999 employees,7,562000,July 2024 through June 2025
+15,Firm size,1000 or more employees,8,5547000,July 2024 through June 2025
+15,Industry,"Agriculture, forestry, fishing, and hunting",16,217000,July 2024 through June 2025
+15,Industry,Construction,6,561000,July 2024 through June 2025
+15,Industry,Educational and health services,8,2919000,July 2024 through June 2025
+15,Industry,Financial activities,4,370000,July 2024 through June 2025
+15,Industry,Information,6,155000,July 2024 through June 2025
+15,Industry,Leisure and hospitality,28,3497000,July 2024 through June 2025
+15,Industry,Manufacturing,5,682000,July 2024 through June 2025
+15,Industry,Mining,4,19000,July 2024 through June 2025
+15,Industry,Other services,15,909000,July 2024 through June 2025
+15,Industry,Professional and business services,6,1033000,July 2024 through June 2025
+15,Industry,Public administration,4,313000,July 2024 through June 2025
+15,Industry,Transportation and utilities,7,654000,July 2024 through June 2025
+15,Industry,Wholesale and retail trade,15,2732000,July 2024 through June 2025
+15,Occupation,Construction and extraction occupations,7,449000,July 2024 through June 2025
+15,Occupation,"Farming, fishing, and forestry occupations",20,181000,July 2024 through June 2025
+15,Occupation,"Installation, maintenance, and repair occupations",5,245000,July 2024 through June 2025
+15,Occupation,"Management, business, and financial occupations",3,652000,July 2024 through June 2025
+15,Occupation,Office and administrative support occupations,9,1415000,July 2024 through June 2025
+15,Occupation,Production occupations,7,521000,July 2024 through June 2025
+15,Occupation,Professional and related occupations,4,1591000,July 2024 through June 2025
+15,Occupation,Sales and related occupations,18,2153000,July 2024 through June 2025
+15,Occupation,Service occupations,23,5452000,July 2024 through June 2025
+15,Occupation,Transportation and material moving occupations,13,1405000,July 2024 through June 2025
+15,Part-time status,Works full-time,6,7760000,July 2024 through June 2025
+15,Part-time status,Works part-time,27,6302000,July 2024 through June 2025
+15,Private/public sector,Government employee,6,1311000,July 2024 through June 2025
+15,Private/public sector,Private-sector employee,10,12752000,July 2024 through June 2025
+15,Region,Midwest,10,3072000,July 2024 through June 2025
+15,Region,Northeast,7,1761000,July 2024 through June 2025
+15,Region,South,13,7210000,July 2024 through June 2025
+15,Region,West,6,2019000,July 2024 through June 2025
+15,Right-to-work,Non-right-to-work state,7,5267000,July 2024 through June 2025
+15,Right-to-work,Right-to-work state,13,8795000,July 2024 through June 2025
+15,State minimum wage,State minimum exceeds federal minimum,8,6914000,July 2024 through June 2025
+15,State minimum wage,State minimum follows federal minimum,13,7148000,July 2024 through June 2025
+15,Tipped occupation,Works in a non-tipped occupation,9,12640000,July 2024 through June 2025
+15,Tipped occupation,Works in a tipped occupation,34,1422000,July 2024 through June 2025
+15,Union status,In a union,4,673000,July 2024 through June 2025
+15,Union status,Not in a union,10,13389000,July 2024 through June 2025
+16,All workers,All workers,14,20454000,July 2024 through June 2025
+16,Race and ethnicity,Asian,10,1157000,July 2024 through June 2025
+16,Race and ethnicity,Black,19,3516000,July 2024 through June 2025
+16,Race and ethnicity,Hispanic,18,5210000,July 2024 through June 2025
+16,Race and ethnicity,White,12,10271000,July 2024 through June 2025
+16,Gender,Female,17,11825000,July 2024 through June 2025
+16,Gender,Male,12,8629000,July 2024 through June 2025
+16,Age group,Ages 16-24,38,7230000,July 2024 through June 2025
+16,Age group,Ages 25-34,11,3830000,July 2024 through June 2025
+16,Age group,Ages 35-44,9,2980000,July 2024 through June 2025
+16,Age group,Ages 45-54,9,2537000,July 2024 through June 2025
+16,Age group,Ages 55-64,10,2239000,July 2024 through June 2025
+16,Age group,Ages 65 and above,19,1638000,July 2024 through June 2025
+16,Annual family income,"Family income  $24,999 or less",35,2896000,July 2024 through June 2025
+16,Annual family income,"Family income  $25,000 - $49,999",24,4967000,July 2024 through June 2025
+16,Annual family income,"Family income  $50,000 - $74,999",16,3782000,July 2024 through June 2025
+16,Annual family income,"Family income  $75,000 - $99,999",13,2649000,July 2024 through June 2025
+16,Annual family income,"Family income $100,000 or more",9,6159000,July 2024 through June 2025
+16,Education,College or advanced degree,5,3096000,July 2024 through June 2025
+16,Education,High school diploma,20,7403000,July 2024 through June 2025
+16,Education,Less than high school diploma,39,4101000,July 2024 through June 2025
+16,Education,Some college,16,5853000,July 2024 through June 2025
+16,Firm size,Under 10 employees,23,3870000,July 2024 through June 2025
+16,Firm size,10 to 24 employees,20,4249000,July 2024 through June 2025
+16,Firm size,25 to 99 employees,14,1500000,July 2024 through June 2025
+16,Firm size,100 to 499 employees,10,1876000,July 2024 through June 2025
+16,Firm size,500 to 999 employees,10,839000,July 2024 through June 2025
+16,Firm size,1000 or more employees,12,8120000,July 2024 through June 2025
+16,Industry,"Agriculture, forestry, fishing, and hunting",24,318000,July 2024 through June 2025
+16,Industry,Construction,10,926000,July 2024 through June 2025
+16,Industry,Educational and health services,12,4279000,July 2024 through June 2025
+16,Industry,Financial activities,6,545000,July 2024 through June 2025
+16,Industry,Information,9,216000,July 2024 through June 2025
+16,Industry,Leisure and hospitality,37,4748000,July 2024 through June 2025
+16,Industry,Manufacturing,7,1070000,July 2024 through June 2025
+16,Industry,Mining,4,24000,July 2024 through June 2025
+16,Industry,Other services,21,1238000,July 2024 through June 2025
+16,Industry,Professional and business services,9,1566000,July 2024 through June 2025
+16,Industry,Public administration,6,470000,July 2024 through June 2025
+16,Industry,Transportation and utilities,10,926000,July 2024 through June 2025
+16,Industry,Wholesale and retail trade,23,4128000,July 2024 through June 2025
+16,Occupation,Construction and extraction occupations,11,768000,July 2024 through June 2025
+16,Occupation,"Farming, fishing, and forestry occupations",30,267000,July 2024 through June 2025
+16,Occupation,"Installation, maintenance, and repair occupations",8,336000,July 2024 through June 2025
+16,Occupation,"Management, business, and financial occupations",4,891000,July 2024 through June 2025
+16,Occupation,Office and administrative support occupations,14,2181000,July 2024 through June 2025
+16,Occupation,Production occupations,12,880000,July 2024 through June 2025
+16,Occupation,Professional and related occupations,6,2283000,July 2024 through June 2025
+16,Occupation,Sales and related occupations,26,3023000,July 2024 through June 2025
+16,Occupation,Service occupations,32,7649000,July 2024 through June 2025
+16,Occupation,Transportation and material moving occupations,20,2177000,July 2024 through June 2025
+16,Part-time status,Works full-time,10,11521000,July 2024 through June 2025
+16,Part-time status,Works part-time,38,8933000,July 2024 through June 2025
+16,Private/public sector,Government employee,9,1880000,July 2024 through June 2025
+16,Private/public sector,Private-sector employee,15,18574000,July 2024 through June 2025
+16,Region,Midwest,15,4606000,July 2024 through June 2025
+16,Region,Northeast,12,2889000,July 2024 through June 2025
+16,Region,South,18,9938000,July 2024 through June 2025
+16,Region,West,9,3020000,July 2024 through June 2025
+16,Right-to-work,Non-right-to-work state,11,8207000,July 2024 through June 2025
+16,Right-to-work,Right-to-work state,18,12246000,July 2024 through June 2025
+16,State minimum wage,State minimum exceeds federal minimum,12,10581000,July 2024 through June 2025
+16,State minimum wage,State minimum follows federal minimum,18,9873000,July 2024 through June 2025
+16,Tipped occupation,Works in a non-tipped occupation,13,18641000,July 2024 through June 2025
+16,Tipped occupation,Works in a tipped occupation,44,1813000,July 2024 through June 2025
+16,Union status,In a union,6,1005000,July 2024 through June 2025
+16,Union status,Not in a union,15,19449000,July 2024 through June 2025
+17,All workers,All workers,18,26285000,July 2024 through June 2025
+17,Race and ethnicity,Asian,13,1537000,July 2024 through June 2025
+17,Race and ethnicity,Black,24,4504000,July 2024 through June 2025
+17,Race and ethnicity,Hispanic,24,6960000,July 2024 through June 2025
+17,Race and ethnicity,White,15,12891000,July 2024 through June 2025
+17,Gender,Female,22,15106000,July 2024 through June 2025
+17,Gender,Male,15,11179000,July 2024 through June 2025
+17,Age group,Ages 16-24,46,8820000,July 2024 through June 2025
+17,Age group,Ages 25-34,15,5138000,July 2024 through June 2025
+17,Age group,Ages 35-44,12,4052000,July 2024 through June 2025
+17,Age group,Ages 45-54,12,3363000,July 2024 through June 2025
+17,Age group,Ages 55-64,13,2895000,July 2024 through June 2025
+17,Age group,Ages 65 and above,24,2018000,July 2024 through June 2025
+17,Annual family income,"Family income  $24,999 or less",43,3592000,July 2024 through June 2025
+17,Annual family income,"Family income  $25,000 - $49,999",31,6463000,July 2024 through June 2025
+17,Annual family income,"Family income  $50,000 - $74,999",21,4979000,July 2024 through June 2025
+17,Annual family income,"Family income  $75,000 - $99,999",16,3443000,July 2024 through June 2025
+17,Annual family income,"Family income $100,000 or more",11,7808000,July 2024 through June 2025
+17,Education,College or advanced degree,7,3991000,July 2024 through June 2025
+17,Education,High school diploma,26,9624000,July 2024 through June 2025
+17,Education,Less than high school diploma,48,4997000,July 2024 through June 2025
+17,Education,Some college,21,7673000,July 2024 through June 2025
+17,Firm size,Under 10 employees,29,4894000,July 2024 through June 2025
+17,Firm size,10 to 24 employees,25,5291000,July 2024 through June 2025
+17,Firm size,25 to 99 employees,19,1955000,July 2024 through June 2025
+17,Firm size,100 to 499 employees,13,2430000,July 2024 through June 2025
+17,Firm size,500 to 999 employees,14,1149000,July 2024 through June 2025
+17,Firm size,1000 or more employees,15,10541000,July 2024 through June 2025
+17,Industry,"Agriculture, forestry, fishing, and hunting",37,492000,July 2024 through June 2025
+17,Industry,Construction,13,1208000,July 2024 through June 2025
+17,Industry,Educational and health services,16,5526000,July 2024 through June 2025
+17,Industry,Financial activities,8,735000,July 2024 through June 2025
+17,Industry,Information,11,265000,July 2024 through June 2025
+17,Industry,Leisure and hospitality,45,5712000,July 2024 through June 2025
+17,Industry,Manufacturing,10,1485000,July 2024 through June 2025
+17,Industry,Mining,5,29000,July 2024 through June 2025
+17,Industry,Other services,25,1521000,July 2024 through June 2025
+17,Industry,Professional and business services,12,2050000,July 2024 through June 2025
+17,Industry,Public administration,9,698000,July 2024 through June 2025
+17,Industry,Transportation and utilities,14,1230000,July 2024 through June 2025
+17,Industry,Wholesale and retail trade,30,5334000,July 2024 through June 2025
+17,Occupation,Construction and extraction occupations,15,990000,July 2024 through June 2025
+17,Occupation,"Farming, fishing, and forestry occupations",49,430000,July 2024 through June 2025
+17,Occupation,"Installation, maintenance, and repair occupations",10,457000,July 2024 through June 2025
+17,Occupation,"Management, business, and financial occupations",5,1172000,July 2024 through June 2025
+17,Occupation,Office and administrative support occupations,19,2893000,July 2024 through June 2025
+17,Occupation,Production occupations,17,1254000,July 2024 through June 2025
+17,Occupation,Professional and related occupations,8,2910000,July 2024 through June 2025
+17,Occupation,Sales and related occupations,32,3773000,July 2024 through June 2025
+17,Occupation,Service occupations,39,9533000,July 2024 through June 2025
+17,Occupation,Transportation and material moving occupations,26,2873000,July 2024 through June 2025
+17,Part-time status,Works full-time,13,15434000,July 2024 through June 2025
+17,Part-time status,Works part-time,47,10851000,July 2024 through June 2025
+17,Private/public sector,Government employee,12,2556000,July 2024 through June 2025
+17,Private/public sector,Private-sector employee,19,23728000,July 2024 through June 2025
+17,Region,Midwest,19,5830000,July 2024 through June 2025
+17,Region,Northeast,15,3847000,July 2024 through June 2025
+17,Region,South,22,12133000,July 2024 through June 2025
+17,Region,West,13,4474000,July 2024 through June 2025
+17,Right-to-work,Non-right-to-work state,15,11221000,July 2024 through June 2025
+17,Right-to-work,Right-to-work state,22,15064000,July 2024 through June 2025
+17,State minimum wage,State minimum exceeds federal minimum,16,14249000,July 2024 through June 2025
+17,State minimum wage,State minimum follows federal minimum,22,12036000,July 2024 through June 2025
+17,Tipped occupation,Works in a non-tipped occupation,17,24139000,July 2024 through June 2025
+17,Tipped occupation,Works in a tipped occupation,51,2146000,July 2024 through June 2025
+17,Union status,In a union,9,1401000,July 2024 through June 2025
+17,Union status,Not in a union,19,24883000,July 2024 through June 2025
+18,All workers,All workers,22,32054000,July 2024 through June 2025
+18,Race and ethnicity,Asian,16,1864000,July 2024 through June 2025
+18,Race and ethnicity,Black,29,5395000,July 2024 through June 2025
+18,Race and ethnicity,Hispanic,30,8672000,July 2024 through June 2025
+18,Race and ethnicity,White,19,15664000,July 2024 through June 2025
+18,Gender,Female,26,18178000,July 2024 through June 2025
+18,Gender,Male,19,13876000,July 2024 through June 2025
+18,Age group,Ages 16-24,54,10260000,July 2024 through June 2025
+18,Age group,Ages 25-34,20,6570000,July 2024 through June 2025
+18,Age group,Ages 35-44,15,4988000,July 2024 through June 2025
+18,Age group,Ages 45-54,15,4217000,July 2024 through June 2025
+18,Age group,Ages 55-64,16,3630000,July 2024 through June 2025
+18,Age group,Ages 65 and above,28,2389000,July 2024 through June 2025
+18,Annual family income,"Family income  $24,999 or less",50,4180000,July 2024 through June 2025
+18,Annual family income,"Family income  $25,000 - $49,999",39,7957000,July 2024 through June 2025
+18,Annual family income,"Family income  $50,000 - $74,999",26,6108000,July 2024 through June 2025
+18,Annual family income,"Family income  $75,000 - $99,999",20,4258000,July 2024 through June 2025
+18,Annual family income,"Family income $100,000 or more",14,9549000,July 2024 through June 2025
+18,Education,College or advanced degree,8,4994000,July 2024 through June 2025
+18,Education,High school diploma,32,11809000,July 2024 through June 2025
+18,Education,Less than high school diploma,55,5791000,July 2024 through June 2025
+18,Education,Some college,26,9459000,July 2024 through June 2025
+18,Firm size,Under 10 employees,34,5700000,July 2024 through June 2025
+18,Firm size,10 to 24 employees,30,6275000,July 2024 through June 2025
+18,Firm size,25 to 99 employees,22,2280000,July 2024 through June 2025
+18,Firm size,100 to 499 employees,17,3042000,July 2024 through June 2025
+18,Firm size,500 to 999 employees,17,1382000,July 2024 through June 2025
+18,Firm size,1000 or more employees,18,12676000,July 2024 through June 2025
+18,Industry,"Agriculture, forestry, fishing, and hunting",45,604000,July 2024 through June 2025
+18,Industry,Construction,16,1524000,July 2024 through June 2025
+18,Industry,Educational and health services,19,6814000,July 2024 through June 2025
+18,Industry,Financial activities,10,967000,July 2024 through June 2025
+18,Industry,Information,13,323000,July 2024 through June 2025
+18,Industry,Leisure and hospitality,51,6516000,July 2024 through June 2025
+18,Industry,Manufacturing,13,1929000,July 2024 through June 2025
+18,Industry,Mining,7,37000,July 2024 through June 2025
+18,Industry,Other services,30,1808000,July 2024 through June 2025
+18,Industry,Professional and business services,14,2548000,July 2024 through June 2025
+18,Industry,Public administration,11,897000,July 2024 through June 2025
+18,Industry,Transportation and utilities,18,1581000,July 2024 through June 2025
+18,Industry,Wholesale and retail trade,36,6506000,July 2024 through June 2025
+18,Occupation,Construction and extraction occupations,18,1250000,July 2024 through June 2025
+18,Occupation,"Farming, fishing, and forestry occupations",59,518000,July 2024 through June 2025
+18,Occupation,"Installation, maintenance, and repair occupations",13,579000,July 2024 through June 2025
+18,Occupation,"Management, business, and financial occupations",6,1535000,July 2024 through June 2025
+18,Occupation,Office and administrative support occupations,24,3696000,July 2024 through June 2025
+18,Occupation,Production occupations,22,1631000,July 2024 through June 2025
+18,Occupation,Professional and related occupations,10,3609000,July 2024 through June 2025
+18,Occupation,Sales and related occupations,37,4424000,July 2024 through June 2025
+18,Occupation,Service occupations,46,11229000,July 2024 through June 2025
+18,Occupation,Transportation and material moving occupations,32,3583000,July 2024 through June 2025
+18,Part-time status,Works full-time,16,19716000,July 2024 through June 2025
+18,Part-time status,Works part-time,53,12338000,July 2024 through June 2025
+18,Private/public sector,Government employee,15,3195000,July 2024 through June 2025
+18,Private/public sector,Private-sector employee,24,28859000,July 2024 through June 2025
+18,Region,Midwest,23,7059000,July 2024 through June 2025
+18,Region,Northeast,19,4819000,July 2024 through June 2025
+18,Region,South,26,14323000,July 2024 through June 2025
+18,Region,West,17,5852000,July 2024 through June 2025
+18,Right-to-work,Non-right-to-work state,19,14162000,July 2024 through June 2025
+18,Right-to-work,Right-to-work state,26,17892000,July 2024 through June 2025
+18,State minimum wage,State minimum exceeds federal minimum,20,17835000,July 2024 through June 2025
+18,State minimum wage,State minimum follows federal minimum,26,14219000,July 2024 through June 2025
+18,Tipped occupation,Works in a non-tipped occupation,21,29664000,July 2024 through June 2025
+18,Tipped occupation,Works in a tipped occupation,57,2390000,July 2024 through June 2025
+18,Union status,In a union,11,1797000,July 2024 through June 2025
+18,Union status,Not in a union,24,30257000,July 2024 through June 2025
+19,All workers,All workers,27,38372000,July 2024 through June 2025
+19,Race and ethnicity,Asian,19,2256000,July 2024 through June 2025
+19,Race and ethnicity,Black,34,6403000,July 2024 through June 2025
+19,Race and ethnicity,Hispanic,37,10586000,July 2024 through June 2025
+19,Race and ethnicity,White,22,18575000,July 2024 through June 2025
+19,Gender,Female,31,21486000,July 2024 through June 2025
+19,Gender,Male,23,16886000,July 2024 through June 2025
+19,Age group,Ages 16-24,61,11718000,July 2024 through June 2025
+19,Age group,Ages 25-34,24,8079000,July 2024 through June 2025
+19,Age group,Ages 35-44,19,6191000,July 2024 through June 2025
+19,Age group,Ages 45-54,19,5164000,July 2024 through June 2025
+19,Age group,Ages 55-64,20,4476000,July 2024 through June 2025
+19,Age group,Ages 65 and above,32,2744000,July 2024 through June 2025
+19,Annual family income,"Family income  $24,999 or less",57,4716000,July 2024 through June 2025
+19,Annual family income,"Family income  $25,000 - $49,999",46,9555000,July 2024 through June 2025
+19,Annual family income,"Family income  $50,000 - $74,999",31,7429000,July 2024 through June 2025
+19,Annual family income,"Family income  $75,000 - $99,999",25,5155000,July 2024 through June 2025
+19,Annual family income,"Family income $100,000 or more",16,11518000,July 2024 through June 2025
+19,Education,College or advanced degree,10,6117000,July 2024 through June 2025
+19,Education,High school diploma,38,14282000,July 2024 through June 2025
+19,Education,Less than high school diploma,62,6517000,July 2024 through June 2025
+19,Education,Some college,31,11457000,July 2024 through June 2025
+19,Firm size,Under 10 employees,40,6744000,July 2024 through June 2025
+19,Firm size,10 to 24 employees,35,7345000,July 2024 through June 2025
+19,Firm size,25 to 99 employees,26,2724000,July 2024 through June 2025
+19,Firm size,100 to 499 employees,21,3813000,July 2024 through June 2025
+19,Firm size,500 to 999 employees,21,1699000,July 2024 through June 2025
+19,Firm size,1000 or more employees,22,15171000,July 2024 through June 2025
+19,Industry,"Agriculture, forestry, fishing, and hunting",52,698000,July 2024 through June 2025
+19,Industry,Construction,21,1911000,July 2024 through June 2025
+19,Industry,Educational and health services,23,8297000,July 2024 through June 2025
+19,Industry,Financial activities,13,1198000,July 2024 through June 2025
+19,Industry,Information,16,404000,July 2024 through June 2025
+19,Industry,Leisure and hospitality,57,7290000,July 2024 through June 2025
+19,Industry,Manufacturing,18,2545000,July 2024 through June 2025
+19,Industry,Mining,10,54000,July 2024 through June 2025
+19,Industry,Other services,35,2082000,July 2024 through June 2025
+19,Industry,Professional and business services,18,3116000,July 2024 through June 2025
+19,Industry,Public administration,15,1172000,July 2024 through June 2025
+19,Industry,Transportation and utilities,22,1980000,July 2024 through June 2025
+19,Industry,Wholesale and retail trade,43,7626000,July 2024 through June 2025
+19,Occupation,Construction and extraction occupations,23,1574000,July 2024 through June 2025
+19,Occupation,"Farming, fishing, and forestry occupations",67,594000,July 2024 through June 2025
+19,Occupation,"Installation, maintenance, and repair occupations",17,736000,July 2024 through June 2025
+19,Occupation,"Management, business, and financial occupations",8,1956000,July 2024 through June 2025
+19,Occupation,Office and administrative support occupations,30,4582000,July 2024 through June 2025
+19,Occupation,Production occupations,27,2071000,July 2024 through June 2025
+19,Occupation,Professional and related occupations,12,4393000,July 2024 through June 2025
+19,Occupation,Sales and related occupations,42,4964000,July 2024 through June 2025
+19,Occupation,Service occupations,54,13073000,July 2024 through June 2025
+19,Occupation,Transportation and material moving occupations,40,4427000,July 2024 through June 2025
+19,Part-time status,Works full-time,20,24563000,July 2024 through June 2025
+19,Part-time status,Works part-time,59,13809000,July 2024 through June 2025
+19,Private/public sector,Government employee,18,4022000,July 2024 through June 2025
+19,Private/public sector,Private-sector employee,28,34350000,July 2024 through June 2025
+19,Region,Midwest,27,8389000,July 2024 through June 2025
+19,Region,Northeast,23,5813000,July 2024 through June 2025
+19,Region,South,30,16615000,July 2024 through June 2025
+19,Region,West,22,7555000,July 2024 through June 2025
+19,Right-to-work,Non-right-to-work state,23,17449000,July 2024 through June 2025
+19,Right-to-work,Right-to-work state,31,20923000,July 2024 through June 2025
+19,State minimum wage,State minimum exceeds federal minimum,24,21836000,July 2024 through June 2025
+19,State minimum wage,State minimum follows federal minimum,31,16536000,July 2024 through June 2025
+19,Tipped occupation,Works in a non-tipped occupation,26,35736000,July 2024 through June 2025
+19,Tipped occupation,Works in a tipped occupation,63,2636000,July 2024 through June 2025
+19,Union status,In a union,14,2290000,July 2024 through June 2025
+19,Union status,Not in a union,28,36083000,July 2024 through June 2025
+20,All workers,All workers,30,42926000,July 2024 through June 2025
+20,Race and ethnicity,Asian,22,2518000,July 2024 through June 2025
+20,Race and ethnicity,Black,38,7172000,July 2024 through June 2025
+20,Race and ethnicity,Hispanic,41,11785000,July 2024 through June 2025
+20,Race and ethnicity,White,25,20838000,July 2024 through June 2025
+20,Gender,Female,35,24076000,July 2024 through June 2025
+20,Gender,Male,25,18850000,July 2024 through June 2025
+20,Age group,Ages 16-24,65,12467000,July 2024 through June 2025
+20,Age group,Ages 25-34,28,9266000,July 2024 through June 2025
+20,Age group,Ages 35-44,22,7108000,July 2024 through June 2025
+20,Age group,Ages 45-54,21,5931000,July 2024 through June 2025
+20,Age group,Ages 55-64,23,5129000,July 2024 through June 2025
+20,Age group,Ages 65 and above,35,3024000,July 2024 through June 2025
+20,Annual family income,"Family income  $24,999 or less",61,5036000,July 2024 through June 2025
+20,Annual family income,"Family income  $25,000 - $49,999",52,10687000,July 2024 through June 2025
+20,Annual family income,"Family income  $50,000 - $74,999",35,8405000,July 2024 through June 2025
+20,Annual family income,"Family income  $75,000 - $99,999",28,5913000,July 2024 through June 2025
+20,Annual family income,"Family income $100,000 or more",18,12885000,July 2024 through June 2025
+20,Education,College or advanced degree,12,7219000,July 2024 through June 2025
+20,Education,High school diploma,43,15884000,July 2024 through June 2025
+20,Education,Less than high school diploma,67,6943000,July 2024 through June 2025
+20,Education,Some college,35,12880000,July 2024 through June 2025
+20,Firm size,Under 10 employees,45,7493000,July 2024 through June 2025
+20,Firm size,10 to 24 employees,40,8295000,July 2024 through June 2025
+20,Firm size,25 to 99 employees,31,3229000,July 2024 through June 2025
+20,Firm size,100 to 499 employees,25,4433000,July 2024 through June 2025
+20,Firm size,500 to 999 employees,25,2009000,July 2024 through June 2025
+20,Firm size,1000 or more employees,25,17458000,July 2024 through June 2025
+20,Industry,"Agriculture, forestry, fishing, and hunting",57,760000,July 2024 through June 2025
+20,Industry,Construction,23,2084000,July 2024 through June 2025
+20,Industry,Educational and health services,27,9450000,July 2024 through June 2025
+20,Industry,Financial activities,15,1430000,July 2024 through June 2025
+20,Industry,Information,18,455000,July 2024 through June 2025
+20,Industry,Leisure and hospitality,61,7754000,July 2024 through June 2025
+20,Industry,Manufacturing,21,3025000,July 2024 through June 2025
+20,Industry,Mining,12,63000,July 2024 through June 2025
+20,Industry,Other services,38,2314000,July 2024 through June 2025
+20,Industry,Professional and business services,20,3537000,July 2024 through June 2025
+20,Industry,Public administration,17,1366000,July 2024 through June 2025
+20,Industry,Transportation and utilities,26,2314000,July 2024 through June 2025
+20,Industry,Wholesale and retail trade,47,8374000,July 2024 through June 2025
+20,Occupation,Construction and extraction occupations,25,1707000,July 2024 through June 2025
+20,Occupation,"Farming, fishing, and forestry occupations",72,633000,July 2024 through June 2025
+20,Occupation,"Installation, maintenance, and repair occupations",19,867000,July 2024 through June 2025
+20,Occupation,"Management, business, and financial occupations",9,2360000,July 2024 through June 2025
+20,Occupation,Office and administrative support occupations,34,5257000,July 2024 through June 2025
+20,Occupation,Production occupations,32,2448000,July 2024 through June 2025
+20,Occupation,Professional and related occupations,14,5047000,July 2024 through June 2025
+20,Occupation,Sales and related occupations,46,5381000,July 2024 through June 2025
+20,Occupation,Service occupations,59,14248000,July 2024 through June 2025
+20,Occupation,Transportation and material moving occupations,45,4978000,July 2024 through June 2025
+20,Part-time status,Works full-time,23,28343000,July 2024 through June 2025
+20,Part-time status,Works part-time,63,14583000,July 2024 through June 2025
+20,Private/public sector,Government employee,21,4611000,July 2024 through June 2025
+20,Private/public sector,Private-sector employee,31,38315000,July 2024 through June 2025
+20,Region,Midwest,30,9420000,July 2024 through June 2025
+20,Region,Northeast,26,6524000,July 2024 through June 2025
+20,Region,South,34,18408000,July 2024 through June 2025
+20,Region,West,26,8574000,July 2024 through June 2025
+20,Right-to-work,Non-right-to-work state,26,19719000,July 2024 through June 2025
+20,Right-to-work,Right-to-work state,34,23207000,July 2024 through June 2025
+20,State minimum wage,State minimum exceeds federal minimum,27,24637000,July 2024 through June 2025
+20,State minimum wage,State minimum follows federal minimum,34,18289000,July 2024 through June 2025
+20,Tipped occupation,Works in a non-tipped occupation,29,40107000,July 2024 through June 2025
+20,Tipped occupation,Works in a tipped occupation,68,2819000,July 2024 through June 2025
+20,Union status,In a union,16,2654000,July 2024 through June 2025
+20,Union status,Not in a union,31,40272000,July 2024 through June 2025
+21,All workers,All workers,35,50572000,July 2024 through June 2025
+21,Race and ethnicity,Asian,26,3043000,July 2024 through June 2025
+21,Race and ethnicity,Black,44,8268000,July 2024 through June 2025
+21,Race and ethnicity,Hispanic,49,13875000,July 2024 through June 2025
+21,Race and ethnicity,White,30,24674000,July 2024 through June 2025
+21,Gender,Female,40,27912000,July 2024 through June 2025
+21,Gender,Male,30,22661000,July 2024 through June 2025
+21,Age group,Ages 16-24,73,13968000,July 2024 through June 2025
+21,Age group,Ages 25-34,33,11201000,July 2024 through June 2025
+21,Age group,Ages 35-44,27,8619000,July 2024 through June 2025
+21,Age group,Ages 45-54,26,7142000,July 2024 through June 2025
+21,Age group,Ages 55-64,27,6165000,July 2024 through June 2025
+21,Age group,Ages 65 and above,41,3477000,July 2024 through June 2025
+21,Annual family income,"Family income  $24,999 or less",68,5607000,July 2024 through June 2025
+21,Annual family income,"Family income  $25,000 - $49,999",60,12468000,July 2024 through June 2025
+21,Annual family income,"Family income  $50,000 - $74,999",42,10049000,July 2024 through June 2025
+21,Annual family income,"Family income  $75,000 - $99,999",34,7079000,July 2024 through June 2025
+21,Annual family income,"Family income $100,000 or more",22,15370000,July 2024 through June 2025
+21,Education,College or advanced degree,15,8871000,July 2024 through June 2025
+21,Education,High school diploma,50,18648000,July 2024 through June 2025
+21,Education,Less than high school diploma,74,7772000,July 2024 through June 2025
+21,Education,Some college,42,15280000,July 2024 through June 2025
+21,Firm size,Under 10 employees,51,8495000,July 2024 through June 2025
+21,Firm size,10 to 24 employees,46,9661000,July 2024 through June 2025
+21,Firm size,25 to 99 employees,37,3891000,July 2024 through June 2025
+21,Firm size,100 to 499 employees,30,5347000,July 2024 through June 2025
+21,Firm size,500 to 999 employees,30,2445000,July 2024 through June 2025
+21,Firm size,1000 or more employees,30,20715000,July 2024 through June 2025
+21,Industry,"Agriculture, forestry, fishing, and hunting",65,871000,July 2024 through June 2025
+21,Industry,Construction,30,2799000,July 2024 through June 2025
+21,Industry,Educational and health services,32,11313000,July 2024 through June 2025
+21,Industry,Financial activities,18,1736000,July 2024 through June 2025
+21,Industry,Information,22,540000,July 2024 through June 2025
+21,Industry,Leisure and hospitality,68,8624000,July 2024 through June 2025
+21,Industry,Manufacturing,26,3759000,July 2024 through June 2025
+21,Industry,Mining,16,85000,July 2024 through June 2025
+21,Industry,Other services,45,2678000,July 2024 through June 2025
+21,Industry,Professional and business services,24,4297000,July 2024 through June 2025
+21,Industry,Public administration,21,1661000,July 2024 through June 2025
+21,Industry,Transportation and utilities,32,2869000,July 2024 through June 2025
+21,Industry,Wholesale and retail trade,52,9342000,July 2024 through June 2025
+21,Occupation,Construction and extraction occupations,34,2340000,July 2024 through June 2025
+21,Occupation,"Farming, fishing, and forestry occupations",80,708000,July 2024 through June 2025
+21,Occupation,"Installation, maintenance, and repair occupations",25,1121000,July 2024 through June 2025
+21,Occupation,"Management, business, and financial occupations",12,2922000,July 2024 through June 2025
+21,Occupation,Office and administrative support occupations,42,6474000,July 2024 through June 2025
+21,Occupation,Production occupations,40,3017000,July 2024 through June 2025
+21,Occupation,Professional and related occupations,17,6243000,July 2024 through June 2025
+21,Occupation,Sales and related occupations,50,5868000,July 2024 through June 2025
+21,Occupation,Service occupations,67,16100000,July 2024 through June 2025
+21,Occupation,Transportation and material moving occupations,52,5779000,July 2024 through June 2025
+21,Part-time status,Works full-time,28,34273000,July 2024 through June 2025
+21,Part-time status,Works part-time,70,16299000,July 2024 through June 2025
+21,Private/public sector,Government employee,25,5537000,July 2024 through June 2025
+21,Private/public sector,Private-sector employee,37,45035000,July 2024 through June 2025
+21,Region,Midwest,36,10998000,July 2024 through June 2025
+21,Region,Northeast,31,7752000,July 2024 through June 2025
+21,Region,South,39,21151000,July 2024 through June 2025
+21,Region,West,32,10670000,July 2024 through June 2025
+21,Right-to-work,Non-right-to-work state,32,23837000,July 2024 through June 2025
+21,Right-to-work,Right-to-work state,39,26735000,July 2024 through June 2025
+21,State minimum wage,State minimum exceeds federal minimum,33,29538000,July 2024 through June 2025
+21,State minimum wage,State minimum follows federal minimum,39,21034000,July 2024 through June 2025
+21,Tipped occupation,Works in a non-tipped occupation,34,47482000,July 2024 through June 2025
+21,Tipped occupation,Works in a tipped occupation,74,3090000,July 2024 through June 2025
+21,Union status,In a union,20,3261000,July 2024 through June 2025
+21,Union status,Not in a union,37,47311000,July 2024 through June 2025
+22,All workers,All workers,38,54677000,July 2024 through June 2025
+22,Race and ethnicity,Asian,28,3288000,July 2024 through June 2025
+22,Race and ethnicity,Black,47,8902000,July 2024 through June 2025
+22,Race and ethnicity,Hispanic,52,14800000,July 2024 through June 2025
+22,Race and ethnicity,White,32,26930000,July 2024 through June 2025
+22,Gender,Female,43,30079000,July 2024 through June 2025
+22,Gender,Male,33,24598000,July 2024 through June 2025
+22,Age group,Ages 16-24,76,14557000,July 2024 through June 2025
+22,Age group,Ages 25-34,36,12217000,July 2024 through June 2025
+22,Age group,Ages 35-44,29,9469000,July 2024 through June 2025
+22,Age group,Ages 45-54,28,7888000,July 2024 through June 2025
+22,Age group,Ages 55-64,30,6822000,July 2024 through June 2025
+22,Age group,Ages 65 and above,43,3726000,July 2024 through June 2025
+22,Annual family income,"Family income  $24,999 or less",71,5879000,July 2024 through June 2025
+22,Annual family income,"Family income  $25,000 - $49,999",65,13354000,July 2024 through June 2025
+22,Annual family income,"Family income  $50,000 - $74,999",46,10900000,July 2024 through June 2025
+22,Annual family income,"Family income  $75,000 - $99,999",37,7755000,July 2024 through June 2025
+22,Annual family income,"Family income $100,000 or more",24,16790000,July 2024 through June 2025
+22,Education,College or advanced degree,17,10070000,July 2024 through June 2025
+22,Education,High school diploma,54,20003000,July 2024 through June 2025
+22,Education,Less than high school diploma,77,8030000,July 2024 through June 2025
+22,Education,Some college,45,16574000,July 2024 through June 2025
+22,Firm size,Under 10 employees,53,8866000,July 2024 through June 2025
+22,Firm size,10 to 24 employees,49,10190000,July 2024 through June 2025
+22,Firm size,25 to 99 employees,40,4115000,July 2024 through June 2025
+22,Firm size,100 to 499 employees,32,5787000,July 2024 through June 2025
+22,Firm size,500 to 999 employees,32,2591000,July 2024 through June 2025
+22,Firm size,1000 or more employees,31,21996000,July 2024 through June 2025
+22,Industry,"Agriculture, forestry, fishing, and hunting",67,906000,July 2024 through June 2025
+22,Industry,Construction,33,3008000,July 2024 through June 2025
+22,Industry,Educational and health services,35,12399000,July 2024 through June 2025
+22,Industry,Financial activities,21,1974000,July 2024 through June 2025
+22,Industry,Information,23,580000,July 2024 through June 2025
+22,Industry,Leisure and hospitality,71,8979000,July 2024 through June 2025
+22,Industry,Manufacturing,29,4211000,July 2024 through June 2025
+22,Industry,Mining,18,95000,July 2024 through June 2025
+22,Industry,Other services,47,2850000,July 2024 through June 2025
+22,Industry,Professional and business services,26,4673000,July 2024 through June 2025
+22,Industry,Public administration,23,1878000,July 2024 through June 2025
+22,Industry,Transportation and utilities,36,3186000,July 2024 through June 2025
+22,Industry,Wholesale and retail trade,56,9938000,July 2024 through June 2025
+22,Occupation,Construction and extraction occupations,37,2507000,July 2024 through June 2025
+22,Occupation,"Farming, fishing, and forestry occupations",83,734000,July 2024 through June 2025
+22,Occupation,"Installation, maintenance, and repair occupations",28,1264000,July 2024 through June 2025
+22,Occupation,"Management, business, and financial occupations",13,3378000,July 2024 through June 2025
+22,Occupation,Office and administrative support occupations,47,7157000,July 2024 through June 2025
+22,Occupation,Production occupations,44,3333000,July 2024 through June 2025
+22,Occupation,Professional and related occupations,19,6995000,July 2024 through June 2025
+22,Occupation,Sales and related occupations,52,6155000,July 2024 through June 2025
+22,Occupation,Service occupations,70,16923000,July 2024 through June 2025
+22,Occupation,Transportation and material moving occupations,56,6232000,July 2024 through June 2025
+22,Part-time status,Works full-time,31,37845000,July 2024 through June 2025
+22,Part-time status,Works part-time,72,16832000,July 2024 through June 2025
+22,Private/public sector,Government employee,28,6163000,July 2024 through June 2025
+22,Private/public sector,Private-sector employee,40,48514000,July 2024 through June 2025
+22,Region,Midwest,39,11916000,July 2024 through June 2025
+22,Region,Northeast,34,8445000,July 2024 through June 2025
+22,Region,South,42,22689000,July 2024 through June 2025
+22,Region,West,35,11627000,July 2024 through June 2025
+22,Right-to-work,Non-right-to-work state,34,25957000,July 2024 through June 2025
+22,Right-to-work,Right-to-work state,42,28720000,July 2024 through June 2025
+22,State minimum wage,State minimum exceeds federal minimum,36,32079000,July 2024 through June 2025
+22,State minimum wage,State minimum follows federal minimum,42,22598000,July 2024 through June 2025
+22,Tipped occupation,Works in a non-tipped occupation,37,51471000,July 2024 through June 2025
+22,Tipped occupation,Works in a tipped occupation,77,3206000,July 2024 through June 2025
+22,Union status,In a union,23,3738000,July 2024 through June 2025
+22,Union status,Not in a union,40,50940000,July 2024 through June 2025
+23,All workers,All workers,41,59187000,July 2024 through June 2025
+23,Race and ethnicity,Asian,31,3553000,July 2024 through June 2025
+23,Race and ethnicity,Black,51,9629000,July 2024 through June 2025
+23,Race and ethnicity,Hispanic,56,15880000,July 2024 through June 2025
+23,Race and ethnicity,White,35,29317000,July 2024 through June 2025
+23,Gender,Female,46,32367000,July 2024 through June 2025
+23,Gender,Male,36,26820000,July 2024 through June 2025
+23,Age group,Ages 16-24,79,15179000,July 2024 through June 2025
+23,Age group,Ages 25-34,40,13528000,July 2024 through June 2025
+23,Age group,Ages 35-44,32,10307000,July 2024 through June 2025
+23,Age group,Ages 45-54,31,8658000,July 2024 through June 2025
+23,Age group,Ages 55-64,33,7528000,July 2024 through June 2025
+23,Age group,Ages 65 and above,46,3988000,July 2024 through June 2025
+23,Annual family income,"Family income  $24,999 or less",74,6148000,July 2024 through June 2025
+23,Annual family income,"Family income  $25,000 - $49,999",69,14306000,July 2024 through June 2025
+23,Annual family income,"Family income  $50,000 - $74,999",50,11888000,July 2024 through June 2025
+23,Annual family income,"Family income  $75,000 - $99,999",40,8500000,July 2024 through June 2025
+23,Annual family income,"Family income $100,000 or more",26,18344000,July 2024 through June 2025
+23,Education,College or advanced degree,19,11242000,July 2024 through June 2025
+23,Education,High school diploma,58,21530000,July 2024 through June 2025
+23,Education,Less than high school diploma,80,8402000,July 2024 through June 2025
+23,Education,Some college,49,18013000,July 2024 through June 2025
+23,Firm size,Under 10 employees,57,9573000,July 2024 through June 2025
+23,Firm size,10 to 24 employees,53,11074000,July 2024 through June 2025
+23,Firm size,25 to 99 employees,44,4588000,July 2024 through June 2025
+23,Firm size,100 to 499 employees,36,6517000,July 2024 through June 2025
+23,Firm size,500 to 999 employees,36,2903000,July 2024 through June 2025
+23,Firm size,1000 or more employees,35,24498000,July 2024 through June 2025
+23,Industry,"Agriculture, forestry, fishing, and hunting",70,938000,July 2024 through June 2025
+23,Industry,Construction,36,3306000,July 2024 through June 2025
+23,Industry,Educational and health services,38,13486000,July 2024 through June 2025
+23,Industry,Financial activities,24,2250000,July 2024 through June 2025
+23,Industry,Information,25,629000,July 2024 through June 2025
+23,Industry,Leisure and hospitality,74,9335000,July 2024 through June 2025
+23,Industry,Manufacturing,33,4766000,July 2024 through June 2025
+23,Industry,Mining,21,113000,July 2024 through June 2025
+23,Industry,Other services,51,3041000,July 2024 through June 2025
+23,Industry,Professional and business services,29,5093000,July 2024 through June 2025
+23,Industry,Public administration,26,2091000,July 2024 through June 2025
+23,Industry,Transportation and utilities,40,3546000,July 2024 through June 2025
+23,Industry,Wholesale and retail trade,59,10593000,July 2024 through June 2025
+23,Occupation,Construction and extraction occupations,41,2775000,July 2024 through June 2025
+23,Occupation,"Farming, fishing, and forestry occupations",85,748000,July 2024 through June 2025
+23,Occupation,"Installation, maintenance, and repair occupations",32,1409000,July 2024 through June 2025
+23,Occupation,"Management, business, and financial occupations",15,3837000,July 2024 through June 2025
+23,Occupation,Office and administrative support occupations,52,7924000,July 2024 through June 2025
+23,Occupation,Production occupations,50,3754000,July 2024 through June 2025
+23,Occupation,Professional and related occupations,21,7708000,July 2024 through June 2025
+23,Occupation,Sales and related occupations,55,6525000,July 2024 through June 2025
+23,Occupation,Service occupations,74,17792000,July 2024 through June 2025
+23,Occupation,Transportation and material moving occupations,61,6714000,July 2024 through June 2025
+23,Part-time status,Works full-time,35,41802000,July 2024 through June 2025
+23,Part-time status,Works part-time,75,17384000,July 2024 through June 2025
+23,Private/public sector,Government employee,31,6773000,July 2024 through June 2025
+23,Private/public sector,Private-sector employee,43,52414000,July 2024 through June 2025
+23,Region,Midwest,42,12949000,July 2024 through June 2025
+23,Region,Northeast,36,9137000,July 2024 through June 2025
+23,Region,South,45,24432000,July 2024 through June 2025
+23,Region,West,38,12669000,July 2024 through June 2025
+23,Right-to-work,Non-right-to-work state,37,28216000,July 2024 through June 2025
+23,Right-to-work,Right-to-work state,45,30971000,July 2024 through June 2025
+23,State minimum wage,State minimum exceeds federal minimum,39,34797000,July 2024 through June 2025
+23,State minimum wage,State minimum follows federal minimum,45,24390000,July 2024 through June 2025
+23,Tipped occupation,Works in a non-tipped occupation,40,55836000,July 2024 through June 2025
+23,Tipped occupation,Works in a tipped occupation,80,3351000,July 2024 through June 2025
+23,Union status,In a union,26,4208000,July 2024 through June 2025
+23,Union status,Not in a union,43,54978000,July 2024 through June 2025
+24,All workers,All workers,44,62897000,July 2024 through June 2025
+24,Race and ethnicity,Asian,33,3796000,July 2024 through June 2025
+24,Race and ethnicity,Black,54,10172000,July 2024 through June 2025
+24,Race and ethnicity,Hispanic,58,16636000,July 2024 through June 2025
+24,Race and ethnicity,White,38,31440000,July 2024 through June 2025
+24,Gender,Female,49,34253000,July 2024 through June 2025
+24,Gender,Male,38,28644000,July 2024 through June 2025
+24,Age group,Ages 16-24,81,15572000,July 2024 through June 2025
+24,Age group,Ages 25-34,43,14557000,July 2024 through June 2025
+24,Age group,Ages 35-44,34,11154000,July 2024 through June 2025
+24,Age group,Ages 45-54,34,9363000,July 2024 through June 2025
+24,Age group,Ages 55-64,36,8080000,July 2024 through June 2025
+24,Age group,Ages 65 and above,49,4172000,July 2024 through June 2025
+24,Annual family income,"Family income  $24,999 or less",76,6313000,July 2024 through June 2025
+24,Annual family income,"Family income  $25,000 - $49,999",73,15039000,July 2024 through June 2025
+24,Annual family income,"Family income  $50,000 - $74,999",54,12691000,July 2024 through June 2025
+24,Annual family income,"Family income  $75,000 - $99,999",44,9164000,July 2024 through June 2025
+24,Annual family income,"Family income $100,000 or more",28,19690000,July 2024 through June 2025
+24,Education,College or advanced degree,21,12372000,July 2024 through June 2025
+24,Education,High school diploma,61,22685000,July 2024 through June 2025
+24,Education,Less than high school diploma,83,8633000,July 2024 through June 2025
+24,Education,Some college,52,19207000,July 2024 through June 2025
+24,Firm size,Under 10 employees,60,10014000,July 2024 through June 2025
+24,Firm size,10 to 24 employees,55,11596000,July 2024 through June 2025
+24,Firm size,25 to 99 employees,47,4874000,July 2024 through June 2025
+24,Firm size,100 to 499 employees,39,6970000,July 2024 through June 2025
+24,Firm size,500 to 999 employees,38,3098000,July 2024 through June 2025
+24,Firm size,1000 or more employees,37,26011000,July 2024 through June 2025
+24,Industry,"Agriculture, forestry, fishing, and hunting",71,959000,July 2024 through June 2025
+24,Industry,Construction,39,3565000,July 2024 through June 2025
+24,Industry,Educational and health services,41,14467000,July 2024 through June 2025
+24,Industry,Financial activities,26,2490000,July 2024 through June 2025
+24,Industry,Information,27,664000,July 2024 through June 2025
+24,Industry,Leisure and hospitality,75,9567000,July 2024 through June 2025
+24,Industry,Manufacturing,37,5233000,July 2024 through June 2025
+24,Industry,Mining,24,132000,July 2024 through June 2025
+24,Industry,Other services,53,3214000,July 2024 through June 2025
+24,Industry,Professional and business services,31,5452000,July 2024 through June 2025
+24,Industry,Public administration,29,2298000,July 2024 through June 2025
+24,Industry,Transportation and utilities,43,3815000,July 2024 through June 2025
+24,Industry,Wholesale and retail trade,62,11041000,July 2024 through June 2025
+24,Occupation,Construction and extraction occupations,43,2959000,July 2024 through June 2025
+24,Occupation,"Farming, fishing, and forestry occupations",86,758000,July 2024 through June 2025
+24,Occupation,"Installation, maintenance, and repair occupations",34,1531000,July 2024 through June 2025
+24,Occupation,"Management, business, and financial occupations",17,4287000,July 2024 through June 2025
+24,Occupation,Office and administrative support occupations,56,8565000,July 2024 through June 2025
+24,Occupation,Production occupations,54,4089000,July 2024 through June 2025
+24,Occupation,Professional and related occupations,23,8465000,July 2024 through June 2025
+24,Occupation,Sales and related occupations,58,6786000,July 2024 through June 2025
+24,Occupation,Service occupations,76,18348000,July 2024 through June 2025
+24,Occupation,Transportation and material moving occupations,64,7110000,July 2024 through June 2025
+24,Part-time status,Works full-time,37,45169000,July 2024 through June 2025
+24,Part-time status,Works part-time,76,17728000,July 2024 through June 2025
+24,Private/public sector,Government employee,34,7394000,July 2024 through June 2025
+24,Private/public sector,Private-sector employee,45,55503000,July 2024 through June 2025
+24,Region,Midwest,45,13869000,July 2024 through June 2025
+24,Region,Northeast,39,9705000,July 2024 through June 2025
+24,Region,South,47,25812000,July 2024 through June 2025
+24,Region,West,40,13512000,July 2024 through June 2025
+24,Right-to-work,Non-right-to-work state,40,30080000,July 2024 through June 2025
+24,Right-to-work,Right-to-work state,48,32817000,July 2024 through June 2025
+24,State minimum wage,State minimum exceeds federal minimum,41,37023000,July 2024 through June 2025
+24,State minimum wage,State minimum follows federal minimum,48,25875000,July 2024 through June 2025
+24,Tipped occupation,Works in a non-tipped occupation,42,59471000,July 2024 through June 2025
+24,Tipped occupation,Works in a tipped occupation,82,3426000,July 2024 through June 2025
+24,Union status,In a union,29,4660000,July 2024 through June 2025
+24,Union status,Not in a union,45,58237000,July 2024 through June 2025
+25,All workers,All workers,46,66738000,July 2024 through June 2025
+25,Race and ethnicity,Asian,35,4083000,July 2024 through June 2025
+25,Race and ethnicity,Black,57,10722000,July 2024 through June 2025
+25,Race and ethnicity,Hispanic,61,17383000,July 2024 through June 2025
+25,Race and ethnicity,White,40,33666000,July 2024 through June 2025
+25,Gender,Female,52,36218000,July 2024 through June 2025
+25,Gender,Male,41,30520000,July 2024 through June 2025
+25,Age group,Ages 16-24,83,15945000,July 2024 through June 2025
+25,Age group,Ages 25-34,47,15659000,July 2024 through June 2025
+25,Age group,Ages 35-44,37,11976000,July 2024 through June 2025
+25,Age group,Ages 45-54,36,10126000,July 2024 through June 2025
+25,Age group,Ages 55-64,38,8661000,July 2024 through June 2025
+25,Age group,Ages 65 and above,51,4371000,July 2024 through June 2025
+25,Annual family income,"Family income  $24,999 or less",78,6464000,July 2024 through June 2025
+25,Annual family income,"Family income  $25,000 - $49,999",76,15608000,July 2024 through June 2025
+25,Annual family income,"Family income  $50,000 - $74,999",57,13539000,July 2024 through June 2025
+25,Annual family income,"Family income  $75,000 - $99,999",47,9851000,July 2024 through June 2025
+25,Annual family income,"Family income $100,000 or more",30,21276000,July 2024 through June 2025
+25,Education,College or advanced degree,23,13636000,July 2024 through June 2025
+25,Education,High school diploma,64,23861000,July 2024 through June 2025
+25,Education,Less than high school diploma,85,8850000,July 2024 through June 2025
+25,Education,Some college,56,20392000,July 2024 through June 2025
+25,Firm size,Under 10 employees,61,10256000,July 2024 through June 2025
+25,Firm size,10 to 24 employees,57,11942000,July 2024 through June 2025
+25,Firm size,25 to 99 employees,49,5126000,July 2024 through June 2025
+25,Firm size,100 to 499 employees,40,7253000,July 2024 through June 2025
+25,Firm size,500 to 999 employees,40,3268000,July 2024 through June 2025
+25,Firm size,1000 or more employees,39,27114000,July 2024 through June 2025
+25,Industry,"Agriculture, forestry, fishing, and hunting",74,999000,July 2024 through June 2025
+25,Industry,Construction,42,3838000,July 2024 through June 2025
+25,Industry,Educational and health services,44,15458000,July 2024 through June 2025
+25,Industry,Financial activities,29,2758000,July 2024 through June 2025
+25,Industry,Information,29,722000,July 2024 through June 2025
+25,Industry,Leisure and hospitality,77,9803000,July 2024 through June 2025
+25,Industry,Manufacturing,40,5659000,July 2024 through June 2025
+25,Industry,Mining,27,144000,July 2024 through June 2025
+25,Industry,Other services,56,3386000,July 2024 through June 2025
+25,Industry,Professional and business services,33,5830000,July 2024 through June 2025
+25,Industry,Public administration,32,2544000,July 2024 through June 2025
+25,Industry,Transportation and utilities,46,4092000,July 2024 through June 2025
+25,Industry,Wholesale and retail trade,65,11505000,July 2024 through June 2025
+25,Occupation,Construction and extraction occupations,47,3181000,July 2024 through June 2025
+25,Occupation,"Farming, fishing, and forestry occupations",88,777000,July 2024 through June 2025
+25,Occupation,"Installation, maintenance, and repair occupations",38,1703000,July 2024 through June 2025
+25,Occupation,"Management, business, and financial occupations",19,4890000,July 2024 through June 2025
+25,Occupation,Office and administrative support occupations,59,9102000,July 2024 through June 2025
+25,Occupation,Production occupations,57,4355000,July 2024 through June 2025
+25,Occupation,Professional and related occupations,25,9306000,July 2024 through June 2025
+25,Occupation,Sales and related occupations,60,7078000,July 2024 through June 2025
+25,Occupation,Service occupations,78,18901000,July 2024 through June 2025
+25,Occupation,Transportation and material moving occupations,67,7445000,July 2024 through June 2025
+25,Part-time status,Works full-time,40,48736000,July 2024 through June 2025
+25,Part-time status,Works part-time,77,18003000,July 2024 through June 2025
+25,Private/public sector,Government employee,37,8053000,July 2024 through June 2025
+25,Private/public sector,Private-sector employee,48,58685000,July 2024 through June 2025
+25,Region,Midwest,48,14733000,July 2024 through June 2025
+25,Region,Northeast,41,10352000,July 2024 through June 2025
+25,Region,South,50,27280000,July 2024 through June 2025
+25,Region,West,43,14373000,July 2024 through June 2025
+25,Right-to-work,Non-right-to-work state,42,32043000,July 2024 through June 2025
+25,Right-to-work,Right-to-work state,51,34695000,July 2024 through June 2025
+25,State minimum wage,State minimum exceeds federal minimum,44,39373000,July 2024 through June 2025
+25,State minimum wage,State minimum follows federal minimum,51,27365000,July 2024 through June 2025
+25,Tipped occupation,Works in a non-tipped occupation,45,63246000,July 2024 through June 2025
+25,Tipped occupation,Works in a tipped occupation,84,3492000,July 2024 through June 2025
+25,Union status,In a union,32,5115000,July 2024 through June 2025
+25,Union status,Not in a union,48,61624000,July 2024 through June 2025

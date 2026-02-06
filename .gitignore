@@ -10,3 +10,6 @@ docs/
 
 cps_*.dat.gz
 cps_*.xml
+
+.vscode/
+/archive/
