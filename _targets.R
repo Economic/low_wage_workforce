@@ -31,7 +31,7 @@ tar_assign({
   main_results = compute_main_results(org_clean, asec_data) |>
     tar_target()
 
-  low_wage_data_csv = write_main_csv(main_results) |>
+  low_wage_data_csv = write_results_csv(main_results, "low_wage_data.csv") |>
     tar_file()
 
   # --- historical pipeline ---
@@ -39,7 +39,10 @@ tar_assign({
   historical_results = compute_historical_results(org_clean) |>
     tar_target()
 
-  low_wage_data_historical_csv = write_historical_csv(historical_results) |>
+  low_wage_data_historical_csv = write_results_csv(
+    historical_results,
+    "low_wage_data_historical.csv"
+  ) |>
     tar_file()
 
   # --- state pipeline ---
@@ -47,6 +50,9 @@ tar_assign({
   state_results = compute_state_results(org_raw_states, mw_file) |>
     tar_target()
 
-  low_wage_data_states_csv = write_states_csv(state_results) |>
+  low_wage_data_states_csv = write_results_csv(
+    state_results,
+    "low_wage_data_states.csv"
+  ) |>
     tar_file()
 })

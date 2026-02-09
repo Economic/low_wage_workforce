@@ -9,75 +9,92 @@ summarize_data = function(data, ...) {
   )
 }
 
+create_main_slice = function(
+  threshold,
+  org_clean,
+  min_date,
+  max_date,
+  asec_data
+) {
+  org_source = org_clean |>
+    filter(month_date >= min_date & month_date <= max_date) |>
+    mutate(low_wage = hourly_wage < threshold)
+
+  org_percentile = org_source |>
+    summarize(weighted.mean(low_wage, w = orgwgt)) |>
+    pull()
+
+  org_total = org_source |>
+    summarize(sum(orgwgt)) |>
+    pull()
+
+  # Firm-size breakdowns come from the ASEC (which has firm-size data the ORG
+  # lacks). To make the ASEC results comparable to the ORG:
+  #   1. Reweight ASEC observations so total weight matches the ORG total
+  #   2. Find the ASEC wage at the same percentile as the ORG low-wage share
+  #      (quantile matching), so the ASEC threshold corresponds to the same
+  #      population fraction despite differences in the two wage distributions
+  #   3. Classify ASEC workers as low-wage using this matched threshold
+  asec_results = asec_data |>
+    mutate(orgwgt = asecwt * org_total / sum(asecwt)) |>
+    mutate(
+      wage_threshold = weighted_quantile(
+        wage,
+        w = orgwgt,
+        p = org_percentile
+      )
+    ) |>
+    mutate(low_wage = wage < wage_threshold) |>
+    summarize_data(firmsize)
+
+  org_source |>
+    summarize_data(
+      all |
+        wbhao |
+        female |
+        union |
+        part_time |
+        educ_group |
+        age_group |
+        above_fedmw |
+        region |
+        tipped |
+        public |
+        faminc_group |
+        mind03 |
+        mocc03 |
+        statefips |
+        rtw_state
+    ) |>
+    bind_rows(asec_results) |>
+    mutate(
+      dates = paste(
+        format(min_date, "%B %Y"),
+        "through",
+        format(max_date, "%B %Y")
+      )
+    ) |>
+    mutate(low_wage_threshold = threshold)
+}
+
 compute_main_results = function(org_clean, asec_data) {
   max_date = org_clean |>
     summarize(max(month_date)) |>
     pull()
   min_date = max_date - months(11)
 
-  create_slice = function(threshold) {
-    org_source = org_clean |>
-      filter(month_date >= min_date & month_date <= max_date) |>
-      mutate(low_wage = hourly_wage < threshold)
-
-    org_percentile = org_source |>
-      summarize(weighted.mean(low_wage, w = orgwgt)) |>
-      pull()
-
-    org_total = org_source |>
-      summarize(sum(orgwgt)) |>
-      pull()
-
-    # Firm-size breakdowns come from the ASEC (which has firm-size data the ORG
-    # lacks). To make the ASEC results comparable to the ORG:
-    #   1. Reweight ASEC observations so total weight matches the ORG total
-    #   2. Find the ASEC wage at the same percentile as the ORG low-wage share
-    #      (quantile matching), so the ASEC threshold corresponds to the same
-    #      population fraction despite differences in the two wage distributions
-    #   3. Classify ASEC workers as low-wage using this matched threshold
-    asec_results = asec_data |>
-      mutate(orgwgt = asecwt * org_total / sum(asecwt)) |>
-      mutate(
-        wage_threshold = weighted_quantile(
-          wage,
-          w = orgwgt,
-          p = org_percentile
-        )
-      ) |>
-      mutate(low_wage = wage < wage_threshold) |>
-      summarize_data(firmsize)
-
-    org_source |>
-      summarize_data(
-        all |
-          wbhao |
-          female |
-          union |
-          part_time |
-          educ_group |
-          age_group |
-          above_fedmw |
-          region |
-          tipped |
-          public |
-          faminc_group |
-          mind03 |
-          mocc03 |
-          statefips |
-          rtw_state
-      ) |>
-      bind_rows(asec_results) |>
-      mutate(
-        dates = paste(
-          format(min_date, "%B %Y"),
-          "through",
-          format(max_date, "%B %Y")
-        )
-      ) |>
-      mutate(low_wage_threshold = threshold)
-  }
-
-  results = map_dfr(wage_thresholds, create_slice) |>
+  results = map_dfr(
+    wage_thresholds,
+    \(threshold) {
+      create_main_slice(
+        threshold,
+        org_clean,
+        min_date,
+        max_date,
+        asec_data
+      )
+    }
+  ) |>
     filter(
       group_value_label != "Other",
       group_value_label != "Armed Forces"

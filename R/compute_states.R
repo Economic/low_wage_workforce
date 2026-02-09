@@ -1,5 +1,32 @@
 ## Compute state-level low-wage workforce results
 
+create_states_slice = function(
+  threshold,
+  org_clean,
+  min_date,
+  max_date,
+  state_wage_earners
+) {
+  org_clean |>
+    mutate(low_wage = hourly_wage < threshold) |>
+    summarize(
+      low_wage_share = weighted.mean(low_wage, w = orgwgt),
+      obs_count = n(),
+      .by = statefips
+    ) |>
+    inner_join(state_wage_earners, by = "statefips") |>
+    mutate(
+      low_wage_count = round(low_wage_share * total_wage_earners / 1000) *
+        1000,
+      low_wage_threshold = threshold,
+      dates = paste(
+        format(min_date, "%B %Y"),
+        "through",
+        format(max_date, "%B %Y")
+      ),
+    )
+}
+
 compute_state_results = function(org_raw_states, mw_file) {
   max_date = org_raw_states |>
     summarize(max(month_date)) |>
@@ -18,28 +45,18 @@ compute_state_results = function(org_raw_states, mw_file) {
 
   state_mw_current = load_state_minimum_wages(mw_file, max_date)
 
-  create_slice = function(threshold) {
-    org_clean |>
-      mutate(low_wage = hourly_wage < threshold) |>
-      summarize(
-        low_wage_share = weighted.mean(low_wage, w = orgwgt),
-        obs_count = n(),
-        .by = statefips
-      ) |>
-      inner_join(state_wage_earners, by = "statefips") |>
-      mutate(
-        low_wage_count = round(low_wage_share * total_wage_earners / 1000) *
-          1000,
-        low_wage_threshold = threshold,
-        dates = paste(
-          format(min_date, "%B %Y"),
-          "through",
-          format(max_date, "%B %Y")
-        ),
+  results = map_dfr(
+    wage_thresholds,
+    \(threshold) {
+      create_states_slice(
+        threshold,
+        org_clean,
+        min_date,
+        max_date,
+        state_wage_earners
       )
-  }
-
-  results = map_dfr(wage_thresholds, create_slice) |>
+    }
+  ) |>
     mutate(state_abb = as.character(as_factor(statefips))) |>
     inner_join(state_mw_current, by = "state_abb") |>
     # Mask share and count as NA when the wage threshold is less than the
