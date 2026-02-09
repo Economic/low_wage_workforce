@@ -13,6 +13,7 @@ library(janitor)
 library(scales)
 library(slider)
 library(MetricsWeighted)
+library(assertr)
 library(ipumsr)
 library(fs)
 

@@ -57,7 +57,8 @@ mw_file ──► (joined into state_results)
 _targets.R              # targets pipeline definition
 packages.R              # library() calls and conflict resolution
 R/
-  constants.R           # wage thresholds, state lists, category labels, tipped occupation codes
+  helpers.R             # verify_n_months(): assert data months match expected given missing_months
+  constants.R           # wage thresholds, state lists, category labels, tipped occupation codes, missing_months
   load_data.R           # load_org_data(), load_org_states_data(), load_state_minimum_wages()
   clean_data.R          # clean_org_data(): label demographic/job categories
   compute_main.R        # compute_main_results(): shares/counts by category and threshold

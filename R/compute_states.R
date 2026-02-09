@@ -33,11 +33,16 @@ compute_state_results = function(org_raw_states, mw_file) {
     pull()
   min_date = max_date - months(11)
 
+  org_in_window = org_raw_states |>
+    filter(month_date >= min_date & month_date <= max_date)
+
+  n_months = n_distinct(org_in_window$month_date)
+  verify_n_months(n_months, min_date, max_date)
+
   # keep imputed wages when calculating total wage earning population by state
-  state_wage_earners = org_raw_states |>
-    filter(month_date >= min_date & month_date <= max_date) |>
+  state_wage_earners = org_in_window |>
     filter(wageotc > 0) |>
-    summarize(total_wage_earners = sum(orgwgt / 12), .by = statefips)
+    summarize(total_wage_earners = sum(orgwgt / n_months), .by = statefips)
 
   # use non-imputed wages for shares
   org_clean = org_raw_states |>

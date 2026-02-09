@@ -24,8 +24,7 @@ load_org_data = function(dummy) {
   ) |>
     mutate(hourly_wage = wageotc) |>
     filter(hourly_wage > 0) |>
-    mutate(month_date = ym(paste(year, month))) |>
-    filter(month_date <= ym("2025 June"))
+    mutate(month_date = ym(paste(year, month)))
 }
 
 load_org_states_data = function(dummy) {
@@ -53,8 +52,7 @@ load_org_states_data = function(dummy) {
         .default = hourly_wage
       )
     ) |>
-    mutate(month_date = ym(paste(year, month))) |>
-    filter(month_date <= ym("2025 June"))
+    mutate(month_date = ym(paste(year, month)))
 }
 
 load_state_minimum_wages = function(file_path, max_date) {

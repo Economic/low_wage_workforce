@@ -5,7 +5,7 @@ summarize_data = function(data, ...) {
     data,
     ...,
     low_wage_share = weighted.mean(low_wage, w = orgwgt),
-    low_wage_count = round(sum(low_wage * orgwgt / 12) / 1000) * 1000
+    low_wage_count = sum(low_wage * orgwgt)
   )
 }
 
@@ -14,10 +14,10 @@ create_main_slice = function(
   org_clean,
   min_date,
   max_date,
-  asec_data
+  asec_data,
+  n_months
 ) {
   org_source = org_clean |>
-    filter(month_date >= min_date & month_date <= max_date) |>
     mutate(low_wage = hourly_wage < threshold)
 
   org_percentile = org_source |>
@@ -67,6 +67,7 @@ create_main_slice = function(
         rtw_state
     ) |>
     bind_rows(asec_results) |>
+    mutate(low_wage_count = round(low_wage_count / n_months / 1000) * 1000) |>
     mutate(
       dates = paste(
         format(min_date, "%B %Y"),
@@ -83,6 +84,12 @@ compute_main_results = function(org_clean, asec_data) {
     pull()
   min_date = max_date - months(11)
 
+  org_clean = org_clean |>
+    filter(month_date >= min_date & month_date <= max_date)
+
+  n_months = n_distinct(org_clean$month_date)
+  verify_n_months(n_months, min_date, max_date)
+
   results = map_dfr(
     wage_thresholds,
     \(threshold) {
@@ -91,7 +98,8 @@ compute_main_results = function(org_clean, asec_data) {
         org_clean,
         min_date,
         max_date,
-        asec_data
+        asec_data,
+        n_months
       )
     }
   ) |>

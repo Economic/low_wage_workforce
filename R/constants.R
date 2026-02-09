@@ -2,6 +2,9 @@
 
 wage_thresholds = 10:25
 
+# Months with missing CPS ORG data (used only for verification in helpers.R)
+missing_months = ym("2025 October")
+
 # Firm-size categories in display order (used for sorting in compute_main.R)
 firmsize_display_order = c(
   "Under 10 employees",

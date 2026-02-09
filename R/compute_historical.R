@@ -12,7 +12,12 @@ summarize_history = function(df, org_count) {
     pivot_longer(c(share, count)) |>
     arrange(name, month_date) |>
     mutate(
-      value_12m = slide_mean(value, before = 11, complete = TRUE),
+      value_12m = slide_index_mean(
+        value,
+        i = month_date,
+        before = months(11),
+        complete = TRUE
+      ),
       .by = name
     )
 }
@@ -50,6 +55,12 @@ compute_historical_results = function(org_clean) {
     pull()
   min_date = max_date - months(11)
 
+  org_in_window = org_clean |>
+    filter(month_date >= min_date & month_date <= max_date)
+
+  n_months = n_distinct(org_in_window$month_date)
+  verify_n_months(n_months, min_date, max_date)
+
   cpi_data = c_cpi_u_extended_monthly_sa |>
     mutate(month_date = ym(paste(year, month))) |>
     select(month_date, cpi_u = c_cpi_u_extended)
@@ -60,9 +71,8 @@ compute_historical_results = function(org_clean) {
 
   cpi_base_date = format(max_date, "%B %Y")
 
-  org_count = org_clean |>
-    filter(month_date >= min_date & month_date <= max_date) |>
-    summarize(sum(orgwgt / 12)) |>
+  org_count = org_in_window |>
+    summarize(sum(orgwgt / n_months)) |>
     pull()
 
   map_dfr(
