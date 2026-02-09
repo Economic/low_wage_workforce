@@ -13,3 +13,6 @@ cps_*.xml
 
 .vscode/
 /archive/
+/_targets/
+/plans/
+/current/

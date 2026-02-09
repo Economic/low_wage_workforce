@@ -2,6 +2,11 @@
 
 Data pipeline for the EPI Low Wage Workforce Tracker: https://www.epi.org/low-wage-workforce/
 
+## Workflow rules
+
+- **Always run `targets::tar_make()`** after any changes to code or input files, and verify it completes without errors.
+- **Always keep this CLAUDE.md up to date** when the project structure, files, dependencies, or workflow changes.
+
 ## Project overview
 
 The tracker is a Wordpress page containing three Observable notebooks.
@@ -13,32 +18,54 @@ This project produces CSV data files that power the notebooks:
 
 To deploy, upload the relevant CSV outputs to those Observable notebooks.
 
-## R scripts
+## Pipeline
 
-### `low_wage_data.R` (main script)
-Produces `low_wage_data.csv` and `low_wage_data_historical.csv`.
+This project uses a `targets` pipeline (`_targets.R`). Run with `targets::tar_make()`.
 
-- Loads CPS Outgoing Rotation Group (ORG) microdata via `epiextractr::load_org()`
-- Uses a rolling 12-month window ending at the most recent available month
-- For each wage threshold ($10-$25), computes the share and count of workers earning below that threshold, broken out by demographic and job categories: race/ethnicity, gender, age, education, union status, part-time status, region, state minimum wage policy, right-to-work status, tipped occupation, public/private sector, family income, industry, occupation, and firm size
-- Firm size data comes from a separate ASEC extract (`asec_2022_wage_firmsize.feather`), reweighted to match the ORG totals
-- Historical data computes monthly time series (with 12-month rolling averages) of low-wage shares and counts, in both nominal and real (CPI-adjusted) dollars
+The pipeline has three independent branches off shared upstream targets:
 
-### `low_wage_data_states.R` (state script)
-Produces `low_wage_data_states.csv`.
+```
+org_raw ──► org_clean ──┬──► main_results ──► low_wage_data_csv
+                        │
+                        └──► historical_results ──► low_wage_data_historical_csv
 
-- Loads CPS ORG data for recent years
-- Filters out imputed wages for share calculations but includes them for total wage earner counts
-- Joins state-level minimum wage data from `mw_projections_20250315_state.csv`
-- Sets share/count to NA when the wage threshold is below the state minimum wage + $1
-- Outputs state-by-threshold results
+org_raw_states ──► state_results ──► low_wage_data_states_csv
 
-### `asec_firmsize.R` (ASEC extract)
-Produces `asec_2022_wage_firmsize.feather`.
+asec_data ──► (joined into main_results)
+mw_file ──► (joined into state_results)
+```
 
-- Downloads a CPS ASEC extract from IPUMS with firm size data
-- Computes hourly wages from annual earnings, weeks worked, and usual hours
-- This is a one-time extract; the feather file is gitignored
+### Targets
+
+| Target | Description |
+|--------|-------------|
+| `org_raw` | CPS ORG microdata (2009-2025), stored as parquet |
+| `org_raw_states` | CPS ORG microdata for states (2023-2025), with imputation flags, stored as parquet |
+| `asec_data` | ASEC firm-size extract, read from `asec_2022_wage_firmsize.feather` |
+| `mw_file` | Tracked input file: `mw_projections_state.csv` |
+| `org_clean` | Cleaned/labelled ORG data with demographic and job categories, stored as parquet |
+| `main_results` | Shares and counts by category and wage threshold ($10-$25) |
+| `historical_results` | Monthly time series of low-wage shares and counts (nominal and real) |
+| `state_results` | State-level shares and counts by threshold |
+| `low_wage_data_csv` | Writes `low_wage_data.csv` |
+| `low_wage_data_historical_csv` | Writes `low_wage_data_historical.csv` |
+| `low_wage_data_states_csv` | Writes `low_wage_data_states.csv` |
+
+## Project structure
+
+```
+_targets.R              # targets pipeline definition
+packages.R              # library() calls and conflict resolution
+R/
+  constants.R           # wage thresholds, state lists, category labels, tipped occupation codes
+  load_data.R           # load_org_data(), load_org_states_data(), load_state_minimum_wages()
+  clean_data.R          # clean_org_data(): label demographic/job categories
+  compute_main.R        # compute_main_results(): shares/counts by category and threshold
+  compute_historical.R  # compute_historical_results(): monthly time series with CPI adjustment
+  compute_states.R      # compute_state_results(): state-level shares/counts
+  write_outputs.R       # write_main_csv(), write_historical_csv(), write_states_csv()
+  asec_firmsize.R       # clean_asec_firmsize(): one-time IPUMS ASEC extract (not in pipeline)
+```
 
 ## Data outputs
 
@@ -48,15 +75,24 @@ Produces `asec_2022_wage_firmsize.feather`.
 | `low_wage_data_historical.csv` | Monthly time series of shares and counts | low-wage-workforce-historical |
 | `low_wage_data_states.csv` | State-level shares and counts by threshold | low-wage-workforce-states |
 
+## Input files
+
+- `asec_2022_wage_firmsize.feather`: ASEC firm-size extract (gitignored; regenerate with `clean_asec_firmsize()` in `R/asec_firmsize.R`)
+- `mw_projections_state.csv`: State minimum wage projections
+
 ## Key dependencies
 
 - `epiextractr` / `epidatatools`: EPI's R packages for loading CPS microdata
 - `realtalk`: CPI price deflators (provides `c_cpi_u_extended_monthly_sa`)
 - `haven`: Stata-style labelled vectors
-- `ipumsr`: IPUMS extract API (used only in `asec_firmsize.R`)
+- `ipumsr`: IPUMS extract API (used only in `R/asec_firmsize.R`)
 - `slider`: Rolling window calculations for historical time series
+- `arrow`: Parquet storage for intermediate targets and feather I/O
+- `janitor`: Column name cleaning
+- `MetricsWeighted`: Weighted quantiles for ASEC firm-size threshold matching
 
 ## Other files
 
-- `mw_projections_20250315_state.csv`: State minimum wage projections (input to state script)
-- `archive/`: Contains an older version of the project (previously a Quarto site)
+- `archive/`: Older version of the project (previously a Quarto site)
+- `_targets/`: Pipeline cache (gitignored)
+- `.env`: Environment variables including `BLS_API_KEY` (gitignored)
