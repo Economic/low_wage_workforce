@@ -39,13 +39,13 @@ mw_file ──► (joined into state_results)
 
 | Target | Description |
 |--------|-------------|
-| `org_raw` | CPS ORG microdata (2009-2025), stored as parquet |
-| `org_raw_states` | CPS ORG microdata for states (2023-2025), with imputation flags, stored as parquet |
+| `org_raw` | CPS ORG microdata (2009-present), stored as parquet. Main/historical results derive from this; main shares/counts use only the most recent 12 months (windowed in `compute_main_results`). |
+| `org_raw_states` | CPS ORG microdata for states (2009-present), with imputation flags, stored as parquet. Shares/counts use only the most recent 12 months (windowed in `compute_state_results`). |
 | `asec_data` | ASEC firm-size extract, read from `asec_2022_wage_firmsize.feather` |
-| `mw_file` | Tracked input file: `mw_projections_state.csv` |
+| `mw_file` | Tracked input file: `state_mw_projections.csv` |
 | `org_clean` | Cleaned/labelled ORG data with demographic and job categories, stored as parquet |
 | `main_results` | Shares and counts by category and wage threshold ($10-$25) |
-| `historical_results` | Monthly time series of low-wage shares and counts (nominal and real) |
+| `historical_results` | Monthly time series of low-wage shares and counts (nominal and real). Shares exclude CPS-imputed wages (via `mask_imputed_wages()`); counts use the full-population denominator. |
 | `state_results` | State-level shares and counts by threshold |
 | `low_wage_data_csv` | Writes `low_wage_data.csv` |
 | `low_wage_data_historical_csv` | Writes `low_wage_data_historical.csv` |
@@ -57,7 +57,7 @@ mw_file ──► (joined into state_results)
 _targets.R              # targets pipeline definition
 packages.R              # library() calls and conflict resolution
 R/
-  helpers.R             # verify_n_months(): assert data months match expected given missing_months
+  helpers.R             # shared across all three pipelines: verify_n_months() (assert month count vs missing_months), latest_12m_window() (restrict to most recent 12 months + verify), format_date_range() ("Month YYYY through Month YYYY" label), mask_imputed_wages() (set CPS-imputed hourly wages to NA)
   constants.R           # wage thresholds, state lists, category labels, tipped occupation codes, missing_months
   load_data.R           # load_org_data(), load_org_states_data(), load_state_minimum_wages()
   clean_data.R          # clean_org_data(): label demographic/job categories
@@ -79,7 +79,7 @@ R/
 ## Input files
 
 - `asec_2022_wage_firmsize.feather`: ASEC firm-size extract (gitignored; regenerate with `clean_asec_firmsize()` in `R/asec_firmsize.R`)
-- `mw_projections_state.csv`: State minimum wage projections
+- `state_mw_projections.csv`: State minimum wage projections (long format; `regular_mw` is joined by matching the `date` column to the latest ORG data month)
 
 ## Key dependencies
 

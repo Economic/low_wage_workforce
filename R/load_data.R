@@ -1,8 +1,8 @@
 ## Functions for loading CPS ORG data and state minimum wage data
 
-load_org_data = function(dummy) {
+load_org_data = function(epi_cps_org_files) {
   load_org(
-    2009:2025,
+    epi_cps_org_files,
     year,
     month,
     orgwgt,
@@ -20,16 +20,18 @@ load_org_data = function(dummy) {
     cow1,
     faminc,
     union,
-    ftptstat
+    ftptstat,
+    matches("a_"),
+    paidhre
   ) |>
     mutate(hourly_wage = wageotc) |>
     filter(hourly_wage > 0) |>
     mutate(month_date = ym(paste(year, month)))
 }
 
-load_org_states_data = function(dummy) {
+load_org_states_data = function(epi_cps_org_files) {
   load_org(
-    2023:2025,
+    epi_cps_org_files,
     year,
     month,
     orgwgt,
@@ -45,29 +47,16 @@ load_org_states_data = function(dummy) {
     #     per state (the denominator for low-wage counts)
     # The a_earnhour and a_weekpay flags indicate CPS wage imputation.
     mutate(hourly_wage = wageotc) |>
-    mutate(
-      hourly_wage = case_when(
-        a_earnhour == 1 & paidhre == 1 ~ NA,
-        a_weekpay == 1 & paidhre == 0 ~ NA,
-        .default = hourly_wage
-      )
-    ) |>
+    mask_imputed_wages() |>
     mutate(month_date = ym(paste(year, month)))
 }
 
 load_state_minimum_wages = function(file_path, max_date) {
   read_csv(file_path) |>
     clean_names() |>
-    mutate(notes = my(notes)) |>
-    filter(notes == max_date) |>
-    select(-cpi_value, -notes, -us) |>
-    pivot_longer(
-      everything(),
-      names_to = "state_abb",
-      values_to = "state_mw"
-    ) |>
-    mutate(
-      state_abb = str_to_upper(state_abb),
-      state_mw = as.numeric(str_replace(state_mw, "\\$", ""))
+    filter(date == max_date) |>
+    transmute(
+      state_abb = str_to_upper(state),
+      state_mw = as.numeric(regular_mw)
     )
 }

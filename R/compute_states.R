@@ -19,33 +19,24 @@ create_states_slice = function(
       low_wage_count = round(low_wage_share * total_wage_earners / 1000) *
         1000,
       low_wage_threshold = threshold,
-      dates = paste(
-        format(min_date, "%B %Y"),
-        "through",
-        format(max_date, "%B %Y")
-      ),
+      dates = format_date_range(min_date, max_date),
     )
 }
 
 compute_state_results = function(org_raw_states, mw_file) {
-  max_date = org_raw_states |>
-    summarize(max(month_date)) |>
-    pull()
-  min_date = max_date - months(11)
-
-  org_in_window = org_raw_states |>
-    filter(month_date >= min_date & month_date <= max_date)
-
-  n_months = n_distinct(org_in_window$month_date)
-  verify_n_months(n_months, min_date, max_date)
+  window = latest_12m_window(org_raw_states)
+  org_in_window = window$data
+  min_date = window$min_date
+  max_date = window$max_date
+  n_months = window$n_months
 
   # keep imputed wages when calculating total wage earning population by state
   state_wage_earners = org_in_window |>
     filter(wageotc > 0) |>
     summarize(total_wage_earners = sum(orgwgt / n_months), .by = statefips)
 
-  # use non-imputed wages for shares
-  org_clean = org_raw_states |>
+  # use non-imputed wages for shares, restricted to the same 12-month window
+  org_clean = org_in_window |>
     filter(hourly_wage > 0)
 
   state_mw_current = load_state_minimum_wages(mw_file, max_date)

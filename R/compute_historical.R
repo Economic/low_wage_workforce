@@ -50,16 +50,10 @@ create_historical_slice = function(
 }
 
 compute_historical_results = function(org_clean) {
-  max_date = org_clean |>
-    summarize(max(month_date)) |>
-    pull()
-  min_date = max_date - months(11)
-
-  org_in_window = org_clean |>
-    filter(month_date >= min_date & month_date <= max_date)
-
-  n_months = n_distinct(org_in_window$month_date)
-  verify_n_months(n_months, min_date, max_date)
+  window = latest_12m_window(org_clean)
+  org_in_window = window$data
+  max_date = window$max_date
+  n_months = window$n_months
 
   cpi_data = c_cpi_u_extended_monthly_sa |>
     mutate(month_date = ym(paste(year, month))) |>
@@ -71,9 +65,17 @@ compute_historical_results = function(org_clean) {
 
   cpi_base_date = format(max_date, "%B %Y")
 
+  # Count denominator: all wage earners in the window (imputed included), so it
+  # matches the count basis used by the main pipeline.
   org_count = org_in_window |>
     summarize(sum(orgwgt / n_months)) |>
     pull()
+
+  # Shares: exclude CPS-imputed wages, consistent with the main and state
+  # pipelines. Done after org_count so the denominator stays full-population.
+  org_clean = org_clean |>
+    mask_imputed_wages() |>
+    filter(hourly_wage > 0)
 
   map_dfr(
     wage_thresholds,

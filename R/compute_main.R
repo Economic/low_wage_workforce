@@ -17,15 +17,18 @@ create_main_slice = function(
   asec_data,
   n_months
 ) {
+  org_total = org_clean |>
+    summarize(sum(orgwgt)) |>
+    pull()
+
   org_source = org_clean |>
+    mask_imputed_wages() |>
+    filter(hourly_wage > 0) |>
+    mutate(orgwgt = orgwgt * org_total / sum(orgwgt)) |>
     mutate(low_wage = hourly_wage < threshold)
 
   org_percentile = org_source |>
     summarize(weighted.mean(low_wage, w = orgwgt)) |>
-    pull()
-
-  org_total = org_source |>
-    summarize(sum(orgwgt)) |>
     pull()
 
   # Firm-size breakdowns come from the ASEC (which has firm-size data the ORG
@@ -68,27 +71,16 @@ create_main_slice = function(
     ) |>
     bind_rows(asec_results) |>
     mutate(low_wage_count = round(low_wage_count / n_months / 1000) * 1000) |>
-    mutate(
-      dates = paste(
-        format(min_date, "%B %Y"),
-        "through",
-        format(max_date, "%B %Y")
-      )
-    ) |>
+    mutate(dates = format_date_range(min_date, max_date)) |>
     mutate(low_wage_threshold = threshold)
 }
 
 compute_main_results = function(org_clean, asec_data) {
-  max_date = org_clean |>
-    summarize(max(month_date)) |>
-    pull()
-  min_date = max_date - months(11)
-
-  org_clean = org_clean |>
-    filter(month_date >= min_date & month_date <= max_date)
-
-  n_months = n_distinct(org_clean$month_date)
-  verify_n_months(n_months, min_date, max_date)
+  window = latest_12m_window(org_clean)
+  org_clean = window$data
+  min_date = window$min_date
+  max_date = window$max_date
+  n_months = window$n_months
 
   results = map_dfr(
     wage_thresholds,
